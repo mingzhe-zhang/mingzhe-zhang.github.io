@@ -1,12 +1,12 @@
 ---
-title: "Publications ([Google Scholar](https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en)/[DBLP](https://dblp.uni-trier.de/pers/hd/z/Zhang:Mingzhe))"
+title: "Publications ([Google Scholar](https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en), [DBLP](https://dblp.uni-trier.de/pers/hd/z/Zhang:Mingzhe))"
 permalink: /publications/
 author_profile: true
 ---
 
 # Conference
 ## 2019
-[C16] <b>[Self-adaptive Address Mapping Mechanism for Access Pattern Awareness on DRAM]()</b><br>
+[C16] <b>[Self-adaptive Address Mapping Mechanism for Access Pattern Awareness on DRAM](../_publications/ISPA2019)</b><br>
 Chundian Li, <b>Mingzhe Zhang</b>, Zhiwei Xu, Xianhe Sun.
 <i>17th IEEE International Symposium on Parallel and Distributed Processing with Applications</i>. <b>ISPA 2019</b>.
 
