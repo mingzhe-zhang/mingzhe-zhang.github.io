@@ -6,7 +6,7 @@ author_profile: true
 
 # Conference
 ## 2019
-[C16] <b>[Self-adaptive Address Mapping Mechanism for Access Pattern Awareness on DRAM](../_publications/ISPA2019)</b><br>
+[C16] <b>[Self-adaptive Address Mapping Mechanism for Access Pattern Awareness on DRAM](../publications/ISPA2019)</b><br>
 Chundian Li, <b>Mingzhe Zhang</b>, Zhiwei Xu, Xianhe Sun.
 <i>17th IEEE International Symposium on Parallel and Distributed Processing with Applications</i>. <b>ISPA 2019</b>.
 
