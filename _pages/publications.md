@@ -3,7 +3,7 @@ title: "Publications ([Google Scholar](https://scholar.google.com/citations?user
 permalink: /publications/
 author_profile: true
 ---
-
+<br>
 # Conference
 ## 2019
 [C16] <b>[Self-adaptive Address Mapping Mechanism for Access Pattern Awareness on DRAM](../publications/ISPA2019)</b><br>
