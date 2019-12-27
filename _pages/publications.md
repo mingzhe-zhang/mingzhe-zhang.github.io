@@ -31,26 +31,26 @@ Farzaneh Zokaee, <b>Mingzhe Zhang</b>, Xiaochun Ye, Dongrui Fan, Lei Jiang.
 <i>2019 Proceedings of the 56th Annual Design Automation Conference</i>. <b>DAC 2019</b>.
 
 ## 2018
-[C10] <b>[Mmalloc: A Dynamic Memory Management on Many-core Coprocessor for the Acceleration of Storage-intensive Bioinformatics Application]()</b><br>
+[C10] <b>[Mmalloc: A Dynamic Memory Management on Many-core Coprocessor for the Acceleration of Storage-intensive Bioinformatics Application](../publications/BIBM2018)</b><br>
 Zihao Wang, <b>Mingzhe Zhang</b>, Jingrong Zhang, Rui Yan, Xiaohua Wan, Zhiyong Liu, Fa Zhang, Xuefeng Cui.
 <i>2018 IEEE International Conference on Bioinformatics and Biomedicine</i>. <b>BIBM 2018</b>.
 
 ## 2017
-[C09] <b>[Quick-and-Dirty: Improving Performance of MLC PCM by Using Temporary Short Writes]()</b><br>
+[C09] <b>[Quick-and-Dirty: Improving Performance of MLC PCM by Using Temporary Short Writes](../publications/ICCD2017)</b><br>
 <b>Mingzhe Zhang</b>, Lunkai Zhang, Lei Jiang, Frederic T Chong, Zhiyong Liu.
 <i>35th IEEE International Conference on Computer Design</i>. <b>ICCD 2017</b>.
 
-[C08] <b>[Balancing performance and lifetime of MLC PCM by using a region retention monitor]()</b><br>
+[C08] <b>[Balancing performance and lifetime of MLC PCM by using a region retention monitor](../publications/HPCA2017)</b><br>
 <b>Mingzhe Zhang</b>, Lunkai Zhang, Lei Jiang, Zhiyong Liu, Frederic T Chong.
 <i>2017 IEEE International Symposium on High Performance Computer Architecture</i>. <b>HPCA 2017</b>.
 
 ## 2016
-[C07] <b>[COMRANCE: A rapid method for Network-on-Chip design space exploration]()</b><br>
+[C07] <b>[COMRANCE: A rapid method for Network-on-Chip design space exploration](../publications/IGSC2016)</b><br>
 <b>Mingzhe Zhang</b>, Yangguang Shi, Fa Zhang, Zhiyong Liu.
 <i>2016 The 7th International Green and Sustainable Computing Conference</i>. <b>IGSC 2016</b>.
 
 ## 2014
-[C06] <b>[SpongeDirectory: Flexible sparse directories utilizing multi-level memristors]()</b><br>
+[C06] <b>[SpongeDirectory: Flexible sparse directories utilizing multi-level memristors](../publications/PACT2014)</b><br>
 Lunkai Zhang, Dmitri Strukov, Hebatallah Saadeldeen, Dongrui Fan, <b>Mingzhe Zhang</b>, Diana Franklin.
 <i>2014 The 23rd International Conference on Parallel Architecture and Compilation Techniques</i>. <b>PACT 2014</b>.
 
