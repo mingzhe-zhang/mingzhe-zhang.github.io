@@ -1,0 +1,11 @@
+---
+title: "When Deep Learning Meets the Edge: Auto-Masking Deep Neural Networks for Efficient Machine Learning on Edge Devices"
+collection: publications
+permalink: /publications/ICCD2019-lin
+venue: "37th IEEE International Conference on Computer Design (ICCD 2019)"
+date: 2019-11-17
+citation: '<b>When Deep Learning Meets the Edge: Auto-Masking Deep Neural Networks for Efficient Machine Learning on Edge Devices</b>. Ning Lin, Hang Lu, Jingliang Gao, <b>Mingzhe Zhang</b>, Xiaowei Li. <i>37th IEEE International Conference on Computer Design</i>. <b>ICCD 2019</b>.'
+---
+
+## Abstract
+Deep neural network (DNN) has demonstrated promising performance in various machine learning tasks. Due to the privacy issue and the unpredictable transmission latency, inferring DNN models directly on edge devices trends the development of intelligent systems, like self-driving cars, smart Internet-of-Things (IoTs) and autonomous robotics. The on- device DNN model is obtained by expensive training via vast volumes of high-quality training data in the cloud datacenter, and then deployed into these devices, expecting it to work effectively at the edge. However, edge device always deals with low-quality images caused by compression or environmental noise pollutions. The well-trained model, though could work perfectly on the cloud, cannot adapt to these edge-specific conditions without remarkable accuracy drop. In this paper, we propose an automated strategy, called “AutoMask”, to embrace effective machine learning and accelerate DNN inference on edge devices. AutoMask comprises end-to-end trainable software strategies and cost-effective hardware accelerator architecture to improve the adaptability of the device without compromising the constrained computation and storage resources. Extensive experiments, over ImageNet dataset and various state-of-the-art DNNs, show that AutoMask achieves significant inference acceleration and storage reduction while maintains comparable accuracy level on embedded Xilinx Z7020 FPGA, as well as NVIDIA Jetson TX2.

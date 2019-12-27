@@ -10,23 +10,23 @@ author_profile: true
 Chundian Li, <b>Mingzhe Zhang</b>, Zhiwei Xu, Xianhe Sun.
 <i>17th IEEE International Symposium on Parallel and Distributed Processing with Applications</i>. <b>ISPA 2019</b>.
 
-[C15] <b>[When Deep Learning Meets the Edge: Auto-Masking Deep Neural Networks for Efficient Machine Learning on Edge Devices]()</b><br>
-Xiaowei Li Ning Lin, Hang Lu, Jingliang Gao, <b>Mingzhe Zhang</b>.
+[C15] <b>[When Deep Learning Meets the Edge: Auto-Masking Deep Neural Networks for Efficient Machine Learning on Edge Devices](../publications/ICCD2019-lin)</b><br>
+Ning Lin, Hang Lu, Jingliang Gao, <b>Mingzhe Zhang</b>, Xiaowei Li.
 <i>37th IEEE International Conference on Computer Design</i>. <b>ICCD 2019</b>.
 
-[C14] <b>[Balancing Performance and Energy Efficiency of ONoC by Using Adaptive Bandwidth]()</b><br>
+[C14] <b>[Balancing Performance and Energy Efficiency of ONoC by Using Adaptive Bandwidth](../publications/ICCD2019-zhang)</b><br>
 <b>Mingzhe Zhang</b>, Lunkai Zhang, Frederic T. Chong, Zhiyong Liu.
 <i>37th IEEE International Conference on Computer Design</i>. <b>ICCD 2019</b>.
 
-[C13] <b>[FindeR: Accelerating FM-Index-based Exact Pattern Matching in Genomic Sequences through ReRAM technology]()</b><br>
+[C13] <b>[FindeR: Accelerating FM-Index-based Exact Pattern Matching in Genomic Sequences through ReRAM technology](../_publications/PACT2019)</b><br>
 Farzaneh Zokaee, <b>Mingzhe Zhang</b>, Lei Jiang.
 <i>28th International Conference on Parallel Architectures and Compilation</i>. <b>PACT 2019</b>.
 
-[C12] <b>[C-MAP: Improving the Effectiveness of Mapping Method for CGRA by Reducing NoC Congestion]()</b><br>
+[C12] <b>[C-MAP: Improving the Effectiveness of Mapping Method for CGRA by Reducing NoC Congestion](../publications/HPCC2019)</b><br>
 Shuqian An, <b>Mingzhe Zhang</b>, Xiaochun Ye, Da Wang, Hao Zhang, Dongrui Fan, Zhimin Tang.
 <i>21st IEEE International Conference on High Performance Computing and Communications</i>. <b>HPCC 2019</b>.
 
-[C11] <b>[Magma: A Monolithic 3D Vertical Heterogeneous ReRAM-based Main Memory Architecture]()</b><br>
+[C11] <b>[Magma: A Monolithic 3D Vertical Heterogeneous ReRAM-based Main Memory Architecture](../publications/DAC2019)</b><br>
 Farzaneh Zokaee, <b>Mingzhe Zhang</b>, Xiaochun Ye, Dongrui Fan, Lei Jiang.
 <i>2019 Proceedings of the 56th Annual Design Automation Conference</i>. <b>DAC 2019</b>.
 
