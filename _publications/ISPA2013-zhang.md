@@ -1,0 +1,11 @@
+---
+title: "A Path-Adaptive Opto-electronic Hybrid NoC for Chip Multi-processor"
+collection: publications
+permalink: /publications/ISPA2013-zhang
+venue: "2013 12th IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA 2013)"
+date: 2013-7-16
+citation: '<b>A Path-Adaptive Opto-electronic Hybrid NoC for Chip Multi-processor</b>. <b>Mingzhe Zhang</b>, Da Wang, Xiaochun Ye, Liqiang He, Dongrui Fan, Zhiyong Liu. <i>2013 12th IEEE International Symposium on Parallel and Distributed Processing with Applications</i>. <b>ISPA 2013</b>.'
+---
+
+## Abstract
+The continuous development of manufacture allows to integrate optical components in a chip, which providing a feasible solution for the communication between the cores in manycore processors. Considering the limitation of manufacture technology and the characteristics of optical communication, opto-electronic hybrid NoC is a reasonable choice currently. Today, common NoCs connect the separated tile-clusters with the optical network. With these structures, communications between cores in different tile-clusters must go through the optical network. Meanwhile, most of the applications can be hardly divided into isolated parallel parts, leading to un-avoidable communications between the tiles. Thus, the scalability and flexibility for various applications are limited. In this paper, we present path-adaptive opto-electronic hybrid NoC architecture. Rather than dividing the cores into separated clusters, the proposed structure provides an optical network layer and an electronic network layer in mesh topology. Furthermore, a modified routing strategy is implemented to allow the on-chip routers to decide whether transmit the packet through the optical links or the electronic ones, according to the distance between the source node and the destination. With this method, the NoC is flexible for diverse applications without scaling limitations or performance degradation. The experimental results show that, for a 256-core NoC, our proposed architecture gains 1.26x network efficiency comparing with the Corona, while reducing 21% power consumption.

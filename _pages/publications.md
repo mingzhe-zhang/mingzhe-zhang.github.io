@@ -55,43 +55,43 @@ Lunkai Zhang, Dmitri Strukov, Hebatallah Saadeldeen, Dongrui Fan, <b>Mingzhe Zha
 <i>2014 The 23rd International Conference on Parallel Architecture and Compilation Techniques</i>. <b>PACT 2014</b>.
 
 ## 2013
-[C05] <b>[SimICT: A fast and flexible framework for performance and power evaluation of large-scale architecture]()</b><br>
+[C05] <b>[SimICT: A fast and flexible framework for performance and power evaluation of large-scale architecture](../publications/ISLPED2013)</b><br>
 Xiaochun Ye, Dongrui Fan, Ninghui Sun, Shibin Tang, <b>Mingzhe Zhang</b>, Hao Zhang.
 <i>Proceedings of the 2013 International Symposium on Low Power Electronics and Design</i>. <b>ISLPED 2013</b>.
 
-[C04] <b>[Spontaneous reload cache: Mimicking a larger cache with minimal hardware requirement]()</b><br>
+[C04] <b>[Spontaneous reload cache: Mimicking a larger cache with minimal hardware requirement](../publications/NAS2013)</b><br>
 Lunkai Zhang, <b>Mingzhe Zhang</b>, Lingjun Fan, Da Wang, Paolo Ienne.
 <i>2013 IEEE 8th International Conference on Networking, Architecture and Storage</i>. <b>NAS 2013</b>.
 
-[C03] <b>[Energy-Performance Modeling and Optimization of Parallel Computing in On-Chip Networks]()</b><br>
+[C03] <b>[Energy-Performance Modeling and Optimization of Parallel Computing in On-Chip Networks](../_publications/ISPA2013-shuai)</b><br>
 Shuai Zhang, Zhiyong Liu, Dongrui Fan, Fonglong Song, <b>Mingzhe Zhang</b>.
 <i>2013 12th IEEE International Symposium on Parallel and Distributed Processing with Applications</i>. <b>ISPA 2013</b>.
 
-[C02] <b>[A Path-Adaptive Opto-electronic Hybrid NoC for Chip Multi-processor]()</b><br>
+[C02] <b>[A Path-Adaptive Opto-electronic Hybrid NoC for Chip Multi-processor](../publications/ISPA2013-zhang)</b><br>
 <b>Mingzhe Zhang</b>, Da Wang, Xiaochun Ye, Liqiang He, Dongrui Fan, Zhiyong Liu.
 <i>2013 12th IEEE International Symposium on Parallel and Distributed Processing with Applications</i>. <b>ISPA 2013</b>.
 
 ## 2012
-[C01] <b>[Self-Correction Trace Model: A Full-System Simulator for Optical Network-on-Chip]()</b><br>
+[C01] <b>[Self-Correction Trace Model: A Full-System Simulator for Optical Network-on-Chip](../publications/IPDPSW2012)</b><br>
 <b>Mingzhe Zhang</b>, Liqiang He, Dongrui Fan.
 <i>2012 IEEE 26th International Parallel and Distributed Processing Symposium Workshops & PhD Forum</i>. <b>IPDPSW 2012</b>.
 
 # Journals & Transactions
 
 ## 2019
-[J04] <b>[Architecting Effectual Computation for Machine Learning Accelerators]()</b><br>
+[J04] <b>[Architecting Effectual Computation for Machine Learning Accelerators](../publications/TCAD2019)</b><br>
 Hang Lu, Mingzhe Zhang, Yinhe Han, Huawei Li, Li Xiaowei.
 <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>. (Early Access)
 
-[J03] <b>[A Survey on Architecture Research of Non-Volatile Memory based on Dynamical Trade-off (in chinese)]()</b><br>
+[J03] <b>[A Survey on Architecture Research of Non-Volatile Memory based on Dynamical Trade-off (in chinese)](../publications/CRAD2019)</b><br>
 <b>Mingzhe Zhang</b>, Fa Zhang, Zhiyong Liu.
 <i>Journal of Computer Research and Development</i>, Vol. 56, Issue 4, pp. 677-691.
 
-[J02] <b>[Quick-and-Dirty: An Architecture for High-Performance Temporary Short Writes in MLC PCM]()</b><br>
+[J02] <b>[Quick-and-Dirty: An Architecture for High-Performance Temporary Short Writes in MLC PCM](../publications/TC2019)</b><br>
 <b>Mingzhe Zhang</b>, Lunkai Zhang, Lei Jiang, Frederic T Chong, Zhiyong Liu.
 <i>IEEE Transactions on Computers (TC)</i>, Vol. 68, Issue 9, pp. 1365-1375.
 
 ## 2015
-[J01] <b>[FreeRider: Non-local adaptive network-on-chip routing with packet-carried propagation of congestion information]()</b><br>
+[J01] <b>[FreeRider: Non-local adaptive network-on-chip routing with packet-carried propagation of congestion information](../publications/TPDS2015)</b><br>
 Shaoli Liu, Tianshi Chen, Ling Li, Xi Li, <b>Mingzhe Zhang</b>, Chao Wang, Haibo Meng, Xuehai Zhou, Yunji Chen.
 <i>IEEE Transactions on Parallel and Distributed Systems (TPDS)</i>, Vol. 26, Issue 8, pp. 2272-2285.
