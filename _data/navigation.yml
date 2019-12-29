@@ -2,7 +2,7 @@
 main:
   - title: "CV"
     url: /cv/
-    
+
   - title: "Publications"
     url: /publications/
 
@@ -11,6 +11,9 @@ main:
 
   - title: "Services"
     url: /services/
+
+  - title: "Submission Map"
+    url: /submission-map/
     
   # - title: "Talks"
   #   url: /talks/    
