@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Short Bio
-Dr. Mingzhe Zhang is an Assistant Professor at the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS). He graduated form ICT, CAS with Ph.D. degree in 2018, Inner Mongolia University with M.S. degree in 2013, and Nanjing University of Post and Telecommunications with B.E. in 2008. From 2015 to 2017, he was at the University of Chicago as the visiting scholarship, under the supervision of [Prof. Frederic T. Chong](http://people.cs.uchicago.edu/~ftchong/). 
+Dr. Mingzhe Zhang is an Assistant Professor at the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS). He graduated from ICT, CAS with Ph.D. degree in 2018, Inner Mongolia University with M.S. degree in 2013, and Nanjing University of Post and Telecommunications with B.E. in 2008. From 2015 to 2017, he was at the University of Chicago as the visiting scholarship, under the supervision of [Prof. Frederic T. Chong](http://people.cs.uchicago.edu/~ftchong/). 
 
 ## Research Interests
 I do research in Computer Architecture and Bigdata-oriented System, including:
