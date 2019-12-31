@@ -10,7 +10,7 @@ author_profile: true
 	<tr>
 		<td>Month</td>
 		<td>Venue</td>
-		<td>Deadline 2020</td>
+		<td><nobr>Deadline 2020</nobr></td>
 		<td>Deadline 2019</td>
 		<td>Deadline 2018</td>
 		<td>Deadline 2017</td>
@@ -129,8 +129,8 @@ San Francisco, CA</a></td>
 		<td><a href="https://www.systor.org/2020/" title="date: 2020-06-02..04, notify: 2020-04-19">2020-03-03 Haifa, Israel</a></td>
 		<td><a href="https://www.systor.org/2019" title="date: 2019-08-26..30, notify: 2019-05-03">2019-03-07
 Haifa, Israel</a></td>
-		<td><a href="https://www.systor.org/2018" title="date: 2018-06-04..06, notify: 2018-04-15">"2018-02-28
-Haifa, Israel"</a></td>
+		<td><a href="https://www.systor.org/2018" title="date: 2018-06-04..06, notify: 2018-04-15">2018-02-28
+Haifa, Israel</a></td>
 		<td><a href="https://www.systor.org/2017" title="date: 2017-05-22..24, notify: 2017-03-29">2017-02-28
 Haifa, Israel</a></td>
 		<td><a href="https://www.systor.org/2016" title="date: 2016-06-06..08, notify: 2016-04-15">2016-03-11
@@ -174,7 +174,7 @@ Denver, CO</a></td>
 		<td><a href="http://sc16.supercomputing.org" title="date: 2016-11-13..18, notify: 2016-06-15">2016-04-03
 Salt Lake City, UT</a></td>
 	</tr>
-		<tr>
+	<tr>
 		<td>ICPP</td>
 		<td align="center">-</td>
 		<td><a href="https://www.hpcs.cs.tsukuba.ac.jp/icpp2019" title="date: 2019-08-05..08, notify: 2019-05-17">2019-04-15
@@ -186,7 +186,7 @@ Bristol, UK</a></td>
 		<td><a href="http://icpp2016.cs.wcupa.edu" title="date: 2016-08-16..19, notify: 2016-05-06">2016-02-26
 Philadelphia, PA</a></td>
 	</tr>
-		<tr>
+	<tr>
 		<td>PACT</td>
 		<td align="center">-</td>
 		<td><a href="http://pactconf.org/" title="date: 2019-09-23..26, notify: 2019-07-08">2019-04-15
@@ -198,14 +198,61 @@ Portland, OR</a></td>
 		<td><a href="http://pact2016.eew.technion.ac.il/" title="date: 2016-09-11..15, notify: 2016-06-28">2016-03-18
 Haifa, Israel</a></td>
 	</tr>
-		<tr>
+	<tr>
 		<td>SOSP</td>
 		<td align="center">-</td>
 		<td><a href="https://www.sigops.org/sosp/sosp19/" title="date: 2019-10-07..09, notify: 2019-08-30">2019-04-24
-Huntsville, Ontario, Canada</a></td>
+Ontario, Canada</a></td>
 		<td align="center">-</td>
 		<td><a href="https://www.sigops.org/sosp/sosp17/" title="date: 2017-10-29..31, notify: 2017-08-07">2017-04-21
 Shanghai, China</a></td>
 		<td align="center">-</td>
-	</tr>	
+	</tr>
+	
+	<tr>
+		<td rowspan="4"><b><i>May</i></b></td>
+		<td>OSDI</td>
+		<td align="center">-</td>
+		<td align="center">-</td>
+		<td><a href="https://www.usenix.org/conference/osdi18" title="date: 2018-10-08..10, notify: 2018-07-24">2018-05-03
+Carlsbad, CA</a></td>
+		<td align="center">-</td>
+		<td><a href="https://www.usenix.org/conference/osdi16" title="date: 2016-11-02..04, notify: 2016-07-30">2016-05-10
+Savannah, GA</a></td>
+	</tr>
+	<tr>
+		<td>CLUSTER</td>
+		<td align="center">-</td>
+		<td><a href="https://clustercomp.org/2019/" title="date: 2019-09-24..27, notify: 2019-07-15">2019-05-17
+Albuquerque, NM</a></td>
+		<td><a href="https://clustercomp.org/2018/" title="date: 2018-09-10..13, notify: 2018-07-07">2018-05-08
+Belfast, UK</a></td>
+		<td><a href="https://clustercomp.org/2017/" title="date: 2017-09-05..08, notify: 2017-06-30">2017-05-15
+Hawaii, US</a></td>
+		<td><a href="https://clustercomp.org/2016/" title="date: 2016-09-12..15, notify: 2016-07-01">2016-05-14
+Taipei, Taiwan</a></td>
+	</tr>
+	<tr>
+		<td>IISWC</td>
+		<td align="center">-</td>
+		<td><a href="http://www.iiswc.org/iiswc2019/index.html" title="date: 2019-11-03..05, notify: 2019-08-15">2019-05-31
+Orlando, FL</a></td>
+		<td><a href="http://www.iiswc.org/iiswc2018" title="date: 2018-09-30..02, notify: 2018-07-27">2018-05-18
+Raleigh, NC</a></td>
+		<td><a href="http://www.iiswc.org/iiswc2017/index.html" title="date: 2017-10-01..03, notify: 2017-08-01">2017-06-02
+Seattle, WA</a></td>
+		<td><a href="http://www.iiswc.org/iiswc2016/index.html" title="date: 2016-09-25..27, notify: 2016-07-12">2016-05-13
+Rhode Island, USA</a></td>
+	</tr>
+	<tr>
+		<td>APsys</td>
+		<td align="center">-</td>
+		<td><a href="https://icsr.zju.edu.cn/apsys2019/" title="date: 2019-08-19..20, notify: 2019-06-14">2019-05-08
+Hangzhou, China</a></td>
+		<td><a href="http://ap-sys.org/" title="date: 2018-08-27..28, notify:">2018-05-31 Jeju Island, South Korea</a></td>
+		<td><a href="https://www.cse.iitb.ac.in/~apsys2017" title="date: 2017-09-02..03, notify: 2017-07-12">2017-06-09
+Bombay, India</a></td>
+		<td><a href="http://www.cs.hku.hk/apsys2016/" title="date: 2016-08-04..05, notify: 2016-06-23">2016-05-20
+Hong Kong, China</a></td>
+	</tr>
 </table>
