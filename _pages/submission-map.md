@@ -3,8 +3,8 @@ title: "Submission Map"
 permalink: /submission-map/
 author_profile: true
 ---
-<font size="4">The main conferences of computer architectrue and system sorted by deadline.</font>  
-(Modified based on Professor Dan Tsafrir's conference list. The original version is [here](http://www.cs.technion.ac.il/~dan/index_sysvenues_deadline.html).)
+<font size="4">The main conferences of computer architectrue and system sorted by deadline. [Click Here](javascript:window.external.AddFavorite('http://www.smsyun.com/','PHP学习笔记')") to add this page to the favorites.</font>  
+(Fork from the Professor Dan Tsafrir's conference list. The original version is [here](http://www.cs.technion.ac.il/~dan/index_sysvenues_deadline.html).)
 
 <table align="center">
 	<tr>
@@ -275,4 +275,172 @@ Boston, MA</a></td>
 		<td><a href="https://www.iccd-conf.com/2016/Home.html" title="date: 2016-10-03..05, notify: 2016-07-29">2016-05-20<br>
 Phoenix, AZ</a></td>
 	</tr>
+	
+	<tr>
+		<td rowspan="3"><b><i>Jul</i></b></td>
+		<td>ASP-DAC</td>
+		<td align="center">-</td>
+		<td><a href="https://aspdac2020.github.io/aspdac20/" title="date: 2020-01-13..16, notify: 2019-09-09">2019-07-05<br>
+Beijing, China</a></td>
+		<td><a href="http://www.aspdac.com/aspdac2019/" title="date: 2019-01-21..24, notify: 2018-09-10">2018-07-06<br>
+Tokyo, Japan</a></td>
+		<td><a href="http://www.aspdac.com/aspdac2018/" title="date: 2018-01-22..25, notify: 2017-09-11">2017-07-07<br>
+Jeju Island, Korea</a></td>
+		<td><a href="http://www.aspdac.com/aspdac2017/" title="date: 2017-01-16..19, notify: 2016-09-12">2016-07-08<br>
+Chiba/Tokyo, Japan</a></td>
+	</tr>
+	<tr>
+		<td>HPCA</td>
+		<td align="center">-</td>
+		<td><a href="https://www.hpca-conf.org/2020/" title="date: 2020-02-22..26, notify: 2019-11-06">2019-07-30<br>
+San Diego, CA</a></td>
+		<td><a href="http://hpca2019.seas.gwu.edu/" title="date: 2019-02-16..20, notify: 2018-11-06">2018-08-03<br>
+Washington, D.C.</a></td>
+		<td><a href="http://hpca2018.ece.ucsb.edu/" title="date: 2018-02-24..28, notify: 2017-11-23">2017-08-01<br>
+Vienna, Austria</a></td>
+		<td><a href="http://hpca2017.org/" title="date: 2017-02-04..08, notify: 2016-10-12">2016-08-01<br>
+Austin, TX</a></td>
+	</tr>
+	<tr>
+		<td>PPoPP</td>
+		<td align="center">-</td>
+		<td><a href="http://conf.researchr.org/home/ppopp-2020" title="date: 2020-02-22..26, notify: 2019-11-09">2019-07-31<br>
+San Diego, CA</a></td>
+		<td><a href="http://conf.researchr.org/home/ppopp-2019" title="date: 2019-02-16..20, notify: 2018-11-15">2018-08-20<br>
+Washington, D.C.</a></td>
+		<td><a href="http://conf.researchr.org/home/ppopp-2018" title="date: 2017-02-24..28, notify: 2017-12-06">2017-08-25<br>
+Vienna, Austria</a></td>
+		<td><a href="http://conf.researchr.org/home/ppopp-2017" title="date: 2017-02-04..08, notify: 2016-11-12">2016-08-01<br>
+Austin, TX</a></td>
+	</tr>
+
+	<tr>
+		<td><b><i>Aug</i></b></td>
+		<td>ASPLOS</td>
+		<td align="center">-</td>
+		<td><a href="https://asplos-conference.org/" title="date: 2020-03-16..20, notify: 2019-11-20">2019-08-09<br>
+Lausanne, Switzerland</a></td>
+		<td><a href="https://asplos-conference.org/2019/" title="date: 2019-04-13..17, notify: 2018-11-07">2018-08-07<br>
+Providence, RI</a></td>
+		<td><a href="https://www.asplos2018.org/" title="date: 2018-03-24..28, notify: 2017-11-13">2017-08-11<br>
+Williamsburg, VA</a></td>
+		<td><a href="http://novel.ict.ac.cn/ASPLOS2017/" title="date: 2017-04-08..12, notify: 2017-11-07">2016-08-15<br>
+Xi'an, China</a></td>
+	</tr>
+	
+	<tr>
+		<td rowspan="3"><b><i>Sep</i></b></td>
+		<td>DATE</td>
+		<td align="center">-</td>
+		<td><a href="http://www.date-conference.com/" title="date: 2020-03-09..13, notify: 2019-11-07">2019-09-08<br>
+Alpexpo Grenoble, France</a></td>
+		<td><a href="http://www.date-conference.com/date19/" title="date: 2019-03-25..29, notify: 2018-11-08">2018-09-09<br>
+Florence, Italy</a></td>
+		<td><a href="https://www.date-conference.com/date18/" title="date: 2018-03-19..23, notify: 2017-11-10">2017-09-10<br>
+Dresden, Germany</a></td>
+		<td><a href="http://www.date-conference.com/date2017" title="date: 2017-03-27..31, notify: 2016-11-11">2016-09-11<br>
+Lausanne, Switzerland</a></td>
+	</tr>
+	<tr>
+		<td>NSDI</td>
+		<td align="center">-</td>
+		<td><a href="https://www.usenix.org/conference/nsdi20" title="date: 2020-02-25..27, notify: 2019-12-03">2019-09-12<br>
+Santa Clara, CA</a></td>
+		<td><a href="https://www.usenix.org/conference/nsdi19" title="date: 2019-02-26..28, notify: 2018-12-03">2018-09-20<br>
+Boston, MA</a></td>
+		<td><a href="https://www.usenix.org/conference/nsdi18" title="date: 2018-04-09..11, notify: 2017-12-11">2017-09-25<br>
+Renton, WA</a></td>
+		<td><a href="https://www.usenix.org/conference/nsdi17" title="date: 2017-03-27..29, notify: 2016-12-05">2016-09-14<br>
+Boston, MA</a></td>
+	</tr>
+	<tr>
+		<td>FAST</td>
+		<td align="center">-</td>
+		<td><a href="https://www.usenix.org/conference/fast20" title="date: 2020-02-24..27, notify: 2019-12-11">2019-09-26<br>
+Santa Clara, CA</a></td>
+		<td><a href="https://www.usenix.org/conference/fast19" title="date: 2019-02-25..28, notify: 2018-12-11">2018-09-26<br>
+Boston, MA</a></td>
+		<td><a href="https://www.usenix.org/conference/fast18" title="date: 2018-02-12..15, notify: 2017-12-11">2017-09-18<br>
+Oakland, CA</a></td>
+		<td><a href="https://www.usenix.org/conference/fast17" title="date: 2017-02-27..2, notify: 2016-12-12">2016-09-27<br>
+Santa Clara, CA</a></td>
+	</tr>
+
+	<tr>
+		<td rowspan="2"><b><i>Oct</i></b></td>
+		<td>IPDPS</td>
+		<td align="center">-</td>
+		<td><a href="http://www.ipdps.org/ipdps2020" title="date: 2020-05-18..22, notify: 2020-01-20">2019-10-07<br>
+New Orleans, LA</a></td>
+		<td><a href="http://www.ipdps.org/ipdps2019" title="date: 2019-05-20..24, notify: 2019-01-20">2018-10-15<br>
+Rio de Janeiro, Brazil</a></td>
+		<td><a href="http://www.ipdps.org/ipdps2018" title="date: date: 2018-05-21..25, notify: 2018-01-22">2017-10-22<br>
+Vancouver, CA</a></td>
+		<td><a href="http://www.ipdps.org/ipdps2017" title="date: 2017-05-29..02, notify: 2017-01-08">2016-10-23<br>
+Orlando, FL</a></td>
+	</tr>
+	<tr>
+		<td>ISPASS</td>
+		<td align="center">-</td>
+		<td><a href="http://www.ispass.org/ispass2020" title="date: 2020-04-05..07, notify: 2020-01-14">2019-10-10<br>
+Boston, MA</a></td>
+		<td><a href="http://www.ispass.org/ispass2019" title="date: 2019-03-24..26, notify: 2019-01-13">2018-10-12<br>
+Madison, WI</a></td>
+		<td><a href="http://www.ispass.org/ispass2018" title="date: 2018-04-03..05, notify: 2018-01-19">2017-10-13<br>
+Belfast, UK</a></td>
+		<td><a href="http://www.ispass.org/ispass2017" title="date: 2017-04-23..25, notify: 2017-01-30">2016-10-14<br>
+San Francisco, CA</a></td>
+	</tr>
+	
+	<tr>
+		<td rowspan="4"><b><i>Nov</i></b></td>
+		<td>EuroSys</td>
+		<td align="center">-</td>
+		<td><a href="http://eurosys2020.org/" title="date: 2020-04-27..30, notify: 2020-02-15">2019-11-04<br>
+Heraklion, Crete, Greece</a></td>
+		<td><a href="http://eurosys2019.org/" title="date: 2019-03-25..28, notify: 2018-12-21">2018-10-01<br>
+Dresden, Germany</a></td>
+		<td><a href="http://eurosys2018.org/" title="date: 2018-04-23..26, notify: 2018-01-22">2017-10-27<br>
+Porto, Portugal</a></td>
+		<td><a href="http://eurosys2017.org/" title="date: 2017-04-23..26, notify: 2017-01-23">2016-10-14<br>
+Belgrade, Serbia</a></td>
+	</tr>
+	<tr>
+		<td>DAC</td>
+		<td align="center">-</td>
+		<td><a href="https://www.dac.com/" title="date: 2020-07-19..23, notify: 2020-02-28">2019-11-21<br>
+San Francisco, CA</a></td>
+		<td><a href="https://www.dac.com/content/56th-dac" title="date: 2019-06-02..06, notify: 2019-03-25">2018-11-27<br>
+Las Vegas, NV</a></td>
+		<td><a href="https://dac.com/content/55th-dac" title="date: 2018-06-24..28, notify: ">2017-11-14<br>
+San Francisco, CA</a></td>
+		<td><a href="https://dac.com/content/54th-dac" title="">2016-11-15<br>
+Austin, TX</a></td>
+	</tr>
+	<tr>
+		<td>PLDI</td>
+		<td align="center">-</td>
+		<td><a href="http://conf.researchr.org/home/pldi-2020" title="date: 2020-06-15..20, notify: 2020-02-21">2019-11-22<br>
+London, UK</a></td>
+		<td><a href="http://conf.researchr.org/home/pldi-2019" title="date: 2019-06-24..26, notify: 2019-02-15">2018-11-16<br>
+Phoenix, AZ</a></td>
+		<td><a href="http://conf.researchr.org/home/pldi-2018" title="date: 2018-06-20..22, notify: 2018-02-13">2017-11-16<br>
+Philadelphia, PA</a></td>
+		<td><a href="http://conf.researchr.org/home/pldi-2017" title="date: 2017-06-19..23, notify: 2017-02-13">2016-11-15<br>
+Barcelona, Spain</a></td>
+	</tr>
+	<tr>
+		<td>ISCA</td>
+		<td align="center">-</td>
+		<td><a href="http://iscaconf.org/isca2020" title="date: 2020-05-30..3, notify: 2020-03-04">2019-11-26<br>
+Valencia, Spain</a></td>
+		<td><a href="http://iscaconf.org/isca2019" title="date: 2019-06-22..26, notify: 2019-03-15">2018-12-07<br>
+Phoenix, AZ</a></td>
+		<td><a href="http://iscaconf.org/isca2018" title="date: 2018-06-02..06, notify: 2018-03-13">2017-11-21<br>
+Los Angeles, CA</a></td>
+		<td><a href="http://isca17.ece.utoronto.ca/" title="date: 2017-06-24..28, notify: 2017-03-08">2016-11-18
+Toronto, CA</a></td>
+	</tr>
+
+
 </table>
