@@ -105,7 +105,7 @@ Grenoble, France</a></td>
 	</tr>
 	
 	<tr>
-		<td rowspan="2"><b><i>Mar</i></b></td>
+		<td rowspan="4"><b><i>Mar</i></b></td>
 		<td>ISLPED</td>
 		<td><a href="http://www.islped.org/2020/" title="date: 2020-08-10..12, notify: 2020-05-22">2020-03-02<br>Boston, MA</a></td>
 		<td><a href="http://www.islped.org/2019/" title="date: 2019-07-29..31, notify: 2019-05-13">2019-03-04<br>
@@ -116,6 +116,19 @@ Belleve, WA</a></td>
 Taipei, Taiwan</a></td>
 		<td><a href="http://www.islped.org/2016/" title="date: 2016-08-08..10, notify: 2016-04-30">2016-03-06<br>
 San Francisco, CA</a></td>
+	</tr>
+	<tr>
+		<td>ICPP</td>
+		<td><a href="https://jnamaral.github.io/icpp20/" title="date: 2020-08-17..20, notify: 2020-05-19">2020-03-02<br>
+Edmonton, AB, Canada</a></td>
+		<td><a href="https://www.hpcs.cs.tsukuba.ac.jp/icpp2019" title="date: 2019-08-05..08, notify: 2019-05-17">2019-04-15<br>
+Kyoto, Japan</a></td>
+		<td><a href="http://www.icpp-conf.org/2018" title="date: 2018-08-13..16, notify: 2018-05-03">2018-03-30<br>
+Eugene, OR</a></td>
+		<td><a href="http://www.icpp-conf.org/2017" title="date: 2017-08-16..19, notify: 2017-05-13">2017-03-13<br>
+Bristol, UK</a></td>
+		<td><a href="http://icpp2016.cs.wcupa.edu" title="date: 2016-08-16..19, notify: 2016-05-06">2016-02-26<br>
+Philadelphia, PA</a></td>
 	</tr>
 	<tr>
 		<td>SYSTOR</td>
@@ -129,11 +142,20 @@ Haifa, Israel</a></td>
 		<td><a href="https://www.systor.org/2016" title="date: 2016-06-06..08, notify: 2016-04-15">2016-03-11<br>
 Haifa, Israel</a></td>
 	</tr>
+	<tr>
+		<td>SC</td>
+		<td><a href="https://sc20.supercomputing.org" title="date: 2020-11-15..20, notify: 2020-06-15">2020-03-31<br>Atlanta, GA</a></td>
+		<td><a href="https://sc19.supercomputing.org" title="date: 2019-11-17..22, notify: 2019-06-15">2019-04-10<br>Denver, CO</a></td>
+		<td><a href="https://sc18.supercomputing.org" title="date: 2018-11-11..16, notify: 2018-06-15">2018-03-28<br>Dallas, TX</a></td>
+		<td><a href="http://sc17.supercomputing.org" title="date: 2017-11-12..17, notify: 2017-06-15">2017-04-03<br>Denver, CO</a></td>
+		<td><a href="http://sc16.supercomputing.org" title="date: 2016-11-13..18, notify: 2016-06-15">2016-04-03<br>Salt Lake City, UT</a></td>
+	</tr>
 
 	<tr>
-		<td rowspan="6"><b><i>Apr</i></b></td>
+		<td rowspan="4"><b><i>Apr</i></b></td>
 		<td>MICRO</td>
-		<td align="center">-</td>
+		<td><a href="http://www.microarch.org/micro53/" title="date: 2020-10, notify: ">-<br>
+Athens, Greek</a></td>
 		<td><a href="http://www.microarch.org/micro52/" title="date: 2019-10-12..16, notify: 2019-07-27">2019-04-05<br>
 Columbus, Ohio</a></td>
 		<td><a href="http://www.microarch.org/micro51/" title="date: 2018-10-20..24, notify: 2018-07-18">2018-04-06<br>
@@ -145,35 +167,16 @@ Taipei, Taiwan</a></td>
 	</tr>
 	<tr>
 		<td>ICCAD</td>
-		<td align="center">-</td>
+		<td><a href="https://iccad.com/" title="date: 2020-11-02..05, notify: ">-<br>San Diego, CA</a></td>
 		<td><a href="https://iccad.com/" title="date: 2019-11-04..07, notify: 2019-06-21">2019-04-08<br>Westminster, CO</a></td>
 		<td><a href="https://iccad.com/content/conference_history" title="date: 2018-11-05..08, notify: ">2018-04-23<br>San Diego, CA</a></td>
 		<td><a href="https://iccad.com/content/conference_history" title="date: 2017-11-13..06, notify: 2017-06-28">2017-04-24<br>Irvine, CA</a></td>
 		<td><a href="https://iccad.com/content/conference_history" title="date: 2016-11-07..10, notify: 2016-06-20">2016-04-25<br>Austin, TX</a></td>
 	</tr>
-	<tr>
-		<td>SC</td>
-		<td align="center">-</td>
-		<td><a href="https://sc19.supercomputing.org" title="date: 2019-11-17..22, notify: 2019-06-15">2019-04-10<br>Denver, CO</a></td>
-		<td><a href="https://sc18.supercomputing.org" title="date: 2018-11-11..16, notify: 2018-06-15">2018-03-28<br>Dallas, TX</a></td>
-		<td><a href="http://sc17.supercomputing.org" title="date: 2017-11-12..17, notify: 2017-06-15">2017-04-03<br>Denver, CO</a></td>
-		<td><a href="http://sc16.supercomputing.org" title="date: 2016-11-13..18, notify: 2016-06-15">2016-04-03<br>Salt Lake City, UT</a></td>
-	</tr>
-	<tr>
-		<td>ICPP</td>
-		<td align="center">-</td>
-		<td><a href="https://www.hpcs.cs.tsukuba.ac.jp/icpp2019" title="date: 2019-08-05..08, notify: 2019-05-17">2019-04-15<br>
-Kyoto, Japan</a></td>
-		<td><a href="http://www.icpp-conf.org/2018" title="date: 2018-08-13..16, notify: 2018-05-03">2018-03-30<br>
-Eugene, OR</a></td>
-		<td><a href="http://www.icpp-conf.org/2017" title="date: 2017-08-16..19, notify: 2017-05-13">2017-03-13<br>
-Bristol, UK</a></td>
-		<td><a href="http://icpp2016.cs.wcupa.edu" title="date: 2016-08-16..19, notify: 2016-05-06">2016-02-26<br>
-Philadelphia, PA</a></td>
-	</tr>
-	<tr>
+		<tr>
 		<td>PACT</td>
-		<td align="center">-</td>
+		<td><a href="https://pact20.cc.gatech.edu/" title="date: 2020-10-03..07, notify: 2020-07-15">2020-04-10<br>
+Atlanta, GA</a></td>
 		<td><a href="http://pactconf.org/" title="date: 2019-09-23..26, notify: 2019-07-08">2019-04-15<br>
 Seattle, WA</a></td>
 		<td><a href="http://www.cs.ucy.ac.cy/conferences/pact2018/" title="date: 2018-10-27..31, notify: 2018-06-20">2018-04-15<br>
