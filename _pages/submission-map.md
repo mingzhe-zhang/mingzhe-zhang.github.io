@@ -31,7 +31,7 @@ Santa Clara, CA</a></td>
 	</tr>
 	<tr>
 		<td>ICDCS</td>
-		<td><a href="https://www.usenix.org/conference/atc20" title="date: 2020-07-08..10, notify: 2020-03-14">2020-01-06<br>Singapore</a></td>
+		<td><a href="https://icdcs2020.sg/" title="date: 2020-07-08..10, notify: 2020-03-14">2020-01-06<br>Singapore</a></td>
 		<td><a href="http://theory.utdallas.edu/ICDCS2019" title="date: 2019-07-07..10, notify: 2019-03-28">2019-01-12<br>Dallas, TX</a></td>
 		<td align="center">-</td>
 		<td><a href="http://icdcs2018.ocg.at/" title="date: 2018-07-02..06, notify: 2018-03-28">2017-12-12<br>Vienna, Austria</a></td>
