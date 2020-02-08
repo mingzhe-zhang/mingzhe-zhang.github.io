@@ -6,7 +6,7 @@ author_profile: true
 <font size="4">The main conferences of computer architectrue and system sorted by deadline. <a href="javascript:window.external.AddFavorite('https://mingzhe-zhang.github.io/submission-map/','Conference List for computer architecture and system')">Click Here</a> to add this page to the favorites.</font>  
 (Fork from the Professor Dan Tsafrir's conference list. The original version is [here](http://www.cs.technion.ac.il/~dan/index_sysvenues_deadline.html).)
 
-<font size="4" color="grey">[Last Update: Jan-19-2020]</font>
+<font size="4" color="grey">[Last Update: Feb-08-2020]</font>
 
 <table align="center">
 	<tr>
@@ -152,9 +152,9 @@ Haifa, Israel</a></td>
 	</tr>
 
 	<tr>
-		<td rowspan="4"><b><i>Apr</i></b></td>
+		<td rowspan="3"><b><i>Apr</i></b></td>
 		<td>MICRO</td>
-		<td><a href="http://www.microarch.org/micro53/" title="date: 2020-10, notify: ">-<br>
+		<td><a href="http://www.microarch.org/micro53/" title="date: 2020-10-17..21, notify: 2020-07-01">2020-04-03<br>
 Athens, Greek</a></td>
 		<td><a href="http://www.microarch.org/micro52/" title="date: 2019-10-12..16, notify: 2019-07-27">2019-04-05<br>
 Columbus, Ohio</a></td>
@@ -165,14 +165,7 @@ Boston, MA</a></td>
 		<td><a href="http://www.microarch.org/micro49/" title="date: 2016-10-15..19, notify: 2016-06-25">2016-04-10<br>
 Taipei, Taiwan</a></td>
 	</tr>
-	<tr>
-		<td>ICCAD</td>
-		<td><a href="https://iccad.com/" title="date: 2020-11-02..05, notify: ">-<br>San Diego, CA</a></td>
-		<td><a href="https://iccad.com/" title="date: 2019-11-04..07, notify: 2019-06-21">2019-04-08<br>Westminster, CO</a></td>
-		<td><a href="https://iccad.com/content/conference_history" title="date: 2018-11-05..08, notify: ">2018-04-23<br>San Diego, CA</a></td>
-		<td><a href="https://iccad.com/content/conference_history" title="date: 2017-11-13..06, notify: 2017-06-28">2017-04-24<br>Irvine, CA</a></td>
-		<td><a href="https://iccad.com/content/conference_history" title="date: 2016-11-07..10, notify: 2016-06-20">2016-04-25<br>Austin, TX</a></td>
-	</tr>
+	
 		<tr>
 		<td>PACT</td>
 		<td><a href="https://pact20.cc.gatech.edu/" title="date: 2020-10-03..07, notify: 2020-07-15">2020-04-10<br>
@@ -198,9 +191,9 @@ Shanghai, China</a></td>
 	</tr>
 	
 	<tr>
-		<td rowspan="4"><b><i>May</i></b></td>
+		<td rowspan="5"><b><i>May</i></b></td>
 		<td>OSDI</td>
-		<td align="center">-</td>
+		<td><a href="https://www.usenix.org/conference/osdi20" title="date: 2020-11-04..06, notify: 2020-08-04">2020-05-12<br>Banff, Alberta, Canada</a></td>
 		<td align="center">-</td>
 		<td><a href="https://www.usenix.org/conference/osdi18" title="date: 2018-10-08..10, notify: 2018-07-24">2018-05-03<br>
 Carlsbad, CA</a></td>
@@ -210,7 +203,7 @@ Savannah, GA</a></td>
 	</tr>
 	<tr>
 		<td>CLUSTER</td>
-		<td align="center">-</td>
+		<td><a href="https://clustercomp.org/2020/" title="date: 2020-11-14..17, notify: 2020-07-06">2020-05-10<br>Kobe, Japan</a></td>
 		<td><a href="https://clustercomp.org/2019/" title="date: 2019-09-24..27, notify: 2019-07-15">2019-05-17<br>
 Albuquerque, NM</a></td>
 		<td><a href="https://clustercomp.org/2018/" title="date: 2018-09-10..13, notify: 2018-07-07">2018-05-08<br>
@@ -234,7 +227,7 @@ Rhode Island, USA</a></td>
 	</tr>
 	<tr>
 		<td>APsys</td>
-		<td align="center">-</td>
+		<td><a href="https://ap-sys.org/" title="date: 2020-08-24..25, notify: 2020-06-19">2020-05-25<br>Tsukuba, Japan</a></td>
 		<td><a href="https://icsr.zju.edu.cn/apsys2019/" title="date: 2019-08-19..20, notify: 2019-06-14">2019-05-08<br>
 Hangzhou, China</a></td>
 		<td><a href="http://ap-sys.org/" title="date: 2018-08-27..28, notify:">2018-05-31<br>Jeju Island,<br>South Korea</a></td>
@@ -242,6 +235,14 @@ Hangzhou, China</a></td>
 Bombay, India</a></td>
 		<td><a href="http://www.cs.hku.hk/apsys2016/" title="date: 2016-08-04..05, notify: 2016-06-23">2016-05-20<br>
 Hong Kong, China</a></td>
+	</tr>
+	<tr>
+		<td>ICCAD</td>
+		<td><a href="https://iccad.com/" title="date: 2020-11-02..05, notify: 2020-07-21">2020-05-28<br>San Diego, CA</a></td>
+		<td><a href="https://iccad.com/" title="date: 2019-11-04..07, notify: 2019-06-21">2019-04-08<br>Westminster, CO</a></td>
+		<td><a href="https://iccad.com/content/conference_history" title="date: 2018-11-05..08, notify: ">2018-04-23<br>San Diego, CA</a></td>
+		<td><a href="https://iccad.com/content/conference_history" title="date: 2017-11-13..06, notify: 2017-06-28">2017-04-24<br>Irvine, CA</a></td>
+		<td><a href="https://iccad.com/content/conference_history" title="date: 2016-11-07..10, notify: 2016-06-20">2016-04-25<br>Austin, TX</a></td>
 	</tr>
 	
 	<tr>
