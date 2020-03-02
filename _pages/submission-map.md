@@ -6,7 +6,7 @@ author_profile: true
 <font size="4">The main conferences of computer architectrue and system sorted by deadline. <a href="javascript:window.external.AddFavorite('https://mingzhe-zhang.github.io/submission-map/','Conference List for computer architecture and system')">Click Here</a> to add this page to the favorites.</font>  
 (Fork from the Professor Dan Tsafrir's conference list. The original version is [here](http://www.cs.technion.ac.il/~dan/index_sysvenues_deadline.html).)
 
-<font size="4" color="grey">[Last Update: Feb-23-2020]</font>
+<font size="4" color="grey">[Last Update: Mar-01-2020]</font>
 
 <table align="center">
 	<tr>
@@ -248,7 +248,7 @@ Hong Kong, China</a></td>
 	<tr>
 		<td rowspan="3"><b><i>Jun</i></b></td>
 		<td>HiPEAC</td>
-		<td align="center">-</td>
+		<td><a href="https://www.hipeac.net/2021/budapest/#/" title="date: 2021-01-18..20, notify: 2020-11-15">2020-06-01<br>Budapest, Hungary</td>
 		<td><a href="https://www.hipeac.net/2020/bologna/#/" title="date: 2020-01-20, notify: 2019-11-15">2019-06-01<br>
 Bologna, Italy</a></td>
 		<td><a href="https://www.hipeac.net/2019/valencia/" title="date: 2019-01-21..23, notify: 2018-11-15">2018-06-01<br> 
