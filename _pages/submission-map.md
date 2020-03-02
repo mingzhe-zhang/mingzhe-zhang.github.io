@@ -447,8 +447,6 @@ Los Angeles, CA</a></td>
 		<td><a href="http://isca17.ece.utoronto.ca/" title="date: 2017-06-24..28, notify: 2017-03-08">2016-11-18
 Toronto, CA</a></td>
 	</tr>
-
-
 </table>
 
 ## Recent Visit
