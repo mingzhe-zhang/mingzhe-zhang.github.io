@@ -6,7 +6,7 @@ author_profile: true
 <font size="4">The main conferences of computer architectrue and system sorted by deadline. <a href="javascript:window.external.AddFavorite('https://mingzhe-zhang.github.io/submission-map/','Conference List for computer architecture and system')">Click Here</a> to add this page to the favorites.</font>  
 (Fork from the Professor Dan Tsafrir's conference list. The original version is [here](http://www.cs.technion.ac.il/~dan/index_sysvenues_deadline.html).)
 
-<font size="4" color="grey">[Last Update: Mar-01-2020]</font>
+<font size="4" color="grey">[Last Update: Mar-08-2020]</font>
 
 <table align="center">
 	<tr>
@@ -190,18 +190,9 @@ Shanghai, China</a></td>
 		<td align="center">-</td>
 	</tr>
 	
+	
 	<tr>
-		<td rowspan="5"><b><i>May</i></b></td>
-		<td>OSDI</td>
-		<td><a href="https://www.usenix.org/conference/osdi20" title="date: 2020-11-04..06, notify: 2020-08-04">2020-05-12<br>Banff, Alberta, Canada</a></td>
-		<td align="center">-</td>
-		<td><a href="https://www.usenix.org/conference/osdi18" title="date: 2018-10-08..10, notify: 2018-07-24">2018-05-03<br>
-Carlsbad, CA</a></td>
-		<td align="center">-</td>
-		<td><a href="https://www.usenix.org/conference/osdi16" title="date: 2016-11-02..04, notify: 2016-07-30">2016-05-10<br>
-Savannah, GA</a></td>
-	</tr>
-	<tr>
+		<td rowspan="6"><b><i>May</i></b></td>
 		<td>CLUSTER</td>
 		<td><a href="https://clustercomp.org/2020/" title="date: 2020-11-14..17, notify: 2020-07-06">2020-05-10<br>Kobe, Japan</a></td>
 		<td><a href="https://clustercomp.org/2019/" title="date: 2019-09-24..27, notify: 2019-07-15">2019-05-17<br>
@@ -213,6 +204,17 @@ Hawaii, US</a></td>
 		<td><a href="https://clustercomp.org/2016/" title="date: 2016-09-12..15, notify: 2016-07-01">2016-05-14<br>
 Taipei, Taiwan</a></td>
 	</tr>
+		<tr>
+		<td>OSDI</td>
+		<td><a href="https://www.usenix.org/conference/osdi20" title="date: 2020-11-04..06, notify: 2020-08-04">2020-05-12<br>Banff, Alberta, Canada</a></td>
+		<td align="center">-</td>
+		<td><a href="https://www.usenix.org/conference/osdi18" title="date: 2018-10-08..10, notify: 2018-07-24">2018-05-03<br>
+Carlsbad, CA</a></td>
+		<td align="center">-</td>
+		<td><a href="https://www.usenix.org/conference/osdi16" title="date: 2016-11-02..04, notify: 2016-07-30">2016-05-10<br>
+Savannah, GA</a></td>
+	</tr>
+	
 	<tr>
 		<td>IISWC</td>
 		<td align="center">-</td>
@@ -224,6 +226,19 @@ Raleigh, NC</a></td>
 Seattle, WA</a></td>
 		<td><a href="http://www.iiswc.org/iiswc2016/index.html" title="date: 2016-09-25..27, notify: 2016-07-12">2016-05-13<br>
 Rhode Island, USA</a></td>
+	</tr>
+	<tr>
+		<td>SoCC</td>
+		<td><a href="https://acmsocc.github.io/2020" title="date: 2020-10-19..21, notify: 2020-08-11">2020-05-18<br>
+Renton, WA</a></td>
+		<td><a href="https://acmsocc.github.io/2019" title="date: 2019-10-20..23, notify: 2019-09-03">2019-06-10<br>
+Santa Cruz, CA</a></td>
+		<td><a href="https://acmsocc.github.io/2018" title="date: 2018-10-11..13, notify: 2018-08-03">2018-05-15<br>
+Carlsbad, CA</a></td>
+		<td><a href="http://acmsocc.github.io/2017" title="date: 2017-09-25..27, notify: 2017-07-23">2017-05-05<br>
+Santa Clara, CA</a></td>
+		<td><a href="http://acmsocc.github.io/2016/index.html" title="date: 2016-10-05..07, notify: 2016-07-29">2016-05-24<br>
+Santa Clara, CA</a></td>
 	</tr>
 	<tr>
 		<td>APsys</td>
@@ -246,7 +261,7 @@ Hong Kong, China</a></td>
 	</tr>
 	
 	<tr>
-		<td rowspan="3"><b><i>Jun</i></b></td>
+		<td rowspan="2"><b><i>Jun</i></b></td>
 		<td>HiPEAC</td>
 		<td><a href="https://www.hipeac.net/2021/budapest/#/" title="date: 2021-01-18..20, notify: 2020-11-15">2020-06-01<br>Budapest, Hungary</a></td>
 		<td><a href="https://www.hipeac.net/2020/bologna/#/" title="date: 2020-01-20, notify: 2019-11-15">2019-06-01<br>
@@ -259,21 +274,10 @@ Manchester, UK</a></td>
 Stockholm, Sweden</a></td>
 	</tr>
 	<tr>
-		<td>SoCC</td>
-		<td align="center">-</td>
-		<td><a href="https://acmsocc.github.io/2019" title="date: 2019-10-20..23, notify: 2019-09-03">2019-06-10<br>
-Santa Cruz, CA</a></td>
-		<td><a href="https://acmsocc.github.io/2018" title="date: 2018-10-11..13, notify: 2018-08-03">2018-05-15<br>
-Carlsbad, CA</a></td>
-		<td><a href="http://acmsocc.github.io/2017" title="date: 2017-09-25..27, notify: 2017-07-23">2017-05-05<br>
-Santa Clara, CA</a></td>
-		<td><a href="http://acmsocc.github.io/2016/index.html" title="date: 2016-10-05..07, notify: 2016-07-29">2016-05-24<br>
-Santa Clara, CA</a></td>
-	</tr>
-	<tr>
 		<td>ICCD</td>
-		<td align="center">-</td>
-		<td><a href="https://www.iccd-conf.com/" title="date: 2019-11-17..20, notify: 2019-09-09">2019-06-28<br>
+		<td><a href="https://www.iccd-conf.com/" title="date: 2020-10-18..21, notify: 2020-08-17">2020-06-05<br>
+Hartford, CT</a></td>
+		<td><a href="https://www.iccd-conf.com/2019/Home.html" title="date: 2019-11-17..20, notify: 2019-09-09">2019-06-28<br>
 Abu Dhabi, UAE</a></td>
 		<td><a href="https://www.iccd-conf.com/2018/Home.html" title="date: 2018-10-07..10, notify: 2018-08-06">2018-05-25<br>Orlando, FL</a></td>
 		<td><a href="https://www.iccd-conf.com/2017/Home.html" title="date: 2017-11-05..08, notify: 2017-08-31">2017-06-23<br>
@@ -444,7 +448,7 @@ Valencia, Spain</a></td>
 Phoenix, AZ</a></td>
 		<td><a href="http://iscaconf.org/isca2018" title="date: 2018-06-02..06, notify: 2018-03-13">2017-11-21<br>
 Los Angeles, CA</a></td>
-		<td><a href="http://isca17.ece.utoronto.ca/" title="date: 2017-06-24..28, notify: 2017-03-08">2016-11-18
+		<td><a href="http://isca17.ece.utoronto.ca/" title="date: 2017-06-24..28, notify: 2017-03-08">2016-11-18<br>
 Toronto, CA</a></td>
 	</tr>
 </table>
