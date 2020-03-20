@@ -9,6 +9,7 @@ author_profile: true
 - Session Chair, IEEE Non-Volatile Memory Systems and Applications Symposium (NVMSA), 2019
 
 ## Conference Technical Program Committee
+- IEEE Non-Volatile Memory Systems and Applications Symposium (NVMSA), 2020
 - International Conference on Networking, Architecture, and Storage (NAS), 2019
 - IEEE Non-Volatile Memory Systems and Applications Symposium (NVMSA), 2019
 
