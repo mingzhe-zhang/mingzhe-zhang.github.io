@@ -6,7 +6,7 @@ author_profile: true
 <font size="4">The main conferences of computer architectrue and system sorted by deadline. <a href="javascript:window.external.AddFavorite('https://mingzhe-zhang.github.io/submission-map/','Conference List for computer architecture and system')">Click Here</a> to add this page to the favorites.</font>  
 (Fork from the Professor Dan Tsafrir's conference list. The original version is [here](http://www.cs.technion.ac.il/~dan/index_sysvenues_deadline.html).)
 
-<font size="4" color="grey">[Last Update: Mar-16-2020]</font>
+<font size="4" color="grey">[Last Update: Mar-23-2020]</font>
 
 <table align="center">
 	<tr>
@@ -154,8 +154,8 @@ Haifa, Israel</a></td>
 	<tr>
 		<td rowspan="3"><b><i>Apr</i></b></td>
 		<td>MICRO</td>
-		<td><a href="http://www.microarch.org/micro53/" title="date: 2020-10-17..21, notify: 2020-07-01">2020-04-03<br>
-Athens, Greek</a></td>
+		<td><a href="http://www.microarch.org/micro53/" title="date: 2020-10-17..21, notify: 2020-07-01"><font color="#FF0000">2020-04-17<br>(Extended for 2 weeks due to the COVID-19 pandemic) <br>
+Athens, Greek</font></a></td>
 		<td><a href="http://www.microarch.org/micro52/" title="date: 2019-10-12..16, notify: 2019-07-27">2019-04-05<br>
 Columbus, Ohio</a></td>
 		<td><a href="http://www.microarch.org/micro51/" title="date: 2018-10-20..24, notify: 2018-07-18">2018-04-06<br>
