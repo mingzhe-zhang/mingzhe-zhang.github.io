@@ -15,10 +15,12 @@ author_profile: true
 
 ## Journal Reviewer
 - IEEE Transactions on Computers (TOC)
+- IEEE Transactions on VLSI (TVLSI)
+- ACM Computing Surveys
 - Journal of Computer Science and Technology (JCST)
 - The Computer Journal
 - Frontiers of Computer Science
 - Journal of Computer Research and Development (CRAD)
 - Journal on Communications and Networks
-- ACM Computing Surveys
+
 
