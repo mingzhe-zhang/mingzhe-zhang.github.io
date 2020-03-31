@@ -6,7 +6,7 @@ author_profile: true
 <font size="4">The main conferences of computer architectrue and system sorted by deadline. <a href="javascript:window.external.AddFavorite('https://mingzhe-zhang.github.io/submission-map/','Conference List for computer architecture and system')">Click Here</a> to add this page to the favorites.</font>  
 (Fork from the Professor Dan Tsafrir's conference list. The original version is [here](http://www.cs.technion.ac.il/~dan/index_sysvenues_deadline.html).)
 
-<font size="4" color="grey">[Last Update: Mar-30-2020]</font>
+<font size="4" color="grey">[Last Update: Mar-31-2020]</font>
 
 <table align="center">
 	<tr>
@@ -192,7 +192,7 @@ Shanghai, China</a></td>
 	
 	
 	<tr>
-		<td rowspan="6"><b><i>May</i></b></td>
+		<td rowspan="5"><b><i>May</i></b></td>
 		<td>CLUSTER</td>
 		<td><a href="https://clustercomp.org/2020/" title="date: 2020-11-14..17, notify: 2020-07-06">2020-05-10<br>Kobe, Japan</a></td>
 		<td><a href="https://clustercomp.org/2019/" title="date: 2019-09-24..27, notify: 2019-07-15">2019-05-17<br>
@@ -215,19 +215,7 @@ Carlsbad, CA</a></td>
 Savannah, GA</a></td>
 	</tr>
 	
-	<tr>
-		<td>IISWC</td>
-		<td align="center">-</td>
-		<td><a href="http://www.iiswc.org/iiswc2019/index.html" title="date: 2019-11-03..05, notify: 2019-08-15">2019-05-31<br>
-Orlando, FL</a></td>
-		<td><a href="http://www.iiswc.org/iiswc2018" title="date: 2018-09-30..02, notify: 2018-07-27">2018-05-18<br>
-Raleigh, NC</a></td>
-		<td><a href="http://www.iiswc.org/iiswc2017/index.html" title="date: 2017-10-01..03, notify: 2017-08-01">2017-06-02<br>
-Seattle, WA</a></td>
-		<td><a href="http://www.iiswc.org/iiswc2016/index.html" title="date: 2016-09-25..27, notify: 2016-07-12">2016-05-13<br>
-Rhode Island, USA</a></td>
-	</tr>
-	<tr>
+		<tr>
 		<td>SoCC</td>
 		<td><a href="https://acmsocc.github.io/2020" title="date: 2020-10-19..21, notify: 2020-08-11">2020-05-18<br>
 Renton, WA</a></td>
@@ -285,9 +273,20 @@ Boston, MA</a></td>
 		<td><a href="https://www.iccd-conf.com/2016/Home.html" title="date: 2016-10-03..05, notify: 2016-07-29">2016-05-20<br>
 Phoenix, AZ</a></td>
 	</tr>
-	
 	<tr>
-		<td rowspan="3"><b><i>Jul</i></b></td>
+		<td rowspan="4"><b><i>Jul</i></b></td>		<td>IISWC</td>
+		<td><a href="http://www.iiswc.org/iiswc2020/index.html" title="date: 2020-10-27..29, notify: 2020-08-24">2020-07-10<br>
+Beijing, China<br><font color="#FF0000">(Taking Place Virtually due to the COVID-19 pandemic)</font></a></td>
+		<td><a href="http://www.iiswc.org/iiswc2019/index.html" title="date: 2019-11-03..05, notify: 2019-08-15">2019-05-31<br>
+Orlando, FL</a></td>
+		<td><a href="http://www.iiswc.org/iiswc2018" title="date: 2018-09-30..02, notify: 2018-07-27">2018-05-18<br>
+Raleigh, NC</a></td>
+		<td><a href="http://www.iiswc.org/iiswc2017/index.html" title="date: 2017-10-01..03, notify: 2017-08-01">2017-06-02<br>
+Seattle, WA</a></td>
+		<td><a href="http://www.iiswc.org/iiswc2016/index.html" title="date: 2016-09-25..27, notify: 2016-07-12">2016-05-13<br>
+Rhode Island, USA</a></td>
+	</tr>
+	<tr>
 		<td>ASP-DAC</td>
 		<td><a href="http://www.aspdac.com/aspdac2021/" title="date: 2021-01-18..21, notify: 2020-09-13">2020-07-26<br>
 Tokyo, Japan</a></td>
