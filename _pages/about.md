@@ -22,11 +22,12 @@ I do research in Computer Architecture and Bigdata-oriented System, including:
 ## Updates
 
 
-<!-- hitwebcounter Code START -->
-<a href="https://www.hitwebcounter.com" target="_blank">
-The <img src="https://hitwebcounter.com/counter/counter.php?page=7218568&style=0006&nbdigits=8&type=page&initCount=0" title="User Stats" Alt="PHP Hits Count"   border="0" > visitor since March 31st, 2020.
-</a>          
+   
 
 ## Recent Visit
 
 <a href="https://clustrmaps.com/site/17p9b" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=_x7tqyOr885brXGvZjrsKqXa4MFwSfmlCNrM9Pdv_q4&cl=ffffff" /></a>
+<!-- hitwebcounter Code START -->
+The <a href="https://www.hitwebcounter.com" target="_blank">
+<img src="https://hitwebcounter.com/counter/counter.php?page=7218568&style=0006&nbdigits=8&type=page&initCount=0" title="User Stats" Alt="PHP Hits Count"   border="0" > 
+</a> visitor since March 31st, 2020.      
