@@ -17,6 +17,7 @@ author_profile: true
 - IEEE Transactions on Computers (TOC)
 - IEEE Transactions on VLSI (TVLSI)
 - ACM Computing Surveys
+- IEEE Micro
 - Journal of Computer Science and Technology (JCST)
 - The Computer Journal
 - Frontiers of Computer Science
