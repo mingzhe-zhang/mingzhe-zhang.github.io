@@ -301,7 +301,7 @@ Chiba/Tokyo, Japan</a></td>
 	</tr>
 	<tr>
 		<td>HPCA</td>
-		<td><a href="https://www.hpca-conf.org/2021/" title="date: 2021-02, notify: TBD">TBD<br>Seoul, Korea</td>
+		<td><a href="https://www.hpca-conf.org/2021/" title="date: 2021-02, notify: TBD">TBD<br>Seoul, Korea</a></td>
 		<td><a href="https://www.hpca-conf.org/2020/" title="date: 2020-02-22..26, notify: 2019-11-06">2019-07-30<br>
 San Diego, CA</a></td>
 		<td><a href="http://hpca2019.seas.gwu.edu/" title="date: 2019-02-16..20, notify: 2018-11-06">2018-08-03<br>
