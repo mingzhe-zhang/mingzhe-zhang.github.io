@@ -313,7 +313,7 @@ Austin, TX</a></td>
 	</tr>
 
 	<tr>
-		<td rowspan=2><b><i>Aug</i></b></td>
+		<td rowspan="2"><b><i>Aug</i></b></td>
 		<td>PPoPP</td>
 		<td><a href="http://conf.researchr.org/home/ppopp-2021" title="date: 2021-02-27..03, notify: 2020-11-16">2020-08-13<br>
 Seoul, Korea</a></td>
