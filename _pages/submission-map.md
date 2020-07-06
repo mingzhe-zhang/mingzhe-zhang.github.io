@@ -6,7 +6,7 @@ author_profile: true
 <font size="4">The main conferences of computer architectrue and system sorted by deadline. <a href="javascript:window.external.AddFavorite('https://mingzhe-zhang.github.io/submission-map/','Conference List for computer architecture and system')">Click Here</a> to add this page to the favorites.</font>  
 (Fork from the Professor Dan Tsafrir's conference list. The original version is [here](http://www.cs.technion.ac.il/~dan/index_sysvenues_deadline.html).)
 
-<font size="4" color="grey">[Last Update: Jun-22-2020]</font>
+<font size="4" color="grey">[Last Update: Jul-06-2020]</font>
 
 <table align="center">
 	<tr>
@@ -384,7 +384,7 @@ Santa Clara, CA</a></td>
 	<tr>
 		<td rowspan="2"><b><i>Oct</i></b></td>
 		<td>IPDPS</td>
-		<td align="center">-</td>
+		<td><a href="http://www.ipdps.org/" title="date: 2021-05-17..21, notify: ">2020-10- <br>Portland, OR</a></td>
 		<td><a href="http://www.ipdps.org/ipdps2020" title="date: 2020-05-18..22, notify: 2020-01-20">2019-10-07<br>
 New Orleans, LA</a></td>
 		<td><a href="http://www.ipdps.org/ipdps2019" title="date: 2019-05-20..24, notify: 2019-01-20">2018-10-15<br>
@@ -410,7 +410,8 @@ San Francisco, CA</a></td>
 	<tr>
 		<td rowspan="4"><b><i>Nov</i></b></td>
 		<td>EuroSys</td>
-		<td align="center">-</td>
+		<td><a href="https://2021.eurosys.org/" title="date: 2021-04-26..29, notify: ">-<br>
+Edinburgh, Scotland, UK</a></td>
 		<td><a href="http://eurosys2020.org/" title="date: 2020-04-27..30, notify: 2020-02-15">2019-11-04<br>
 Heraklion, Crete, Greece</a></td>
 		<td><a href="http://eurosys2019.org/" title="date: 2019-03-25..28, notify: 2018-12-21">2018-10-01<br>
