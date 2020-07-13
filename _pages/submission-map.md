@@ -6,7 +6,7 @@ author_profile: true
 <font size="4">The main conferences of computer architectrue and system sorted by deadline. <a href="javascript:window.external.AddFavorite('https://mingzhe-zhang.github.io/submission-map/','Conference List for computer architecture and system')">Click Here</a> to add this page to the favorites.</font>  
 (Fork from the Professor Dan Tsafrir's conference list. The original version is [here](http://www.cs.technion.ac.il/~dan/index_sysvenues_deadline.html).)
 
-<font size="4" color="grey">[Last Update: Jul-06-2020]</font>
+<font size="4" color="grey">[Last Update: Jul-13-2020]</font>
 
 <table align="center">
 	<tr>
@@ -382,7 +382,7 @@ Santa Clara, CA</a></td>
 	</tr>
 
 	<tr>
-		<td rowspan="2"><b><i>Oct</i></b></td>
+		<td rowspan="3"><b><i>Oct</i></b></td>
 		<td>IPDPS</td>
 		<td><a href="http://www.ipdps.org/" title="date: 2021-05-17..21, notify: ">2020-10- <br>Portland, OR</a></td>
 		<td><a href="http://www.ipdps.org/ipdps2020" title="date: 2020-05-18..22, notify: 2020-01-20">2019-10-07<br>
@@ -393,6 +393,19 @@ Rio de Janeiro, Brazil</a></td>
 Vancouver, CA</a></td>
 		<td><a href="http://www.ipdps.org/ipdps2017" title="date: 2017-05-29..02, notify: 2017-01-08">2016-10-23<br>
 Orlando, FL</a></td>
+	</tr>
+	<tr>
+		<td>EuroSys</td>
+		<td><a href="https://2021.eurosys.org/" title="date: 2021-04-26..29, notify: 2021-01-20">2020-10-09<br>
+	Edinburgh, Scotland, UK</a></td>
+		<td><a href="http://eurosys2020.org/" title="date: 2020-04-27..30, notify: 2020-02-15">2019-11-04<br>
+	Heraklion, Crete, Greece</a></td>
+		<td><a href="http://eurosys2019.org/" title="date: 2019-03-25..28, notify: 2018-12-21">2018-10-01<br>
+	Dresden, Germany</a></td>
+		<td><a href="http://eurosys2018.org/" title="date: 2018-04-23..26, notify: 2018-01-22">2017-10-27<br>
+	Porto, Portugal</a></td>
+		<td><a href="http://eurosys2017.org/" title="date: 2017-04-23..26, notify: 2017-01-23">2016-10-14<br>
+	Belgrade, Serbia</a></td>
 	</tr>
 	<tr>
 		<td>ISPASS</td>
@@ -408,20 +421,7 @@ San Francisco, CA</a></td>
 	</tr>
 	
 	<tr>
-		<td rowspan="4"><b><i>Nov</i></b></td>
-		<td>EuroSys</td>
-		<td><a href="https://2021.eurosys.org/" title="date: 2021-04-26..29, notify: ">-<br>
-Edinburgh, Scotland, UK</a></td>
-		<td><a href="http://eurosys2020.org/" title="date: 2020-04-27..30, notify: 2020-02-15">2019-11-04<br>
-Heraklion, Crete, Greece</a></td>
-		<td><a href="http://eurosys2019.org/" title="date: 2019-03-25..28, notify: 2018-12-21">2018-10-01<br>
-Dresden, Germany</a></td>
-		<td><a href="http://eurosys2018.org/" title="date: 2018-04-23..26, notify: 2018-01-22">2017-10-27<br>
-Porto, Portugal</a></td>
-		<td><a href="http://eurosys2017.org/" title="date: 2017-04-23..26, notify: 2017-01-23">2016-10-14<br>
-Belgrade, Serbia</a></td>
-	</tr>
-	<tr>
+		<td rowspan="3"><b><i>Nov</i></b></td>
 		<td>DAC</td>
 		<td align="center">-</td>
 		<td><a href="https://www.dac.com/" title="date: 2020-07-19..23, notify: 2020-02-28">2019-11-21<br>
