@@ -6,7 +6,7 @@ author_profile: true
 <font size="4">The main conferences of computer architectrue and system sorted by deadline. <a href="javascript:window.external.AddFavorite('https://mingzhe-zhang.github.io/submission-map/','Conference List for computer architecture and system')">Click Here</a> to add this page to the favorites.</font>  
 (Fork from the Professor Dan Tsafrir's conference list. The original version is [here](http://www.cs.technion.ac.il/~dan/index_sysvenues_deadline.html).)
 
-<font size="4" color="grey">[Last Update: Jul-13-2020]</font>
+<font size="4" color="grey">[Last Update: Jul-20-2020]</font>
 
 <table align="center">
 	<tr>
@@ -343,7 +343,7 @@ Xi'an, China</a></td>
 	<tr>
 		<td rowspan="3"><b><i>Sep</i></b></td>
 		<td>DATE</td>
-		<td><a href="http://www.date-conference.com/" title="date: 2021-02-01..05, notify: ">2020-09-21<br>
+		<td><a href="http://www.date-conference.com/" title="date: 2021-02-01..05, notify: 2020-11-13">2020-09-21<br>
 Alpexpo Grenoble, France</a></td>
 		<td><a href="http://www.date-conference.com/" title="date: 2020-03-09..13, notify: 2019-11-07">2019-09-08<br>
 Alpexpo Grenoble, France</a></td>
@@ -435,7 +435,7 @@ Austin, TX</a></td>
 	</tr>
 	<tr>
 		<td>PLDI</td>
-		<td align="center">-</td>
+		<td><a href="https://conf.researchr.org/home/pldi-2021" title="date: 2021-06-20..25, notify:">-<br>Quebec City, CA</a></td>
 		<td><a href="http://conf.researchr.org/home/pldi-2020" title="date: 2020-06-15..20, notify: 2020-02-21">2019-11-22<br>
 London, UK</a></td>
 		<td><a href="http://conf.researchr.org/home/pldi-2019" title="date: 2019-06-24..26, notify: 2019-02-15">2018-11-16<br>
