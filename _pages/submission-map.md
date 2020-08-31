@@ -6,7 +6,7 @@ author_profile: true
 <font size="4">The main conferences of computer architectrue and system sorted by deadline. <a href="javascript:window.external.AddFavorite('https://mingzhe-zhang.github.io/submission-map/','Conference List for computer architecture and system')">Click Here</a> to add this page to the favorites.</font>  
 (Fork from the Professor Dan Tsafrir's conference list. The original version is [here](http://www.cs.technion.ac.il/~dan/index_sysvenues_deadline.html).)
 
-<font size="4" color="grey">[Last Update: Aug-24-2020]</font>
+<font size="4" color="grey">[Last Update: Aug-31-2020]</font>
 
 <table align="center">
 	<tr>
@@ -458,8 +458,9 @@ San Francisco, CA</a></td>
 		<td rowspan="3"><b><i>Nov</i></b></td>
 		<td>DAC</td>
 		<td align="center">-</td>
-		<td align="center">-</td>
-		<td><a href="https://www.dac.com/" title="date: 2020-07-19..23, notify: 2020-02-28">2019-11-21<br>
+		<td><a href="https://www.dac.com/" title="date: 2020-07-11..15, notify: ">-<br>
+San Francisco, CA</a></td>
+		<td><a href="https://www.dac.com/content/57th-dac" title="date: 2020-07-19..23, notify: 2020-02-28">2019-11-21<br>
 San Francisco, CA</a></td>
 		<td><a href="https://www.dac.com/content/56th-dac" title="date: 2019-06-02..06, notify: 2019-03-25">2018-11-27<br>
 Las Vegas, NV</a></td>
