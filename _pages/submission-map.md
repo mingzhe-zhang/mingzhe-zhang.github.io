@@ -485,7 +485,8 @@ Barcelona, Spain</a></td>
 	<tr>
 		<td>ISCA</td>
 		<td align="center">-</td>
-		<td align="center">-</td>
+		<td><a href="http://iscaconf.org/isca2021" title="date: 2021-05-22..26, notify: 2021-03-04">2020-11-24<br>
+Valencia, Spain</a></td>
 		<td><a href="http://iscaconf.org/isca2020" title="date: 2020-05-30..3, notify: 2020-03-04">2019-11-26<br>
 Valencia, Spain</a></td>
 		<td><a href="http://iscaconf.org/isca2019" title="date: 2019-06-22..26, notify: 2019-03-15">2018-12-07<br>
