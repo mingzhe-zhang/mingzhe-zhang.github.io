@@ -6,7 +6,7 @@ author_profile: true
 <font size="4">The main conferences of computer architectrue and system sorted by deadline. <a href="javascript:window.external.AddFavorite('https://mingzhe-zhang.github.io/submission-map/','Conference List for computer architecture and system')">Click Here</a> to add this page to the favorites.</font>  
 (Fork from the Professor Dan Tsafrir's conference list. The original version is [here](http://www.cs.technion.ac.il/~dan/index_sysvenues_deadline.html).)
 
-<font size="4" color="grey">[Last Update: Sep-28-2020]</font>
+<font size="4" color="grey">[Last Update: Oct-09-2020]</font>
 
 <table align="center">
 	<tr>
@@ -20,9 +20,9 @@ author_profile: true
 		<td>Deadline 2016</td>
 	</tr>
 	<tr>
-		<td rowspan="6"><b><i>Jan</i></b></td>
+		<td rowspan="5"><b><i>Jan</i></b></td>
 		<td>ATC</td>
-		<td><a href="https://www.usenix.org/conference/atc21" title="date: 2021-07-14..16, notify: ">-<br> SANTA CLARA, CA</a></td>
+		<td><a href="https://www.usenix.org/conference/atc21" title="date: 2021-07-14..16, notify: 2021-04-26">2021-01-12<br> SANTA CLARA, CA</a></td>
 		<td><a href="https://www.usenix.org/conference/atc20" title="date: 2020-07-15..17, notify: 2020-04-24">2020-01-15<br> Boston, MA</a></td>
 		<td><a href="https://www.usenix.org/conference/atc19" title="date: 2019-07-10..12, notify: 2019-04-16">2019-01-10<br> Renton, WA</a></td>
 		<td><a href="https://www.usenix.org/conference/atc18" title="date: 2018-07-11..13, notify: 2018-04-18">2018-02-06<br>
@@ -33,7 +33,7 @@ Santa Clara, CA</a></td>
 	</tr>
 	<tr>
 		<td>ICDCS</td>
-		<td><a href="https://icdcs2021.us/" title="date: 2021-07-07..10, notify: 2021-03-07">2020-01-13<br>Washington DC</a></td>
+		<td><a href="https://icdcs2021.us/" title="date: 2021-07-07..10, notify: 2021-03-07">2021-01-13<br>Washington DC</a></td>
 		<td><a href="https://icdcs2020.sg/" title="date: 2020-07-08..10, notify: 2020-03-14">2020-01-06<br>Singapore</a></td>
 		<td><a href="http://theory.utdallas.edu/ICDCS2019" title="date: 2019-07-07..10, notify: 2019-03-28">2019-01-12<br>Dallas, TX</a></td>
 		<td align="center">-</td>
@@ -76,17 +76,16 @@ Kyoto, Japan</a></td>
 		<td><a href="http://ics16.bilkent.edu.tr" title="date: 2016-06-01..03, notify: 2016-03-21">2016-01-30<br>Istanbul, Turkey</a></td>
 	</tr>
 	<tr>
+		<td rowspan="3"><b><i>Feb</i></b></td>
 		<td>SIGMETRICS</td>
-		<td><a href="http://www.sigmetrics.org/sigmetrics2021" title="date: 2020-06-14..18, notify: ">-<br>Beijing, China</a></td>
+		<td><a href="http://www.sigmetrics.org/sigmetrics2021" title="date: 2021-06-14..18, notify: 2021-03-30">2021-02-05<br>Beijing, China</a></td>
 		<td><a href="http://www.sigmetrics.org/sigmetrics2020" title="date: 2020-06-08..12, notify: 2020-03-31">2020-01-27<br>Boston, MA</a></td>
 		<td><a href="http://www.sigmetrics.org/sigmetrics2019" title="date: 2019-06-24..28, notify: 2019-04-26">2019-02-11<br>Phoenix, AZ</a></td>
 		<td><a href="http://www.sigmetrics.org/sigmetrics2018" title="date: 2018-06-18..22, notify: 2018-04-27">2018-02-19<br>Irvine, CA</a></td>
 		<td align="center">-</td>
 		<td><a href="http://www.sigmetrics.org/sigmetrics2017" title="date: 2016-06-05..09, notify:">2016-10-18<br>Urbana-Champaign, IL</a></td>
 	</tr>
-	
 	<tr>
-		<td rowspan="2"><b><i>Feb</i></b></td>
 		<td>SIGCOMM</td>
 		<td align="center">-</td>
 		<td><a href="http://conferences.sigcomm.org/sigcomm/2020" title="date: 2020-08-10..14, notify: 2020-03-15">2020-02-07<br>New York City, NY</a></td>
