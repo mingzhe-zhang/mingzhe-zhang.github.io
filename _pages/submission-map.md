@@ -6,7 +6,7 @@ author_profile: true
 <font size="4">The main conferences of computer architectrue and system sorted by deadline. <a href="javascript:window.external.AddFavorite('https://mingzhe-zhang.github.io/submission-map/','Conference List for computer architecture and system')">Click Here</a> to add this page to the favorites.</font>  
 (Fork from the Professor Dan Tsafrir's conference list. The original version is [here](http://www.cs.technion.ac.il/~dan/index_sysvenues_deadline.html).)
 
-<font size="4" color="grey">[Last Update: Oct-09-2020]</font>
+<font size="4" color="grey">[Last Update: Oct-26-2020]</font>
 
 <table align="center">
 	<tr>
@@ -55,7 +55,7 @@ Como, Italy</a></td>
 	</tr>
 		<tr>
 		<td>HPDC</td>
-		<td align="center">-</td>
+		<td><a href="http://www.hpdc.org/2021" title="date: 2021-06-21..24, notify: 2021-03-26">2020-01-22<br>Stockholm, Sweden</a></td>
 		<td><a href="http://www.hpdc.org/2020" title="date: 2020-06-23..26, notify: 2020-03-27">2020-01-16<br>Stockholm, Sweden</a></td>
 		<td><a href="http://www.hpdc.org/2019" title="ddate: 2019-06-22..29, notify: 2019-03-25">2019-01-23<br>
 Phoenix, AZ</a></td>
