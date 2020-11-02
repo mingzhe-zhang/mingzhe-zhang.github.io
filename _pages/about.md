@@ -20,7 +20,9 @@ I do research in Computer Architecture and Bigdata-oriented System, including:
 - Domain-specific Accelerators.
 
 ## Updates
-
+<frameset cols="40" rows="10">
+	<frame src="update.html" scrolling="auto"> 
+</frameset>
 
    
 

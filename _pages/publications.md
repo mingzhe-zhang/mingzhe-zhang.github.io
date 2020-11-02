@@ -5,6 +5,12 @@ author_profile: true
 ---
 <br>
 # Conference
+
+## 2021
+[C17] <b>[Streamline Ring ORAM Accesses through Spatial and Temporal Optimization](../publications/HPCA2021)</b><br>
+Dingyuan Cao, <b>Mingzhe Zhang</b>, Hang Lu, Xiaochun Ye, Dongrui Fan, Yuezhi Che, Rujia Wang.
+<i>The 27th IEEE International Symposium on High-Performance Computer Architecture</i>. <b>HPCA 2021</b>.
+
 ## 2019
 [C16] <b>[Self-adaptive Address Mapping Mechanism for Access Pattern Awareness on DRAM](../publications/ISPA2019)</b><br>
 Chundian Li, <b>Mingzhe Zhang</b>, Zhiwei Xu, Xianhe Sun.
@@ -78,11 +84,12 @@ Shuai Zhang, Zhiyong Liu, Dongrui Fan, Fonglong Song, <b>Mingzhe Zhang</b>.
 
 # Journals & Transactions
 
-## 2019
+## 2020
 [J04] <b>[Architecting Effectual Computation for Machine Learning Accelerators](../publications/TCAD2019)</b><br>
 Hang Lu, Mingzhe Zhang, Yinhe Han, Huawei Li, Li Xiaowei.
-<i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>. (Early Access)
+<i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>， Vol. 39, Issue 10, pp. 2654-2667.
 
+## 2019
 [J03] <b>[A Survey on Architecture Research of Non-Volatile Memory based on Dynamical Trade-off (in chinese)](../publications/CRAD2019)</b><br>
 <b>Mingzhe Zhang</b>, Fa Zhang, Zhiyong Liu.
 <i>Journal of Computer Research and Development</i>, Vol. 56, Issue 4, pp. 677-691.
