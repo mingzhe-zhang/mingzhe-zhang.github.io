@@ -21,7 +21,7 @@ I do research in Computer Architecture and Bigdata-oriented System, including:
 
 ## Updates
 <frameset cols="40" rows="10">
-	<frame src="update.html" scrolling="auto"> 
+	<frame src="./update.html" scrolling="auto"> 
 </frameset>
 
    
