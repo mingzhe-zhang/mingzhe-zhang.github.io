@@ -20,7 +20,7 @@ I do research in Computer Architecture and Bigdata-oriented System, including:
 - Domain-specific Accelerators.
 
 ## Updates
-[2020-10-28] Our work <i>"Streamline Ring ORAM Accesses through Spatial and Temporal Optimization"</i> has been accepted by HPCA 2021! Congrats to Dingyuan! (<font color="#FF0000">Dingyuan has become the first undergraduate student from China who can publish a paper in the top-tier conference of computer architecture!</font>)
+[2020-10-28] Our work <i>"Streamline Ring ORAM Accesses through Spatial and Temporal Optimization"</i> has been accepted by HPCA 2021! Congrats to all! (<font color="#FF0000">The research intern Dingyuan Cao has become the first undergraduate student from China who can publish a paper in the top-tier conference of computer architecture as the first-author!</font>)
 
    
 
