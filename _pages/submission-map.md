@@ -53,7 +53,7 @@ Siena, Italy</a></td>
 		<td><a href="http://www.computingfrontiers.org/2016/" title="date: 2016-05-16..18, notify: 2016-03-11">2016-01-15<br>
 Como, Italy</a></td>
 	</tr>
-		<tr>
+	<tr>
 		<td>HPDC</td>
 		<td><a href="http://www.hpdc.org/2021" title="date: 2021-06-21..24, notify: 2021-03-26">2020-01-17(abstract)<br>2020-01-22(full)<br>Stockholm, Sweden</a></td>
 		<td><a href="http://www.hpdc.org/2020" title="date: 2020-06-23..26, notify: 2020-03-27">2020-01-16<br>Stockholm, Sweden</a></td>
@@ -77,7 +77,7 @@ Kyoto, Japan</a></td>
 	</tr>
 	<tr>
 	<td>SIGCOMM</td>
-		<td><a href="http://conferences.sigcomm.org/sigcomm/2021/" title="date: 2021-08-23..27, notify: 2021-05-03">2021-01-20(abstract)<br>2021-01-27(full)<br>Virtually Worldwide</td>
+		<td><a href="http://conferences.sigcomm.org/sigcomm/2021/" title="date: 2021-08-23..27, notify: 2021-05-03">2021-01-20(abstract)<br>2021-01-27(full)<br>Virtually Worldwide</a></td>
 		<td><a href="http://conferences.sigcomm.org/sigcomm/2020" title="date: 2020-08-10..14, notify: 2020-03-15">2020-02-07<br>New York City, NY</a></td>
 		<td><a href="http://conferences.sigcomm.org/sigcomm/2019" title="date: 2019-08-19..24, notify: 2019-05-10">2019-01-31<br>
 Beijing, China</a></td>
@@ -111,7 +111,6 @@ Santiago, Spain</a></td>
 		<td><a href="https://europar2016.inria.fr/" title="date: 2016-08-22..26, notify: 2016-04-24">2016-02-06<br>
 Grenoble, France</a></td>
 	</tr>
-	
 	<tr>
 		<td rowspan="4"><b><i>Mar</i></b></td>
 		<td>ISLPED</td>
@@ -162,7 +161,6 @@ Haifa, Israel</a></td>
 		<td><a href="http://sc17.supercomputing.org" title="date: 2017-11-12..17, notify: 2017-06-15">2017-04-03<br>Denver, CO</a></td>
 		<td><a href="http://sc16.supercomputing.org" title="date: 2016-11-13..18, notify: 2016-06-15">2016-04-03<br>Salt Lake City, UT</a></td>
 	</tr>
-
 	<tr>
 		<td rowspan="3"><b><i>Apr</i></b></td>
 		<td>MICRO</td>
@@ -178,8 +176,7 @@ Boston, MA</a></td>
 		<td><a href="http://www.microarch.org/micro49/" title="date: 2016-10-15..19, notify: 2016-06-25">2016-04-10<br>
 Taipei, Taiwan</a></td>
 	</tr>
-	
-		<tr>
+	<tr>
 		<td>PACT</td>
 		<td align="center">-</td>
 		<td><a href="https://pact20.cc.gatech.edu/" title="date: 2020-10-03..07, notify: 2020-07-15">2020-04-10<br>
@@ -204,12 +201,10 @@ Ontario, Canada</a></td>
 Shanghai, China</a></td>
 		<td align="center">-</td>
 	</tr>
-	
-	
 	<tr>
 		<td rowspan="5"><b><i>May</i></b></td>
 		<td>CLUSTER</td>
-		<td><a href="https://clustercomp.org/2020/" title="date: 2021-09-07..10, notify: 2021-07-05"><nobr>2021-05-10(abstract)<br>2021-05-17(full)<br>Portland, OR</a></td>
+		<td><a href="https://clustercomp.org/2021/" title="date: 2021-09-07..10, notify: 2021-07-05"><nobr>2021-05-10(abstract)<br>2021-05-17(full)<br>Portland, OR</a></td>
 		<td><a href="https://clustercomp.org/2020/" title="date: 2020-11-14..17, notify: 2020-07-06">2020-05-10<br>Kobe, Japan</a></td>
 		<td><a href="https://clustercomp.org/2019/" title="date: 2019-09-24..27, notify: 2019-07-15">2019-05-17<br>
 Albuquerque, NM</a></td>
@@ -220,7 +215,7 @@ Hawaii, US</a></td>
 		<td><a href="https://clustercomp.org/2016/" title="date: 2016-09-12..15, notify: 2016-07-01">2016-05-14<br>
 Taipei, Taiwan</a></td>
 	</tr>
-		<tr>
+	<tr>
 		<td>OSDI</td>
 		<td align="center">-</td>
 		<td><a href="https://www.usenix.org/conference/osdi20" title="date: 2020-11-04..06, notify: 2020-08-04">2020-05-12<br>Banff, Alberta, Canada</a></td>
@@ -231,8 +226,7 @@ Carlsbad, CA</a></td>
 		<td><a href="https://www.usenix.org/conference/osdi16" title="date: 2016-11-02..04, notify: 2016-07-30">2016-05-10<br>
 Savannah, GA</a></td>
 	</tr>
-	
-		<tr>
+	<tr>
 		<td>SoCC</td>
 		<td align="center">-</td>
 		<td><a href="https://acmsocc.github.io/2020" title="date: 2020-10-19..21, notify: 2020-08-11">2020-05-18<br>
