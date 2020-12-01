@@ -33,7 +33,7 @@ Santa Clara, CA</a></td>
 	</tr>
 	<tr>
 		<td>ICDCS</td>
-		<td><a href="https://icdcs2021.us/" title="date: 2021-07-07..10, notify: 2021-03-07">2021-01-06(abstract)<br>2021-01-13(full)<br>Washington DC</a></td>
+		<td><a href="https://icdcs2021.us/" title="date: 2021-07-07..10, notify: 2021-03-07"><nobr>2021-01-06(abstract)</nobr><br>2021-01-13(full)<br>Washington DC</a></td>
 		<td><a href="https://icdcs2020.sg/" title="date: 2020-07-08..10, notify: 2020-03-14">2020-01-06<br>Singapore</a></td>
 		<td><a href="http://theory.utdallas.edu/ICDCS2019" title="date: 2019-07-07..10, notify: 2019-03-28">2019-01-12<br>Dallas, TX</a></td>
 		<td align="center">-</td>
