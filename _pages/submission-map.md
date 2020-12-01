@@ -100,7 +100,7 @@ Salvador, Brazil</a></td>
 	<tr>
 		<td rowspan="1"><b><i>Feb</i></b></td>
 		<td>Euro Par</td>
-		<td><a href="https://2021.euro-par.org" title="date: 2021-09-01..03, notify: 2021-04-30">2021-02-05(abstract)<br>2021-02-12(full)<br>Lisbon, Portugal</a></td>
+		<td><a href="https://2021.euro-par.org" title="date: 2021-09-01..03, notify: 2021-04-30"><nobr>2021-02-05(abstract)</nobr><br>2021-02-12(full)<br>Lisbon, Portugal</a></td>
 		<td><a href="https://2020.euro-par.org" title="date: 2020-08-24..28, notify: 2020-04-30">2020-02-07<br>Warsaw, Poland</a></td>
 		<td><a href="https://2019.euro-par.org" title="date: 2019-08-26..30, notify: 2019-05-03">2019-02-15<br>
 Gottingen,<br>Germany</a></td>
