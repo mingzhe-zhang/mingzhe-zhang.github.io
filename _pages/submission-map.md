@@ -6,7 +6,7 @@ author_profile: true
 <font size="4">The main conferences of computer architectrue and system sorted by deadline. <a href="javascript:window.external.AddFavorite('https://mingzhe-zhang.github.io/submission-map/','Conference List for computer architecture and system')">Click Here</a> to add this page to the favorites.</font>  
 (Fork from the Professor Dan Tsafrir's conference list. The original version is [here](http://www.cs.technion.ac.il/~dan/index_sysvenues_deadline.html).)
 
-<font size="4" color="grey">[Last Update: Dec-15-2020]</font>
+<font size="4" color="grey">[Last Update: Dec-25-2020]</font>
 
 <table align="center">
 	<tr>
@@ -67,15 +67,6 @@ Washington, D.C.</a></td>
 Kyoto, Japan</a></td>
 	</tr>
 	<tr>
-		<td>ICS</td>
-		<td align="center">-</td>
-		<td><a href="https://ics2020.bsc.es" title="date: 2020-06-29..02, notify: 2020-04-03">2020-01-24<br>Barcelona, Spain</a></td>
-		<td><a href="https://ics19.eecis.udel.edu/" title="date: 2019-06-26..28, notify: 2019-04-15">2019-02-01<br>Phoenix, AZ</a></td>
-		<td><a href="http://ics2018.ict.ac.cn" title="date: 2018-06-12..15, notify: 2018-03-25">2018-01-19<br>Beijing, China</a></td>
-		<td><a href="https://press3.mcs.anl.gov/ics2017/" title="date: 2017-06-14..16, notify: 2017-03-21">2017-01-18<br>Chicago, IL</a></td>
-		<td><a href="http://ics16.bilkent.edu.tr" title="date: 2016-06-01..03, notify: 2016-03-21">2016-01-30<br>Istanbul, Turkey</a></td>
-	</tr>
-	<tr>
 	<td>SIGCOMM</td>
 		<td><a href="http://conferences.sigcomm.org/sigcomm/2021/" title="date: 2021-08-23..27, notify: 2021-05-03">2021-01-20(abstract)<br>2021-01-27(full)<br>Virtually Worldwide</a></td>
 		<td><a href="http://conferences.sigcomm.org/sigcomm/2020" title="date: 2020-08-10..14, notify: 2020-03-15">2020-02-07<br>New York City, NY</a></td>
@@ -87,6 +78,15 @@ Budapest, Hungary</a></td>
 Los Angeles, CA</a></td>
 		<td><a href="http://conferences.sigcomm.org/sigcomm/2016" title="date: 2016-08-22..26, notify: 2016-04-22">2016-01-29<br>
 Salvador, Brazil</a></td>
+	</tr>
+	<tr>
+		<td>ICS</td>
+		<td><a href="https://ics21.github.io" title="date: 2021-06-15..17, notify: 2021-03-31">2021-01-28(abstract)<br>2021-02-04(full)<br>Virtual</a></td>
+		<td><a href="https://ics2020.bsc.es" title="date: 2020-06-29..02, notify: 2020-04-03">2020-01-24<br>Barcelona, Spain</a></td>
+		<td><a href="https://ics19.eecis.udel.edu/" title="date: 2019-06-26..28, notify: 2019-04-15">2019-02-01<br>Phoenix, AZ</a></td>
+		<td><a href="http://ics2018.ict.ac.cn" title="date: 2018-06-12..15, notify: 2018-03-25">2018-01-19<br>Beijing, China</a></td>
+		<td><a href="https://press3.mcs.anl.gov/ics2017/" title="date: 2017-06-14..16, notify: 2017-03-21">2017-01-18<br>Chicago, IL</a></td>
+		<td><a href="http://ics16.bilkent.edu.tr" title="date: 2016-06-01..03, notify: 2016-03-21">2016-01-30<br>Istanbul, Turkey</a></td>
 	</tr>
 	<tr>
 	<td>SIGMETRICS<br>(winter)</td>
