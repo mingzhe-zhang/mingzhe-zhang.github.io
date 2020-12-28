@@ -6,7 +6,7 @@ author_profile: true
 <font size="4">The main conferences of computer architectrue and system sorted by deadline. <a href="javascript:window.external.AddFavorite('https://mingzhe-zhang.github.io/submission-map/','Conference List for computer architecture and system')">Click Here</a> to add this page to the favorites.</font>  
 (Fork from the Professor Dan Tsafrir's conference list. The original version is [here](http://www.cs.technion.ac.il/~dan/index_sysvenues_deadline.html).)
 
-<font size="4" color="grey">[Last Update: Dec-25-2020]</font>
+<font size="4" color="grey">[Last Update: Dec-28-2020]</font>
 
 <table align="center">
 	<tr>
@@ -112,7 +112,7 @@ Santiago, Spain</a></td>
 Grenoble, France</a></td>
 	</tr>
 	<tr>
-		<td rowspan="4"><b><i>Mar</i></b></td>
+		<td rowspan="3"><b><i>Mar</i></b></td>
 		<td>ISLPED</td>
 		<td align="center">-</td>
 		<td><a href="http://www.islped.org/2020/" title="date: 2020-08-10..12, notify: 2020-05-22">2020-03-02<br>Boston, MA</a></td>
@@ -124,20 +124,6 @@ Belleve, WA</a></td>
 Taipei, Taiwan</a></td>
 		<td><a href="http://www.islped.org/2016/" title="date: 2016-08-08..10, notify: 2016-04-30">2016-03-06<br>
 San Francisco, CA</a></td>
-	</tr>
-	<tr>
-		<td>ICPP</td>
-		<td align="center">-</td>
-		<td><a href="https://jnamaral.github.io/icpp20/" title="date: 2020-08-17..20, notify: 2020-05-19">2020-03-02<br>
-Edmonton, AB, Canada</a></td>
-		<td><a href="https://www.hpcs.cs.tsukuba.ac.jp/icpp2019" title="date: 2019-08-05..08, notify: 2019-05-17">2019-04-15<br>
-Kyoto, Japan</a></td>
-		<td><a href="http://www.icpp-conf.org/2018" title="date: 2018-08-13..16, notify: 2018-05-03">2018-03-30<br>
-Eugene, OR</a></td>
-		<td><a href="http://www.icpp-conf.org/2017" title="date: 2017-08-16..19, notify: 2017-05-13">2017-03-13<br>
-Bristol, UK</a></td>
-		<td><a href="http://icpp2016.cs.wcupa.edu" title="date: 2016-08-16..19, notify: 2016-05-06">2016-02-26<br>
-Philadelphia, PA</a></td>
 	</tr>
 	<tr>
 		<td>SYSTOR</td>
@@ -162,7 +148,7 @@ Haifa, Israel</a></td>
 		<td><a href="http://sc16.supercomputing.org" title="date: 2016-11-13..18, notify: 2016-06-15">2016-04-03<br>Salt Lake City, UT</a></td>
 	</tr>
 	<tr>
-		<td rowspan="3"><b><i>Apr</i></b></td>
+		<td rowspan="4"><b><i>Apr</i></b></td>
 		<td>MICRO</td>
 		<td align="center">-</td>
 		<td><a href="http://www.microarch.org/micro53/" title="date: 2020-10-17..21, notify: 2020-07-01"><font color="#FF0000">2020-04-17<br>(Extended for 2 weeks due to the COVID-19 pandemic) <br>
@@ -175,6 +161,20 @@ Fukuoka City,<br>Japan</a></td>
 Boston, MA</a></td>
 		<td><a href="http://www.microarch.org/micro49/" title="date: 2016-10-15..19, notify: 2016-06-25">2016-04-10<br>
 Taipei, Taiwan</a></td>
+	</tr>
+	<tr>
+		<td>ICPP</td>
+		<td><a href="https://oaciss.uoregon.edu/icpp21/index.php" title="date: 2021-08-09..12, notify: ">2021-04-16<br>Chicago, IL</a></td>
+		<td><a href="https://jnamaral.github.io/icpp20/" title="date: 2020-08-17..20, notify: 2020-05-19">2020-03-02<br>
+Edmonton, AB, Canada</a></td>
+		<td><a href="https://www.hpcs.cs.tsukuba.ac.jp/icpp2019" title="date: 2019-08-05..08, notify: 2019-05-17">2019-04-15<br>
+Kyoto, Japan</a></td>
+		<td><a href="http://www.icpp-conf.org/2018" title="date: 2018-08-13..16, notify: 2018-05-03">2018-03-30<br>
+Eugene, OR</a></td>
+		<td><a href="http://www.icpp-conf.org/2017" title="date: 2017-08-16..19, notify: 2017-05-13">2017-03-13<br>
+Bristol, UK</a></td>
+		<td><a href="http://icpp2016.cs.wcupa.edu" title="date: 2016-08-16..19, notify: 2016-05-06">2016-02-26<br>
+Philadelphia, PA</a></td>
 	</tr>
 	<tr>
 		<td>PACT</td>
