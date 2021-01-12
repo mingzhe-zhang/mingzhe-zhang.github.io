@@ -192,7 +192,7 @@ Haifa, Israel</a></td>
 	</tr>
 	<tr>
 		<td>SOSP</td>
-		<td><a href="https://sosp2021.mpi-sws.org/" title="date: 2021-10-25..28, notify: 2021-08-09">2021-04-30(abstract)<br>2021-05-07(full)<br>Koblenz, Germany</a></td>
+		<td><a href="https://sosp2021.mpi-sws.org/" title="date: 2021-10-25..28, notify: 2021-08-09"><nobr>2021-04-30(abstract)</nobr><br>2021-05-07(full)<br>Koblenz, Germany</a></td>
 		<td align="center">-</td>
 		<td><a href="https://www.sigops.org/sosp/sosp19/" title="date: 2019-10-07..09, notify: 2019-08-30">2019-04-24<br>
 Ontario, Canada</a></td>
