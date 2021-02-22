@@ -159,7 +159,7 @@ San Francisco, CA</a></td>
 	</tr>
 	<tr>
 		<td>MICRO</td>
-		<td><a href="http://www.microarch.org/micro54/" title="date: 2021-10-16..20, notify: ">-(abstract)<br>-(full)<br>Athens, Greek</a></td>
+		<td><a href="http://www.microarch.org/micro54/" title="date: 2021-10-16..20, notify: 2021-07-14 ">2021-04-09(abstract)<br>2021-04-16(full)<br>Athens, Greek</a></td>
 		<td><a href="http://www.microarch.org/micro53/" title="date: 2020-10-17..21, notify: 2020-07-01"><font color="#FF0000">2020-04-17<br>(Extended for 2 weeks due to the COVID-19 pandemic) <br>
 Athens, Greek</font></a></td>
 		<td><a href="http://www.microarch.org/micro52/" title="date: 2019-10-12..16, notify: 2019-07-27">2019-04-05<br>
