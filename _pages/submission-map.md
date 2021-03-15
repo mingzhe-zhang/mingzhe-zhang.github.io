@@ -6,7 +6,7 @@ author_profile: true
 <font size="4">The main conferences of computer architectrue and system sorted by deadline. <a href="javascript:window.external.AddFavorite('https://mingzhe-zhang.github.io/submission-map/','Conference List for computer architecture and system')">Click Here</a> to add this page to the favorites.</font>  
 (Fork from the Professor Dan Tsafrir's conference list. The original version is [here](http://www.cs.technion.ac.il/~dan/index_sysvenues_deadline.html).)
 
-<font size="4" color="grey">[Last Update: Mar-12-2021]</font>
+<font size="4" color="grey">[Last Update: Mar-15-2021]</font>
 
 <table align="center">
 	<tr>
@@ -240,14 +240,14 @@ Santa Clara, CA</a></td>
 	</tr>
 	<tr>
 		<td>APsys</td>
-		<td align="center">-</td>
-		<td><a href="https://ap-sys.org/" title="date: 2020-08-24..25, notify: 2020-06-19">2020-05-25<br>Tsukuba, Japan</a></td>
-		<td><a href="https://icsr.zju.edu.cn/apsys2019/" title="date: 2019-08-19..20, notify: 2019-06-14">2019-05-08<br>
+		<td><a href="https://ap-sys.org/" title="date: 2021-08-24..25, notify: 2021-07-01">2021-05-20<br>Online</a></td>
+		<td><a href="https://ap-sys.org/apsys2020" title="date: 2020-08-24..25, notify: 2020-06-19">2020-05-25<br>Tsukuba, Japan</a></td>
+		<td><a href="https://ap-sys.org/apsys2019" title="date: 2019-08-19..20, notify: 2019-06-14">2019-05-08<br>
 Hangzhou, China</a></td>
-		<td><a href="http://ap-sys.org/" title="date: 2018-08-27..28, notify:">2018-05-31<br>Jeju Island,<br>South Korea</a></td>
-		<td><a href="https://www.cse.iitb.ac.in/~apsys2017" title="date: 2017-09-02..03, notify: 2017-07-12">2017-06-09<br>
+		<td><a href="https://ap-sys.org/apsys2018" title="date: 2018-08-27..28, notify:">2018-05-31<br>Jeju Island,<br>South Korea</a></td>
+		<td><a href="https://ap-sys.org/apsys2017" title="date: 2017-09-02..03, notify: 2017-07-12">2017-06-09<br>
 Bombay, India</a></td>
-		<td><a href="http://www.cs.hku.hk/apsys2016/" title="date: 2016-08-04..05, notify: 2016-06-23">2016-05-20<br>
+		<td><a href="https://ap-sys.org/apsys2016" title="date: 2016-08-04..05, notify: 2016-06-23">2016-05-20<br>
 Hong Kong, China</a></td>
 	</tr>
 	<tr>
