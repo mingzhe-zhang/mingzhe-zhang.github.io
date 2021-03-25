@@ -6,7 +6,7 @@ author_profile: true
 <font size="4">The main conferences of computer architectrue and system sorted by deadline. <a href="javascript:window.external.AddFavorite('https://mingzhe-zhang.github.io/submission-map/','Conference List for computer architecture and system')">Click Here</a> to add this page to the favorites.</font>  
 (Fork from the Professor Dan Tsafrir's conference list. The original version is [here](http://www.cs.technion.ac.il/~dan/index_sysvenues_deadline.html).)
 
-<font size="4" color="grey">[Last Update: Mar-15-2021]</font>
+<font size="4" color="grey">[Last Update: Mar-25-2021]</font>
 
 <table align="center">
 	<tr>
@@ -225,20 +225,6 @@ Hawaii, US</a></td>
 Taipei, Taiwan</a></td>
 	</tr>
 	<tr>
-		<td>SoCC</td>
-		<td align="center">-</td>
-		<td><a href="https://acmsocc.github.io/2020" title="date: 2020-10-19..21, notify: 2020-08-11">2020-05-18<br>
-Renton, WA</a></td>
-		<td><a href="https://acmsocc.github.io/2019" title="date: 2019-10-20..23, notify: 2019-09-03">2019-06-10<br>
-Santa Cruz, CA</a></td>
-		<td><a href="https://acmsocc.github.io/2018" title="date: 2018-10-11..13, notify: 2018-08-03">2018-05-15<br>
-Carlsbad, CA</a></td>
-		<td><a href="http://acmsocc.github.io/2017" title="date: 2017-09-25..27, notify: 2017-07-23">2017-05-05<br>
-Santa Clara, CA</a></td>
-		<td><a href="http://acmsocc.github.io/2016/index.html" title="date: 2016-10-05..07, notify: 2016-07-29">2016-05-24<br>
-Santa Clara, CA</a></td>
-	</tr>
-	<tr>
 		<td>APsys</td>
 		<td><a href="https://ap-sys.org/" title="date: 2021-08-24..25, notify: 2021-07-01">2021-05-20<br>Online</a></td>
 		<td><a href="https://ap-sys.org/apsys2020" title="date: 2020-08-24..25, notify: 2020-06-19">2020-05-25<br>Tsukuba, Japan</a></td>
@@ -258,6 +244,21 @@ Hong Kong, China</a></td>
 		<td><a href="https://iccad.com/content/conference_history" title="date: 2018-11-05..08, notify: ">2018-04-23<br>San Diego, CA</a></td>
 		<td><a href="https://iccad.com/content/conference_history" title="date: 2017-11-13..06, notify: 2017-06-28">2017-04-24<br>Irvine, CA</a></td>
 		<td><a href="https://iccad.com/content/conference_history" title="date: 2016-11-07..10, notify: 2016-06-20">2016-04-25<br>Austin, TX</a></td>
+	</tr>
+	<tr>
+		<td>SoCC</td>
+		<td><a href="https://acmsocc.github.io/2021" title="date: 2021-11-01..03, notify: 2021-08-27">2021-05-28<br>
+Renton, WA</a></td>
+		<td><a href="https://acmsocc.github.io/2020" title="date: 2020-10-19..21, notify: 2020-08-11">2020-05-18<br>
+Renton, WA</a></td>
+		<td><a href="https://acmsocc.github.io/2019" title="date: 2019-10-20..23, notify: 2019-09-03">2019-06-10<br>
+Santa Cruz, CA</a></td>
+		<td><a href="https://acmsocc.github.io/2018" title="date: 2018-10-11..13, notify: 2018-08-03">2018-05-15<br>
+Carlsbad, CA</a></td>
+		<td><a href="http://acmsocc.github.io/2017" title="date: 2017-09-25..27, notify: 2017-07-23">2017-05-05<br>
+Santa Clara, CA</a></td>
+		<td><a href="http://acmsocc.github.io/2016/index.html" title="date: 2016-10-05..07, notify: 2016-07-29">2016-05-24<br>
+Santa Clara, CA</a></td>
 	</tr>
 	<tr>
 		<td>ICCD</td>
