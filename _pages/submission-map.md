@@ -6,7 +6,7 @@ author_profile: true
 <font size="4">The main conferences of computer architectrue and system sorted by deadline. <a href="javascript:window.external.AddFavorite('https://mingzhe-zhang.github.io/submission-map/','Conference List for computer architecture and system')">Click Here</a> to add this page to the favorites.</font>  
 (Fork from the Professor Dan Tsafrir's conference list. The original version is [here](http://www.cs.technion.ac.il/~dan/index_sysvenues_deadline.html).)
 
-<font size="4" color="grey">[Last Update: Mar-25-2021]</font>
+<font size="4" color="grey">[Last Update: Apr-19-2021]</font>
 
 <table align="center">
 	<tr>
@@ -278,7 +278,7 @@ Phoenix, AZ</a></td>
 	<tr>
 		<td rowspan="1"><b><i>Jun</i></b></td>
 		<td>HiPEAC</td>
-		<td align="center">-</td>
+		<td><a href="https://www.hipeac.net/2022/budapest/#/" title="date: 2022-01-17..19, notify: ">2021-06-01<br>Budapest, Hungary</a></td>
 		<td><a href="https://www.hipeac.net/2021/budapest/#/" title="date: 2021-01-18..20, notify: 2020-11-15">2020-06-01<br>Budapest, Hungary</a></td>
 		<td><a href="https://www.hipeac.net/2020/bologna/#/" title="date: 2020-01-20, notify: 2019-11-15">2019-06-01<br>
 Bologna, Italy</a></td>
@@ -293,7 +293,7 @@ Stockholm, Sweden</a></td>
 		<td rowspan="3"><b><i>Jul</i></b></td>		<td>IISWC</td>
 		<td align="center">-</td>
 		<td><a href="http://www.iiswc.org/iiswc2020/index.html" title="date: 2020-10-27..29, notify: 2020-08-24">2020-07-10<br>
-Beijing, China<br><font color="#FF0000">(Taking Place Virtually due to the COVID-19 pandemic)</font></a></td>
+Beijing, China<br></a></td>
 		<td><a href="http://www.iiswc.org/iiswc2019/index.html" title="date: 2019-11-03..05, notify: 2019-08-15">2019-05-31<br>
 Orlando, FL</a></td>
 		<td><a href="http://www.iiswc.org/iiswc2018" title="date: 2018-09-30..02, notify: 2018-07-27">2018-05-18<br>
