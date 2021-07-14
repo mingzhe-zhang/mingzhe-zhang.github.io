@@ -336,7 +336,7 @@ Austin, TX</a></td>
 	<tr>
 		<td rowspan="2"><b><i>Aug</i></b></td>
 		<td>PPoPP</td>
-		<td><a href="http://conf.researchr.org/home/ppopp-2022" title="date: 2022-02-12..16, notify: ">-<br>
+		<td><a href="http://conf.researchr.org/home/ppopp-2022" title="date: 2022-02-12..16, notify: 2021-12-26">2021-08-09(abstract)<br>2021-08-13(full)<br>
 Seoul, Korea</a></td>
 		<td><a href="http://conf.researchr.org/home/ppopp-2021" title="date: 2021-02-27..03, notify: 2020-11-16">2020-08-13<br>
 Seoul, Korea</a></td>
@@ -414,7 +414,7 @@ Santa Clara, CA</a></td>
 	<tr>
 		<td rowspan="3"><b><i>Oct</i></b></td>
 		<td>IPDPS</td>
-		<td><a href="http://www.ipdps.org/" title="date: 2022-05-30..03, notify: ">-<br>Lyon, France</a></td>
+		<td><a href="http://www.ipdps.org/" title="date: 2022-05-30..03, notify: 2022-01-15">2021-10-01(abstract)<br>2021-10-08(full)<br>Lyon, France</a></td>
 		<td><a href="http://www.ipdps.org/" title="date: 2021-05-17..21, notify: 2021-01-19">2020-10-12<br>Portland, OR</a></td>
 		<td><a href="http://www.ipdps.org/ipdps2020" title="date: 2020-05-18..22, notify: 2020-01-20">2019-10-07<br>
 New Orleans, LA</a></td>
@@ -427,7 +427,8 @@ Orlando, FL</a></td>
 	</tr>
 	<tr>
 		<td>EuroSys</td>
-		<td align="center">-</td>
+		<td><a href="https://2022.eurosys.org/" title="date: 2022-04-05..08, notify: ">-<br>
+	Rennes, France</a></td>
 		<td><a href="https://2021.eurosys.org/" title="date: 2021-04-26..29, notify: 2021-01-20">2020-10-09<br>
 	Edinburgh, Scotland, UK</a></td>
 		<td><a href="http://eurosys2020.org/" title="date: 2020-04-27..30, notify: 2020-02-15">2019-11-04<br>
