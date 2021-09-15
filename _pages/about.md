@@ -21,7 +21,7 @@ I do research in Computer Architecture and Bigdata-oriented System, including:
 - Hardware Support for Security and Privacy.
 
 ## Updates
-<font size="4">
+<font size="3">
 [2021-09-04] Our paper <i>"Distilling Bit-level Sparsity Parallelism for General Purpose Deep Learning Acceleration"</i> has been accepted by MICRO 2021! Congrats to all collaborators!
 
 [2021-06-12] One paper has been accepted in ICPP 2021. Congrats to all collaborators!
