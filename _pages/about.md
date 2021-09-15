@@ -32,7 +32,7 @@ I do research in Computer Architecture and Bigdata-oriented System, including:
 
 [2021-05-22] One paper has been accepted in ISLPED 2021. Congrats to all collaborators!
 
-[More details...](all-news.md)
+[More details...](../news/all-news)
 
    
 
