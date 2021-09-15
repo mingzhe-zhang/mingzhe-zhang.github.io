@@ -17,9 +17,14 @@ I do research in Computer Architecture and Bigdata-oriented System, including:
 - Non-Volatile Memory,
 - Memory-Centric Architecture and system,
 - Emerging Technology,
-- Domain-specific Accelerators.
+- Domain-specific Accelerators
+- Hardware Support for Security and Privacy.
 
 ## Updates
+[2021-09-04] Our paper <i>"Distilling Bit-level Sparsity Parallelism for General Purpose Deep Learning Acceleration"</i> has been accepted by MICRO 2021! Congrats to all collaborators!
+
+[2021-06-12] One paper has been accepted in ICPP 2021. Congrats to all collaborators!
+
 [2021-04-27] <font color="#FF0000">I join the Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS) as the Associate Professor on Computer Architecture.</font>
 
 [2021-04-25] I will serve as the Program Comittee Member of ICCD 2021. 
