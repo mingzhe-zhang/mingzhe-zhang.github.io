@@ -1,9 +1,7 @@
 ---
-layout: archive
 title: "News and Updates"
 permalink: /
 author_profile: true
-redirect_from: /
 ---
 
 ## 2021
