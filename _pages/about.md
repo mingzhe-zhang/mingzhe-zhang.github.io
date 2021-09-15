@@ -24,15 +24,15 @@ I do research in Computer Architecture and Bigdata-oriented System, including:
 
 [2021-09-04] Our paper <i>"Distilling Bit-level Sparsity Parallelism for General Purpose Deep Learning Acceleration"</i> has been accepted by MICRO 2021! Congrats to all collaborators!
 
+[2021-07-05] I will serve as the Program Committee member of ICPADS 2021. 
+
 [2021-06-12] One paper has been accepted in ICPP 2021. Congrats to all collaborators!
 
-[2021-04-27] <font color="#FF0000">I join the Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS) as the Associate Professor on Computer Architecture.</font>
+[2021-05-31] I will serve as the Program Committee member of NVMSA 2021.
 
-[2021-04-25] I will serve as the Program Comittee Member of ICCD 2021. 
+[2021-05-22] One paper has been accepted in ISLPED 2021. Congrats to all collaborators!
 
-[2021-03-18] I will serve as the Program Committee member of ChinaSys-20th.
-
-[2020-10-28] Our work <i>"Streamline Ring ORAM Accesses through Spatial and Temporal Optimization"</i> has been accepted by HPCA 2021! Congrats to all! (<font color="#FF0000">The research intern Dingyuan Cao has become the first undergraduate student from China who can publish a paper in the top-tier conference of computer architecture as the first-author!</font>)
+[More details...](all-news.md)
 
    
 
