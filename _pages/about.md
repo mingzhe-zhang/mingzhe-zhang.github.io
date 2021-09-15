@@ -21,6 +21,7 @@ I do research in Computer Architecture and Bigdata-oriented System, including:
 - Hardware Support for Security and Privacy.
 
 ## Updates
+<font size="4">
 [2021-09-04] Our paper <i>"Distilling Bit-level Sparsity Parallelism for General Purpose Deep Learning Acceleration"</i> has been accepted by MICRO 2021! Congrats to all collaborators!
 
 [2021-06-12] One paper has been accepted in ICPP 2021. Congrats to all collaborators!
@@ -32,6 +33,7 @@ I do research in Computer Architecture and Bigdata-oriented System, including:
 [2021-03-18] I will serve as the Program Committee member of ChinaSys-20th.
 
 [2020-10-28] Our work <i>"Streamline Ring ORAM Accesses through Spatial and Temporal Optimization"</i> has been accepted by HPCA 2021! Congrats to all! (<font color="#FF0000">The research intern Dingyuan Cao has become the first undergraduate student from China who can publish a paper in the top-tier conference of computer architecture as the first-author!</font>)
+</font>
 
    
 
