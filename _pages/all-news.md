@@ -3,9 +3,7 @@ layout: archive
 title: "News and Updates"
 permalink: /
 author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
+redirect_from: /
 ---
 
 ## 2021
