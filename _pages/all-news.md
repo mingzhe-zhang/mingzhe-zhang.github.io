@@ -1,6 +1,6 @@
 ---
 title: "News and Updates"
-permalink: /
+permalink: /pages/all-news
 author_profile: true
 ---
 
@@ -60,7 +60,7 @@ author_profile: true
 
 [2018-10-07] One paper has been accepted by BIBM 2018! Congrats to all!
 
-[2018-05-24] One paper has been accepted by JCRD! Congrats to all!
+[2018-05-24] One paper has been accepted by JCRAD! Congrats to all!
 
 [2018-05-22] I have successfully passed my Ph.D thesis defense! Thanks for all the supports I have received in the past years! 
 
