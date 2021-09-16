@@ -1,6 +1,6 @@
 ---
 title: "News and Updates"
-permalink: /pages/all-news
+permalink: /news/all-news
 author_profile: true
 ---
 
