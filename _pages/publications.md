@@ -7,6 +7,18 @@ author_profile: true
 # Conference
 
 ## 2021
+[C20] <b>[Distilling Bit-level Sparsity Parallelism for General Purpose Deep Learning Acceleration](../publications/MICRO2021)</b><br>
+Hang Lu, Liang Chang, Chenglong Li, Zixuan Zhu, Shengjian Lu, Yanhuan Liu, <b>Mingzhe Zhang</b>.
+<i>The 54th Annual IEEE/ACM International Symposium on Microarchitecture</i>. <b>MICRO 2021</b>
+
+[C19] <b>[BitX: Empower Versatile Inference with Hardware Runtime Pruning](../publications/ICPP2021)</b><br>
+Hongyan Li, Hang Lu, Jiawen Huang, Wenxu Wang, <b>Mingzhe Zhang</b>, Wei Chen, Liang Chang and Xiaowei Li.
+<i>50th International Conference on Parallel Processing</i>. <b>ICPP 2021</b>
+
+[C18] <b>[CoPIM: A Concurrency-aware PIM Workload Offloading Architecture for Graph Applications](../publications/ISLPED2021)</b><br>
+Liang Yan, <b>Mingzhe Zhang</b>, Rujia Wang, Xiaoming Chen, Xingqi Zou, Xiaoyang Lu, Yinhe Han, Xian-He Sun.
+<i>2021 IEEE/ACM International Symposium on Low Power Electronics and Design</i>. <b>ISLPED 2021</b>
+
 [C17] <b>[Streamline Ring ORAM Accesses through Spatial and Temporal Optimization](../publications/HPCA2021)</b><br>
 Dingyuan Cao, <b>Mingzhe Zhang</b>, Hang Lu, Xiaochun Ye, Dongrui Fan, Yuezhi Che, Rujia Wang.
 <i>The 27th IEEE International Symposium on High-Performance Computer Architecture</i>. <b>HPCA 2021</b>.
