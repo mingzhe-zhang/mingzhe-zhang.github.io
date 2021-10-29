@@ -8,7 +8,7 @@ author_profile: true
 
 <font size="5" color="#FF0000">2022 IS COMING!</font>
 
-<font size="4" color="grey">[Last Update: Oct-08-2021]</font>
+<font size="4" color="grey">[Last Update: Oct-29-2021]</font>
 
 <table align="center">
 	<tr>
