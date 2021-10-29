@@ -424,7 +424,7 @@ Boston, MA</a></td>
 	<tr>
 		<td>DATE</td>
 		<td>-</td>
-		<td><a href="https://www.date-conference.com/conference-and-exhibition-14-18-march-2022" title="date: 2022-03-14..18, notify: ">2021-09-12(abstract)<br>2021-09-19(full)<br>
+		<td><a href="https://www.date-conference.com/conference-and-exhibition-14-18-march-2022" title="date: 2022-03-14..18, notify: 2021-11-11">2021-09-12(abstract)<br>2021-09-19(full)<br>
 Antwerp, Belgium</a></td>
 		<td><a href="http://www.date-conference.com/" title="date: 2021-02-01..05, notify: 2020-11-13">2020-09-21<br>
 Alpexpo Grenoble, France</a></td>
@@ -498,7 +498,8 @@ Orlando, FL</a></td>
 	<tr>
 		<td>ISPASS</td>
 		<td>-</td>
-		<td align="center">-</td>
+		<td><a href="http://www.ispass.org/ispass2022" title="date: 2022-05-22..26, notify: 2022-03-16">2021-12-03(abstract)<br>2021-12-10(full)<br>
+Singapore</a></td>
 		<td><a href="http://www.ispass.org/ispass2021" title="date: 2021-03-28..30, notify: 2021-02-08">2020-10-30<br>
 Stony Brook, NY</a></td>
 		<td><a href="http://www.ispass.org/ispass2020" title="date: 2020-04-05..07, notify: 2020-01-14">2019-10-10<br>
@@ -515,7 +516,7 @@ San Francisco, CA</a></td>
 		<td rowspan="3"><b><i>Nov</i></b></td>
 		<td>DAC</td>
 		<td>-</td>
-		<td align="center">-</td>
+		<td><a href="https://www.dac.com/DAC-2022/2022-Call-for-Contributions" title="date: 2022-07-10..14, notify: 2022-02-21">2021-11-15(abstract)<br>2021-11-22(full)<br>San Francisco, CA</td>
 		<td><a href="https://www.dac.com/" title="date: 2021-07-11..15, notify: 2021-02-24">2020-11-23<br>
 San Francisco, CA</a></td>
 		<td><a href="https://www.dac.com/content/57th-dac" title="date: 2020-07-19..23, notify: 2020-02-28">2019-11-21<br>
