@@ -19,7 +19,7 @@ author_profile: true
 Here are some examples of our research projects:<br>
 
 <div>
-	<h4>Exploring Dynamic Trade-offs in Emerging Resistive Memory Technologies:</h4><br>
+	<h3>Exploring Dynamic Trade-offs in Emerging Resistive Memory Technologies:</h3><br>
 	<img src="https://mingzhe-zhang.github.io/images/drift.jpg" width="300" height="200" align="left">
 	<span>
 			This project focuses on designing the optimization schemes based on the dynamic trade-offs lies in the Non-Volatile Memory (NVM) materials. The optimization targets include system performance, energy consumption and component lifetime. Differentiate from the previous work, our proposed schemes utilize the results of application analysis and find the "interface" for the characteristics from the different levels. This project is supported by the NSFC (No. 62002339) and the Key Research Program of State Key Laboratory of Computer Architecture (No. CARCH4506).
@@ -32,7 +32,7 @@ Here are some examples of our research projects:<br>
 </div>
 <br>
 <div>
-	<h4>Optimization for Machine Learning Accelerators based on Data Sparsity:</h4><br>
+	<h3>Optimization for Machine Learning Accelerators based on Data Sparsity:</h3><br>
 	<img src="https://mingzhe-zhang.github.io/images/bitlet.png" width="300" height="220" align="left">
 	<span>
 			This project focuses on improving the performance and energy-efficiency for the machine learning accelerators. The proposed schemes are based on data-level or bit-level sparsity and reduce the unnecessary operations. This project is collaborated with Prof. Hang Lu (ICT, CAS) and Prof. Liang Chang (UESTC). Partially funded by NSFC (No. 62172387, 62002339 and 62104025), the Strategic Priority Research Program of the Chinese Academy of Sciences (No. XDB44030200), the NSAF (No. U2030204) and the Key Research Program of State Key Labora- tory of Computer Architecture (No. CARCH5301 and CARCH4506).
@@ -44,7 +44,7 @@ Here are some examples of our research projects:<br>
 </div>
 <br>
 <div>
-	<h4>Secure Computation for Data-Intensive Applications:</h4><br>
+	<h3>Secure Computation for Data-Intensive Applications:</h3><br>
 	<img src="https://mingzhe-zhang.github.io/images/string-oram.png" width="300" height="150" align="left">
 	<span>
 			This project focuses on providing secure environment for the data-intensive applications and systems. The most important task of this project is to avoid the information leakage caused by the attack to the memory, while minimizing the impact on the performance. 
