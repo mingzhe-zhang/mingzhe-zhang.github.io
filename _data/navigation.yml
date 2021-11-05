@@ -14,7 +14,10 @@ main:
 
   - title: "Submission Map"
     url: /submission-map/
-    
+
+  - title: "Collections"
+    url: /collections/
+
   # - title: "Talks"
   #   url: /talks/    
 
