@@ -6,6 +6,7 @@ author_profile: true
 
 ## 2021
 
++ [2021-11-09] I will serve as the ERC member of ISCA 2022.
 + [2021-09-04] Our paper <i>"Distilling Bit-level Sparsity Parallelism for General Purpose Deep Learning Acceleration"</i> has been accepted by MICRO 2021! Congrats to all collaborators!
 + [2021-07-05] I will serve as the Program Committee member of ICPADS 2021. 
 + [2021-06-12] One paper has been accepted in ICPP 2021. Congrats to all collaborators!
