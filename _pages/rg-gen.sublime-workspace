@@ -91,6 +91,15 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/Users/smartzmz/work/research_project/my_open_sources/risc-graph-translator/ISA-sample/translator_sample.py",
+			"settings":
+			{
+				"buffer_size": 4591,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -138,6 +147,8 @@
 	},
 	"expanded_folders":
 	[
+		"/Users/smartzmz/work/research_project/my_open_sources/risc-graph-translator",
+		"/Users/smartzmz/work/research_project/my_open_sources/risc-graph-translator/ISA-sample"
 	],
 	"file_history":
 	[
@@ -260,6 +271,40 @@
 		{
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/Users/smartzmz/work/research_project/my_open_sources/risc-graph-translator/ISA-sample/translator_sample.py",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 4591,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "python",
+							"buffer_scroll_name": "6c0d94f9",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1604.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
 			]
 		}
 	],
