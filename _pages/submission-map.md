@@ -75,7 +75,7 @@ Kyoto, Japan</a></td>
 	</tr>
 	<tr>
 		<td>SIGCOMM</td>
-		<td><a href="http://conferences.sigcomm.org/sigcomm/2022/" title="date: 2022-08-22..26, notify: 2022-05-07">2022-01-26(abstract)<br>2022-02-02(abstract)<br>Amsterdam, Netherlands</a></td>
+		<td><a href="http://conferences.sigcomm.org/sigcomm/2022/" title="date: 2022-08-22..26, notify: 2022-05-07">2022-01-26(abstract)<br>2022-02-02(full)<br>Amsterdam, Netherlands</a></td>
 		<td><a href="http://conferences.sigcomm.org/sigcomm/2021/" title="date: 2021-08-23..27, notify: 2021-05-03">2021-01-20(abstract)<br>2021-01-27(full)<br>Virtually Worldwide</a></td>
 		<td><a href="http://conferences.sigcomm.org/sigcomm/2020" title="date: 2020-08-10..14, notify: 2020-03-15">2020-02-07<br>New York City, NY</a></td>
 		<td><a href="http://conferences.sigcomm.org/sigcomm/2019" title="date: 2019-08-19..24, notify: 2019-05-10">2019-01-31<br>
@@ -153,7 +153,7 @@ San Francisco, CA</a></td>
 	</tr>
 	<tr>
 	<td>SC</td>
-		<td><a href="https://sc22.supercomputing.org" title="date: 2021-11-14..19, notify: 2022-06-13">2022-03-25(abstract)<br>2022-04-01(full)<br>Dallas, TX</a></td>
+		<td><a href="https://sc22.supercomputing.org" title="date: 2021-11-14..19, notify: 2022-06-13"><nobr>2022-03-25(abstract)</nobr><br>2022-04-01(full)<br>Dallas, TX</a></td>
 		<td><a href="https://sc21.supercomputing.org" title="date: 2021-11-14..19, notify: 2021-06-21">2021-04-02(abstract)<br>2021-04-09(full)<br>St. Louis, MO</a></td>
 		<td><a href="https://sc20.supercomputing.org" title="date: 2020-11-15..20, notify: 2020-06-15">2020-03-31<br>Atlanta, GA</a></td>
 		<td><a href="https://sc19.supercomputing.org" title="date: 2019-11-17..22, notify: 2019-06-15">2019-04-10<br>Denver, CO</a></td>
