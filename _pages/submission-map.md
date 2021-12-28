@@ -110,7 +110,7 @@ Salvador, Brazil</a></td>
 	<tr>
 		<td rowspan="1"><b><i>Feb</i></b></td>
 		<td>Euro Par</td>
-		<td><a href="https://2022.euro-par.org" title="date: 2022-08-24..26, notify: 2022-04-29">2022-02-04(abstract)<br>2022-02-11(full)<br>Glasgow, UK</a></td>
+		<td><a href="https://2022.euro-par.org" title="date: 2022-08-24..26, notify: 2022-04-29"><nobr>2022-02-04(abstract)</nobr><br>2022-02-11(full)<br>Glasgow, UK</a></td>
 		<td><a href="https://2021.euro-par.org" title="date: 2021-09-01..03, notify: 2021-04-30"><nobr>2021-02-05(abstract)</nobr><br>2021-02-12(full)<br>Lisbon, Portugal</a></td>
 		<td><a href="https://2020.euro-par.org" title="date: 2020-08-24..28, notify: 2020-04-30">2020-02-07<br>Warsaw, Poland</a></td>
 		<td><a href="https://2019.euro-par.org" title="date: 2019-08-26..30, notify: 2019-05-03">2019-02-15<br>
@@ -180,7 +180,7 @@ Taipei, Taiwan</a></td>
 	</tr>
 	<tr>
 		<td>ICPP</td>
-		<td><a href="https://icpp22.gitlabpages.inria.fr/" title="date: 2022-08-29..01, notify: 2022-06-14">2022-04-08(abstract)<br>2022-04-14(full)<br>Bordeaux, France</a></td>
+		<td><a href="https://icpp22.gitlabpages.inria.fr/" title="date: 2022-08-29..01, notify: 2022-06-14"><nobr>2022-04-08(abstract)</nobr><br>2022-04-14(full)<br>Bordeaux, France</a></td>
 		<td><a href="https://oaciss.uoregon.edu/icpp21/index.php" title="date: 2021-08-09..12, notify: ">2021-04-16<br>Chicago, IL</a></td>
 		<td><a href="https://jnamaral.github.io/icpp20/" title="date: 2020-08-17..20, notify: 2020-05-19">2020-03-02<br>
 Edmonton, AB, Canada</a></td>
@@ -427,10 +427,10 @@ Boston, MA</a></td>
 		<td>-</td>
 		<td><a href="https://www.date-conference.com/conference-and-exhibition-14-18-march-2022" title="date: 2022-03-14..18, notify: 2021-11-11">2021-09-12(abstract)<br>2021-09-19(full)<br>
 Antwerp, Belgium</a></td>
-		<td><a href="http://www.date-conference.com/" title="date: 2021-02-01..05, notify: 2020-11-13">2020-09-21<br>
-Alpexpo Grenoble, France</a></td>
+		<td><a href="http://www.date-conference.com/" title="date: 2021-02-01..05, notify: 2020-11-13">2020-09-21<br><nobr>
+Alpexpo Grenoble,</nobr> France</a></td>
 		<td><a href="http://www.date-conference.com/" title="date: 2020-03-09..13, notify: 2019-11-07">2019-09-08<br>
-Alpexpo Grenoble, France</a></td>
+<nobr>Alpexpo Grenoble,</nobr> France</a></td>
 		<td><a href="http://www.date-conference.com/date19/" title="date: 2019-03-25..29, notify: 2018-11-08">2018-09-09<br>
 Florence, Italy</a></td>
 		<td><a href="https://www.date-conference.com/date18/" title="date: 2018-03-19..23, notify: 2017-11-10">2017-09-10<br>
