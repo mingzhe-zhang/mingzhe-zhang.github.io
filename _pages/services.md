@@ -9,6 +9,7 @@ author_profile: true
 - Session Chair, IEEE Non-Volatile Memory Systems and Applications Symposium (NVMSA), 2019
 
 ## Conference Technical Program Committee
+- 49th International Symposium on Computer Architecture (ISCA 2022)
 - International Conference on Parallel and Distributed Systems (ICPADS 2021)
 - 39th IEEE International Conference on Computer Design (ICCD 2021)
 - IEEE Non-Volatile Memory Systems and Applications Symposium (NVMSA), 2019-2021
