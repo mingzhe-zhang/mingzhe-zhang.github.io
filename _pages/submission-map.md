@@ -153,7 +153,7 @@ San Francisco, CA</a></td>
 	</tr>
 	<tr>
 	<td>ASPLOS<br>(spring)</td>
-		<td><a href="https://asplos-conference.org/asplos-2023-cfp/" title="date: 2023-, notify: 2022-06-16">2022-03-24(abstract)<br>2022-03-31(full)<br>-</a></td>
+		<td><a href="https://asplos-conference.org/asplos-2023-cfp/" title="date: 2023-, notify: 2022-06-16">2022-03-24(abstract)<br>2022-03-31(full)<br>-</a></td>
 		<td>-</td>
 		<td>-</td>
 		<td>-</td>
@@ -171,7 +171,6 @@ San Francisco, CA</a></td>
 		<td><a href="http://sc17.supercomputing.org" title="date: 2017-11-12..17, notify: 2017-06-15">2017-04-03<br>Denver, CO</a></td>
 		<td><a href="http://sc16.supercomputing.org" title="date: 2016-11-13..18, notify: 2016-06-15">2016-04-03<br>Salt Lake City, UT</a></td>
 	</tr>
-
 	<tr>
 		<td rowspan="5"><b><i>Apr</i></b></td>
 		<td>MICRO</td>
@@ -316,18 +315,14 @@ Phoenix, AZ</a></td>
 		<td>-</td>
 		<td><a href="https://www.hipeac.net/2022/budapest/#/" title="date: 2022-01-17..19, notify: ">2021-06-01<br>Budapest, Hungary</a></td>
 		<td><a href="https://www.hipeac.net/2021/budapest/#/" title="date: 2021-01-18..20, notify: 2020-11-15">2020-06-01<br>Budapest, Hungary</a></td>
-		<td><a href="https://www.hipeac.net/2020/bologna/#/" title="date: 2020-01-20, notify: 2019-11-15">2019-06-01<br>
-Bologna, Italy</a></td>
-		<td><a href="https://www.hipeac.net/2019/valencia/" title="date: 2019-01-21..23, notify: 2018-11-15">2018-06-01<br> 
-Valencia, Spain</a></td>
-		<td><a href="https://www.hipeac.net/2018/manchester/" title="date: 2018-01-22..24, notify: 2017-11-15">2017-06-01<br>
-Manchester, UK</a></td>
-		<td><a href="https://www.hipeac.net/2017/stockholm/" title="date: 2016-01-23..25, notify: 2016-11-15">2016-06-01<br>
-Stockholm, Sweden</a></td>
+		<td><a href="https://www.hipeac.net/2020/bologna/#/" title="date: 2020-01-20, notify: 2019-11-15">2019-06-01<br>Bologna, Italy</a></td>
+		<td><a href="https://www.hipeac.net/2019/valencia/" title="date: 2019-01-21..23, notify: 2018-11-15">2018-06-01<br>Valencia,Spain</a></td>
+		<td><a href="https://www.hipeac.net/2018/manchester/" title="date: 2018-01-22..24, notify: 2017-11-15">2017-06-01<br>Manchester,UK</a></td>
+		<td><a href="https://www.hipeac.net/2017/stockholm/" title="date: 2016-01-23..25, notify: 2016-11-15">2016-06-01<br>Stockholm,Sweden</a></td>
 	</tr>
 	<tr>
 		<td>ASPLOS<br>(summer)</td>
-		<td><a href="https://asplos-conference.org/asplos-2023-cfp/" title="date: 2023-, notify: 2022-09-22">2022-06-30(abstract)<br>2022-07-07(full)<br>-</a></td>
+		<td><a href="https://asplos-conference.org/asplos-2023-cfp/" title="date: 2023-, notify: 2022-09-22">2022-06-30(abstract)<br>2022-07-07(full)<br>-</a></td>
 		<td><a href="https://asplos-conference.org" title="date: 2022-02-28..04, notify: 2021-11-15">2021-08-06(abstract)<br>2021-08-13(full)<br>
 Lausanne, Switzerland</a></td>
 		<td><a href="https://asplos-conference.org/2021" title="date: 2021-04-10..15, notify: 2020-11-19">2020-08-21<br>
@@ -342,7 +337,8 @@ Williamsburg, VA</a></td>
 Xi'an, China</a></td>
 	</tr>
 	<tr>
-		<td rowspan="3"><b><i>Jul</i></b></td>		<td>IISWC</td>
+		<td rowspan="3"><b><i>Jul</i></b></td>		
+		<td>IISWC</td>
 		<td>-</td>
 		<td><a href="http://www.iiswc.org/iiswc2021/index.html" title="date: 2021-11-07..09, notify: 2021-09-03">2021-07-09<br>
 Virtual<br></a></td>
