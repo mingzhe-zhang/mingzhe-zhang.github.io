@@ -494,7 +494,7 @@ Orlando, FL</a></td>
 	</tr>
 	<tr>
 		<td>ASPLOS<br>(fall)</td>
-		<td><a href="https://asplos-conference.org/asplos-2023-cfp/" title="date: 2023-, notify: 2023-01-19">2022-10-13(abstract)<br>2022-10-20(full)<br>-</a></td>
+		<td><a href="https://asplos-conference.org/asplos-2023-cfp/" title="date: 2023-, notify: 2023-01-19">2022-10-13(abstract)<br>2022-10-20(full)<br>-</a></td>
 		<td></td>
 		<td></td>
 		<td></td>
