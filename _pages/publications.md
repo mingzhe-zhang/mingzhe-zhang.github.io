@@ -96,6 +96,19 @@ Shuai Zhang, Zhiyong Liu, Dongrui Fan, Fonglong Song, <b>Mingzhe Zhang</b>.
 
 # Journals & Transactions
 
+## 2022
+[J07] <b>[VNet: a versatile network to train real-time semantic segmentation models on a single GPU](../publications/SCIS2022)</b><br>
+Wenxing Li, Ning Lin, Mingzhe Zhang, Hang Lu, Xiaoming Chen, Xiaowei Li.
+<i>Science China Information Sciences</i>, Vol. 64, Issue 3, pp. 1-2.
+
+[J06] <b>[Accelerating Graph Processing with Lightweight Learning-Based Data Reordering](../publications/CAL2022)</b><br>
+Mo Zou, Mingzhe Zhang, Rujia Wang, Xian-He Sun, Xiaochun Ye, Dongrui Fan, Zhimin Tang.
+<i>IEEE Computer Architecture Letters</i>, Vol. 21, Issue 1, pp. 5-8.
+
+[J05] <b>[Application-Oriented Data Migration to Accelerate In-Memory Database on Hybrid Memory](../publications/micromachines2022)</b><br>
+Wenze Zhao, Yajuan Du, Mingzhe Zhang, Mingyang Liu, Kailun Jin, Rachata Ausavarungnirun.
+<i>Micromachines</i>, Vol. 13, Issue 1, pp. 52-60.
+
 ## 2020
 [J04] <b>[Architecting Effectual Computation for Machine Learning Accelerators](../publications/TCAD2019)</b><br>
 Hang Lu, Mingzhe Zhang, Yinhe Han, Huawei Li, Li Xiaowei.
