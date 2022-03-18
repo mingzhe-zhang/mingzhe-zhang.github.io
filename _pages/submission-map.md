@@ -241,7 +241,7 @@ Shanghai, China</a></td>
 	</tr>
 	<tr>
 		<td>APsys</td>
-		<td><a href="https://ap-sys.org/" title="date: , notify: 2022-06-17">2022-04-29(abstract)<br>2022-05-06<br>Online</a></td>
+		<td><a href="https://ap-sys.org/" title="date: , notify: 2022-06-17">2022-04-29(abstract)<br>2022-05-06(full)<br>Online</a></td>
 		<td><a href="https://ap-sys.org/apsys2021" title="date: 2021-08-24..25, notify: 2021-07-01">2021-05-20<br>Online</a></td>
 		<td><a href="https://ap-sys.org/apsys2020" title="date: 2020-08-24..25, notify: 2020-06-19">2020-05-25<br>Tsukuba, Japan</a></td>
 		<td><a href="https://ap-sys.org/apsys2019" title="date: 2019-08-19..20, notify: 2019-06-14">2019-05-08<br>
