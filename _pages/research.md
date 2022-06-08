@@ -61,6 +61,7 @@ Here are some examples of our research projects:<br>
 	- Xianglong Deng (Undergraduate Research Intern from University of Electronic Science and Technology of China, upcoming Ph.D student. Co-advised with Prof. Rui Hou, since Oct 2021.)
 	- Yu Deng (M.Sc student, since Sep 2021.)
 	- Zihao Yang (UG from Tsinghua University, upcoming M.Sc student.)
+	- Zhuoyu Tian (UG from Tsinghua University, upcoming M.Sc student.)
 
 + Alumni:
 	- Mo Zou (Ph.D student of ICT, CAS. Co-advised with Prof. Zhimin Tang from Nov 2019 to Apr 2021.)
