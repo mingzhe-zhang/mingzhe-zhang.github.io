@@ -6,7 +6,7 @@ author_profile: true
 
 It's my great honor to work with the talented you. Yes, the honor is mine:)
 
-Want to join us? Click [here](../pages/recruiting) for more information.
+Interested in joining us? Click [here](../pages/recruiting) for more information.
 
 ## Staff
 
