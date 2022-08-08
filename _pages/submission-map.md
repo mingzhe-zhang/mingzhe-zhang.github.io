@@ -6,7 +6,7 @@ author_profile: true
 <font size="4">The main conferences of computer architectrue and system sorted by deadline.</font> 
 (Fork from the Professor Dan Tsafrir's conference list. The original version is [here](http://www.cs.technion.ac.il/~dan/index_sysvenues_deadline.html).)
 
-<font size="4" color="grey">[Last Update: Jul-11-2022]</font>
+<font size="4" color="grey">[Last Update: Aug-08-2022]</font>
 
 <table align="center">
 	<tr>
@@ -562,7 +562,7 @@ Austin, TX</a></td>
 	</tr>
 	<tr>
 		<td>PLDI</td>
-		<td>-</td>
+		<td><a href="https://conf.researchr.org/home/pldi-2023" title="date: 2023-06-19..21, notify: 2023-02-24">2022-11-10<br>Orlando, FL</a></td>
 		<td><a href="https://conf.researchr.org/home/pldi-2022" title="date: 2022-06-20..24, notify: 2022-02-25">2021-11-19<br>San Diego, CA</a></td>
 		<td><a href="https://conf.researchr.org/home/pldi-2021" title="date: 2021-06-20..25, notify:">2020-11-20<br>Quebec City, CA</a></td>
 		<td><a href="http://conf.researchr.org/home/pldi-2020" title="date: 2020-06-15..20, notify: 2020-02-21">2019-11-22<br>

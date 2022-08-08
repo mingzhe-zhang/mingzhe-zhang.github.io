@@ -11,6 +11,7 @@ redirect_from:
 ## Short Bio
 Dr. Mingzhe Zhang is an Associate Professor at the Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS). Before join the IIE CAS, he served as the Assistant Professor at Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS) from July 2018 to April 2021. Mingzhe graduated from ICT, CAS with Ph.D. degree in 2018, Inner Mongolia University with M.S. degree in 2013, and Nanjing University of Post and Telecommunications with B.E. in 2008. From 2015 to 2017, he was at the University of Chicago as the visiting scholarship, under the supervision of [Prof. Frederic T. Chong](http://people.cs.uchicago.edu/~ftchong/). 
 
+
 ## Research Interests
 I do research in Computer Architecture and Bigdata-oriented System, including:
 
@@ -19,6 +20,8 @@ I do research in Computer Architecture and Bigdata-oriented System, including:
 - Emerging Technology,
 - Domain-specific Accelerators
 - Hardware Support for Security and Privacy.
+
+<font color="#FF0000"><i>We're recruiting students (M.Sc/Ph.D students and research intern) in the area computer architecture and hardware security. Please click <a href="../_pages/recruiting">HERE</a>> for more details if you are interested.</i></font>
 
 ## Updates
 
