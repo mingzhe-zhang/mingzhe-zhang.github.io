@@ -21,7 +21,7 @@ I do research in Computer Architecture and Bigdata-oriented System, including:
 - Domain-specific Accelerators
 - Hardware Support for Security and Privacy.
 
-<font color="#FF0000"><i>We're recruiting students (M.Sc/Ph.D students and research intern) in the area computer architecture and hardware security. Please click <a href="./recruiting">HERE</a> for more details if you are interested.</i></font>
+<font color="#FF0000"><i>We're recruiting students (M.Sc/Ph.D students and research intern) in the area computer architecture and hardware security. Please click <a href="../pages/recruiting">HERE</a> for more details if you are interested.</i></font>
 
 ## Updates
 
