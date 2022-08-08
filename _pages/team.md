@@ -8,13 +8,13 @@ It's my great honor to work with the talented you. Yes, the honor is mine:)
 
 Want to join us? Click [here](../pages/recruiting) for more information.
 
-# Staff
+## Staff
 
 + Peng Zhao (M.Sc from Northern East University, Research Assistant, since Jul 2022.)
 + Guangtao Zhu (B.E from Beijing Institute of Technology, Research Assistant, since Jul 2022.)
 
 
-# Student
+## Student
 
 + Zhuoyu Tian (M.Sc student, B.E. from Tsinghua University, since Sep 2022.)
 + Zihao Yang (M.Sc student, B.E. from Tsinghua University, since Sep 2022.)
@@ -22,7 +22,7 @@ Want to join us? Click [here](../pages/recruiting) for more information.
 + Shengyu Fan (M.Sc student, Research Intern from Shandong Normal University, since Jul 2021.)
 + Yu Deng (M.Sc student, since Sep 2021.)
 
-# Alumni
+## Alumni
 
 + Mo Zou (Ph.D student of ICT, CAS. Co-advised with Prof. Zhimin Tang from Nov 2019 to Apr 2021.)
 + Long Tan (Ph.D student of ICT, CAS. Co-advised with Prof. Dongrui Fan from Sep 2020 to Apr 2021.)
