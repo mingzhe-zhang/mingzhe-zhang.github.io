@@ -1,6 +1,6 @@
 ---
 title: "We are HIRING!"
-permalink: /recruiting/
+permalink: /pages/recruiting
 author_profile: true
 ---
 
