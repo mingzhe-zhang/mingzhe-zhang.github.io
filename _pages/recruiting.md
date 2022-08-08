@@ -12,7 +12,7 @@ Curently, our research work focuses on the following topics:
 + General/Specific Hardware Accelerator: We aim to build general/specific accelerators for all kinds of emerging and important workloads (include but not limited to graph processing, genome analysis, data mining, and security-related applications). Our work also involves the recent hot topics, such as NVM, PIM/NDP, power efficiency, data-flow, etc.
 + Architecture-Oriented Security: we aim to find and/or solve the security issues lie in the computer architecture with acceptable overheads. 
 
-All of the applicants will have opportunity to work with our talented team members on the above topics. The forms of joining our team include:
+The qualified applicants will have opportunity to work with our talented team members on the above topics. The forms of joining our team include:
 
 ## M.Sc/Ph.D student (fully funded)
 + Type 1: For the UG students with postgraduate recommendation, please send us your CV and transcript BEFORE September.
