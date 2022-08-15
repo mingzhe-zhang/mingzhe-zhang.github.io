@@ -6,7 +6,7 @@ author_profile: true
 <font size="4">The main conferences of computer architectrue and system sorted by deadline.</font> 
 (Fork from the Professor Dan Tsafrir's conference list. The original version is [here](http://www.cs.technion.ac.il/~dan/index_sysvenues_deadline.html).)
 
-<font size="4" color="grey">[Last Update: Aug-08-2022]</font>
+<font size="4" color="grey">[Last Update: Aug-15-2022]</font>
 
 <table align="center">
 	<tr>
@@ -490,7 +490,7 @@ Orlando, FL</a></td>
 	</tr>
 
 	<tr>
-		<td rowspan="4"><b><i>Oct</i></b></td>
+		<td rowspan="3"><b><i>Oct</i></b></td>
 		<td>EuroSys<br>(fall)</td>
 		<td><a href="https://2023.eurosys.org/" title="date: 2023-05-09..12, notify: 2023-01-18">2022-10-12(abstract)<br>2022-10-19(full)<br>
 	Rome, Italy</a></td>
@@ -526,22 +526,6 @@ Orlando, FL</a></td>
 		<td></td>
 		<td></td>
 		<td></td>
-	</tr>
-	<tr>
-		<td>ISPASS</td>
-		<td>-</td>
-		<td><a href="http://www.ispass.org/ispass2022" title="date: 2022-05-22..26, notify: 2022-03-16">2021-12-03(abstract)<br>2021-12-10(full)<br>
-Singapore</a></td>
-		<td><a href="http://www.ispass.org/ispass2021" title="date: 2021-03-28..30, notify: 2021-02-08">2020-10-30<br>
-Stony Brook, NY</a></td>
-		<td><a href="http://www.ispass.org/ispass2020" title="date: 2020-04-05..07, notify: 2020-01-14">2019-10-10<br>
-Boston, MA</a></td>
-		<td><a href="http://www.ispass.org/ispass2019" title="date: 2019-03-24..26, notify: 2019-01-13">2018-10-12<br>
-Madison, WI</a></td>
-		<td><a href="http://www.ispass.org/ispass2018" title="date: 2018-04-03..05, notify: 2018-01-19">2017-10-13<br>
-Belfast, UK</a></td>
-		<td><a href="http://www.ispass.org/ispass2017" title="date: 2017-04-23..25, notify: 2017-01-30">2016-10-14<br>
-San Francisco, CA</a></td>
 	</tr>
 	
 	<tr>
@@ -591,9 +575,25 @@ Los Angeles, CA</a></td>
 Toronto, CA</a></td>
 	</tr>
 	<tr>
-		<td rowspan="1"><b><i>DEC</i></b></td>
-		<td>OSDI</td>
+		<td rowspan="2"><b><i>DEC</i></b></td>
+				<td>ISPASS</td>
 		<td>-</td>
+		<td><a href="http://www.ispass.org/ispass2022" title="date: 2022-05-22..26, notify: 2022-03-16">2021-12-03(abstract)<br>2021-12-10(full)<br>
+Singapore</a></td>
+		<td><a href="http://www.ispass.org/ispass2021" title="date: 2021-03-28..30, notify: 2021-02-08">2020-10-30<br>
+Stony Brook, NY</a></td>
+		<td><a href="http://www.ispass.org/ispass2020" title="date: 2020-04-05..07, notify: 2020-01-14">2019-10-10<br>
+Boston, MA</a></td>
+		<td><a href="http://www.ispass.org/ispass2019" title="date: 2019-03-24..26, notify: 2019-01-13">2018-10-12<br>
+Madison, WI</a></td>
+		<td><a href="http://www.ispass.org/ispass2018" title="date: 2018-04-03..05, notify: 2018-01-19">2017-10-13<br>
+Belfast, UK</a></td>
+		<td><a href="http://www.ispass.org/ispass2017" title="date: 2017-04-23..25, notify: 2017-01-30">2016-10-14<br>
+San Francisco, CA</a></td>
+	</tr>
+	<tr>
+		<td>OSDI</td>
+		<td><a href="https://www.usenix.org/conference/osdi23" title="date: 2023-07-10..12, notify: ">-<br>-<br>Boston, MA</a></td>
 		<td><a href="https://www.usenix.org/conference/osdi22" title="date: 2022-07-11..13, notify: 2022-03-16">2021-12-07(abstract)<br>2021-12-14(full)<br>Carlsbad, CA</a></td>
 		<td><a href="https://www.usenix.org/conference/osdi20" title="date: 2020-11-04..06, notify: 2020-08-04">2020-05-12<br>Banff, Alberta, Canada</a></td>
 		<td align="center">-</td>
