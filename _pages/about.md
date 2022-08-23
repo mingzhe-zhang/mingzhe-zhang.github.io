@@ -27,11 +27,11 @@ I do research in Computer Architecture and Bigdata-oriented System, including:
 
 ## Updates
 
++ [2022-08-23] One paper has been accepted by ICCD 2022. Congrats to all collaborators!
 + [2022-05-06] I will serve as the ERC member of HPCA 2023.
 + [2022-04-10] I will serve as the Program Committee member of ICCD 2022.
 + [2022-03-29] I will serve as the Program Committee member of NVMSA 2022.
 + [2022-03-26] I will serve as the ERC member of MICRO 2022.
-+ [2022-02-03] One paper has been accepted by IEEE CAL. Congrats to all collaborators!
 
 [More details...](../news/all-news)
 
