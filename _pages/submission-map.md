@@ -6,7 +6,7 @@ author_profile: true
 <font size="4">The main conferences of computer architectrue and system sorted by deadline.</font> 
 (Fork from the Professor Dan Tsafrir's conference list. The original version is [here](http://www.cs.technion.ac.il/~dan/index_sysvenues_deadline.html).)
 
-<font size="4" color="grey">[Last Update: Aug-15-2022]</font>
+<font size="4" color="grey">[Last Update: Aug-29-2022]</font>
 
 <table align="center">
 	<tr>
@@ -151,7 +151,7 @@ San Francisco, CA</a></td>
 	</tr>
 	<tr>
 	<td>ASPLOS<br>(spring)</td>
-		<td><a href="https://asplos-conference.org/asplos-2023-cfp/" title="date: 2023-, notify: 2022-06-16">2022-03-24(abstract)<br>2022-03-31(full)<br>-</a></td>
+		<td><a href="https://asplos-conference.org/asplos-2023-cfp/" title="date: 2023-, notify: 2022-06-16">2022-03-24(abstract)<br>2022-03-31(full)<br>Vancouver, Canada</a></td>
 		<td>-</td>
 		<td>-</td>
 		<td>-</td>
@@ -332,7 +332,7 @@ Santa Clara, CA</a></td>
 	</tr>
 	<tr>
 		<td>ASPLOS<br>(summer)</td>
-		<td><a href="https://asplos-conference.org/asplos-2023-cfp/" title="date: 2023-, notify: 2022-09-22">2022-06-30(abstract)<br>2022-07-07(full)<br>-</a></td>
+		<td><a href="https://asplos-conference.org/asplos-2023-cfp/" title="date: 2023-, notify: 2022-09-22">2022-06-30(abstract)<br>2022-07-07(full)<br>Vancouver, Canada</a></td>
 		<td><a href="https://asplos-conference.org" title="date: 2022-02-28..04, notify: 2021-11-15">2021-08-06(abstract)<br>2021-08-13(full)<br>
 Lausanne, Switzerland</a></td>
 		<td><a href="https://asplos-conference.org/2021" title="date: 2021-04-10..15, notify: 2020-11-19">2020-08-21<br>
@@ -519,7 +519,7 @@ Orlando, FL</a></td>
 	</tr>
 	<tr>
 		<td>ASPLOS<br>(fall)</td>
-		<td><a href="https://asplos-conference.org/asplos-2023-cfp/" title="date: 2023-, notify: 2023-01-19">2022-10-13(abstract)<br>2022-10-20(full)<br>-</a></td>
+		<td><a href="https://asplos-conference.org/asplos-2023-cfp/" title="date: 2023-, notify: 2023-01-19">2022-10-13(abstract)<br>2022-10-20(full)<br>Vancouver, Canada</a></td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -593,7 +593,7 @@ San Francisco, CA</a></td>
 	</tr>
 	<tr>
 		<td>OSDI</td>
-		<td><a href="https://www.usenix.org/conference/osdi23" title="date: 2023-07-10..12, notify: ">-<br>-<br>Boston, MA</a></td>
+		<td><a href="https://www.usenix.org/conference/osdi23" title="date: 2023-07-10..12, notify: 2023-03-23">2022-12-06(abstract)<br>2022-12-13(full)<br>Boston, MA</a></td>
 		<td><a href="https://www.usenix.org/conference/osdi22" title="date: 2022-07-11..13, notify: 2022-03-16">2021-12-07(abstract)<br>2021-12-14(full)<br>Carlsbad, CA</a></td>
 		<td><a href="https://www.usenix.org/conference/osdi20" title="date: 2020-11-04..06, notify: 2020-08-04">2020-05-12<br>Banff, Alberta, Canada</a></td>
 		<td align="center">-</td>
