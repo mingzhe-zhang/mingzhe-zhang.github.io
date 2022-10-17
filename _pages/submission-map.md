@@ -6,7 +6,7 @@ author_profile: true
 <font size="4">The main conferences of computer architectrue and system sorted by deadline.</font> 
 (Fork from the Professor Dan Tsafrir's conference list. The original version is [here](http://www.cs.technion.ac.il/~dan/index_sysvenues_deadline.html).)
 
-<font size="4" color="grey">[Last Update: Sep-13-2022]</font>
+<font size="4" color="grey">[Last Update: Oct-17-2022]</font>
 
 <table align="center">
 	<tr>
@@ -24,7 +24,7 @@ author_profile: true
 	<tr>
 		<td rowspan="7"><b><i>Jan</i></b></td>
 		<td>ATC</td>
-		<td><a href="https://www.usenix.org/conference/atc23" title="date: 2023-07-10..12, notify: "><nobr>-</nobr><br>-<br>Boston, MA</a></td>
+		<td><a href="https://www.usenix.org/conference/atc23" title="date: 2023-07-10..12, notify: 2023-04-28"><nobr>2023-01-05(abstract)</nobr><br>2023-01-12(full)<br>Boston, MA</a></td>
 		<td><a href="https://www.usenix.org/conference/atc22" title="date: 2022-07-11..13, notify: 2022-04-29"><nobr>2022-01-06(abstract)</nobr><br>2022-01-13(full)<br> CARLSBAD, CA</a></td>
 		<td><a href="https://www.usenix.org/conference/atc21" title="date: 2021-07-14..16, notify: 2021-04-26">2021-01-12<br> SANTA CLARA, CA</a></td>
 		<td><a href="https://www.usenix.org/conference/atc20" title="date: 2020-07-15..17, notify: 2020-04-24">2020-01-15<br> Boston, MA</a></td>
@@ -49,7 +49,7 @@ Atlanta, GA</a></td>
 	</tr>
 	<tr>
 		<td>HPDC</td>
-		<td>-</td>
+		<td><a href="http://www.hpdc.org/2023" title="date: 2023-06-16..23, notify: ">-(abstract)<br>-(full)<br>Orlando, FL</a></td>
 		<td><a href="http://www.hpdc.org/2022" title="date: 2022-06-27..01, notify: 2022-03-21">2022-01-20(abstract)<br>2022-01-27(full)<br>Minneapolis, MN</a></td>
 		<td><a href="http://www.hpdc.org/2021" title="date: 2021-06-21..24, notify: 2021-03-26">2020-01-17(abstract)<br>2020-01-22(full)<br>Stockholm, Sweden</a></td>
 		<td><a href="http://www.hpdc.org/2020" title="date: 2020-06-23..26, notify: 2020-03-27">2020-01-16<br>Stockholm, Sweden</a></td>
@@ -567,22 +567,7 @@ Orlando, FL</a></td>
 	</tr>
 	
 	<tr>
-		<td rowspan="3"><b><i>Nov</i></b></td>
-		<td>DAC</td>
-		<td>-</td>
-		<td><a href="https://www.dac.com/DAC-2022/2022-Call-for-Contributions" title="date: 2022-07-10..14, notify: 2022-02-21">2021-11-15(abstract)<br>2021-11-22(full)<br>San Francisco, CA</a></td>
-		<td><a href="https://www.dac.com/" title="date: 2021-07-11..15, notify: 2021-02-24">2020-11-23<br>
-San Francisco, CA</a></td>
-		<td><a href="https://www.dac.com/content/57th-dac" title="date: 2020-07-19..23, notify: 2020-02-28">2019-11-21<br>
-San Francisco, CA</a></td>
-		<td><a href="https://www.dac.com/content/56th-dac" title="date: 2019-06-02..06, notify: 2019-03-25">2018-11-27<br>
-Las Vegas, NV</a></td>
-		<td><a href="https://dac.com/content/55th-dac" title="date: 2018-06-24..28, notify: ">2017-11-14<br>
-San Francisco, CA</a></td>
-		<td><a href="https://dac.com/content/54th-dac" title="">2016-11-15<br>
-Austin, TX</a></td>
-	</tr>
-	<tr>
+		<td rowspan="4"><b><i>Nov</i></b></td>
 		<td>PLDI</td>
 		<td>-</td>
 		<td><a href="https://conf.researchr.org/home/pldi-2023" title="date: 2023-06-19..21, notify: 2023-02-24">2022-11-10<br>Orlando, FL</a></td>
@@ -600,7 +585,8 @@ Barcelona, Spain</a></td>
 	<tr>
 		<td>ISCA</td>
 		<td>-</td>
-		<td>-</td>
+		<td><a href="http://iscaconf.org/isca2023" title="date: 2023-06-17..23, notify: 2023-03-09">2022-11-14(abstract)<br>2022-11-21(full)<br>
+Orlando, FL</a></td>
 		<td><a href="http://iscaconf.org/isca2022" title="date: 2022-06-11..15, notify: 2022-03-02">2021-11-16(abstract)<br>2021-11-23(full)<br>
 New York City, USA</a></td>
 		<td><a href="http://iscaconf.org/isca2021" title="date: 2021-05-22..26, notify: 2021-03-04">2020-11-24<br>
@@ -615,10 +601,25 @@ Los Angeles, CA</a></td>
 Toronto, CA</a></td>
 	</tr>
 	<tr>
-		<td rowspan="2"><b><i>DEC</i></b></td>
+		<td>DAC</td>
+		<td>-</td>
+		<td><a href="https://www.dac.com/DAC-2022/2022-Call-for-Contributions" title="date: 2022-07-10..14, notify: 2022-02-21">2021-11-15(abstract)<br>2021-11-22(full)<br>San Francisco, CA</a></td>
+		<td><a href="https://www.dac.com/" title="date: 2021-07-11..15, notify: 2021-02-24">2020-11-23<br>
+San Francisco, CA</a></td>
+		<td><a href="https://www.dac.com/content/57th-dac" title="date: 2020-07-19..23, notify: 2020-02-28">2019-11-21<br>
+San Francisco, CA</a></td>
+		<td><a href="https://www.dac.com/content/56th-dac" title="date: 2019-06-02..06, notify: 2019-03-25">2018-11-27<br>
+Las Vegas, NV</a></td>
+		<td><a href="https://dac.com/content/55th-dac" title="date: 2018-06-24..28, notify: ">2017-11-14<br>
+San Francisco, CA</a></td>
+		<td><a href="https://dac.com/content/54th-dac" title="">2016-11-15<br>
+Austin, TX</a></td>
+	</tr>
+	<tr>
 		<td>ISPASS</td>
 		<td>-</td>
-		<td>-</td>
+		<td><a href="http://www.ispass.org/ispass2023" title="date: 2023-04-23.., notify: 2023-02-28">2022-11-29(abstract)<br>2022-12-06(full)<br>
+Raleigh, NC</a></td>
 		<td><a href="http://www.ispass.org/ispass2022" title="date: 2022-05-22..26, notify: 2022-03-16">2021-12-03(abstract)<br>2021-12-10(full)<br>
 Singapore</a></td>
 		<td><a href="http://www.ispass.org/ispass2021" title="date: 2021-03-28..30, notify: 2021-02-08">2020-10-30<br>
@@ -633,6 +634,7 @@ Belfast, UK</a></td>
 San Francisco, CA</a></td>
 	</tr>
 	<tr>
+		<td rowspan="1"><b><i>DEC</i></b></td>
 		<td>OSDI</td>
 		<td>-</td>
 		<td><a href="https://www.usenix.org/conference/osdi23" title="date: 2023-07-10..12, notify: 2023-03-23">2022-12-06(abstract)<br>2022-12-13(full)<br>Boston, MA</a></td>
