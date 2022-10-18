@@ -27,7 +27,7 @@ I do research in Computer Architecture and Bigdata-oriented System, including:
 
 ## Updates
 
-+ [2022-10-18] Our paper "TensorFHE: Achieving Practical Computation on Encrypted Data Using GPGPU" and "Poseidon: Practical Homomorphic Encryption Accelerator" have been accepted by HPCA 2023. Congrats to all!
++ [2022-10-18] <font color="#FF0000">Our paper "TensorFHE: Achieving Practical Computation on Encrypted Data Using GPGPU" and "Poseidon: Practical Homomorphic Encryption Accelerator" have been accepted by HPCA 2023. Congrats to all!</font>
 + [2022-08-23] Our collaborative paper "Enhancing GPU Performance via Neighboring Directory Table Based Inter-TLB Sharing" has been accepted by ICCD 2022. Congrats to all!
 + [2022-05-06] I will serve as the ERC member of HPCA 2023.
 + [2022-04-10] I will serve as the Program Committee member of ICCD 2022.
