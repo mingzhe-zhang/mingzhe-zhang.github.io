@@ -6,6 +6,8 @@ author_profile: true
 <font size="4">The main conferences of computer architectrue and system sorted by deadline.</font> 
 (Fork from the Professor Dan Tsafrir's conference list. The original version is [here](http://www.cs.technion.ac.il/~dan/index_sysvenues_deadline.html).)
 
+[An alternative conference list with countdown. (in chinese)](https://ccfddl.github.io)
+
 <font size="4" color="grey">[Last Update: Oct-17-2022]</font>
 
 <table align="center">
