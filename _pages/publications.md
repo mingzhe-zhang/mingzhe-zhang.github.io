@@ -6,6 +6,20 @@ author_profile: true
 <br>
 # Conference
 
+## 2023
+[C23] <b>[Poseidon: Practical Homomorphic Encryption Accelerator](../publications/HPCA2023-2)</b><br>
+Yinghao Yang, Huaizhi Zhang, Shengyu Fan, Hang Lu, <b>Mingzhe Zhang</b>, Xiaowei Li.
+<i>The 29th IEEE International Symposium on High-Performance Computer Architecture</i>. <b>HPCA 2023</b>
+
+[C22] <b>[TensorFHE: Achieving Practical Computation on Encrypted Data Using GPGPU](../publications/HPCA2023-1)</b><br>
+Shengyu Fan, Zhiwei Wang, Weizhi Xu, Rui Hou, Dan Meng, <b>Mingzhe Zhang</b>.
+<i>The 29th IEEE International Symposium on High-Performance Computer Architecture</i>. <b>HPCA 2023</b>
+
+## 2022
+[C21] <b>[Enhancing GPU Performance via Neighboring Directory Table Based Inter-TLB Sharing](../publications/ICCD2022)</b><br>
+Yajuan Du, Mingyang Liu, Yuqi Yang, <b>Mingzhe Zhang</b> and Xulong Tang.
+<i>The 40th IEEE International Conference on Computer Design</i>. <b>ICCD 2022</b>
+
 ## 2021
 [C20] <b>[Distilling Bit-level Sparsity Parallelism for General Purpose Deep Learning Acceleration](../publications/MICRO2021)</b><br>
 Hang Lu, Liang Chang, Chenglong Li, Zixuan Zhu, Shengjian Lu, Yanhuan Liu, <b>Mingzhe Zhang</b>.
