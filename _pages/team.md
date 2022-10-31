@@ -21,7 +21,7 @@ Interested in joining us? Click [here](../pages/recruiting) for more information
 + Xianglong Deng (Ph.D student, B.E. from University of Electronic Science and Technology of China. Co-advised with Prof. Rui Hou, since Sep 2022. Previous UG Research Intern from Oct 2021 to May 2022.)
 + Shengyu Fan (M.Sc. student, Research Intern from Shandong Normal University, since Jul 2021.) 
 	
-	<font size="2" color="grey"><b>Publications:</b> \[[HPCA 2023-1](../publications/HPCA2023-1)\] \[[HPCA2023-2](../publications/HPCA2023-2)\]</font>
+	<font size="2" color="grey"><b>Publications:</b> [HPCA 2023-1](../publications/HPCA2023-1) [HPCA2023-2](../publications/HPCA2023-2)</font>
 
 + Yu Deng (M.Sc. student, since Sep 2021.)
 
