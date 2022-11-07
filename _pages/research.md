@@ -19,7 +19,7 @@ author_profile: true
 On-going project:<br>
 
 <div>
-	<h3>Architectural Support for Fully Homomorphic Encryption Computation</h3><br>
+	<h3>Architectural Support for Fully Homomorphic Encryption Computation</h3>
 	<img src="../images/FHE-concept.jpg" width="300" align="left">
 	<span>
 		The Fully Homomorphic Encryption (FHE) is considered as one of the most competitive privacy protection technique for cloud computing, which allows directly computation on the encryted data. However, its over-high performance overhead limits the wide application of FHE. This project focuses on providing the acceleration support for FHE with the architectural efforts, which include but not limited to commercal devices (e.g., GPGPU, FPGA), domain-specific ASIC accelerators and other emerging techniques.
@@ -35,10 +35,10 @@ On-going project:<br>
 	</span>
 </div>
 
-<br>Here are some examples of our past research projects:<br>
+<br>Here are some examples of our past research projects:
 
 <div>
-	<h3>Exploring Dynamic Trade-offs in Emerging Resistive Memory Technologies:</h3><br>
+	<h3>Exploring Dynamic Trade-offs in Emerging Resistive Memory Technologies:</h3>
 	<img src="https://mingzhe-zhang.github.io/images/drift.jpg" width="300" height="200" align="left">
 	<span>
 			This project focuses on designing the optimization schemes based on the dynamic trade-offs lies in the Non-Volatile Memory (NVM) materials. The optimization targets include system performance, energy consumption and component lifetime. Differentiate from the previous work, our proposed schemes utilize the results of application analysis and find the "interface" for the characteristics from the different levels. 
@@ -57,7 +57,7 @@ On-going project:<br>
 </div>
 <br>
 <div>
-	<h3>Optimization for Machine Learning Accelerators based on Data Sparsity:</h3><br>
+	<h3>Optimization for Machine Learning Accelerators based on Data Sparsity:</h3>
 	<img src="https://mingzhe-zhang.github.io/images/bitlet.png" width="300" align="left">
 	<span>
 			This project focuses on improving the performance and energy-efficiency for the machine learning accelerators. The proposed schemes are based on data-level or bit-level sparsity and reduce the unnecessary operations. 
@@ -75,7 +75,7 @@ On-going project:<br>
 </div>
 <br>
 <div>
-	<h3>Secure Computation for Data-Intensive Applications:</h3><br>
+	<h3>Secure Computation for Data-Intensive Applications:</h3>
 	<img src="https://mingzhe-zhang.github.io/images/string-oram.png" width="300" align="left">
 	<span>
 			This project focuses on providing secure environment for the data-intensive applications and systems. The most important task of this project is to avoid the information leakage caused by the attack to the memory, while minimizing the impact on the performance. 
