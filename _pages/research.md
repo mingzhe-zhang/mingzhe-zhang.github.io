@@ -54,7 +54,7 @@ Here are some examples of our past research projects:<br>
 <br>
 <div>
 	<h3>Optimization for Machine Learning Accelerators based on Data Sparsity:</h3><br>
-	<img src="https://mingzhe-zhang.github.io/images/bitlet.png" width="300" height="220" align="left">
+	<img src="https://mingzhe-zhang.github.io/images/bitlet.png" width="300" align="left">
 	<span>
 			This project focuses on improving the performance and energy-efficiency for the machine learning accelerators. The proposed schemes are based on data-level or bit-level sparsity and reduce the unnecessary operations. 
 			<font size="3" color="gray">
@@ -70,7 +70,7 @@ Here are some examples of our past research projects:<br>
 <br>
 <div>
 	<h3>Secure Computation for Data-Intensive Applications:</h3><br>
-	<img src="https://mingzhe-zhang.github.io/images/string-oram.png" width="300" height="150" align="left">
+	<img src="https://mingzhe-zhang.github.io/images/string-oram.png" width="300" align="left">
 	<span>
 			This project focuses on providing secure environment for the data-intensive applications and systems. The most important task of this project is to avoid the information leakage caused by the attack to the memory, while minimizing the impact on the performance. 
 			<font size="3" color="gray">
