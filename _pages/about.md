@@ -27,12 +27,11 @@ I do research in Computer Architecture and Bigdata-oriented System, including:
 
 ## Updates
 
++ [2022-11-07] Welcome Yintai Sun (PG student from Shandong Normal University) to join our team as the Research Intern!
 + [2022-10-18] <font color="#FF0000">Our paper "TensorFHE: Achieving Practical Computation on Encrypted Data Using GPGPU" and "Poseidon: Practical Homomorphic Encryption Accelerator" have been accepted by HPCA 2023. Congrats to all!</font>
++ [2022-09-01] Welcome Xianglong Deng (B.E. from UESTC, former UG research intern) to join our team as the Ph.D. student!
++ [2022-09-01] Welcome Zhuoyu Tian and Zihao Yang (both are B.E. from Tsinghua University) to join our team as the M.Sc. students!
 + [2022-08-23] Our collaborative paper "Enhancing GPU Performance via Neighboring Directory Table Based Inter-TLB Sharing" has been accepted by ICCD 2022. Congrats to all!
-+ [2022-05-06] I will serve as the ERC member of HPCA 2023.
-+ [2022-04-10] I will serve as the Program Committee member of ICCD 2022.
-+ [2022-03-29] I will serve as the Program Committee member of NVMSA 2022.
-+ [2022-03-26] I will serve as the ERC member of MICRO 2022.
 
 [More details...](../news/all-news)
 

@@ -6,7 +6,10 @@ author_profile: true
 
 ## 2022
 
++ [2022-11-07] Welcome Yintai Sun (PG student from Shandong Normal University) to join our team as the Research Intern!
 + [2022-10-18] Our paper "[TensorFHE: Achieving Practical Computation on Encrypted Data Using GPGPU](../publications/HPCA2023-1)" and "[Poseidon: Practical Homomorphic Encryption Accelerator](../publications/HPCA2023-2)" have been accepted by HPCA 2023. Congrats to all!
++ [2022-09-01] Welcome Xianglong Deng (B.E. from UESTC, former UG research intern) to join our team as the Ph.D. student!
++ [2022-09-01] Welcome Zhuoyu Tian and Zihao Yang (both are B.E. from Tsinghua University) to join our team as the M.Sc. students!
 + [2022-08-23] Our collaborative paper "[Enhancing GPU Performance via Neighboring Directory Table Based Inter-TLB Sharing](../publications/ICCD2022)" has been accepted by ICCD 2022. Congrats to all!
 + [2022-05-06] I will serve as the ERC member of HPCA 2023.
 + [2022-04-10] I will serve as the Program Committee member of ICCD 2022.
@@ -17,7 +20,9 @@ author_profile: true
 ## 2021
 
 + [2021-11-09] I will serve as the ERC member of ISCA 2022.
++ [2021-10-18] Welcome Xianglong Deng (UG student from UESTC, upcoming Ph.D student of our team) to join our team as the UG Research Intern!
 + [2021-09-04] Our paper "[Distilling Bit-level Sparsity Parallelism for General Purpose Deep Learning Acceleration](../publications/MICRO2021)" has been accepted by MICRO 2021! Congrats to all collaborators!
++ [2021-07-10] Welcome Shengyu Fan (PG student from Shandong Normal University) to join our team as the Research Intern!
 + [2021-07-05] I will serve as the Program Committee member of ICPADS 2021. 
 + [2021-06-12] One paper has been accepted in ICPP 2021. Congrats to all collaborators!
 + [2021-05-31] I will serve as the Program Committee member of NVMSA 2021.

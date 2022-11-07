@@ -16,9 +16,10 @@ Interested in joining us? Click [here](../pages/recruiting) for more information
 
 ## Student
 
++ Yintai Sun, (M.Sc. student, Research Intern from Shandong Normal University, since Nov 2022.)
 + Zhuoyu Tian (M.Sc. student, B.E. from Tsinghua University, since Sep 2022.)
 + Zihao Yang (M.Sc. student, B.E. from Tsinghua University, since Sep 2022.)
-+ Xianglong Deng (Ph.D student, B.E. from University of Electronic Science and Technology of China. Co-advised with Prof. Rui Hou, since Sep 2022. Previous UG Research Intern from Oct 2021 to May 2022.)
++ Xianglong Deng (Ph.D student, B.E. from University of Electronic Science and Technology of China. Co-advised with Prof. Rui Hou, since Sep 2022. Former UG Research Intern from Oct 2021 to May 2022.)
 + Shengyu Fan (M.Sc. student, Research Intern from Shandong Normal University, since Jul 2021.) 
 <br><font size="3" color="grey"><b>Publications:</b> [<a href="../publications/HPCA2023-1">HPCA 2023-1</a>] [<a href="../publications/HPCA2023-2">HPCA2023-2</a>]</font><br>
 + Yu Deng (M.Sc. student, since Sep 2021.)
