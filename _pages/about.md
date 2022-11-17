@@ -27,6 +27,7 @@ I do research in Computer Architecture and Bigdata-oriented System, including:
 
 ## Updates
 
++ [2022-11-16] Welcome Dian Jiao (upcoming M.Sc student, UG from Peking University) to join our team as the Research Intern!
 + [2022-11-07] Welcome Yintai Sun (PG student from Shandong Normal University) to join our team as the Research Intern!
 + [2022-10-18] <font color="#FF0000">Our paper "TensorFHE: Achieving Practical Computation on Encrypted Data Using GPGPU" and "Poseidon: Practical Homomorphic Encryption Accelerator" have been accepted by HPCA 2023. Congrats to all!</font>
 + [2022-09-01] Welcome Xianglong Deng (B.E. from UESTC, former UG research intern) to join our team as the Ph.D. student!
@@ -35,7 +36,7 @@ I do research in Computer Architecture and Bigdata-oriented System, including:
 
 [More details...](../news/all-news)
 
-\[Last Update: Nov-07-2022\]
+\[Last Update: Nov-16-2022\]
 
    
 

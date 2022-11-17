@@ -6,6 +6,7 @@ author_profile: true
 
 ## 2022
 
++ [2022-11-16] Welcome Dian Jiao (upcoming M.Sc student, UG from Peking University) to join our team as the Research Intern!
 + [2022-11-07] Welcome Yintai Sun (PG student from Shandong Normal University) to join our team as the Research Intern!
 + [2022-10-18] Our paper "[TensorFHE: Achieving Practical Computation on Encrypted Data Using GPGPU](../publications/HPCA2023-1)" and "[Poseidon: Practical Homomorphic Encryption Accelerator](../publications/HPCA2023-2)" have been accepted by HPCA 2023. Congrats to all!
 + [2022-09-01] Welcome Xianglong Deng (B.E. from UESTC, former UG research intern) to join our team as the Ph.D. student!

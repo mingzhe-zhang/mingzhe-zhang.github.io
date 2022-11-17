@@ -16,7 +16,8 @@ Interested in joining us? Click [here](../pages/recruiting) for more information
 
 ## Student
 
-+ Yintai Sun, (M.Sc. student, Research Intern from Shandong Normal University, since Nov 2022.)
++ Dian Jiao (Upcoming M.Sc. student, UG Research Intern from Peking University, since Nov 2022.)
++ Yintai Sun (M.Sc. student, Research Intern from Shandong Normal University, since Nov 2022.)
 + Zhuoyu Tian (M.Sc. student, B.E. from Tsinghua University, since Sep 2022.)
 + Zihao Yang (M.Sc. student, B.E. from Tsinghua University, since Sep 2022.)
 + Xianglong Deng (Ph.D student, B.E. from University of Electronic Science and Technology of China. Co-advised with Prof. Rui Hou, since Sep 2022. Former UG Research Intern from Oct 2021 to May 2022.)
