@@ -8,7 +8,7 @@ author_profile: true
 
 [An alternative conference list with countdown. (in chinese)](https://ccfddl.github.io)
 
-<font size="4" color="grey">[Last Update: Nov-09-2022]</font>
+<font size="4" color="grey">[Last Update: Nov-23-2022]</font>
 
 <table align="center">
 	<tr>
@@ -103,7 +103,7 @@ Kyoto, Japan</a></td>
 	</tr>
 	<tr>
 		<td>CF</td>
-		<td><a href="http://www.computingfrontiers.org/2023/" title="date: 2023-05-09..11, notify:  ">-(abstract)<br>-(full)<br>Bologna, Italy</a></td>
+		<td><a href="http://www.computingfrontiers.org/2023/" title="date: 2023-05-09..11, notify: 2023-03-17">2023-01-27<br>Bologna, Italy</a></td>
 		<td><a href="http://www.computingfrontiers.org/2022/" title="date: 2022-05, notify: ">2022-01-30(abstract)<br>2022-02-06(full)<br>Torino, Italy</a></td>
 		<td><a href="http://www.computingfrontiers.org/2021/" title="date: 2021-05-11..13, notify: 2021-03-15">2021-01-21(abstract)<br>2020-01-28(full)<br>Virtual</a></td>
 		<td><a href="http://www.computingfrontiers.org/2020/" title="date: 2020-05-11..13, notify: 2020-03-15">2020-01-28<br>Catania, Italy</a></td>
