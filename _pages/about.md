@@ -27,16 +27,17 @@ I do research in Computer Architecture and Bigdata-oriented System, including:
 
 ## Updates
 
++ [2023-02-27] Our collaborative paper "Skyway: Accelerate Graph Applications with a Dual-Path Architecture and Fine-Grained Data Management" has been accepted by Journal of Computer Science and Technology (JCST). Congrats to all collaborators!
++ [2023-02-14] I will serve as the TPC member of NVMSA 2023.
 + [2022-11-16] Welcome Dian Jiao (upcoming M.Sc student, UG from Peking University) to join our team as the Research Intern!
 + [2022-11-07] Welcome Yintai Sun (PG student from Shandong Normal University) to join our team as the Research Intern!
 + [2022-10-18] <font color="#FF0000">Our paper "<a href="https://arxiv.org/abs/2212.14191">TensorFHE: Achieving Practical Computation on Encrypted Data Using GPGPU</a>" and "<a href="../paper/Poseidon-HPCA2023.pdf">Poseidon: Practical Homomorphic Encryption Accelerator</a>" have been accepted by HPCA 2023. Congrats to all!</font>
 + [2022-09-01] Welcome Xianglong Deng (B.E. from UESTC, former UG research intern) to join our team as the Ph.D. student!
 + [2022-09-01] Welcome Zhuoyu Tian and Zihao Yang (both are B.E. from Tsinghua University) to join our team as the M.Sc. students!
-+ [2022-08-23] Our collaborative paper "Enhancing GPU Performance via Neighboring Directory Table Based Inter-TLB Sharing" has been accepted by ICCD 2022. Congrats to all!
 
 [More details...](../news/all-news)
 
-\[Last Update: Nov-16-2022\]
+\[Last Update: Feb-27-2023\]
 
    
 

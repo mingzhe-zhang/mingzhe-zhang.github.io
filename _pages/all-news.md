@@ -4,6 +4,11 @@ permalink: /news/all-news
 author_profile: true
 ---
 
+## 2023
+
++ [2023-02-27] Our collaborative paper "Skyway: Accelerate Graph Applications with a Dual-Path Architecture and Fine-Grained Data Management" has been accepted by Journal of Computer Science and Technology (JCST). Congrats to all collaborators!
++ [2023-02-14] I will serve as the TPC member of NVMSA 2023.
+
 ## 2022
 
 + [2022-11-16] Welcome Dian Jiao (upcoming M.Sc student, UG from Peking University) to join our team as the Research Intern!
