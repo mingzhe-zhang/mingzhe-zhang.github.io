@@ -27,6 +27,7 @@ I do research in Computer Architecture and Bigdata-oriented System, including:
 
 ## Updates
 
++ [2023-05-04] I will serve as the TPC member of 24th Chinasys.
 + [2023-02-27] Our collaborative paper "Skyway: Accelerate Graph Applications with a Dual-Path Architecture and Fine-Grained Data Management" has been accepted by Journal of Computer Science and Technology (JCST). Congrats to all collaborators!
 + [2023-02-14] I will serve as the TPC member of NVMSA 2023.
 + [2022-11-16] Welcome Dian Jiao (upcoming M.Sc student, UG from Peking University) to join our team as the Research Intern!
@@ -35,7 +36,7 @@ I do research in Computer Architecture and Bigdata-oriented System, including:
 
 [More details...](../news/all-news)
 
-\[Last Update: Feb-27-2023\]
+\[Last Update: May-04-2023\]
 
    
 
