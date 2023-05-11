@@ -8,7 +8,7 @@ author_profile: true
 
 [An alternative conference list with countdown. (in chinese)](https://ccfddl.github.io)
 
-<font size="4" color="grey">[Last Update: May-04-2023]</font>
+<font size="4" color="grey">[Last Update: May-11-2023]</font>
 
 <table align="center">
 	<tr>
@@ -323,7 +323,8 @@ Taipei, Taiwan</a></td>
 	</tr>
 	<tr>
 		<td>ICCD</td>
-		<td>-</td>
+		<td><a href="https://iccd-conf.com/Home.html" title="date: 2023-11-06..08, notify: 2023-08-25">2023-06-09(abstract)<br>2023-06-16(full)<br>
+Washington DC, US</a></td>
 		<td><a href="https://www.iccd-conf.com/Home.html" title="date: 2022-10-23..26, notify: 2022-08-21">2022-06-04(abstract)<br>2022-06-11(full)<br>
 Lake Tahoe, US</a></td>
 		<td><a href="https://www.iccd-conf.com/2021/Home.html" title="date: 2021-10-24..27, notify: 2021-08-20">2021-05-28(abstract)<br>2021-06-04(full)<br>
@@ -400,7 +401,7 @@ Chiba/Tokyo, Japan</a></td>
 	</tr>
 	<tr>
 		<td>HPCA</td>
-		<td>-</td>
+		<td><a href="https://www.hpca-conf.org/2024/" title="date: 2024-03-02..06, notify: ">-(abstract)<br>-(full)<br>Edinburgh, UK</a></td>
 		<td><a href="https://www.hpca-conf.org/2023/" title="date: 2023-02-25..01, notify: 2022-10-18">2021-07-25(abstract)<br>2021-08-01(full)<br>Montreal, Canada</a></td>
 		<td><a href="https://www.hpca-conf.org/2022/" title="date: , notify: 2021-10-27">2021-07-23(abstract)<br>2021-07-30(full)<br>Seoul, Korea</a></td>
 		<td><a href="https://www.hpca-conf.org/2021/" title="date: 2021-02-27..3, notify: 2020-10-30">2020-07-31<br>Seoul, Korea</a></td>
@@ -445,7 +446,8 @@ Xi'an, China</a></td>
 	</tr>
 	<tr>
 		<td>PPoPP</td>
-		<td>-</td>
+		<td><a href="http://conf.researchr.org/home/ppopp-2024" title="date: 2024-03-22..06, notify: ">(full)<br>
+Edinburgh, UK</a></td>
 		<td><a href="http://conf.researchr.org/home/ppopp-2023" title="date: 2023-02-25..01, notify: 2022-11-07">2022-08-17(full)<br>
 Montreal, Canada</a></td>
 		<td><a href="http://conf.researchr.org/home/ppopp-2022" title="date: 2022-02-12..16, notify: 2021-12-26">2021-08-09(abstract)<br>2021-08-13(full)<br>
@@ -481,7 +483,7 @@ Boston, MA</a></td>
 	</tr>
 	<tr>
 		<td>DATE</td>
-		<td>-</td>
+		<td><a href="https://www.date-conference.com/date-2024-call-papers" title="date: 2024-03-25..27, notify: ">2023-09-10(abstract)<br>2023-09-17(full)<br>Valencia, Spain</a></td>
 		<td><a href="https://www.date-conference.com/date-2023-call-papers" title="date: 2023-04-17..19, notify: ">2022-09-18(abstract)<br>2022-09-25(full)<br>Antwerp, BE</a></td>
 		<td><a href="https://www.date-conference.com/conference-and-exhibition-14-18-march-2022" title="date: 2022-03-14..18, notify: 2021-11-11">2021-09-12(abstract)<br>2021-09-19(full)<br>
 Antwerp, Belgium</a></td>
