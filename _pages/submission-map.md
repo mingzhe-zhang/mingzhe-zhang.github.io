@@ -546,6 +546,7 @@ Orlando, FL</a></td>
 		<td></td>
 		<td></td>
 	</tr>
+
 	<tr>
 		<td>EuroSys<br>(fall)</td>
 		<td><a href="https://2024.eurosys.org/" title="date: 2024-04-23..26, notify: 2024-02-07">2023-10-19(full)<br>
@@ -573,15 +574,12 @@ Orlando, FL</a></td>
 		<td><a href="https://conf.researchr.org/home/pldi-2023" title="date: 2023-06-19..21, notify: 2023-02-24">2022-11-10<br>Orlando, FL</a></td>
 		<td><a href="https://conf.researchr.org/home/pldi-2022" title="date: 2022-06-20..24, notify: 2022-02-25">2021-11-19<br>San Diego, CA</a></td>
 		<td><a href="https://conf.researchr.org/home/pldi-2021" title="date: 2021-06-20..25, notify:">2020-11-20<br>Quebec City, CA</a></td>
-		<td><a href="http://conf.researchr.org/home/pldi-2020" title="date: 2020-06-15..20, notify: 2020-02-21">2019-11-22<br>
-London, UK</a></td>
-		<td><a href="http://conf.researchr.org/home/pldi-2019" title="date: 2019-06-24..26, notify: 2019-02-15">2018-11-16<br>
-Phoenix, AZ</a></td>
-		<td><a href="http://conf.researchr.org/home/pldi-2018" title="date: 2018-06-20..22, notify: 2018-02-13">2017-11-16<br>
-Philadelphia, PA</a></td>
-		<td><a href="http://conf.researchr.org/home/pldi-2017" title="date: 2017-06-19..23, notify: 2017-02-13">2016-11-15<br>
-Barcelona, Spain</a></td>
+		<td><a href="http://conf.researchr.org/home/pldi-2020" title="date: 2020-06-15..20, notify: 2020-02-21">2019-11-22<br>London, UK</a></td>
+		<td><a href="http://conf.researchr.org/home/pldi-2019" title="date: 2019-06-24..26, notify: 2019-02-15">2018-11-16<br>Phoenix, AZ</a></td>
+		<td><a href="http://conf.researchr.org/home/pldi-2018" title="date: 2018-06-20..22, notify: 2018-02-13">2017-11-16<br>Philadelphia, PA</a></td>
+		<td><a href="http://conf.researchr.org/home/pldi-2017" title="date: 2017-06-19..23, notify: 2017-02-13">2016-11-15<br>Barcelona, Spain</a></td>
 	</tr>
+
 	<tr>
 		<td>ISCA</td>
 		<td>-</td>
