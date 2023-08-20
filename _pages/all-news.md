@@ -6,6 +6,9 @@ author_profile: true
 
 ## 2023
 
++ [2023-07-28] I will serve as the TPC member of HPCA 2024.
++ [2023-06-21] I will serve as the TPC member of ICCD 2023.
++ [2023-05-04] I will serve as the TPC member of 24th Chinasys.
 + [2023-02-27] Our collaborative paper "Skyway: Accelerate Graph Applications with a Dual-Path Architecture and Fine-Grained Data Management" has been accepted by Journal of Computer Science and Technology (JCST). Congrats to all collaborators!
 + [2023-02-14] I will serve as the TPC member of NVMSA 2023.
 
