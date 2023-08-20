@@ -377,14 +377,12 @@ Raleigh, NC</a></td>
 Seattle, WA</a></td>
 			<td><a href="http://www.iiswc.org/iiswc2016/index.html" title="date: 2016-09-25..27, notify: 2016-07-12">2016-05-13<br>
 Rhode Island, USA</a></td>
-		</tr>
-	<tr>
+	</tr>
 
 	<tr>
 		<td rowspan="2"><b><i>Jul</i></b></td>
 		<td>ASP-DAC</td>
-		<td><a href="http://www.aspdac.com/aspdac2024/" title="date: 2024-01-22..25, notify: 2023-09-12">2023-07-23(abstract)<br>2023-07-28(full)<br>
-Incheon Songdo Convensia, South Korea</a></td>
+		<td><a href="http://www.aspdac.com/aspdac2024/" title="date: 2024-01-22..25, notify: 2023-09-12">2023-07-23(abstract)<br>2023-07-28(full)<br>Incheon Songdo Convensia, South Korea</a></td>
 		<td><a href="http://www.aspdac.com/aspdac2023/" title="date: 2023-01-16..19, notify: 2022-09-10">2022-07-24(abstract)<br>2022-07-29(full)<br>
 Tokyo, Japan</a></td>
 		<td><a href="https://aspdac2022.github.io/index.html" title="date: 2022-01-17..20, notify: 2021-09-11">2021-07-21<br>
@@ -428,6 +426,7 @@ Austin, TX</a></td>
 		<td>-</td>
 		<td>-</td>
 	</tr>
+	
 	<tr>
 		<td>ASPLOS<br>(summer)</td>
 		<td><a href="https://asplos-conference.org/asplos-2024-call-for-papers/" title="date: 2024-04-, notify: 2023-11-15">2023-08-03(abstract)<br>2023-08-10(full)<br>California, US</a></td>
