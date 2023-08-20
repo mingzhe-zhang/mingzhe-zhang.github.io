@@ -8,7 +8,7 @@ author_profile: true
 
 [An alternative conference list with countdown. (in chinese)](https://ccfddl.github.io)
 
-<font size="4" color="grey">[Last Update: Jun-14-2023]</font>
+<font size="4" color="grey">[Last Update: Aug-20-2023]</font>
 
 <table align="center">
 	<tr>
@@ -273,7 +273,8 @@ Hong Kong, China</a></td>
 	<tr>
 		<td rowspan="3"><b><i>May</i></b></td>
 		<td>Eurosys<br>(spring)</td>
-		<td>-</td>
+		<td><a href="https://2024.eurosys.org/" title="date: 2024-04-23..26, notify: 2023-09-12">2022-05-24(full)<br>
+	Athens, Greece</a></td>
 		<td><a href="https://2023.eurosys.org/" title="date: 2023-05-09..12, notify: 2022-08-10">2022-05-11(abstract)<br>2022-05-18(full)<br>
 	Rome, Italy</a></td>
 		<td>-</td>
@@ -519,7 +520,7 @@ Santa Clara, CA</a></td>
 	</tr>
 	<tr>
 		<td>IPDPS</td>
-		<td>-</td>
+		<td><a href="http://www.ipdps.org/" title="date: 2024-05-27..31, notify: 2024-01-31">2023-09-28(abstract)<br>2023-10-05(full)<br>San Francisco, CA</a></td>
 		<td><a href="http://www.ipdps.org/" title="date: 2023-05-15..19, notify: 2023-01-31">2022-09-29(abstract)<br>2022-10-06(full)<br>St. Petersburg, FL</a></td>
 		<td><a href="http://www.ipdps.org/" title="date: 2022-05-30..03, notify: 2022-01-15">2021-10-01(abstract)<br>2021-10-08(full)<br>Lyon, France</a></td>
 		<td><a href="http://www.ipdps.org/" title="date: 2021-05-17..21, notify: 2021-01-19">2020-10-12<br>Portland, OR</a></td>
@@ -535,8 +536,20 @@ Orlando, FL</a></td>
 
 	<tr>
 		<td rowspan="2"><b><i>Oct</i></b></td>
+		<td>SIGMETRICS<br>(fall)</td>
+		<td><a href="http://www.sigmetrics.org/sigmetrics2024" title="date: 2024-06-10..14, notify: 2023-12-12">2023-10-04(abstract)<br>2023-10-11(full)<br>Venice, Italy</a></td>
+		<td><a href="http://www.sigmetrics.org/sigmetrics2023" title="date: 2023-06-19..23, notify: 2022-10-04">2022-10-12(abstract)<br>2022-10-19(full)<br>Orlando, FL</a></td>
+		<td><a href="http://www.sigmetrics.org/sigmetrics2022" title="date: 2022-06-06..10, notify: 2021-12-13">2021-10-13(abstract)<br>2021-10-20(full)<br>Mumbai, India</a></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
 		<td>EuroSys<br>(fall)</td>
-		<td>-</td>
+		<td><a href="https://2024.eurosys.org/" title="date: 2024-04-23..26, notify: 2024-02-07">2023-10-19(full)<br>
+	Athens, Greece</a></td>
 		<td><a href="https://2023.eurosys.org/" title="date: 2023-05-09..12, notify: 2023-01-18">2022-10-12(abstract)<br>2022-10-19(full)<br>
 	Rome, Italy</a></td>
 		<td><a href="https://2022.eurosys.org/" title="date: 2022-04-05..08, notify: 2022-01-03">2021-10-01(abstract)<br>2021-10-09(full)<br>
@@ -552,18 +565,7 @@ Orlando, FL</a></td>
 		<td><a href="http://eurosys2017.org/" title="date: 2017-04-23..26, notify: 2017-01-23">2016-10-14<br>
 	Belgrade, Serbia</a></td>
 	</tr>
-	<tr>
-		<td>SIGMETRICS<br>(fall)</td>
-		<td>-</td>
-		<td><a href="http://www.sigmetrics.org/sigmetrics2023" title="date: 2023-06-19..23, notify: 2022-10-04">2022-10-12(abstract)<br>2022-10-19(full)<br>Orlando, FL</a></td>
-		<td><a href="http://www.sigmetrics.org/sigmetrics2022" title="date: 2022-06-06..10, notify: 2021-12-13">2021-10-13(abstract)<br>2021-10-20(full)<br>Mumbai, India</a></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
-	
+		
 	<tr>
 		<td rowspan="5"><b><i>Nov</i></b></td>
 		<td>PLDI</td>
