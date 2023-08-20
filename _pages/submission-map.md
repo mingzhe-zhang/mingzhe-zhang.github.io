@@ -599,6 +599,7 @@ Toronto, CA</a></td>
 	</tr>
 	<tr>
 		<td>DAC</td>
+		<td></td>
 		<td>-</td>
 		<td><a href="https://www.dac.com/DAC-2022/2022-Call-for-Contributions" title="date: 2022-07-10..14, notify: 2022-02-21">2021-11-15(abstract)<br>2021-11-22(full)<br>San Francisco, CA</a></td>
 		<td><a href="https://www.dac.com/" title="date: 2021-07-11..15, notify: 2021-02-24">2020-11-23<br>
