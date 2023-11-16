@@ -27,15 +27,15 @@ I do research in Computer Architecture and Bigdata-oriented System, including:
 
 ## Updates
 
++ [2023-10-25] I will serve as the ERC member of ISCA 2024.
 + [2023-07-28] I will serve as the TPC member of HPCA 2024.
 + [2023-06-21] I will serve as the TPC member of ICCD 2023.
 + [2023-05-04] I will serve as the TPC member of 24th Chinasys.
 + [2023-02-27] Our collaborative paper "Skyway: Accelerate Graph Applications with a Dual-Path Architecture and Fine-Grained Data Management" has been accepted by Journal of Computer Science and Technology (JCST). Congrats to all collaborators!
-+ [2023-02-14] I will serve as the TPC member of NVMSA 2023.
 
 [More details...](../news/all-news)
 
-\[Last Update: Aug-20-2023\]
+\[Last Update: Nov-15-2023\]
 
    
 
