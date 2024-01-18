@@ -27,6 +27,8 @@ I do research in Computer Architecture and Bigdata-oriented System, including:
 
 ## Updates
 
++ [2023-12-21] I will serve as the TPC member of ICS 2024.
++ [2023-12-16] <font color="#FF0000">I am thrilled to announce that I have received the 2023 ACM SIGOPS ChinaSys Rising Star Award! I would like to appreciate the supports from all my teams and collaborators!</font>
 + [2023-10-25] I will serve as the ERC member of ISCA 2024.
 + [2023-07-28] I will serve as the TPC member of HPCA 2024.
 + [2023-06-21] I will serve as the TPC member of ICCD 2023.
@@ -35,7 +37,7 @@ I do research in Computer Architecture and Bigdata-oriented System, including:
 
 [More details...](../news/all-news)
 
-\[Last Update: Nov-15-2023\]
+\[Last Update: Dec-24-2023\]
 
    
 

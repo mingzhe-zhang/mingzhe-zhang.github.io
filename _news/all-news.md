@@ -4,7 +4,35 @@ permalink: /pages/all-news
 author_profile: true
 ---
 
+## 2023
+
++ [2023-12-16] <font color="#FF0000">I am thrilled to announce that I have received the 2023 ACM SIGOPS ChinaSys Rising Star Award! I would like to appreciate the supports from all my teams and collaborators!</font>
++ [2023-10-25] I will serve as the ERC member of ISCA 2024.
++ [2023-07-28] I will serve as the TPC member of HPCA 2024.
++ [2023-06-21] I will serve as the TPC member of ICCD 2023.
++ [2023-05-04] I will serve as the TPC member of 24th Chinasys.
++ [2023-02-27] Our collaborative paper "Skyway: Accelerate Graph Applications with a Dual-Path Architecture and Fine-Grained Data Management" has been accepted by Journal of Computer Science and Technology (JCST). Congrats to all collaborators!
++ [2023-02-14] I will serve as the TPC member of NVMSA 2023.
+
+## 2022
+
++ [2022-11-16] Welcome Dian Jiao (upcoming M.Sc student, UG from Peking University) to join our team as the Research Intern!
++ [2022-11-07] Welcome Yintai Sun (PG student from Shandong Normal University) to join our team as the Research Intern!
++ [2022-10-18] Our paper "[TensorFHE: Achieving Practical Computation on Encrypted Data Using GPGPU](../publications/HPCA2023-1)" and "[Poseidon: Practical Homomorphic Encryption Accelerator](../publications/HPCA2023-2)" have been accepted by HPCA 2023. Congrats to all!
++ [2022-09-01] Welcome Xianglong Deng (B.E. from UESTC, former UG research intern) to join our team as the Ph.D. student!
++ [2022-09-01] Welcome Zhuoyu Tian and Zihao Yang (both are B.E. from Tsinghua University) to join our team as the M.Sc. students!
++ [2022-08-23] Our collaborative paper "[Enhancing GPU Performance via Neighboring Directory Table Based Inter-TLB Sharing](../publications/ICCD2022)" has been accepted by ICCD 2022. Congrats to all!
++ [2022-05-06] I will serve as the ERC member of HPCA 2023.
++ [2022-04-10] I will serve as the Program Committee member of ICCD 2022.
++ [2022-03-29] I will serve as the Program Committee member of NVMSA 2022.
++ [2022-03-26] I will serve as the ERC member of MICRO 2022.
++ [2022-02-03] One paper has been accepted by IEEE CAL. Congrats to all collaborators!
+
 ## 2021
+
+[2021-11-09] I will serve as the ERC member of ISCA 2022.
+
+[2021-10-18] Welcome Xianglong Deng (UG student from UESTC, upcoming Ph.D student of our team) to join our team as the UG Research Intern!
 
 [2021-09-04] Our paper <i>"Distilling Bit-level Sparsity Parallelism for General Purpose Deep Learning Acceleration"</i> has been accepted by MICRO 2021! Congrats to all collaborators!
 
