@@ -8,7 +8,7 @@ author_profile: true
 
 [An alternative conference list with countdown. (in chinese)](https://ccfddl.github.io)
 
-<font size="4" color="grey">[Last Update: Feb-17-2024]</font>
+<font size="4" color="grey">[Last Update: Feb-19-2024]</font>
 
 <table align="center">
 	<tr>
@@ -149,7 +149,7 @@ author_profile: true
 	</tr>
 	<tr>
 		<td>PACT</td>
-		<td></td>
+		<td><a href="https://pact2024.github.io/" title="date: 2024-10-13..16, notify: 2024-07-01">2024-03-22(abstract)<br>2024-03-27(full)<br>Long Beach, CA</a></td>
 		<td><a href="https://pact2023.github.io/" title="date: 2023-10-21..25, notify: 2023-08-01">2023-03-25(abstract)<br>2023-04-01(full)<br>Vienna, Austria</a></td>
 		<td><a href="https://pact22.cs.illinois.edu" title="date: 2022-10-10..12, notify: 2022-07-29">2022-04-18(abstract)<br>2022-04-25(full)<br>Chicago, IL</a></td>
 		<td><a href="http://pact21.snu.ac.kr/" title="date: 2021-09-26..29, notify: 2021-07-05">2021-04-15(abstract)<br>2021-04-19(full)<br>Virtual Conference</a></td>
@@ -172,7 +172,7 @@ author_profile: true
 		<td><a href="http://sc16.supercomputing.org" title="date: 2016-11-13..18, notify: 2016-06-15">2016-04-03<br>Salt Lake City, UT</a></td>
 	</tr>
 	<tr>
-		<td rowspan="6"><b><i>Apr</i></b></td>
+		<td rowspan="8"><b><i>Apr</i></b></td>
 		<td>SOSP</td>
 		<td>-</td>
 		<td><a href="https://sosp2023.mpi-sws.org/" title="date: 2023-10-23..26, notify: 2023-07-16"><nobr>2023-04-10(abstract)</nobr><br>2023-04-17(full)<br>Koblenz, Germany</a></td>
@@ -220,20 +220,20 @@ author_profile: true
 		<td><a href="http://www.microarch.org/micro49/" title="date: 2016-10-15..19, notify: 2016-06-25">2016-04-10<br>Taipei, Taiwan</a></td>
 	</tr>
 	<tr>
-		<td>NSDI<br>(spring)</td>
-		<td><a href="https://www.usenix.org/conference/nsdi25/" title="date: 2025-04-28..30, notify: ">-(abstract)<br>-(full)<br>Philadelphia, PA</a></td>
-		<td><a href="https://www.usenix.org/conference/nsdi24/" title="date: 2024-04-16..18, notify: 2023-07-21">2023-04-27(abstract)<br>2023-05-04(full)<br>Santa Clara, CA</a></td>
-		<td><a href="https://www.usenix.org/conference/nsdi23/" title="date: 2023-04-17..19, notify: 2022-07-15">2022-04-13(abstract)<br>2022-04-20(full)<br>Boston, MA</a></td>
-		<td><a href="https://www.usenix.org/conference/nsdi22/" title="date: 2022-04-04..06, notify: 2021-06-11">2021-03-04(abstract)<br>2021-03-10(full)<br>Renton, WA</a></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+		<td>CLUSTER</td>
+		<td><a href="https://clustercomp.org/2024/" title="date: 2024-09-24..27, notify: 2024-07-05">2024-04-25(full)<br>Kobe, Japan</a></td>
+		<td><a href="https://clustercomp.org/2023/" title="date: 2023-10-31..03, notify: 2023-07-05">2023-05-11(full)<br>Santa Fe, NM</a></td>
+		<td><a href="https://clustercomp.org/2022/" title="date: 2022-09-06..09, notify: 2022-07-04">2022-05-13(full)<br>Heidelberg, Germany</a></td>
+		<td><a href="https://clustercomp.org/2021/" title="date: 2021-09-07..10, notify: 2021-07-05">2021-05-10(abstract)<br>2021-05-17(full)<br>Portland, OR</a></td>
+		<td><a href="https://clustercomp.org/2020/" title="date: 2020-11-14..17, notify: 2020-07-06">2020-05-10<br>Kobe, Japan</a></td>
+		<td><a href="https://clustercomp.org/2019/" title="date: 2019-09-24..27, notify: 2019-07-15">2019-05-17<br>Albuquerque, NM</a></td>
+		<td><a href="https://clustercomp.org/2018/" title="date: 2018-09-10..13, notify: 2018-07-07">2018-05-08<br>Belfast, UK</a></td>
+		<td><a href="https://clustercomp.org/2017/" title="date: 2017-09-05..08, notify: 2017-06-30">2017-05-15<br>Hawaii, US</a></td>
+		<td><a href="https://clustercomp.org/2016/" title="date: 2016-09-12..15, notify: 2016-07-01">2016-05-14<br>Taipei, Taiwan</a></td>
 	</tr>
 	<tr>
 		<td>APsys</td>
-		<td></td>
+		<td><a href="https://ap-sys.org/" title="date: 2024-09-4..5, notify: 2024-07-01">2024-04-25(abstract)<br>2024-05-02(full)<br>Kyoto, Japan</a></td>
 		<td><a href="https://ap-sys.org/" title="date: 2023-08-24, notify: 2023-06-23">2023-04-28(abstract)<br>2023-05-05(full)<br>Seoul, South Korea</a></td>
 		<td><a href="https://ap-sys.org/" title="date: , notify: 2022-06-17">2022-04-29(abstract)<br>2022-05-06(full)<br>Online</a></td>
 		<td><a href="https://ap-sys.org/apsys2021" title="date: 2021-08-24..25, notify: 2021-07-01">2021-05-20<br>Online</a></td>
@@ -244,7 +244,31 @@ author_profile: true
 		<td><a href="https://ap-sys.org/apsys2016" title="date: 2016-08-04..05, notify: 2016-06-23">2016-05-20<br>Hong Kong, China</a></td>
 	</tr>
 	<tr>
-		<td rowspan="3"><b><i>May</i></b></td>
+		<td>ICCAD</td>
+		<td><a href="https://2024.iccad.com" title="date: 2024-10-, notify: ">2024-04-28(abstract)<br>2024-05-05(full)<br>New York, NY</a></td>
+		<td><a href="https://iccad.com/content/conference_history" title="date: 2023-10-29..02, notify: 2023-07-21">2023-05-15(abstract)<br>2023-05-22(full)<br>San Francisco, CA</a></td>
+		<td><a href="https://iccad.com/content/conference_history" title="date: 2022-10-30..03, notify: 2022-07-21">2022-05-16(abstract)<br>2022-05-23(full)<br>San Diego, CA</a></td>
+		<td><a href="https://iccad.com/content/conference_history" title="date: 2021-11-01..04, notify: 2021-07-17">2021-05-21(abstract)<br>2021-05-28(full)<br>Munich, Germany</a></td>
+		<td><a href="https://iccad.com/content/conference_history" title="date: 2020-11-02..05, notify: 2020-07-21">2020-05-28<br>San Diego, CA</a></td>
+		<td><a href="https://iccad.com/content/conference_history" title="date: 2019-11-04..07, notify: 2019-06-21">2019-04-08<br>Westminster, CO</a></td>
+		<td><a href="https://iccad.com/content/conference_history" title="date: 2018-11-05..08, notify: ">2018-04-23<br>San Diego, CA</a></td>
+		<td><a href="https://iccad.com/content/conference_history" title="date: 2017-11-13..06, notify: 2017-06-28">2017-04-24<br>Irvine, CA</a></td>
+		<td><a href="https://iccad.com/content/conference_history" title="date: 2016-11-07..10, notify: 2016-06-20">2016-04-25<br>Austin, TX</a></td>
+	</tr>
+	<tr>
+		<td>NSDI<br>(spring)</td>
+		<td><a href="https://www.usenix.org/conference/nsdi25/" title="date: 2025-04-28..30, notify: 2024-07-24">2024-04-30(abstract)<br>2024-05-07(full)<br>Philadelphia, PA</a></td>
+		<td><a href="https://www.usenix.org/conference/nsdi24/" title="date: 2024-04-16..18, notify: 2023-07-21">2023-04-27(abstract)<br>2023-05-04(full)<br>Santa Clara, CA</a></td>
+		<td><a href="https://www.usenix.org/conference/nsdi23/" title="date: 2023-04-17..19, notify: 2022-07-15">2022-04-13(abstract)<br>2022-04-20(full)<br>Boston, MA</a></td>
+		<td><a href="https://www.usenix.org/conference/nsdi22/" title="date: 2022-04-04..06, notify: 2021-06-11">2021-03-04(abstract)<br>2021-03-10(full)<br>Renton, WA</a></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td rowspan="1"><b><i>May</i></b></td>
 		<td>Eurosys<br>(spring)</td>
 		<td></td>
 		<td><a href="https://2024.eurosys.org/" title="date: 2024-04-23..26, notify: 2023-09-12">2022-05-24(full)<br>Athens, Greece</a></td>
@@ -257,33 +281,9 @@ author_profile: true
 		<td>-</td>
 	</tr>
 	<tr>
-		<td>CLUSTER</td>
-		<td></td>
-		<td><a href="https://clustercomp.org/2023/" title="date: 2023-10-31..03, notify: 2023-07-05">2023-05-11(full)<br>Santa Fe, NM</a></td>
-		<td><a href="https://clustercomp.org/2022/" title="date: 2022-09-06..09, notify: 2022-07-04">2022-05-13(full)<br>Heidelberg, Germany</a></td>
-		<td><a href="https://clustercomp.org/2021/" title="date: 2021-09-07..10, notify: 2021-07-05">2021-05-10(abstract)<br>2021-05-17(full)<br>Portland, OR</a></td>
-		<td><a href="https://clustercomp.org/2020/" title="date: 2020-11-14..17, notify: 2020-07-06">2020-05-10<br>Kobe, Japan</a></td>
-		<td><a href="https://clustercomp.org/2019/" title="date: 2019-09-24..27, notify: 2019-07-15">2019-05-17<br>Albuquerque, NM</a></td>
-		<td><a href="https://clustercomp.org/2018/" title="date: 2018-09-10..13, notify: 2018-07-07">2018-05-08<br>Belfast, UK</a></td>
-		<td><a href="https://clustercomp.org/2017/" title="date: 2017-09-05..08, notify: 2017-06-30">2017-05-15<br>Hawaii, US</a></td>
-		<td><a href="https://clustercomp.org/2016/" title="date: 2016-09-12..15, notify: 2016-07-01">2016-05-14<br>Taipei, Taiwan</a></td>
-	</tr>
-	<tr>
-		<td>ICCAD</td>
-		<td></td>
-		<td><a href="https://iccad.com" title="date: 2023-10-29..02, notify: 2023-07-21">2023-05-15(abstract)<br>2023-05-22(full)<br>San Francisco, CA</a></td>
-		<td><a href="https://iccad.com/content/conference_history" title="date: 2022-10-30..03, notify: 2022-07-21">2022-05-16(abstract)<br>2022-05-23(full)<br>San Diego, CA</a></td>
-		<td><a href="https://iccad.com/content/conference_history" title="date: 2021-11-01..04, notify: 2021-07-17">2021-05-21(abstract)<br>2021-05-28(full)<br>Munich, Germany</a></td>
-		<td><a href="https://iccad.com/content/conference_history" title="date: 2020-11-02..05, notify: 2020-07-21">2020-05-28<br>San Diego, CA</a></td>
-		<td><a href="https://iccad.com/content/conference_history" title="date: 2019-11-04..07, notify: 2019-06-21">2019-04-08<br>Westminster, CO</a></td>
-		<td><a href="https://iccad.com/content/conference_history" title="date: 2018-11-05..08, notify: ">2018-04-23<br>San Diego, CA</a></td>
-		<td><a href="https://iccad.com/content/conference_history" title="date: 2017-11-13..06, notify: 2017-06-28">2017-04-24<br>Irvine, CA</a></td>
-		<td><a href="https://iccad.com/content/conference_history" title="date: 2016-11-07..10, notify: 2016-06-20">2016-04-25<br>Austin, TX</a></td>
-	</tr>
-	<tr>
 		<td rowspan="4"><b><i>Jun</i></b></td>
 		<td>HiPEAC</td>
-		<td></td>
+		<td><a href="https://www.hipeac.net/2025/barcelona/#/" title="date: 2025-01-, notify: 2024-11-15">2024-06-01<br>Barcelona, Spain</a></td>
 		<td><a href="https://www.hipeac.net/2024/munich/#/" title="date: 2024-01-17..19, notify: 2023-11-15">2023-06-01<br>Munich, Germany</a></td>
 		<td><a href="https://www.hipeac.net/2023/toulouse" title="date: 2023-01-16..18, notify: 2022-11-15">2022-06-01<br>Toulouse, France</a></td>
 		<td><a href="https://www.hipeac.net/2022/budapest/#/" title="date: 2022-01-17..19, notify: 2021-11-15">2021-06-01<br>Budapest, Hungary</a></td>
@@ -394,7 +394,7 @@ author_profile: true
 	<tr>
 		<td rowspan="4"><b><i>Sep</i></b></td>
 		<td>NSDI<br>(fall)</td>
-		<td></td>
+		<td><a href="https://www.usenix.org/conference/nsdi25/" title="date: 2025-04-28..30, notify: 2024-12-10">2024-09-12(abstract)<br>2024-09-19(full)<br>Philadelphia, PA</a></td>
 		<td><a href="https://www.usenix.org/conference/nsdi24" title="date: 2024-04-16..18, notify: 2023-12-07">2023-09-07(abstract)<br>2023-09-14(full)<br>Santa Clara, CA</a></td>
 		<td><a href="https://www.usenix.org/conference/nsdi23" title="date: 2023-04-17..19, notify: 2022-12-15">2022-09-13(abstract)<br>2022-09-20(full)<br>Boston, MA</a></td>
 		<td><a href="https://www.usenix.org/conference/nsdi22" title="date: 2022-04-04..06, notify: 2021-12-15">2021-09-09(abstract)<br>2021-09-15(full)<br>Renton, WA</a></td>
