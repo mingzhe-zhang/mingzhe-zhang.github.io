@@ -98,7 +98,7 @@ author_profile: true
 		<td><a href="http://www.sigmetrics.org/sigmetrics2017" title="date: 2016-06-05..09, notify:">2016-10-18<br>Urbana-Champaign, IL</a></td>
 	</tr>
 	<tr>
-		<td rowspan="1"><b><i>Feb</i></b></td>
+		<td rowspan="2"><b><i>Feb</i></b></td>
 		<td>SIGCOMM</td>
 		<td><a href="http://conferences.sigcomm.org/sigcomm/2024/" title="date: 2024-08-04..08, notify: 2024-05-07">2024-01-26(abstract)<br>2024-02-02(full)<br>Sydney, Australia</a></td>
 		<td><a href="http://conferences.sigcomm.org/sigcomm/2023/" title="date: 2023-09-10..14, notify: 2023-05-20">2023-02-08(abstract)<br>2023-02-15(full)<br>New York City, US</a></td>
@@ -109,6 +109,18 @@ author_profile: true
 		<td><a href="http://conferences.sigcomm.org/sigcomm/2018" title="date: 2018-08-21..23, notify: 2018-05-11">2018-01-31<br>Budapest, Hungary</a></td>
 		<td><a href="http://conferences.sigcomm.org/sigcomm/2017" title="date: 2017-08-21..25, notify: 2017-05-05">2017-01-27<br>Los Angeles, CA</a></td>
 		<td><a href="http://conferences.sigcomm.org/sigcomm/2016" title="date: 2016-08-22..26, notify: 2016-04-22">2016-01-29<br>Salvador, Brazil</a></td>
+	</tr>
+	<tr>
+		<td>ASPLOS<br>(spring)</td>
+		<td><a href="https://asplos-conference.org/asplos-2025-call-for-papers/" title="date: 2025-03-, notify: 2024-06-06">2024-02-23(abstract)<br>2024-03-01(full)<br>Rotterdam, Netherland</a></td>
+		<td><a href="https://asplos-conference.org/asplos-2024-call-for-papers/" title="date: 2024-04-, notify: 2023-08-02">2023-04-13(abstract)<br>2023-04-20(full)<br>California, US</a></td>
+		<td><a href="https://asplos-conference.org/asplos-2023-cfp/" title="date: 2023-03-25..29, notify: 2022-06-16">2022-03-24(abstract)<br>2022-03-31(full)<br>Vancouver, Canada</a></td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
 	</tr>
 	<tr>
 		<td rowspan="5"><b><i>Mar</i></b></td>
@@ -172,7 +184,7 @@ author_profile: true
 		<td><a href="http://sc16.supercomputing.org" title="date: 2016-11-13..18, notify: 2016-06-15">2016-04-03<br>Salt Lake City, UT</a></td>
 	</tr>
 	<tr>
-		<td rowspan="8"><b><i>Apr</i></b></td>
+		<td rowspan="7"><b><i>Apr</i></b></td>
 		<td>SOSP</td>
 		<td>-</td>
 		<td><a href="https://sosp2023.mpi-sws.org/" title="date: 2023-10-23..26, notify: 2023-07-16"><nobr>2023-04-10(abstract)</nobr><br>2023-04-17(full)<br>Koblenz, Germany</a></td>
@@ -183,17 +195,6 @@ author_profile: true
 		<td align="center">-</td>
 		<td><a href="https://www.sigops.org/sosp/sosp17/" title="date: 2017-10-29..31, notify: 2017-08-07">2017-04-21<br>Shanghai, China</a></td>
 		<td align="center">-</td>
-	</tr>
-		<td>ASPLOS<br>(spring)</td>
-		<td></td>
-		<td><a href="https://asplos-conference.org/asplos-2024-call-for-papers/" title="date: 2024-04-, notify: 2023-08-02">2023-04-13(abstract)<br>2023-04-20(full)<br>California, US</a></td>
-		<td><a href="https://asplos-conference.org/asplos-2023-cfp/" title="date: 2023-03-25..29, notify: 2022-06-16">2022-03-24(abstract)<br>2022-03-31(full)<br>Vancouver, Canada</a></td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
 	</tr>
 	<tr>
 		<td>ICPP</td>
@@ -270,8 +271,8 @@ author_profile: true
 	<tr>
 		<td rowspan="1"><b><i>May</i></b></td>
 		<td>Eurosys<br>(spring)</td>
-		<td></td>
-		<td><a href="https://2024.eurosys.org/" title="date: 2024-04-23..26, notify: 2023-09-12">2022-05-24(full)<br>Athens, Greece</a></td>
+		<td><a href="https://www.eurosys.org/news/eurosys-2025" title="date: 2025-03-, notify: 2024-08-21">2024-05-14(abstract)<br>2024-05-21(full)<br>Rotterdam, Netherland</a></td>
+		<td><a href="https://2024.eurosys.org/" title="date: 2024-04-23..26, notify: 2023-09-12">2023-05-24(full)<br>Athens, Greece</a></td>
 		<td><a href="https://2023.eurosys.org/" title="date: 2023-05-09..12, notify: 2022-08-10">2022-05-11(abstract)<br>2022-05-18(full)<br>Rome, Italy</a></td>
 		<td>-</td>
 		<td>-</td>
@@ -281,7 +282,7 @@ author_profile: true
 		<td>-</td>
 	</tr>
 	<tr>
-		<td rowspan="4"><b><i>Jun</i></b></td>
+		<td rowspan="5"><b><i>Jun</i></b></td>
 		<td>HiPEAC</td>
 		<td><a href="https://www.hipeac.net/2025/barcelona/#/" title="date: 2025-01-, notify: 2024-11-15">2024-06-01<br>Barcelona, Spain</a></td>
 		<td><a href="https://www.hipeac.net/2024/munich/#/" title="date: 2024-01-17..19, notify: 2023-11-15">2023-06-01<br>Munich, Germany</a></td>
@@ -306,18 +307,6 @@ author_profile: true
 		<td><a href="https://www.iccd-conf.com/2016/Home.html" title="date: 2016-10-03..05, notify: 2016-07-29">2016-05-20<br>Phoenix, AZ</a></td>
 	</tr>
 	<tr>
-		<td>SoCC</td>
-		<td></td>
-		<td><a href="http://acmsocc.org/2023/" title="date: 2023-10-30, notify: 2023-09-01">2023-06-09<br>Santa Cruz, CA</a></td>
-		<td><a href="http://acmsocc.org/2022/" title="date: 2022-11-, notify: 2022-09-22">2022-06-10(abstract)<br>2022-06-17(full)<br>San Francisco, CA</a></td>
-		<td><a href="https://acmsocc.github.io/2021" title="date: 2021-11-01..03, notify: 2021-08-27">2021-05-28<br>Renton, WA</a></td>
-		<td><a href="https://acmsocc.github.io/2020" title="date: 2020-10-19..21, notify: 2020-08-11">2020-05-18<br>Renton, WA</a></td>
-		<td><a href="https://acmsocc.github.io/2019" title="date: 2019-10-20..23, notify: 2019-09-03">2019-06-10<br>Santa Cruz, CA</a></td>
-		<td><a href="https://acmsocc.github.io/2018" title="date: 2018-10-11..13, notify: 2018-08-03">2018-05-15<br>Carlsbad, CA</a></td>
-		<td><a href="http://acmsocc.github.io/2017" title="date: 2017-09-25..27, notify: 2017-07-23">2017-05-05<br>Santa Clara, CA</a></td>
-		<td><a href="http://acmsocc.github.io/2016/index.html" title="date: 2016-10-05..07, notify: 2016-07-29">2016-05-24<br>Santa Clara, CA</a></td>
-	</tr>
-	<tr>
 		<td>IISWC</td>
 		<td></td>
 		<td><a href="https://iiswc.org/iiswc2023/index.html#/" title="date: 2023-10-01..03, notify: 2023-08-02">2023-06-14<br>Ghent, Belgium</a></td>
@@ -329,6 +318,30 @@ author_profile: true
 		<td><a href="http://www.iiswc.org/iiswc2017/index.html" title="date: 2017-10-01..03, notify: 2017-08-01">2017-06-02<br>Seattle, WA</a></td>
 		<td><a href="http://www.iiswc.org/iiswc2016/index.html" title="date: 2016-09-25..27, notify: 2016-07-12">2016-05-13<br>Rhode Island, USA</a></td>
 	</tr>
+	<tr>
+		<td>ASPLOS<br>(summer)</td>
+		<td><a href="https://asplos-conference.org/asplos-2025-call-for-papers/" title="date: 2025-03-, notify: 2024-10-02">2024-06-17(abstract)<br>2024-06-24(full)<br>Rotterdam, Netherland</a></td>
+		<td><a href="https://asplos-conference.org/asplos-2024-call-for-papers/" title="date: 2024-04-, notify: 2023-11-15">2023-08-03(abstract)<br>2023-08-10(full)<br>California, US</a></td>
+		<td><a href="https://asplos-conference.org/asplos-2023-cfp/" title="date: 2023-03-25..29, notify: 2022-09-22">2022-06-30(abstract)<br>2022-07-07(full)<br>Vancouver, Canada</a></td>
+		<td><a href="https://asplos-conference.org" title="date: 2022-02-28..04, notify: 2021-11-15">2021-08-06(abstract)<br>2021-08-13(full)<br>Lausanne, Switzerland</a></td>
+		<td><a href="https://asplos-conference.org/2021" title="date: 2021-04-10..15, notify: 2020-11-19">2020-08-21<br>Detroit, USA</a></td>
+		<td><a href="https://asplos-conference.org/2020/" title="date: 2020-03-16..20, notify: 2019-11-20">2019-08-09<br>Lausanne, Switzerland</a></td>
+		<td><a href="https://asplos-conference.org/2019/" title="date: 2019-04-13..17, notify: 2018-11-07">2018-08-07<br>Providence, RI</a></td>
+		<td><a href="https://www.asplos2018.org/" title="date: 2018-03-24..28, notify: 2017-11-13">2017-08-11<br>Williamsburg, VA</a></td>
+		<td><a href="http://novel.ict.ac.cn/ASPLOS2017/" title="date: 2017-04-08..12, notify: 2017-11-07">2016-08-15<br>Xi'an, China</a></td>
+	</tr>
+	<tr>
+		<td>SoCC</td>
+		<td></td>
+		<td><a href="http://acmsocc.org/2023/" title="date: 2023-10-30, notify: 2023-09-01">2023-06-09<br>Santa Cruz, CA</a></td>
+		<td><a href="http://acmsocc.org/2022/" title="date: 2022-11-, notify: 2022-09-22">2022-06-10(abstract)<br>2022-06-17(full)<br>San Francisco, CA</a></td>
+		<td><a href="https://acmsocc.github.io/2021" title="date: 2021-11-01..03, notify: 2021-08-27">2021-05-28<br>Renton, WA</a></td>
+		<td><a href="https://acmsocc.github.io/2020" title="date: 2020-10-19..21, notify: 2020-08-11">2020-05-18<br>Renton, WA</a></td>
+		<td><a href="https://acmsocc.github.io/2019" title="date: 2019-10-20..23, notify: 2019-09-03">2019-06-10<br>Santa Cruz, CA</a></td>
+		<td><a href="https://acmsocc.github.io/2018" title="date: 2018-10-11..13, notify: 2018-08-03">2018-05-15<br>Carlsbad, CA</a></td>
+		<td><a href="http://acmsocc.github.io/2017" title="date: 2017-09-25..27, notify: 2017-07-23">2017-05-05<br>Santa Clara, CA</a></td>
+		<td><a href="http://acmsocc.github.io/2016/index.html" title="date: 2016-10-05..07, notify: 2016-07-29">2016-05-24<br>Santa Clara, CA</a></td>
+	</tr>	
 	<tr>
 		<td rowspan="2"><b><i>Jul</i></b></td>
 		<td>ASP-DAC</td>
@@ -355,7 +368,7 @@ author_profile: true
 		<td><a href="http://hpca2017.org/" title="date: 2017-02-04..08, notify: 2016-10-12">2016-08-01<br>Austin, TX</a></td>
 	</tr>
 	<tr>
-		<td rowspan="3"><b><i>Aug</i></b></td>
+		<td rowspan="2"><b><i>Aug</i></b></td>
 		<td>SIGMETRICS<br>(summer)</td>
 		<td></td>
 		<td><a href="http://www.sigmetrics.org/sigmetrics2024" title="date: 2024-06-10..14, notify: ">2023-08-03(abstract)<br>2023-08-10(full)<br>Venice, Italy</a></td>
@@ -367,18 +380,6 @@ author_profile: true
 		<td>-</td>
 		<td>-</td>
 	</tr>	
-	<tr>
-		<td>ASPLOS<br>(summer)</td>
-		<td></td>
-		<td><a href="https://asplos-conference.org/asplos-2024-call-for-papers/" title="date: 2024-04-, notify: 2023-11-15">2023-08-03(abstract)<br>2023-08-10(full)<br>California, US</a></td>
-		<td><a href="https://asplos-conference.org/asplos-2023-cfp/" title="date: 2023-03-25..29, notify: 2022-09-22">2022-06-30(abstract)<br>2022-07-07(full)<br>Vancouver, Canada</a></td>
-		<td><a href="https://asplos-conference.org" title="date: 2022-02-28..04, notify: 2021-11-15">2021-08-06(abstract)<br>2021-08-13(full)<br>Lausanne, Switzerland</a></td>
-		<td><a href="https://asplos-conference.org/2021" title="date: 2021-04-10..15, notify: 2020-11-19">2020-08-21<br>Detroit, USA</a></td>
-		<td><a href="https://asplos-conference.org/2020/" title="date: 2020-03-16..20, notify: 2019-11-20">2019-08-09<br>Lausanne, Switzerland</a></td>
-		<td><a href="https://asplos-conference.org/2019/" title="date: 2019-04-13..17, notify: 2018-11-07">2018-08-07<br>Providence, RI</a></td>
-		<td><a href="https://www.asplos2018.org/" title="date: 2018-03-24..28, notify: 2017-11-13">2017-08-11<br>Williamsburg, VA</a></td>
-		<td><a href="http://novel.ict.ac.cn/ASPLOS2017/" title="date: 2017-04-08..12, notify: 2017-11-07">2016-08-15<br>Xi'an, China</a></td>
-	</tr>
 	<tr>
 		<td>PPoPP</td>
 		<td></td>
@@ -441,7 +442,7 @@ author_profile: true
 		<td><a href="http://www.ipdps.org/ipdps2017" title="date: 2017-05-29..02, notify: 2017-01-08">2016-10-23<br>Orlando, FL</a></td>
 	</tr>
 	<tr>
-		<td rowspan="2"><b><i>Oct</i></b></td>
+		<td rowspan="3"><b><i>Oct</i></b></td>
 		<td>SIGMETRICS<br>(fall)</td>
 		<td></td>
 		<td><a href="http://www.sigmetrics.org/sigmetrics2024" title="date: 2024-06-10..14, notify: 2023-12-12">2023-10-04(abstract)<br>2023-10-11(full)<br>Venice, Italy</a></td>
@@ -454,8 +455,20 @@ author_profile: true
 		<td></td>
 	</tr>
 	<tr>
-		<td>EuroSys<br>(fall)</td>
+		<td>ASPLOS<br>(fall)</td>
+		<td><a href="https://asplos-conference.org/asplos-2025-call-for-papers/" title="date: 2025-03-, notify: 2025-02-07">2024-10-11(abstract)<br>2024-10-18(full)<br>Rotterdam, Netherland</a></td>
+		<td><a href="https://asplos-conference.org/asplos-2024-call-for-papers/" title="date: 2024-04-, notify: 2024-03-06">2023-11-23(abstract)<br>2023-11-30(full)<br>California, US</a></td>
+		<td><a href="https://asplos-conference.org/asplos-2023-cfp/" title="date: 2023-03-25..29, notify: 2023-01-19">2022-10-13(abstract)<br>2022-10-20(full)<br>Vancouver, Canada</a></td>
 		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>EuroSys<br>(fall)</td>
+		<td><a href="https://www.eurosys.org/news/eurosys-2025" title="date: 2025-03-, notify: 2025-01-25">2024-10-15(abstract)<br>2024-10-22(full)<br>Rotterdam, Netherland</a></td>
 		<td><a href="https://2024.eurosys.org/" title="date: 2024-04-23..26, notify: 2024-02-07">2023-10-19(full)<br>Athens, Greece</a></td>
 		<td><a href="https://2023.eurosys.org/" title="date: 2023-05-09..12, notify: 2023-01-18">2022-10-12(abstract)<br>2022-10-19(full)<br>Rome, Italy</a></td>
 		<td><a href="https://2022.eurosys.org/" title="date: 2022-04-05..08, notify: 2022-01-03">2021-10-01(abstract)<br>2021-10-09(full)<br>Rennes, France</a></td>
@@ -513,18 +526,6 @@ author_profile: true
 		<td><a href="http://www.ispass.org/ispass2019" title="date: 2019-03-24..26, notify: 2019-01-13">2018-10-12<br>Madison, WI</a></td>
 		<td><a href="http://www.ispass.org/ispass2018" title="date: 2018-04-03..05, notify: 2018-01-19">2017-10-13<br>Belfast, UK</a></td>
 		<td><a href="http://www.ispass.org/ispass2017" title="date: 2017-04-23..25, notify: 2017-01-30">2016-10-14<br>San Francisco, CA</a></td>
-	</tr>
-	<tr>
-		<td>ASPLOS<br>(fall)</td>
-		<td></td>
-		<td><a href="https://asplos-conference.org/asplos-2024-call-for-papers/" title="date: 2024-04-, notify: 2024-03-06">2023-11-23(abstract)<br>2023-11-30(full)<br>California, US</a></td>
-		<td><a href="https://asplos-conference.org/asplos-2023-cfp/" title="date: 2023-03-25..29, notify: 2023-01-19">2022-10-13(abstract)<br>2022-10-20(full)<br>Vancouver, Canada</a></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
 	</tr>
 	<tr>
 		<td rowspan="1"><b><i>DEC</i></b></td>
