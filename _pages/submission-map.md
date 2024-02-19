@@ -479,7 +479,7 @@ author_profile: true
 		<td><a href="http://eurosys2017.org/" title="date: 2017-04-23..26, notify: 2017-01-23">2016-10-14<br>Belgrade, Serbia</a></td>
 	</tr>		
 	<tr>
-		<td rowspan="5"><b><i>Nov</i></b></td>
+		<td rowspan="4"><b><i>Nov</i></b></td>
 		<td>PLDI</td>
 		<td></td>
 		<td><a href="https://conf.researchr.org/home/pldi-2024" title="date: 2024-06-24..28, notify: 2024-02-26">2023-11-16<br>Copenhagen, Denmark</a></td>
