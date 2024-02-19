@@ -25,7 +25,7 @@ author_profile: true
 		<td>Deadline 2016</td>
 	</tr>
 	<tr>
-		<td rowspan="6"><b><i>Jan</i></b></td>
+		<td rowspan="7"><b><i>Jan</i></b></td>
 		<td>CF</td>
 		<td><a href="http://www.computingfrontiers.org/2024/" title="date: 2024-05-07..09, notify: 2024-02-12">2024-01-08<br>Ischia, Italy</a></td>
 		<td><a href="http://www.computingfrontiers.org/2023/" title="date: 2023-05-09..11, notify: 2023-03-17">2023-01-27<br>Bologna, Italy</a></td>
@@ -98,7 +98,6 @@ author_profile: true
 		<td><a href="http://www.sigmetrics.org/sigmetrics2017" title="date: 2016-06-05..09, notify:">2016-10-18<br>Urbana-Champaign, IL</a></td>
 	</tr>
 	<tr>
-		<td rowspan="2"><b><i>Feb</i></b></td>
 		<td>SIGCOMM</td>
 		<td><a href="http://conferences.sigcomm.org/sigcomm/2024/" title="date: 2024-08-04..08, notify: 2024-05-07">2024-01-26(abstract)<br>2024-02-02(full)<br>Sydney, Australia</a></td>
 		<td><a href="http://conferences.sigcomm.org/sigcomm/2023/" title="date: 2023-09-10..14, notify: 2023-05-20">2023-02-08(abstract)<br>2023-02-15(full)<br>New York City, US</a></td>
@@ -111,6 +110,7 @@ author_profile: true
 		<td><a href="http://conferences.sigcomm.org/sigcomm/2016" title="date: 2016-08-22..26, notify: 2016-04-22">2016-01-29<br>Salvador, Brazil</a></td>
 	</tr>
 	<tr>
+		<td rowspan="1"><b><i>Feb</i></b></td>
 		<td>ASPLOS<br>(spring)</td>
 		<td><a href="https://asplos-conference.org/asplos-2025-call-for-papers/" title="date: 2025-03-, notify: 2024-06-06">2024-02-23(abstract)<br>2024-03-01(full)<br>Rotterdam, Netherland</a></td>
 		<td><a href="https://asplos-conference.org/asplos-2024-call-for-papers/" title="date: 2024-04-, notify: 2023-08-02">2023-04-13(abstract)<br>2023-04-20(full)<br>California, US</a></td>
@@ -124,16 +124,16 @@ author_profile: true
 	</tr>
 	<tr>
 		<td rowspan="5"><b><i>Mar</i></b></td>
-		<td>Euro Par</td>
-		<td><a href="https://2024.euro-par.org" title="date: 2024-08-26..30, notify: 2024-04-29"><nobr>2024-03-05(abstract)</nobr><br>2024-03-15(full)<br>Madrid, Spain</a></td>
-		<td><a href="https://2023.euro-par.org" title="date: 2023-08-28..01, notify: 2023-04-30"><nobr>2023-02-17(abstract)</nobr><br>2023-02-24(full)<br>Limassol, Cyprus</a></td>
-		<td><a href="https://2022.euro-par.org" title="date: 2022-08-24..26, notify: 2022-04-29"><nobr>2022-02-04(abstract)</nobr><br>2022-02-11(full)<br>Glasgow, UK</a></td>
-		<td><a href="https://2021.euro-par.org" title="date: 2021-09-01..03, notify: 2021-04-30"><nobr>2021-02-05(abstract)</nobr><br>2021-02-12(full)<br>Lisbon, Portugal</a></td>
-		<td><a href="https://2020.euro-par.org" title="date: 2020-08-24..28, notify: 2020-04-30">2020-02-07<br>Warsaw, Poland</a></td>
-		<td><a href="https://2019.euro-par.org" title="date: 2019-08-26..30, notify: 2019-05-03">2019-02-15<br>Gottingen,<br>Germany</a></td>
-		<td><a href="http://europar2018.org/" title="date: 2018-08-27..31, notify: 2018-04-27">2018-02-16<br>Turin, Italy</a></td>
-		<td><a href="http://europar2017.usc.es/" title="date: 2017-08-28..01, notify: 2017-04-24">2017-02-09<br>Santiago, Spain</a></td>
-		<td><a href="https://europar2016.inria.fr/" title="date: 2016-08-22..26, notify: 2016-04-24">2016-02-06<br>Grenoble, France</a></td>
+		<td>ISLPED</td>
+		<td><a href="http://www.islped.org/2024/" title="date: 2024-08-05..07, notify: 2024-05-20">2024-03-04(abstract)<br>2024-03-11(full)<br>Newport Beach, CA</a></td>
+		<td><a href="http://www.islped.org/2023/" title="date: 2023-08-07..08, notify: 2023-05-22">2023-03-06(abstract)<br>2023-03-13(full)<br>Vienna, Austria</a></td>
+		<td><a href="http://www.islped.org/2022/" title="date: 2022-08-01..03, notify: 2022-05-23">2022-03-11(abstract)<br>2022-03-18(full)<br>Zoom+Boston, MA</a></td>
+		<td><a href="http://www.islped.org/2021/" title="date: 2021-07-26..28, notify: 2021-05-21">2021-03-08(abstract)<br>2021-03-15(full)<br>Zoom+Boston, MA</a></td>
+		<td><a href="http://www.islped.org/2020/" title="date: 2020-08-10..12, notify: 2020-05-22">2020-03-02<br>Boston, MA</a></td>
+		<td><a href="http://www.islped.org/2019/" title="date: 2019-07-29..31, notify: 2019-05-13">2019-03-04<br>Lausanne, Switzerland</a></td>
+		<td><a href="http://www.islped.org/2018/" title="date: 2018-07-23..25, notify: 2018-05-07">2018-03-12<br>Belleve, WA</a></td>
+		<td><a href="http://www.islped.org/2017/" title="date: 2017-07-24..26, notify: 2017-05-03">2017-03-13<br>Taipei, Taiwan</a></td>
+		<td><a href="http://www.islped.org/2016/" title="date: 2016-08-08..10, notify: 2016-04-30">2016-03-06<br>San Francisco, CA</a></td>
 	</tr>
 	<tr>
 		<td>SYSTOR</td>
@@ -148,16 +148,16 @@ author_profile: true
 		<td><a href="https://www.systor.org/2016" title="date: 2016-06-06..08, notify: 2016-04-15">2016-03-11<br>Haifa, Israel</a></td>
 	</tr>
 	<tr>
-		<td>ISLPED</td>
-		<td><a href="http://www.islped.org/2024/" title="date: 2024-08-05..07, notify: 2024-05-20">2024-03-04(abstract)<br>2024-03-11(full)<br>Newport Beach, CA</a></td>
-		<td><a href="http://www.islped.org/2023/" title="date: 2023-08-07..08, notify: 2023-05-22">2023-03-06(abstract)<br>2023-03-13(full)<br>Vienna, Austria</a></td>
-		<td><a href="http://www.islped.org/2022/" title="date: 2022-08-01..03, notify: 2022-05-23">2022-03-11(abstract)<br>2022-03-18(full)<br>Zoom+Boston, MA</a></td>
-		<td><a href="http://www.islped.org/2021/" title="date: 2021-07-26..28, notify: 2021-05-21">2021-03-08(abstract)<br>2021-03-15(full)<br>Zoom+Boston, MA</a></td>
-		<td><a href="http://www.islped.org/2020/" title="date: 2020-08-10..12, notify: 2020-05-22">2020-03-02<br>Boston, MA</a></td>
-		<td><a href="http://www.islped.org/2019/" title="date: 2019-07-29..31, notify: 2019-05-13">2019-03-04<br>Lausanne, Switzerland</a></td>
-		<td><a href="http://www.islped.org/2018/" title="date: 2018-07-23..25, notify: 2018-05-07">2018-03-12<br>Belleve, WA</a></td>
-		<td><a href="http://www.islped.org/2017/" title="date: 2017-07-24..26, notify: 2017-05-03">2017-03-13<br>Taipei, Taiwan</a></td>
-		<td><a href="http://www.islped.org/2016/" title="date: 2016-08-08..10, notify: 2016-04-30">2016-03-06<br>San Francisco, CA</a></td>
+		<td>Euro Par</td>
+		<td><a href="https://2024.euro-par.org" title="date: 2024-08-26..30, notify: 2024-04-29"><nobr>2024-03-05(abstract)</nobr><br>2024-03-15(full)<br>Madrid, Spain</a></td>
+		<td><a href="https://2023.euro-par.org" title="date: 2023-08-28..01, notify: 2023-04-30"><nobr>2023-02-17(abstract)</nobr><br>2023-02-24(full)<br>Limassol, Cyprus</a></td>
+		<td><a href="https://2022.euro-par.org" title="date: 2022-08-24..26, notify: 2022-04-29"><nobr>2022-02-04(abstract)</nobr><br>2022-02-11(full)<br>Glasgow, UK</a></td>
+		<td><a href="https://2021.euro-par.org" title="date: 2021-09-01..03, notify: 2021-04-30"><nobr>2021-02-05(abstract)</nobr><br>2021-02-12(full)<br>Lisbon, Portugal</a></td>
+		<td><a href="https://2020.euro-par.org" title="date: 2020-08-24..28, notify: 2020-04-30">2020-02-07<br>Warsaw, Poland</a></td>
+		<td><a href="https://2019.euro-par.org" title="date: 2019-08-26..30, notify: 2019-05-03">2019-02-15<br>Gottingen,<br>Germany</a></td>
+		<td><a href="http://europar2018.org/" title="date: 2018-08-27..31, notify: 2018-04-27">2018-02-16<br>Turin, Italy</a></td>
+		<td><a href="http://europar2017.usc.es/" title="date: 2017-08-28..01, notify: 2017-04-24">2017-02-09<br>Santiago, Spain</a></td>
+		<td><a href="https://europar2016.inria.fr/" title="date: 2016-08-22..26, notify: 2016-04-24">2016-02-06<br>Grenoble, France</a></td>
 	</tr>
 	<tr>
 		<td>PACT</td>
