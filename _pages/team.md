@@ -8,11 +8,6 @@ It's my great honor to work with the talented you. Yes, the honor is mine:)
 
 Interested in joining us? Click [here](../pages/recruiting) for more information.
 
-## Staff
-
-+ Peng Zhao (M.Sc. from Northern East University, Research Assistant, since Jul 2022.)
-+ Guangtao Zhu (B.E. from Beijing Institute of Technology, Research Assistant, since Jul 2022.)
-
 
 ## Student
 
@@ -27,7 +22,8 @@ Interested in joining us? Click [here](../pages/recruiting) for more information
 
 ## Alumni
 
-+ Mo Zou (Ph.D student of ICT, CAS. Co-advised with Prof. Zhimin Tang from Nov 2019 to Apr 2021.) 
++ Guangtao Zhu (B.E. from Beijing Institute of Technology, Research Assistant, Jul 2022 to Dec 2023.)
++ Mo Zou (Ph.D student of ICT, CAS. Co-advised with Prof. Zhimin Tang from Nov 2019 to Apr 2021. Current: Assistant Professor of ICT, CAS) 
 <br><font size="3" color="grey"><b>Publications:</b> [<a href="../publications/CAL2022">CAL</a>]</font><br>
 + Long Tan (Ph.D student of ICT, CAS. Co-advised with Prof. Dongrui Fan from Sep 2020 to Apr 2021.)
 + Ziqi Wang (M.Sc. student of ICT, CAS. Co-advised with Prof. Hao Zhang from Mar 2020 to Apr 2021.)
