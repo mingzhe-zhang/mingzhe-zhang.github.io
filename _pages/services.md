@@ -9,12 +9,13 @@ author_profile: true
 - Session Chair, IEEE Non-Volatile Memory Systems and Applications Symposium (NVMSA), 2019
 
 ## Conference Technical Program Committee
-- 29th IEEE International Symposium on High-Performance Computer Architecture (HPCA 2023)
+- IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2023-2024
 - 55th IEEE/ACM International Symposium on Microarchitecture (MICRO 2022)
-- 49th International Symposium on Computer Architecture (ISCA 2022)
-- International Conference on Parallel and Distributed Systems (ICPADS 2021)
-- IEEE International Conference on Computer Design (ICCD), 2021-2022
-- IEEE Non-Volatile Memory Systems and Applications Symposium (NVMSA), 2019-2022
+- International Symposium on Computer Architecture (ISCA) 2022 & 2024
+- International Conference on Supercomputing (ICS), 2024
+- International Conference on Parallel and Distributed Systems (ICPADS), 2021
+- IEEE International Conference on Computer Design (ICCD), 2021-2023
+- IEEE Non-Volatile Memory Systems and Applications Symposium (NVMSA), 2019-2024
 - 17th IFIP International Conference on Network and Parallel Computing (NPC 2020)
 - International Conference on Networking, Architecture, and Storage (NAS), 2019
 
