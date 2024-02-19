@@ -22,7 +22,7 @@ Interested in joining us? Click [here](../pages/recruiting) for more information
 
 ## Alumni
 
-+ Guangtao Zhu (B.E. from Beijing Institute of Technology, Research Assistant, Jul 2022 to Dec 2023.)
++ Guangtao Zhu (B.E. from Beijing Institute of Technology, Research Assistant, Jul 2022 to Dec 2023. Current: Upcoming M.Sc student of University of New South Wales)
 + Mo Zou (Ph.D student of ICT, CAS. Co-advised with Prof. Zhimin Tang from Nov 2019 to Apr 2021. Current: Assistant Professor of ICT, CAS) 
 <br><font size="3" color="grey"><b>Publications:</b> [<a href="../publications/CAL2022">CAL</a>]</font><br>
 + Long Tan (Ph.D student of ICT, CAS. Co-advised with Prof. Dongrui Fan from Sep 2020 to Apr 2021.)
