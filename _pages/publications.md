@@ -6,6 +6,15 @@ author_profile: true
 <br>
 # Conference
 
+## 2024
+[C25] <b>[Flagger: Cooperative Acceleration for Large-Scale Cross-Silo Federated Learning Aggregation](../publications/ISCA2024)</b><br>
+Xiurui Pan, Yuda An, Shengwen Liang, Bo Mao, <b>Mingzhe Zhang</b>, Qiao Li, Myoungsoo Jung, Jie Zhang.
+<i>51st ACM/IEEE Annual International Symposium on Computer Architecture</i>. <b>ISCA 2024</b>
+
+[C24] <b>[Alchemist: A Unified Accelerator Architecture for Cross-Scheme Fully Homomorphic Encryption](../publications/DAC2024)</b><br>
+Jianan Mu, Husheng Han, Shangyi Shi, Jing Ye, Zizhen Liu, Shengwen Liang, Meng Li, <b>Mingzhe Zhang</b>, Song Bian, Xing Hu, Huawei Li, Xiaowei Li.
+<i>Proceedings of the 61st Annual Design Automation Conference</i>. <b>DAC 2024</b>
+
 ## 2023
 [C23] <b>[Poseidon: Practical Homomorphic Encryption Accelerator](../publications/HPCA2023-2)</b><br>
 Yinghao Yang, Huaizhi Zhang, Shengyu Fan, Hang Lu, <b>Mingzhe Zhang</b>, Xiaowei Li.

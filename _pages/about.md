@@ -27,16 +27,15 @@ I do research in Computer Architecture and Bigdata-oriented System, including:
 
 ## Updates
 
++ [2024-04-08] One collaborative paper "Flagger: Cooperative Acceleration for Large-Scale Cross-Silo Federated Learning Aggregation" has been accepted by ISCA 2024! Congrats to all collaborators!
 + [2024-02-27] I will serve as the TPC member of NVMSA 2024.
 + [2024-02-14] One collaborative paper "Alchemist: A Unified Accelerator Architecture for Cross-Scheme Fully Homomorphic Encryption" has been accepted by DAC 2024! Congrats to all collaborators!
 + [2023-12-21] I will serve as the TPC member of ICS 2024.
 + [2023-12-16] <font color="#FF0000">I am thrilled to announce that I have received the 2023 ACM SIGOPS ChinaSys Rising Star Award! I would like to appreciate the supports from all my teams and collaborators!</font>
-+ [2023-10-25] I will serve as the ERC member of ISCA 2024.
-+ [2023-07-28] I will serve as the TPC member of HPCA 2024.
 
 [More details...](../news/all-news)
 
-\[Last Update: Feb-29-2024\]
+\[Last Update: Apr-09-2024\]
 
    
 
