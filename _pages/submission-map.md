@@ -8,7 +8,7 @@ author_profile: true
 
 [An alternative conference list with countdown. (in chinese)](https://ccfddl.github.io)
 
-<font size="4" color="grey">[Last Update: Apr-09-2024]</font>
+<font size="4" color="grey">[Last Update: Apr-23-2024]</font>
 
 <table align="center">
 	<tr>
@@ -407,7 +407,7 @@ author_profile: true
 	</tr>
 	<tr>
 		<td>DATE</td>
-		<td></td>
+		<td><a href="https://www.date-conference.com/date-2025-call-papers" title="date: 2025-03-31..02, notify: ">2024-09-15(abstract)<br>2024-09-22(full)<br>Lyon, France</a></td>
 		<td><a href="https://www.date-conference.com/date-2024-call-papers" title="date: 2024-03-25..27, notify: ">2023-09-10(abstract)<br>2023-09-17(full)<br>Valencia, Spain</a></td>
 		<td><a href="https://www.date-conference.com/date-2023-call-papers" title="date: 2023-04-17..19, notify: ">2022-09-18(abstract)<br>2022-09-25(full)<br>Antwerp, BE</a></td>
 		<td><a href="https://www.date-conference.com/conference-and-exhibition-14-18-march-2022" title="date: 2022-03-14..18, notify: 2021-11-11">2021-09-12(abstract)<br>2021-09-19(full)<br>Antwerp, Belgium</a></td>
