@@ -27,6 +27,7 @@ I do research in Computer Architecture and Bigdata-oriented System, including:
 
 ## Updates
 
++ [2024-05-06] I will serve as the TPC member of ICCD 2024.
 + [2024-04-08] One collaborative paper "Flagger: Cooperative Acceleration for Large-Scale Cross-Silo Federated Learning Aggregation" has been accepted by ISCA 2024! Congrats to all collaborators!
 + [2024-02-27] I will serve as the TPC member of NVMSA 2024.
 + [2024-02-14] One collaborative paper "Alchemist: A Unified Accelerator Architecture for Cross-Scheme Fully Homomorphic Encryption" has been accepted by DAC 2024! Congrats to all collaborators!
@@ -35,7 +36,7 @@ I do research in Computer Architecture and Bigdata-oriented System, including:
 
 [More details...](../news/all-news)
 
-\[Last Update: Apr-09-2024\]
+\[Last Update: May-08-2024\]
 
    
 
