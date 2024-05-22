@@ -8,7 +8,7 @@ author_profile: true
 
 [An alternative conference list with countdown. (in chinese)](https://ccfddl.github.io)
 
-<font size="4" color="grey">[Last Update: Apr-23-2024]</font>
+<font size="4" color="grey">[Last Update: May-22-2024]</font>
 
 <table align="center">
 	<tr>
@@ -357,7 +357,7 @@ author_profile: true
 	</tr>
 	<tr>
 		<td>HPCA</td>
-		<td></td>
+		<td><a href="https://www.hpca-conf.org/2025/" title="date: 2025-, notify: 2024-11-05">2024-07-26(abstract)<br>2024-08-02(full)<br>Las Vegas, NV</a></td>
 		<td><a href="https://www.hpca-conf.org/2024/" title="date: 2024-03-02..06, notify: 2023-10-24">2023-07-28(abstract)<br>2023-08-04(full)<br>Edinburgh, UK</a></td>
 		<td><a href="https://www.hpca-conf.org/2023/" title="date: 2023-02-25..01, notify: 2022-10-18">2021-07-25(abstract)<br>2021-08-01(full)<br>Montreal, Canada</a></td>
 		<td><a href="https://www.hpca-conf.org/2022/" title="date: , notify: 2021-10-27">2021-07-23(abstract)<br>2021-07-30(full)<br>Seoul, Korea</a></td>
