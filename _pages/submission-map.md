@@ -333,7 +333,7 @@ author_profile: true
 	<tr>
 		<td rowspan="3"><b><i>Jul</i></b></td>
 		<td>ASP-DAC</td>
-		<td><a href="http://www.aspdac.com/aspdac2025/" title="date: 2025-01-20..23, notify: 2024-09-09">2024-07-05(abstract)<br>2024-07-12(full)<br>TBD, Japan</a></td>
+		<td><a href="http://www.aspdac.com/aspdac2025/" title="date: 2025-01-20..23, notify: 2024-09-09">2024-07-05(abstract)<br>2024-07-12(full)<br>Tokyo, Japan</a></td>
 		<td><a href="http://www.aspdac.com/aspdac2024/" title="date: 2024-01-22..25, notify: 2023-09-12">2023-07-23(abstract)<br>2023-07-28(full)<br>Incheon Songdo Convensia, South Korea</a></td>
 		<td><a href="http://www.aspdac.com/aspdac2023/" title="date: 2023-01-16..19, notify: 2022-09-10">2022-07-24(abstract)<br>2022-07-29(full)<br>Tokyo, Japan</a></td>
 		<td><a href="https://aspdac2022.github.io/index.html" title="date: 2022-01-17..20, notify: 2021-09-11">2021-07-21<br>Taipei</a></td>
@@ -370,7 +370,7 @@ author_profile: true
 	<tr>
 		<td rowspan="2"><b><i>Aug</i></b></td>
 		<td>SIGMETRICS<br>(summer)</td>
-		<td></td>
+		<td><a href="http://www.sigmetrics.org/sigmetrics2025" title="date: 2025-06-09..13, notify: ">-(abstract)<br>-(full)<br>Stony Brook, NY</a></td>
 		<td><a href="http://www.sigmetrics.org/sigmetrics2024" title="date: 2024-06-10..14, notify: ">2023-08-03(abstract)<br>2023-08-10(full)<br>Venice, Italy</a></td>
 		<td><a href="http://www.sigmetrics.org/sigmetrics2023" title="date: 2023-06-19..23, notify: 2022-10-04">2022-08-03(abstract)<br>2022-08-10(full)<br>Orlando, FL</a></td>
 		<td><a href="http://www.sigmetrics.org/sigmetrics2022" title="date: 2022-06-06..10, notify: 2021-10-04">2021-08-04(abstract)<br>2021-08-11(full)<br>Mumbai, India</a></td>
