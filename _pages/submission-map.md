@@ -294,7 +294,7 @@ author_profile: true
 		<td>-</td>
 	</tr>
 	<tr>
-		<td rowspan="4"><b><i>Jun</i></b></td>
+		<td rowspan="3"><b><i>Jun</i></b></td>
 		<td>HiPEAC</td>
 		<td><a href="https://www.hipeac.net/2025/barcelona/#/" title="date: 2025-01-, notify: 2024-11-15">2024-06-01<br>Barcelona, Spain</a></td>
 		<td><a href="https://www.hipeac.net/2024/munich/#/" title="date: 2024-01-17..19, notify: 2023-11-15">2023-06-01<br>Munich, Germany</a></td>
@@ -329,21 +329,9 @@ author_profile: true
 		<td><a href="https://asplos-conference.org/2019/" title="date: 2019-04-13..17, notify: 2018-11-07">2018-08-07<br>Providence, RI</a></td>
 		<td><a href="https://www.asplos2018.org/" title="date: 2018-03-24..28, notify: 2017-11-13">2017-08-11<br>Williamsburg, VA</a></td>
 		<td><a href="http://novel.ict.ac.cn/ASPLOS2017/" title="date: 2017-04-08..12, notify: 2017-11-07">2016-08-15<br>Xi'an, China</a></td>
-	</tr>
-	<tr>
-		<td>SoCC</td>
-		<td></td>
-		<td><a href="http://acmsocc.org/2023/" title="date: 2023-10-30, notify: 2023-09-01">2023-06-09<br>Santa Cruz, CA</a></td>
-		<td><a href="http://acmsocc.org/2022/" title="date: 2022-11-, notify: 2022-09-22">2022-06-10(abstract)<br>2022-06-17(full)<br>San Francisco, CA</a></td>
-		<td><a href="https://acmsocc.github.io/2021" title="date: 2021-11-01..03, notify: 2021-08-27">2021-05-28<br>Renton, WA</a></td>
-		<td><a href="https://acmsocc.github.io/2020" title="date: 2020-10-19..21, notify: 2020-08-11">2020-05-18<br>Renton, WA</a></td>
-		<td><a href="https://acmsocc.github.io/2019" title="date: 2019-10-20..23, notify: 2019-09-03">2019-06-10<br>Santa Cruz, CA</a></td>
-		<td><a href="https://acmsocc.github.io/2018" title="date: 2018-10-11..13, notify: 2018-08-03">2018-05-15<br>Carlsbad, CA</a></td>
-		<td><a href="http://acmsocc.github.io/2017" title="date: 2017-09-25..27, notify: 2017-07-23">2017-05-05<br>Santa Clara, CA</a></td>
-		<td><a href="http://acmsocc.github.io/2016/index.html" title="date: 2016-10-05..07, notify: 2016-07-29">2016-05-24<br>Santa Clara, CA</a></td>
 	</tr>	
 	<tr>
-		<td rowspan="2"><b><i>Jul</i></b></td>
+		<td rowspan="3"><b><i>Jul</i></b></td>
 		<td>ASP-DAC</td>
 		<td><a href="http://www.aspdac.com/aspdac2025/" title="date: 2025-01-20..23, notify: 2024-09-09">2024-07-05(abstract)<br>2024-07-12(full)<br>TBD, Japan</a></td>
 		<td><a href="http://www.aspdac.com/aspdac2024/" title="date: 2024-01-22..25, notify: 2023-09-12">2023-07-23(abstract)<br>2023-07-28(full)<br>Incheon Songdo Convensia, South Korea</a></td>
@@ -354,6 +342,18 @@ author_profile: true
 		<td><a href="http://www.aspdac.com/aspdac2019/" title="date: 2019-01-21..24, notify: 2018-09-10">2018-07-06<br>Tokyo, Japan</a></td>
 		<td><a href="http://www.aspdac.com/aspdac2018/" title="date: 2018-01-22..25, notify: 2017-09-11">2017-07-07<br>Jeju Island, Korea</a></td>
 		<td><a href="http://www.aspdac.com/aspdac2017/" title="date: 2017-01-16..19, notify: 2016-09-12">2016-07-08<br>Chiba/Tokyo, Japan</a></td>
+	</tr>
+	<tr>
+		<td>SoCC</td>
+		<td><a href="http://acmsocc.org/2024/" title="date: 2024-11-20..22, notify: 2024-09-25">2024-07-08(abstract)<br>2024-07-15(full)<br>Redmond, WA</a></td>
+		<td><a href="http://acmsocc.org/2023/" title="date: 2023-10-30, notify: 2023-09-01">2023-06-09<br>Santa Cruz, CA</a></td>
+		<td><a href="http://acmsocc.org/2022/" title="date: 2022-11-, notify: 2022-09-22">2022-06-10(abstract)<br>2022-06-17(full)<br>San Francisco, CA</a></td>
+		<td><a href="https://acmsocc.github.io/2021" title="date: 2021-11-01..03, notify: 2021-08-27">2021-05-28<br>Renton, WA</a></td>
+		<td><a href="https://acmsocc.github.io/2020" title="date: 2020-10-19..21, notify: 2020-08-11">2020-05-18<br>Renton, WA</a></td>
+		<td><a href="https://acmsocc.github.io/2019" title="date: 2019-10-20..23, notify: 2019-09-03">2019-06-10<br>Santa Cruz, CA</a></td>
+		<td><a href="https://acmsocc.github.io/2018" title="date: 2018-10-11..13, notify: 2018-08-03">2018-05-15<br>Carlsbad, CA</a></td>
+		<td><a href="http://acmsocc.github.io/2017" title="date: 2017-09-25..27, notify: 2017-07-23">2017-05-05<br>Santa Clara, CA</a></td>
+		<td><a href="http://acmsocc.github.io/2016/index.html" title="date: 2016-10-05..07, notify: 2016-07-29">2016-05-24<br>Santa Clara, CA</a></td>
 	</tr>
 	<tr>
 		<td>HPCA</td>
