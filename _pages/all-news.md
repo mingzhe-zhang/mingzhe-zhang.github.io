@@ -6,6 +6,7 @@ author_profile: true
 
 ## 2024
 
++ [2024-07-18] Our paper "Trinity: A General Purpose FHE Accelerator" has been accepted by MICRO 2024! Congrats to all collaborators!
 + [2024-05-24] <font color="#FF0000">I will leave IIE, CAS and join Computing System Lab at Ant Research as the director.</font>
 + [2024-05-06] I will serve as the TPC member of ICCD 2024.
 + [2024-04-08] One collaborative paper "Flagger: Cooperative Acceleration for Large-Scale Cross-Silo Federated Learning Aggregation" has been accepted by ISCA 2024! Congrats to all collaborators!
