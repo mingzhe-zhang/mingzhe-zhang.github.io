@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mingzhe Zhang"
 title_separator          : "-"
 name                     : &name "Mingzhe Zhang"
-description              : &description "Ph.D, Assistant Professor at Institute of Computing Technology, Chinese Academy of Sciences"
+description              : &description "Ph.D, Deputy Director of Computing System, Ant Research, Ant Group"
 url                      : https://mingzhe-zhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mingzhe-zhang/mingzhe-zhang.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mingzhe Zhang"
   avatar           : "zmz.png"
-  bio              : "Ph.D, Associate Professor at Institute of Information Engineering, Chinese Academy of Sciences"
+  bio              : "Ph.D, Deputy Director of Computing System, Ant Research, Ant Group"
   location         : "Beijing, China"
   employer         :
   pubmed           :
