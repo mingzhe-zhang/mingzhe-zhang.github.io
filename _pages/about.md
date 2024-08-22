@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Short Bio
-Dr. Mingzhe Zhang is an Associate Professor at the Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS). Before join the IIE CAS, he served as the Assistant Professor at Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS) from July 2018 to April 2021. Mingzhe graduated from ICT, CAS with Ph.D. degree in 2018, Inner Mongolia University with M.S. degree in 2013, and Nanjing University of Post and Telecommunications with B.E. in 2008. From 2015 to 2017, he was at the University of Chicago as the visiting scholarship, under the supervision of [Prof. Frederic T. Chong](http://people.cs.uchicago.edu/~ftchong/). 
+Dr. Mingzhe Zhang currently serves as the Deputy Director of Computing System Lab, Ant Research. Before join Ant Group, Dr. Mingzhe Zhang was an Associate Professor at the Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS) from April 2021 to May 2024, and an Assistant Professor at Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS) from July 2018 to April 2021. Mingzhe graduated from ICT, CAS with Ph.D. degree in 2018, Inner Mongolia University with M.S. degree in 2013, and Nanjing University of Post and Telecommunications with B.E. in 2008. From 2015 to 2017, he was at the University of Chicago as the visiting scholarship, under the supervision of [Prof. Frederic T. Chong](http://people.cs.uchicago.edu/~ftchong/). 
 
 <font color="#FF0000">[Anouncement]</font> 
 
@@ -36,7 +36,8 @@ I do research in Computer Architecture and Bigdata-oriented System, including:
 ## Updates
 
 + [2024-07-18] Our paper "Trinity: A General Purpose FHE Accelerator" has been accepted by MICRO 2024! Congrats to all collaborators!
-+ [2024-05-24] <font color="#FF0000">I will leave IIE, CAS and join Computing System Lab at Ant Research as the director.</font>
++ [2024-06-03] I join the Computing System Lab@Ant Research as the Deputy Director.
++ [2024-05-24] <font color="#FF0000">I will leave IIE, CAS and join Computing System Lab at Ant Research.</font>
 + [2024-05-06] I will serve as the TPC member of ICCD 2024.
 + [2024-04-08] One collaborative paper "Flagger: Cooperative Acceleration for Large-Scale Cross-Silo Federated Learning Aggregation" has been accepted by ISCA 2024! Congrats to all collaborators!
 + [2024-02-27] I will serve as the TPC member of NVMSA 2024.
@@ -44,7 +45,7 @@ I do research in Computer Architecture and Bigdata-oriented System, including:
 
 [More details...](../news/all-news)
 
-\[Last Update: May-28-2024\]
+\[Last Update: Aug-22-2024\]
 
    
 
