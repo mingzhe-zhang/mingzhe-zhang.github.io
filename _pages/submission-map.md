@@ -382,8 +382,8 @@ author_profile: true
 	</tr>	
 	<tr>
 		<td>PPoPP</td>
-		<td></td>
-		<td><a href="http://conf.researchr.org/home/ppopp-2024" title="date: 2024-03-22..06, notify: 2023-11-10">2023-08-04(full)<br>Edinburgh, UK</a></td>
+		<td><a href="http://conf.researchr.org/home/ppopp-2025" title="date: 2025-03-01..05, notify: 2024-11-11">2024-08-16(full)<br>Las Vegas, NV</a></td>
+		<td><a href="http://conf.researchr.org/home/ppopp-2024" title="date: 2024-02-22..06, notify: 2023-11-10">2023-08-04(full)<br>Edinburgh, UK</a></td>
 		<td><a href="http://conf.researchr.org/home/ppopp-2023" title="date: 2023-02-25..01, notify: 2022-11-07">2022-08-17(full)<br>Montreal, Canada</a></td>
 		<td><a href="http://conf.researchr.org/home/ppopp-2022" title="date: 2022-02-12..16, notify: 2021-12-26">2021-08-09(abstract)<br>2021-08-13(full)<br>Seoul, Korea</a></td>
 		<td><a href="http://conf.researchr.org/home/ppopp-2021" title="date: 2021-02-27..03, notify: 2020-11-16">2020-08-13<br>Seoul, Korea</a></td>
@@ -393,7 +393,7 @@ author_profile: true
 		<td><a href="http://conf.researchr.org/home/ppopp-2017" title="date: 2017-02-04..08, notify: 2016-11-12">2016-08-01<br>Austin, TX</a></td>
 	</tr>
 	<tr>
-		<td rowspan="4"><b><i>Sep</i></b></td>
+		<td rowspan="3"><b><i>Sep</i></b></td>
 		<td>NSDI<br>(fall)</td>
 		<td><a href="https://www.usenix.org/conference/nsdi25/" title="date: 2025-04-28..30, notify: 2024-12-10">2024-09-12(abstract)<br>2024-09-19(full)<br>Philadelphia, PA</a></td>
 		<td><a href="https://www.usenix.org/conference/nsdi24" title="date: 2024-04-16..18, notify: 2023-12-07">2023-09-07(abstract)<br>2023-09-14(full)<br>Santa Clara, CA</a></td>
@@ -430,21 +430,9 @@ author_profile: true
 		<td><a href="https://www.usenix.org/conference/fast17" title="date: 2017-02-27..2, notify: 2016-12-12">2016-09-27<br>Santa Clara, CA</a></td>
 	</tr>
 	<tr>
-		<td>IPDPS</td>
-		<td></td>
-		<td><a href="http://www.ipdps.org/" title="date: 2024-05-27..31, notify: 2024-01-31">2023-09-28(abstract)<br>2023-10-05(full)<br>San Francisco, CA</a></td>
-		<td><a href="http://www.ipdps.org/" title="date: 2023-05-15..19, notify: 2023-01-31">2022-09-29(abstract)<br>2022-10-06(full)<br>St. Petersburg, FL</a></td>
-		<td><a href="http://www.ipdps.org/" title="date: 2022-05-30..03, notify: 2022-01-15">2021-10-01(abstract)<br>2021-10-08(full)<br>Lyon, France</a></td>
-		<td><a href="http://www.ipdps.org/" title="date: 2021-05-17..21, notify: 2021-01-19">2020-10-12<br>Portland, OR</a></td>
-		<td><a href="http://www.ipdps.org/ipdps2020" title="date: 2020-05-18..22, notify: 2020-01-20">2019-10-07<br>New Orleans, LA</a></td>
-		<td><a href="http://www.ipdps.org/ipdps2019" title="date: 2019-05-20..24, notify: 2019-01-20">2018-10-15<br>Rio de Janeiro, Brazil</a></td>
-		<td><a href="http://www.ipdps.org/ipdps2018" title="date: date: 2018-05-21..25, notify: 2018-01-22">2017-10-22<br>Vancouver, CA</a></td>
-		<td><a href="http://www.ipdps.org/ipdps2017" title="date: 2017-05-29..02, notify: 2017-01-08">2016-10-23<br>Orlando, FL</a></td>
-	</tr>
-	<tr>
-		<td rowspan="3"><b><i>Oct</i></b></td>
+		<td rowspan="4"><b><i>Oct</i></b></td>
 		<td>SIGMETRICS<br>(fall)</td>
-		<td></td>
+		<td><a href="http://www.sigmetrics.org/sigmetrics2025" title="date: 2025-06-09..13, notify: 2024-12-10">2024-10-02(abstract)<br>2024-10-09(full)<br>Stony Brooks, NY</a></td>
 		<td><a href="http://www.sigmetrics.org/sigmetrics2024" title="date: 2024-06-10..14, notify: 2023-12-12">2023-10-04(abstract)<br>2023-10-11(full)<br>Venice, Italy</a></td>
 		<td><a href="http://www.sigmetrics.org/sigmetrics2023" title="date: 2023-06-19..23, notify: 2022-10-04">2022-10-12(abstract)<br>2022-10-19(full)<br>Orlando, FL</a></td>
 		<td><a href="http://www.sigmetrics.org/sigmetrics2022" title="date: 2022-06-06..10, notify: 2021-12-13">2021-10-13(abstract)<br>2021-10-20(full)<br>Mumbai, India</a></td>
@@ -453,6 +441,18 @@ author_profile: true
 		<td></td>
 		<td></td>
 		<td></td>
+	</tr>
+	<tr>
+		<td>IPDPS</td>
+		<td><a href="http://www.ipdps.org/" title="date: 2025-06-03..07, notify: 2025-02-04">2024-10-03(abstract)<br>2024-10-10(full)<br>Milano, Italy</a></td>
+		<td><a href="http://www.ipdps.org/" title="date: 2024-05-27..31, notify: 2024-01-31">2023-09-28(abstract)<br>2023-10-05(full)<br>San Francisco, CA</a></td>
+		<td><a href="http://www.ipdps.org/" title="date: 2023-05-15..19, notify: 2023-01-31">2022-09-29(abstract)<br>2022-10-06(full)<br>St. Petersburg, FL</a></td>
+		<td><a href="http://www.ipdps.org/" title="date: 2022-05-30..03, notify: 2022-01-15">2021-10-01(abstract)<br>2021-10-08(full)<br>Lyon, France</a></td>
+		<td><a href="http://www.ipdps.org/" title="date: 2021-05-17..21, notify: 2021-01-19">2020-10-12<br>Portland, OR</a></td>
+		<td><a href="http://www.ipdps.org/ipdps2020" title="date: 2020-05-18..22, notify: 2020-01-20">2019-10-07<br>New Orleans, LA</a></td>
+		<td><a href="http://www.ipdps.org/ipdps2019" title="date: 2019-05-20..24, notify: 2019-01-20">2018-10-15<br>Rio de Janeiro, Brazil</a></td>
+		<td><a href="http://www.ipdps.org/ipdps2018" title="date: date: 2018-05-21..25, notify: 2018-01-22">2017-10-22<br>Vancouver, CA</a></td>
+		<td><a href="http://www.ipdps.org/ipdps2017" title="date: 2017-05-29..02, notify: 2017-01-08">2016-10-23<br>Orlando, FL</a></td>
 	</tr>
 	<tr>
 		<td>ASPLOS<br>(fall)</td>
@@ -477,11 +477,23 @@ author_profile: true
 		<td><a href="http://eurosys2019.org/" title="date: 2019-03-25..28, notify: 2018-12-21">2018-10-01<br>Dresden, Germany</a></td>
 		<td><a href="http://eurosys2018.org/" title="date: 2018-04-23..26, notify: 2018-01-22">2017-10-27<br>Porto, Portugal</a></td>
 		<td><a href="http://eurosys2017.org/" title="date: 2017-04-23..26, notify: 2017-01-23">2016-10-14<br>Belgrade, Serbia</a></td>
-	</tr>		
+	</tr>
 	<tr>
-		<td rowspan="4"><b><i>Nov</i></b></td>
+		<td rowspan="3"><b><i>Nov</i></b></td>
+		<td>DAC</td>
+		<td><a href="https://www.dac.com/Conference/2025-Call-for-Contributions" title="date: 2025-06-22..25, notify: 2025-02-26">2024-11-12(abstract)<br>2024-11-19(full)<br>San Francisco, CA</a></td>
+		<td><a href="https://www.dac.com/Conference/2024-Call-for-Contributions" title="date: 2024-06-23..27, notify: 2024-02-26">2023-11-13(abstract)<br>2023-11-20(full)<br>San Francisco, CA</a></td>
+		<td>-</td>
+		<td><a href="https://www.dac.com/DAC-2022/2022-Call-for-Contributions" title="date: 2022-07-10..14, notify: 2022-02-21">2021-11-15(abstract)<br>2021-11-22(full)<br>San Francisco, CA</a></td>
+		<td><a href="https://www.dac.com/" title="date: 2021-07-11..15, notify: 2021-02-24">2020-11-23<br>San Francisco, CA</a></td>
+		<td><a href="https://www.dac.com/content/57th-dac" title="date: 2020-07-19..23, notify: 2020-02-28">2019-11-21<br>San Francisco, CA</a></td>
+		<td><a href="https://www.dac.com/content/56th-dac" title="date: 2019-06-02..06, notify: 2019-03-25">2018-11-27<br>Las Vegas, NV</a></td>
+		<td><a href="https://dac.com/content/55th-dac" title="date: 2018-06-24..28, notify: ">2017-11-14<br>San Francisco, CA</a></td>
+		<td><a href="https://dac.com/content/54th-dac" title="">2016-11-15<br>Austin, TX</a></td>
+	</tr>
+	<tr>
 		<td>PLDI</td>
-		<td></td>
+		<td><a href="https://conf.researchr.org/home/pldi-2025" title="date: 2025-06-16..20, notify: 2025-03-06">2024-11-14<br>Seoul, South Korea</a></td>
 		<td><a href="https://conf.researchr.org/home/pldi-2024" title="date: 2024-06-24..28, notify: 2024-02-26">2023-11-16<br>Copenhagen, Denmark</a></td>
 		<td><a href="https://conf.researchr.org/home/pldi-2023" title="date: 2023-06-19..21, notify: 2023-02-24">2022-11-10<br>Orlando, FL</a></td>
 		<td><a href="https://conf.researchr.org/home/pldi-2022" title="date: 2022-06-20..24, notify: 2022-02-25">2021-11-19<br>San Diego, CA</a></td>
@@ -493,7 +505,7 @@ author_profile: true
 	</tr>
 	<tr>
 		<td>ISCA</td>
-		<td></td>
+		<td><a href="http://iscaconf.org/isca2025" title="date: 2025-06-21..25, notify: 2025-03-17">2024-11-15(abstract)<br>2024-11-22(full)<br>Tokyo, Japan</a></td>
 		<td><a href="http://iscaconf.org/isca2024" title="date: 2024-06-29..03, notify: 2024-03-19">2023-11-14(abstract)<br>2023-11-21(full)<br>Buenos Aires, Argentina</a></td>
 		<td><a href="http://iscaconf.org/isca2023" title="date: 2023-06-17..23, notify: 2023-03-09">2022-11-14(abstract)<br>2022-11-21(full)<br>Orlando, FL</a></td>
 		<td><a href="http://iscaconf.org/isca2022" title="date: 2022-06-11..15, notify: 2022-03-02">2021-11-16(abstract)<br>2021-11-23(full)<br>New York City, USA</a></td>
@@ -504,33 +516,9 @@ author_profile: true
 		<td><a href="http://isca17.ece.utoronto.ca/" title="date: 2017-06-24..28, notify: 2017-03-08">2016-11-18<br>Toronto, CA</a></td>
 	</tr>
 	<tr>
-		<td>DAC</td>
-		<td></td>
-		<td><a href="https://www.dac.com/Conference/2024-Call-for-Contributions" title="date: 2024-06-23..27, notify: 2024-02-26">2023-11-13(abstract)<br>2023-11-20(full)<br>San Francisco, CA</a></td>
-		<td>-</td>
-		<td><a href="https://www.dac.com/DAC-2022/2022-Call-for-Contributions" title="date: 2022-07-10..14, notify: 2022-02-21">2021-11-15(abstract)<br>2021-11-22(full)<br>San Francisco, CA</a></td>
-		<td><a href="https://www.dac.com/" title="date: 2021-07-11..15, notify: 2021-02-24">2020-11-23<br>San Francisco, CA</a></td>
-		<td><a href="https://www.dac.com/content/57th-dac" title="date: 2020-07-19..23, notify: 2020-02-28">2019-11-21<br>San Francisco, CA</a></td>
-		<td><a href="https://www.dac.com/content/56th-dac" title="date: 2019-06-02..06, notify: 2019-03-25">2018-11-27<br>Las Vegas, NV</a></td>
-		<td><a href="https://dac.com/content/55th-dac" title="date: 2018-06-24..28, notify: ">2017-11-14<br>San Francisco, CA</a></td>
-		<td><a href="https://dac.com/content/54th-dac" title="">2016-11-15<br>Austin, TX</a></td>
-	</tr>
-	<tr>
-		<td>ISPASS</td>
-		<td></td>
-		<td><a href="http://www.ispass.org/ispass2024" title="date: 2024-05-05..07, notify: 2024-02-29">2023-12-08(abstract)<br>2023-12-18(full)<br>Indianapolis, IN</a></td>
-		<td><a href="http://www.ispass.org/ispass2023" title="date: 2023-04-23.., notify: 2023-02-28">2022-11-29(abstract)<br>2022-12-06(full)<br>Raleigh, NC</a></td>
-		<td><a href="http://www.ispass.org/ispass2022" title="date: 2022-05-22..26, notify: 2022-03-16">2021-12-03(abstract)<br>2021-12-10(full)<br>Singapore</a></td>
-		<td><a href="http://www.ispass.org/ispass2021" title="date: 2021-03-28..30, notify: 2021-02-08">2020-10-30<br>Stony Brook, NY</a></td>
-		<td><a href="http://www.ispass.org/ispass2020" title="date: 2020-04-05..07, notify: 2020-01-14">2019-10-10<br>Boston, MA</a></td>
-		<td><a href="http://www.ispass.org/ispass2019" title="date: 2019-03-24..26, notify: 2019-01-13">2018-10-12<br>Madison, WI</a></td>
-		<td><a href="http://www.ispass.org/ispass2018" title="date: 2018-04-03..05, notify: 2018-01-19">2017-10-13<br>Belfast, UK</a></td>
-		<td><a href="http://www.ispass.org/ispass2017" title="date: 2017-04-23..25, notify: 2017-01-30">2016-10-14<br>San Francisco, CA</a></td>
-	</tr>
-	<tr>
-		<td rowspan="1"><b><i>DEC</i></b></td>
+		<td rowspan="2"><b><i>DEC</i></b></td>
 		<td>OSDI</td>
-		<td></td>
+		<td><a href="https://www.usenix.org/conference/osdi25" title="date: 2025-07-07..09, notify: 2025-03-25">2024-12-03(abstract)<br>2024-12-10(full)<br>Boston, MA</a></td></td>
 		<td><a href="https://www.usenix.org/conference/osdi24" title="date: 2024-07-10..12, notify: 2024-03-21">2023-11-30(abstract)<br>2023-12-07(full)<br>Santa Clara, CA</a></td>
 		<td><a href="https://www.usenix.org/conference/osdi23" title="date: 2023-07-10..12, notify: 2023-03-23">2022-12-06(abstract)<br>2022-12-13(full)<br>Boston, MA</a></td>
 		<td><a href="https://www.usenix.org/conference/osdi22" title="date: 2022-07-11..13, notify: 2022-03-16">2021-12-07(abstract)<br>2021-12-14(full)<br>Carlsbad, CA</a></td>
@@ -539,6 +527,18 @@ author_profile: true
 		<td><a href="https://www.usenix.org/conference/osdi18" title="date: 2018-10-08..10, notify: 2018-07-24">2018-05-03<br>Carlsbad, CA</a></td>
 		<td align="center">-</td>
 		<td><a href="https://www.usenix.org/conference/osdi16" title="date: 2016-11-02..04, notify: 2016-07-30">2016-05-10<br>Savannah, GA</a></td>
+	</tr>
+	<tr>
+		<td>ISPASS</td>
+		<td><a href="http://www.ispass.org/ispass2025" title="date: 2025-05-11..13, notify: 2025-03-03">2024-12-09(abstract)<br>2024-12-16(full)<br>Ghent, Belgium</a></td>
+		<td><a href="http://www.ispass.org/ispass2024" title="date: 2024-05-05..07, notify: 2024-02-29">2023-12-08(abstract)<br>2023-12-18(full)<br>Indianapolis, IN</a></td>
+		<td><a href="http://www.ispass.org/ispass2023" title="date: 2023-04-23.., notify: 2023-02-28">2022-11-29(abstract)<br>2022-12-06(full)<br>Raleigh, NC</a></td>
+		<td><a href="http://www.ispass.org/ispass2022" title="date: 2022-05-22..26, notify: 2022-03-16">2021-12-03(abstract)<br>2021-12-10(full)<br>Singapore</a></td>
+		<td><a href="http://www.ispass.org/ispass2021" title="date: 2021-03-28..30, notify: 2021-02-08">2020-10-30<br>Stony Brook, NY</a></td>
+		<td><a href="http://www.ispass.org/ispass2020" title="date: 2020-04-05..07, notify: 2020-01-14">2019-10-10<br>Boston, MA</a></td>
+		<td><a href="http://www.ispass.org/ispass2019" title="date: 2019-03-24..26, notify: 2019-01-13">2018-10-12<br>Madison, WI</a></td>
+		<td><a href="http://www.ispass.org/ispass2018" title="date: 2018-04-03..05, notify: 2018-01-19">2017-10-13<br>Belfast, UK</a></td>
+		<td><a href="http://www.ispass.org/ispass2017" title="date: 2017-04-23..25, notify: 2017-01-30">2016-10-14<br>San Francisco, CA</a></td>
 	</tr>
 </table>
 
