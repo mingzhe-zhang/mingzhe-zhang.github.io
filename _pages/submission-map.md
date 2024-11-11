@@ -544,7 +544,7 @@ author_profile: true
 		<td><a href="http://isca17.ece.utoronto.ca/" title="date: 2017-06-24..28, notify: 2017-03-08">2016-11-18<br>Toronto, CA</a></td>
 	</tr>
 	<tr>
-		<td rowspan="2"><b><i>DEC</i></b></td>
+		<td rowspan="3"><b><i>DEC</i></b></td>
 		<td>OSDI</td>
 		<td></td>
 		<td><a href="https://www.usenix.org/conference/osdi25" title="date: 2025-07-07..09, notify: 2025-03-25">2024-12-03(abstract)<br>2024-12-10(full)<br>Boston, MA</a></td></td>
