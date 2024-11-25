@@ -560,8 +560,7 @@ author_profile: true
 	<tr>
 		<td>ICDCS</td>
 		<td></td>
-		<td><a href="https://icdcs2025.icdcs.org/" title="date: 2025-07-20..23, notify: 2025-04-02">2024-12-04(abstract)<br>2024-12-11(full)<br><nobr>Glasgow, UK</nobr></a><br>
-		<a href="https://icdcs2025.icdcs.org/" title="date: 2025-07-20..23, notify: 2025-04-02">2024-12-04(abstract)<br>2024-12-11(full)<br><nobr>Glasgow, UK</nobr></a></td>
+		<td><a href="https://icdcs2025.icdcs.org/" title="date: 2025-07-20..23, notify: 2025-04-02">2024-12-04(abstract)<br>2024-12-11(full)<br><nobr>Glasgow, UK</nobr></a><br><a href="https://icdcs2025.icdcs.org/" title="date: 2025-07-20..23, notify: 2025-04-02">2024-12-04(abstract)<br>2024-12-11(full)<br><nobr>Glasgow, UK</nobr></a></td>
 		<td><a href="https://icdcs2024.icdcs.org/" title="date: 2024-07-, notify: 2024-04-12">2024-01-12(abstract)<br>2024-01-19(full)<br><nobr>New Jersey City, NJ</nobr></a></td>
 		<td><a href="https://icdcs2023.icdcs.org/" title="date: 2023-07-18..21, notify: 2023-04-03">2023-01-14(abstract)<br>2023-01-21(full)<br><nobr>Hong Kong, China</nobr></a></td>
 		<td><a href="https://icdcs2022.icdcs.org/" title="date: 2022-07-10..13, notify: 2022-04-04">2022-01-17(abstract)<br>2022-01-24(full)<br>Bologna, Italy</a></td>
