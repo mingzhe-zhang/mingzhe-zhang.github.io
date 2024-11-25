@@ -8,7 +8,7 @@ author_profile: true
 
 [An alternative conference list with countdown. (in chinese)](https://ccfddl.github.io)
 
-<font size="4" color="grey">[Last Update: Nov-11-2024]</font>
+<font size="4" color="grey">[Last Update: Nov-25-2024]</font>
 
 <table align="center">
 	<tr>
@@ -28,7 +28,7 @@ author_profile: true
 	<tr>
 		<td rowspan="6"><b><i>Jan</i></b></td>
 		<td>CF</td>
-		<td>><a href="http://www.computingfrontiers.org/2025/" title="date: 2025-05-28..30, notify: ">2025-01-<br>Cagliari, Italy</a></td>
+		<td><a href="http://www.computingfrontiers.org/2025/" title="date: 2025-05-28..30, notify: ">2025-01-<br>Cagliari, Italy</a></td>
 		<td><a href="http://www.computingfrontiers.org/2024/" title="date: 2024-05-07..09, notify: 2024-02-12">2024-01-08<br>Ischia, Italy</a></td>
 		<td><a href="http://www.computingfrontiers.org/2023/" title="date: 2023-05-09..11, notify: 2023-03-17">2023-01-27<br>Bologna, Italy</a></td>
 		<td><a href="http://www.computingfrontiers.org/2022/" title="date: 2022-05, notify: ">2022-01-30(abstract)<br>2022-02-06(full)<br>Torino, Italy</a></td>
@@ -54,7 +54,7 @@ author_profile: true
 	</tr>
 	<tr>
 		<td>ICS</td>
-		<td></td>
+		<td><a href="https://hpcrl.github.io/ICS2025-webpage/" title="date: 2025-06-09..11, notify: 2025-03-14">2025-01-13(abstract)<br>2025-01-16(full)<br>Salt Lake City, US</a></td>
 		<td><a href="https://ics2024.github.io" title="date: 2024-06-04..07, notify: 2024-03-29">2024-01-11(abstract)<br>2024-01-18(full)<br>Kyoto, Japan</a></td>
 		<td><a href="https://nschiele.github.io/ICS2023/" title="date: 2023-06-21..23, notify: 2023-04-14">2023-01-27(abstract)<br>2022-02-03(full)<br>Orlando, FL</a></td>
 		<td><a href="https://ics2022.github.io" title="date: 2022-06-27..30, notify: 2022-04-14">2022-01-28(abstract)<br>2022-02-04(full)<br>Virtual</a></td>
@@ -67,7 +67,7 @@ author_profile: true
 	</tr>
 	<tr>
 		<td>HPDC</td>
-		<td></td>
+		<td><a href="http://hpdc.sci.utah.edu/2025/" title="date: 2025-07-20..23, notify: 2025-04-07">2025-01-16(abstract)<br>2025-01-23(full)<br>Notre Dame, IN</a></td>
 		<td><a href="http://www.hpdc.org/2024" title="date: 2024-06-03..07, notify: 2024-03-25">2024-01-18(abstract)<br>2024-01-25(full)<br>Pisa, Italy</a></td>
 		<td><a href="http://www.hpdc.org/2023" title="date: 2023-06-16..23, notify: 2023-03-29">2023-01-27<br>Orlando, FL</a></td>
 		<td><a href="http://www.hpdc.org/2022" title="date: 2022-06-27..01, notify: 2022-03-21">2022-01-20(abstract)<br>2022-01-27(full)<br>Minneapolis, MN</a></td>
@@ -93,7 +93,7 @@ author_profile: true
 	</tr>
 	<tr>
 		<td>SIGCOMM</td>
-		<td></td>
+		<td><a href="http://conferences.sigcomm.org/sigcomm/2025/" title="date: 2025-09-08..11, notify: 2025-04-29">2025-01-24(abstract)<br>2025-01-31(full)<br>Coimbra, Portugal</a></td>
 		<td><a href="http://conferences.sigcomm.org/sigcomm/2024/" title="date: 2024-08-04..08, notify: 2024-05-07">2024-01-26(abstract)<br>2024-02-02(full)<br>Sydney, Australia</a></td>
 		<td><a href="http://conferences.sigcomm.org/sigcomm/2023/" title="date: 2023-09-10..14, notify: 2023-05-20">2023-02-08(abstract)<br>2023-02-15(full)<br>New York City, US</a></td>
 		<td><a href="http://conferences.sigcomm.org/sigcomm/2022/" title="date: 2022-08-22..26, notify: 2022-05-07">2022-01-26(abstract)<br>2022-02-02(full)<br>Amsterdam, Netherlands</a></td>
@@ -121,7 +121,7 @@ author_profile: true
 	<tr>
 		<td rowspan="5"><b><i>Mar</i></b></td>
 		<td>ISLPED</td>
-		<td></td>
+		<td><a href="http://www.islped.org/2025/" title="date: 2025-08-04..06, notify: 2025-05-19">2025-03-03(abstract)<br>2025-03-10(full)<br>Univ. of Iceland, Iceland</a></td>
 		<td><a href="http://www.islped.org/2024/" title="date: 2024-08-05..07, notify: 2024-05-20">2024-03-04(abstract)<br>2024-03-11(full)<br>Newport Beach, CA</a></td>
 		<td><a href="http://www.islped.org/2023/" title="date: 2023-08-07..08, notify: 2023-05-22">2023-03-06(abstract)<br>2023-03-13(full)<br>Vienna, Austria</a></td>
 		<td><a href="http://www.islped.org/2022/" title="date: 2022-08-01..03, notify: 2022-05-23">2022-03-11(abstract)<br>2022-03-18(full)<br>Zoom+Boston, MA</a></td>
@@ -559,7 +559,8 @@ author_profile: true
 	</tr>
 	<tr>
 		<td>ICDCS</td>
-		<td><a href="https://icdcs2025.icdcs.org/" title="date: 2025-07-20..23, notify: 2025-04-02">2024-12-04(abstract)<br>2024-12-11(full)<br><nobr>Glasgow, UK</nobr></a></td>
+		<td><a href="https://icdcs2025.icdcs.org/" title="date: 2025-07-20..23, notify: 2025-04-02">2024-12-04(abstract)<br>2024-12-11(full)<br><nobr>Glasgow, UK</nobr></a><br>
+		<a href="https://icdcs2025.icdcs.org/" title="date: 2025-07-20..23, notify: 2025-04-02">2024-12-04(abstract)<br>2024-12-11(full)<br><nobr>Glasgow, UK</nobr></a></td>
 		<td><a href="https://icdcs2024.icdcs.org/" title="date: 2024-07-, notify: 2024-04-12">2024-01-12(abstract)<br>2024-01-19(full)<br><nobr>New Jersey City, NJ</nobr></a></td>
 		<td><a href="https://icdcs2023.icdcs.org/" title="date: 2023-07-18..21, notify: 2023-04-03">2023-01-14(abstract)<br>2023-01-21(full)<br><nobr>Hong Kong, China</nobr></a></td>
 		<td><a href="https://icdcs2022.icdcs.org/" title="date: 2022-07-10..13, notify: 2022-04-04">2022-01-17(abstract)<br>2022-01-24(full)<br>Bologna, Italy</a></td>
