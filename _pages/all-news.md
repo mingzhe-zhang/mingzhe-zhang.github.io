@@ -7,6 +7,7 @@ author_profile: true
 
 + [2025-01-28] Our collaborative paper "An Efficient Delta Compression Framework Seamlessly Integrated into Inline Deduplication" has been accepted by ACM Transactions on Storage. Congrats to all collaborators!
 + [2025-01-23] Our collaborative paper "CipherPrune: Efficient and Scalable Private Transformer Inference" has been accepted by ICLR 2025! Congrats to all collaborators!
++ [2025-01-08] Our paper "LP-HENN: Fully Homomorphic Encryption Accelerator with High Energy Efficiency" has been accepted by Cybersecurity! Congrats to al collaborators!
 
 ## 2024
 

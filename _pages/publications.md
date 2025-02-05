@@ -6,7 +6,21 @@ author_profile: true
 <br>
 # Conference
 
+## 2025
+
+[C28] <b>[CipherPrune: Efficient and Scalable Private Transformer Inference](../publications/ICLR2025)</b><br>
+Yancheng Zhang, Jiaqi Xue, Mengxin Zheng, Mimi Xie, Mingzhe Zhang, Lei Jiang, Qian Lou.
+<i>13th International Conference on Learning Representations</i>. <b>ICLR 2025</b>
+
+[C27] <b>[WarpDrive: GPU-Based Fully Homomorphic Encryption Acceleration Leveraging Tensor and CUDA Cores](../publications/HPCA2025)</b><br>
+Guang Fan, Mingzhe Zhang, Fangyu Zheng, Shengyu Fan, Tian Zhou, Xianglong Deng, Wenxu Tang, Liang Kong, Yixuan Song, Shoumeng Yan.
+<i>31th International Symposium on High-Performance Computer Architecture</i>. <b>HPCA 2025</b>
+
 ## 2024
+[C26] <b>[Trinity: A General Purpose FHE Accelerator](../publications/MICRO2024)</b><br>
+Xianglong Deng, Shengyu Fan, Zhicheng Hu, Zhuoyu Tian, Zihao Yang, Jiangrui Yu, Dingyuan Cao, Dan Meng, Rui Hou, Meng Li, Qian Lou, Mingzhe Zhang.
+<i>57th IEEE/ACM International Symposium on Microarchitecture</i>. <b>MICRO 2024</b>
+
 [C25] <b>[Flagger: Cooperative Acceleration for Large-Scale Cross-Silo Federated Learning Aggregation](../publications/ISCA2024)</b><br>
 Xiurui Pan, Yuda An, Shengwen Liang, Bo Mao, <b>Mingzhe Zhang</b>, Qiao Li, Myoungsoo Jung, Jie Zhang.
 <i>51st ACM/IEEE Annual International Symposium on Computer Architecture</i>. <b>ISCA 2024</b>
@@ -118,6 +132,16 @@ Shuai Zhang, Zhiyong Liu, Dongrui Fan, Fonglong Song, <b>Mingzhe Zhang</b>.
 <i>2012 IEEE 26th International Parallel and Distributed Processing Symposium Workshops & PhD Forum</i>. <b>IPDPSW 2012</b>.
 
 # Journals & Transactions
+
+## 2025
+[J09] <b>[LP-HENN: Fully Homomorphic Encryption Accelerator with High Energy Efficiency](../publications/Cybersecurity2025)</b><br>
+Zhuoyu Tian; Lei Chen; Shengyu Fan; Xianglong Deng; Rui Hou; Dan Meng; Mingzhe Zhang.
+<i>CyberSecurity</i>.
+
+## 2024
+[J08] <b>[Skyway: Accelerate Graph Applications with a Dual-Path Architecture and Fine-Grained Data Management](../publications/JCST2023)</b><br>
+Mo Zou, Mingzhe Zhang, Rujia Wang, Xian-He Sun, Xiaochun Ye, Dong-Rui Fan, Zhimin Tang.
+<i>Journal of Computer Science and Technology</i>, 39(4): 871-894 (2024).
 
 ## 2022
 [J07] <b>[VNet: a versatile network to train real-time semantic segmentation models on a single GPU](../publications/SCIS2022)</b><br>
