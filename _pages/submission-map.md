@@ -105,7 +105,7 @@ author_profile: true
 		<td><a href="http://conferences.sigcomm.org/sigcomm/2016" title="date: 2016-08-22..26, notify: 2016-04-22">2016-01-29<br>Salvador, Brazil</a></td>
 	</tr>
 	<tr>
-		<td rowspan="1"><b><i>Feb</i></b></td>
+		<td rowspan="2"><b><i>Feb</i></b></td>
 		<td>ASPLOS<br>(spring)</td>
 		<td></td>
 		<td><a href="https://asplos-conference.org/asplos-2025-call-for-papers/" title="date: 2025-03-, notify: 2024-06-06">2024-02-23(abstract)<br>2024-03-01(full)<br>Rotterdam, Netherland</a></td>
@@ -119,7 +119,20 @@ author_profile: true
 		<td>-</td>
 	</tr>
 	<tr>
-		<td rowspan="5"><b><i>Mar</i></b></td>
+		<td>Euro Par</td>
+		<td><a href="https://2025.euro-par.org" title="date: 2025-08-25..29, notify: 2025-04-29"><nobr>2025-02-24(abstract)</nobr><br>2025-03-09(full)<br>Dresden, Germany</a></td>
+		<td><a href="https://2024.euro-par.org" title="date: 2024-08-26..30, notify: 2024-04-29"><nobr>2024-03-05(abstract)</nobr><br>2024-03-15(full)<br>Madrid, Spain</a></td>
+		<td><a href="https://2023.euro-par.org" title="date: 2023-08-28..01, notify: 2023-04-30"><nobr>2023-02-17(abstract)</nobr><br>2023-02-24(full)<br>Limassol, Cyprus</a></td>
+		<td><a href="https://2022.euro-par.org" title="date: 2022-08-24..26, notify: 2022-04-29"><nobr>2022-02-04(abstract)</nobr><br>2022-02-11(full)<br>Glasgow, UK</a></td>
+		<td><a href="https://2021.euro-par.org" title="date: 2021-09-01..03, notify: 2021-04-30"><nobr>2021-02-05(abstract)</nobr><br>2021-02-12(full)<br>Lisbon, Portugal</a></td>
+		<td><a href="https://2020.euro-par.org" title="date: 2020-08-24..28, notify: 2020-04-30">2020-02-07<br>Warsaw, Poland</a></td>
+		<td><a href="https://2019.euro-par.org" title="date: 2019-08-26..30, notify: 2019-05-03">2019-02-15<br>Gottingen,<br>Germany</a></td>
+		<td><a href="http://europar2018.org/" title="date: 2018-08-27..31, notify: 2018-04-27">2018-02-16<br>Turin, Italy</a></td>
+		<td><a href="http://europar2017.usc.es/" title="date: 2017-08-28..01, notify: 2017-04-24">2017-02-09<br>Santiago, Spain</a></td>
+		<td><a href="https://europar2016.inria.fr/" title="date: 2016-08-22..26, notify: 2016-04-24">2016-02-06<br>Grenoble, France</a></td>
+	</tr>
+	<tr>
+		<td rowspan="3"><b><i>Mar</i></b></td>
 		<td>ISLPED</td>
 		<td><a href="http://www.islped.org/2025/" title="date: 2025-08-04..06, notify: 2025-05-19">2025-03-03(abstract)<br>2025-03-10(full)<br>Univ. of Iceland, Iceland</a></td>
 		<td><a href="http://www.islped.org/2024/" title="date: 2024-08-05..07, notify: 2024-05-20">2024-03-04(abstract)<br>2024-03-11(full)<br>Newport Beach, CA</a></td>
@@ -146,19 +159,6 @@ author_profile: true
 		<td><a href="https://www.systor.org/2016" title="date: 2016-06-06..08, notify: 2016-04-15">2016-03-11<br>Haifa, Israel</a></td>
 	</tr>
 	<tr>
-		<td>Euro Par</td>
-		<td></td>
-		<td><a href="https://2024.euro-par.org" title="date: 2024-08-26..30, notify: 2024-04-29"><nobr>2024-03-05(abstract)</nobr><br>2024-03-15(full)<br>Madrid, Spain</a></td>
-		<td><a href="https://2023.euro-par.org" title="date: 2023-08-28..01, notify: 2023-04-30"><nobr>2023-02-17(abstract)</nobr><br>2023-02-24(full)<br>Limassol, Cyprus</a></td>
-		<td><a href="https://2022.euro-par.org" title="date: 2022-08-24..26, notify: 2022-04-29"><nobr>2022-02-04(abstract)</nobr><br>2022-02-11(full)<br>Glasgow, UK</a></td>
-		<td><a href="https://2021.euro-par.org" title="date: 2021-09-01..03, notify: 2021-04-30"><nobr>2021-02-05(abstract)</nobr><br>2021-02-12(full)<br>Lisbon, Portugal</a></td>
-		<td><a href="https://2020.euro-par.org" title="date: 2020-08-24..28, notify: 2020-04-30">2020-02-07<br>Warsaw, Poland</a></td>
-		<td><a href="https://2019.euro-par.org" title="date: 2019-08-26..30, notify: 2019-05-03">2019-02-15<br>Gottingen,<br>Germany</a></td>
-		<td><a href="http://europar2018.org/" title="date: 2018-08-27..31, notify: 2018-04-27">2018-02-16<br>Turin, Italy</a></td>
-		<td><a href="http://europar2017.usc.es/" title="date: 2017-08-28..01, notify: 2017-04-24">2017-02-09<br>Santiago, Spain</a></td>
-		<td><a href="https://europar2016.inria.fr/" title="date: 2016-08-22..26, notify: 2016-04-24">2016-02-06<br>Grenoble, France</a></td>
-	</tr>
-	<tr>
 		<td>PACT</td>
 		<td></td>
 		<td><a href="https://pact2024.github.io/" title="date: 2024-10-13..16, notify: 2024-07-01">2024-03-22(abstract)<br>2024-03-27(full)<br>Long Beach, CA</a></td>
@@ -172,8 +172,9 @@ author_profile: true
 		<td><a href="http://pact2016.eew.technion.ac.il/" title="date: 2016-09-11..15, notify: 2016-06-28">2016-03-18<br>Haifa, Israel</a></td>
 	</tr>
 	<tr>
+		<td rowspan="8"><b><i>Apr</i></b></td>
 		<td>SC</td>
-		<td></td>
+		<td><a href="https://sc25.supercomputing.org" title="date: 2025-11-16..21, notify: 2025-06-27"><nobr>2025-04-07(abstract)</nobr><br>2025-04-14(full)<br>St. Louis, MO</a></td>
 		<td><a href="https://sc24.supercomputing.org" title="date: 2024-11-17..22, notify: 2024-06-14"><nobr>2024-03-26(abstract)</nobr><br>2024-04-02(full)<br>ATLANTA, GA</a></td>
 		<td><a href="https://sc23.supercomputing.org" title="date: 2023-11-12..17, notify: 2023-06-16"><nobr>2023-03-30(abstract)</nobr><br>2023-04-06(full)<br>Denver, CO</a></td>
 		<td><a href="https://sc22.supercomputing.org" title="date: 2022-11-13..18, notify: 2022-06-13"><nobr>2022-03-25(abstract)</nobr><br>2022-04-01(full)<br>Dallas, TX</a></td>
@@ -185,7 +186,6 @@ author_profile: true
 		<td><a href="http://sc16.supercomputing.org" title="date: 2016-11-13..18, notify: 2016-06-15">2016-04-03<br>Salt Lake City, UT</a></td>
 	</tr>
 	<tr>
-		<td rowspan="7"><b><i>Apr</i></b></td>
 		<td>ICPP</td>
 		<td></td>
 		<td><a href="https://icpp2024.org/" title="date: 2024-08-12..15, notify: 2024-05-27"><nobr>2024-04-08(abstract)</nobr><br>2024-04-15(full)<br>Gotland, Sweden</a></td>
@@ -200,7 +200,7 @@ author_profile: true
 	</tr>
 	<tr>
 		<td>MICRO</td>
-		<td></td>
+		<td><a href="http://www.microarch.org/micro58/" title="date: 2025-10-18..22, notify: 2025-07-14 "><nobr>2025-04-04(abstract)</nobr><br>2025-04-11(full)<br>Seoul, Korea</a></td>
 		<td><a href="http://www.microarch.org/micro57/" title="date: 2024-11-02..06, notify: 2024-07-19 "><nobr>2024-04-11(abstract)</nobr><br>2024-04-18(full)<br>Austin, TX</a></td>
 		<td><a href="http://www.microarch.org/micro56/" title="date: 2023-10-, notify: 2023-07-24 "><nobr>2023-04-21(abstract)</nobr><br>2023-04-28(full)<br>Toronto, Canada</a></td>
 		<td><a href="http://www.microarch.org/micro55/" title="date: 2022-10-, notify: 2022-07-18 "><nobr>2022-04-14(abstract)</nobr><br>2022-04-21(full)<br>Chicago, IL</a></td>
