@@ -31,21 +31,19 @@ I do research in Computer Architecture and Bigdata-oriented System, including:
 - Domain-specific Accelerators
 - Hardware Support for Security and Privacy.
 
-<font color="#FF0000"><i>We're recruiting students (M.Sc/Ph.D students and research intern) in the area of computer architecture and hardware security. Please click <a href="../pages/recruiting">HERE</a> for more details if you are interested.</i></font>
+<font color="#FF0000"><i>We're recruiting research intern (current M.Sc/Ph.D students) in the area of computer architecture and hardware security. Please click <a href="../pages/recruiting">HERE</a> for more details if you are interested.</i></font>
 
 ## Updates
 
++ [2025-01-28] Our collaborative paper "An Efficient Delta Compression Framework Seamlessly Integrated into Inline Deduplication" has been accepted by ACM Transactions on Storage. Congrats to all collaborators!
++ [2025-01-23] Our collaborative paper "CipherPrune: Efficient and Scalable Private Transformer Inference" has been accepted by ICLR 2025! Congrats to all collaborators!
++ [2024-11-03] Our paper "WarpDrive: GPU-Based Fully Homomorphic Encryption Acceleration Leveraging Tensor and CUDA Cores" has been accepted by HPCA 2025! Congrats to all collaborators!
++ [2024-09-25] I will serve as the TPC member of ISCA 2025.
 + [2024-07-18] Our paper "Trinity: A General Purpose FHE Accelerator" has been accepted by MICRO 2024! Congrats to all collaborators!
-+ [2024-06-03] I join the Computing System Lab@Ant Research as the Deputy Director.
-+ [2024-05-24] <font color="#FF0000">I will leave IIE, CAS and join Computing System Lab at Ant Research.</font>
-+ [2024-05-06] I will serve as the TPC member of ICCD 2024.
-+ [2024-04-08] One collaborative paper "Flagger: Cooperative Acceleration for Large-Scale Cross-Silo Federated Learning Aggregation" has been accepted by ISCA 2024! Congrats to all collaborators!
-+ [2024-02-27] I will serve as the TPC member of NVMSA 2024.
-+ [2024-02-14] One collaborative paper "Alchemist: A Unified Accelerator Architecture for Cross-Scheme Fully Homomorphic Encryption" has been accepted by DAC 2024! Congrats to all collaborators!
 
 [More details...](../news/all-news)
 
-\[Last Update: Aug-22-2024\]
+\[Last Update: Feb-05-2025\]
 
    
 

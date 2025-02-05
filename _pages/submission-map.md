@@ -8,7 +8,7 @@ author_profile: true
 
 [An alternative conference list with countdown. (in chinese)](https://ccfddl.github.io)
 
-<font size="4" color="grey">[Last Update: Nov-25-2024]</font>
+<font size="4" color="grey">[Last Update: Feb-05-2025]</font>
 
 <table align="center">
 	<tr>
