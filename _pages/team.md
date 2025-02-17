@@ -18,7 +18,7 @@ Interested in joining us? Click [here](../pages/recruiting) for more information
 + Zihao Yang (M.Sc. student, B.E. from Tsinghua University, since Sep 2022.)
 + Xianglong Deng (Ph.D student, B.E. from University of Electronic Science and Technology of China. Co-advised with Prof. Rui Hou, since Sep 2022. Former UG Research Intern from Oct 2021 to May 2022.)
 <br><font size="3" color="grey"><b>Publications:</b> [<a href="../publications/MICRO2024">MICRO 2024</a>] </font><br>
-+ Shengyu Fan (Ph.D student, B.E and M.Sc. from Shandong Normal University, co-advised with Rui Hou, since Sep 2023. Previous research intern from Jul 2021 to August 2023.) 
++ Shengyu Fan (Ph.D student, B.E and M.Sc. from Shandong Normal University, co-advised with Prof. Rui Hou, since Sep 2023. Previous research intern from Jul 2021 to August 2023.) 
 <br><font size="3" color="grey"><b>Publications:</b> [<a href="../publications/HPCA2023-1">HPCA 2023-1</a>] [<a href="../publications/HPCA2023-2">HPCA2023-2</a>] [<a href="../publications/MICRO2024">MICRO2024</a>]</font><br>
 
 

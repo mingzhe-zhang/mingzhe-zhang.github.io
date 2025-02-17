@@ -8,6 +8,10 @@ author_profile: true
 
 ## 2025
 
+[C29] <b>[ALLMod: Exploring Area-Efficiency of LUT-based Large Number Modular Reduction via Hybrid Workloads](../publications/DAC2025)</b><br>
+Fangxin Liu, Haomin Li, Zongwu Wang, Bo Zhang, Mingzhe Zhang, Shoumeng Yan, Li Jiang.
+<i>62nd ACM/IEEE Design Automation Conference</i>. <b>DAC 2025</b>
+
 [C28] <b>[CipherPrune: Efficient and Scalable Private Transformer Inference](../publications/ICLR2025)</b><br>
 Yancheng Zhang, Jiaqi Xue, Mengxin Zheng, Mimi Xie, Mingzhe Zhang, Lei Jiang, Qian Lou.
 <i>13th International Conference on Learning Representations</i>. <b>ICLR 2025</b>

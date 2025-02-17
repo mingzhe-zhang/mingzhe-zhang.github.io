@@ -14,9 +14,5 @@ Currently, our research work focuses on the following topics:
 
 The qualified applicants will have opportunity to work with our talented team members on the above topics. The forms of joining our team include:
 
-%## M.Sc/Ph.D student (fully funded)
-%+ **Type 1:** For the UG students with postgraduate recommendation, please send us your CV and transcript BEFORE September.
-%+ **Type 2 (M.Sc student position only, not guaranteed due to the limited positions):** For the students who have passed the Graduate Entrance Exam of IIE, CAS, %please send us your CV and transcript BEFORE the interview.
-
 ## M.Sc/Ph.D research intern (fully funded)
 + For the current M.Sc/Ph.D students, please send us your CV and transcrpt at ANY TIME OF THE YEAR. Note that, you should have get the permit for the research intern from YOUR OWN advisor. Besides, the research intern position requires full time, on-site and lasting for at least one year. For the well-performed research interns, we can provide the recommend letter for the future Ph.D/Post-Doc/job applications.
