@@ -213,7 +213,7 @@ author_profile: true
 	</tr>
 	<tr>
 		<td>SOSP</td>
-		<td></td>
+		<td><a href="https://sigops.org/s/conferences/sosp/2025/index.html" title="date: 2025-10-13..16, notify: 2025-07-15"><nobr>2025-04-10(abstract)</nobr><br>2025-04-17(full)<br>Seoul, Republic of Korea</a></td>
 		<td><a href="https://sigops.org/s/conferences/sosp/2024/index.html" title="date: 2024-11-04..06, notify: 2024-08-05"><nobr>2024-04-12(abstract)</nobr><br>2024-04-19(full)<br>Austin, TX</a></td>
 		<td><a href="https://sosp2023.mpi-sws.org/" title="date: 2023-10-23..26, notify: 2023-07-16"><nobr>2023-04-10(abstract)</nobr><br>2023-04-17(full)<br>Koblenz, Germany</a></td>
 		<td>-</td>
@@ -225,8 +225,34 @@ author_profile: true
 		<td align="center">-</td>
 	</tr>
 	<tr>
-		<td>CLUSTER</td>
+		<td>ICCAD</td>
+		<td><a href="https://2025.iccad.com" title="date: 2025-10-26..30, notify: 2025-06-06">2025-04-14(abstract)<br>2025-04-21(full)<br>Munich, Germany</a></td>
+		<td><a href="https://2024.iccad.com" title="date: 2024-10-, notify: ">2024-04-28(abstract)<br>2024-05-05(full)<br>New York, NY</a></td>
+		<td><a href="https://iccad.com/content/conference_history" title="date: 2023-10-29..02, notify: 2023-07-21">2023-05-15(abstract)<br>2023-05-22(full)<br>San Francisco, CA</a></td>
+		<td><a href="https://iccad.com/content/conference_history" title="date: 2022-10-30..03, notify: 2022-07-21">2022-05-16(abstract)<br>2022-05-23(full)<br>San Diego, CA</a></td>
+		<td><a href="https://iccad.com/content/conference_history" title="date: 2021-11-01..04, notify: 2021-07-17">2021-05-21(abstract)<br>2021-05-28(full)<br>Munich, Germany</a></td>
+		<td><a href="https://iccad.com/content/conference_history" title="date: 2020-11-02..05, notify: 2020-07-21">2020-05-28<br>San Diego, CA</a></td>
+		<td><a href="https://iccad.com/content/conference_history" title="date: 2019-11-04..07, notify: 2019-06-21">2019-04-08<br>Westminster, CO</a></td>
+		<td><a href="https://iccad.com/content/conference_history" title="date: 2018-11-05..08, notify: ">2018-04-23<br>San Diego, CA</a></td>
+		<td><a href="https://iccad.com/content/conference_history" title="date: 2017-11-13..06, notify: 2017-06-28">2017-04-24<br>Irvine, CA</a></td>
+		<td><a href="https://iccad.com/content/conference_history" title="date: 2016-11-07..10, notify: 2016-06-20">2016-04-25<br>Austin, TX</a></td>
+	</tr>
+	<tr>
+		<td>NSDI<br>(spring)</td>
+		<td><a href="https://www.usenix.org/conference/nsdi26/" title="date: 2026-05-04..06, notify: 2025-07-24">2025-04-18(abstract)<br>2025-04-25(full)<br>Renton, WA</a></td>
+		<td><a href="https://www.usenix.org/conference/nsdi25/" title="date: 2025-04-28..30, notify: 2024-07-24">2024-04-30(abstract)<br>2024-05-07(full)<br>Philadelphia, PA</a></td>
+		<td><a href="https://www.usenix.org/conference/nsdi24/" title="date: 2024-04-16..18, notify: 2023-07-21">2023-04-27(abstract)<br>2023-05-04(full)<br>Santa Clara, CA</a></td>
+		<td><a href="https://www.usenix.org/conference/nsdi23/" title="date: 2023-04-17..19, notify: 2022-07-15">2022-04-13(abstract)<br>2022-04-20(full)<br>Boston, MA</a></td>
+		<td><a href="https://www.usenix.org/conference/nsdi22/" title="date: 2022-04-04..06, notify: 2021-06-11">2021-03-04(abstract)<br>2021-03-10(full)<br>Renton, WA</a></td>
 		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>CLUSTER</td>
+		<td><a href="https://clustercomp.org/2025/" title="date: 2025-09-02..05, notify: 2025-07-04">2025-04-25(full)<br>Edinburgh, UK</a></td>
 		<td><a href="https://clustercomp.org/2024/" title="date: 2024-09-24..27, notify: 2024-07-05">2024-04-25(full)<br>Kobe, Japan</a></td>
 		<td><a href="https://clustercomp.org/2023/" title="date: 2023-10-31..03, notify: 2023-07-05">2023-05-11(full)<br>Santa Fe, NM</a></td>
 		<td><a href="https://clustercomp.org/2022/" title="date: 2022-09-06..09, notify: 2022-07-04">2022-05-13(full)<br>Heidelberg, Germany</a></td>
@@ -251,35 +277,9 @@ author_profile: true
 		<td><a href="https://ap-sys.org/apsys2016" title="date: 2016-08-04..05, notify: 2016-06-23">2016-05-20<br>Hong Kong, China</a></td>
 	</tr>
 	<tr>
-		<td>ICCAD</td>
-		<td></td>
-		<td><a href="https://2024.iccad.com" title="date: 2024-10-, notify: ">2024-04-28(abstract)<br>2024-05-05(full)<br>New York, NY</a></td>
-		<td><a href="https://iccad.com/content/conference_history" title="date: 2023-10-29..02, notify: 2023-07-21">2023-05-15(abstract)<br>2023-05-22(full)<br>San Francisco, CA</a></td>
-		<td><a href="https://iccad.com/content/conference_history" title="date: 2022-10-30..03, notify: 2022-07-21">2022-05-16(abstract)<br>2022-05-23(full)<br>San Diego, CA</a></td>
-		<td><a href="https://iccad.com/content/conference_history" title="date: 2021-11-01..04, notify: 2021-07-17">2021-05-21(abstract)<br>2021-05-28(full)<br>Munich, Germany</a></td>
-		<td><a href="https://iccad.com/content/conference_history" title="date: 2020-11-02..05, notify: 2020-07-21">2020-05-28<br>San Diego, CA</a></td>
-		<td><a href="https://iccad.com/content/conference_history" title="date: 2019-11-04..07, notify: 2019-06-21">2019-04-08<br>Westminster, CO</a></td>
-		<td><a href="https://iccad.com/content/conference_history" title="date: 2018-11-05..08, notify: ">2018-04-23<br>San Diego, CA</a></td>
-		<td><a href="https://iccad.com/content/conference_history" title="date: 2017-11-13..06, notify: 2017-06-28">2017-04-24<br>Irvine, CA</a></td>
-		<td><a href="https://iccad.com/content/conference_history" title="date: 2016-11-07..10, notify: 2016-06-20">2016-04-25<br>Austin, TX</a></td>
-	</tr>
-	<tr>
-		<td>NSDI<br>(spring)</td>
-		<td></td>
-		<td><a href="https://www.usenix.org/conference/nsdi25/" title="date: 2025-04-28..30, notify: 2024-07-24">2024-04-30(abstract)<br>2024-05-07(full)<br>Philadelphia, PA</a></td>
-		<td><a href="https://www.usenix.org/conference/nsdi24/" title="date: 2024-04-16..18, notify: 2023-07-21">2023-04-27(abstract)<br>2023-05-04(full)<br>Santa Clara, CA</a></td>
-		<td><a href="https://www.usenix.org/conference/nsdi23/" title="date: 2023-04-17..19, notify: 2022-07-15">2022-04-13(abstract)<br>2022-04-20(full)<br>Boston, MA</a></td>
-		<td><a href="https://www.usenix.org/conference/nsdi22/" title="date: 2022-04-04..06, notify: 2021-06-11">2021-03-04(abstract)<br>2021-03-10(full)<br>Renton, WA</a></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr>
 		<td rowspan="2"><b><i>May</i></b></td>
 		<td>ICCD</td>
-		<td></td>
+		<td><a href="https://iccd-conf.com/Home.html" title="date: 2025-11-10..12, notify: 2025-08-01">2025-05-04(abstract)<br>2025-05-11(full)<br>Dallas, TX</a></td>
 		<td><a href="https://iccd-conf.com/Home.html" title="date: 2024-11-, notify: 2024-08-01">2024-05-05(abstract)<br>2024-05-12(full)<br>Milan, Italy</a></td>
 		<td><a href="https://iccd-conf.com/Home.html" title="date: 2023-11-06..08, notify: 2023-08-25">2023-06-09(abstract)<br>2023-06-16(full)<br>Washington DC, US</a></td>
 		<td><a href="https://www.iccd-conf.com/Home.html" title="date: 2022-10-23..26, notify: 2022-08-21">2022-06-04(abstract)<br>2022-06-11(full)<br>Lake Tahoe, US</a></td>
@@ -292,7 +292,7 @@ author_profile: true
 	</tr>
 	<tr>
 		<td>Eurosys<br>(spring)</td>
-		<td></td>
+		<td><a href="https://2026.eurosys.org/" title="date: 2026-04-13..16, notify: 2025-08-22">2025-05-08(abstract)<br>2025-05-15(full)<br>Edinburgh, UK</a></td>
 		<td><a href="https://2025.eurosys.org/" title="date: 2025-03-30..03, notify: 2024-08-21">2024-05-14(abstract)<br>2024-05-21(full)<br>Rotterdam, Netherland</a></td>
 		<td><a href="https://2024.eurosys.org/" title="date: 2024-04-23..26, notify: 2023-09-12">2023-05-24(full)<br>Athens, Greece</a></td>
 		<td><a href="https://2023.eurosys.org/" title="date: 2023-05-09..12, notify: 2022-08-10">2022-05-11(abstract)<br>2022-05-18(full)<br>Rome, Italy</a></td>
@@ -413,7 +413,7 @@ author_profile: true
 	<tr>
 		<td rowspan="3"><b><i>Sep</i></b></td>
 		<td>NSDI<br>(fall)</td>
-		<td></td>
+		<td><a href="https://www.usenix.org/conference/nsdi26/" title="date: 2026-05-04..06, notify: 2025-12-09">2025-09-11(abstract)<br>2025-09-18(full)<br>Renton, WA</a></td>
 		<td><a href="https://www.usenix.org/conference/nsdi25/" title="date: 2025-04-28..30, notify: 2024-12-10">2024-09-12(abstract)<br>2024-09-19(full)<br>Philadelphia, PA</a></td>
 		<td><a href="https://www.usenix.org/conference/nsdi24" title="date: 2024-04-16..18, notify: 2023-12-07">2023-09-07(abstract)<br>2023-09-14(full)<br>Santa Clara, CA</a></td>
 		<td><a href="https://www.usenix.org/conference/nsdi23" title="date: 2023-04-17..19, notify: 2022-12-15">2022-09-13(abstract)<br>2022-09-20(full)<br>Boston, MA</a></td>
@@ -438,6 +438,19 @@ author_profile: true
 		<td><a href="http://www.date-conference.com/date2017" title="date: 2017-03-27..31, notify: 2016-11-11">2016-09-11<br>Lausanne, Switzerland</a></td>
 	</tr>
 	<tr>
+		<td>EuroSys<br>(fall)</td>
+		<td><a href="https://2026.eurosys.org/" title="date: 2026-04-13..16, notify: 2026-01-30">2025-09-18(abstract)<br>2025-09-25(full)<br>Edinburgh, UK</a></td>
+		<td><a href="https://2025.eurosys.org/" title="date: 2025-03-30..03, notify: 2025-01-25">2024-10-15(abstract)<br>2024-10-22(full)<br>Rotterdam, Netherland</a></td>
+		<td><a href="https://2024.eurosys.org/" title="date: 2024-04-23..26, notify: 2024-02-07">2023-10-19(full)<br>Athens, Greece</a></td>
+		<td><a href="https://2023.eurosys.org/" title="date: 2023-05-09..12, notify: 2023-01-18">2022-10-12(abstract)<br>2022-10-19(full)<br>Rome, Italy</a></td>
+		<td><a href="https://2022.eurosys.org/" title="date: 2022-04-05..08, notify: 2022-01-03">2021-10-01(abstract)<br>2021-10-09(full)<br>Rennes, France</a></td>
+		<td><a href="https://2021.eurosys.org/" title="date: 2021-04-26..29, notify: 2021-01-20">2020-10-09<br>Edinburgh, Scotland, UK</a></td>
+		<td><a href="http://eurosys2020.org/" title="date: 2020-04-27..30, notify: 2020-02-15">2019-11-04<br>Heraklion, Crete, Greece</a></td>
+		<td><a href="http://eurosys2019.org/" title="date: 2019-03-25..28, notify: 2018-12-21">2018-10-01<br>Dresden, Germany</a></td>
+		<td><a href="http://eurosys2018.org/" title="date: 2018-04-23..26, notify: 2018-01-22">2017-10-27<br>Porto, Portugal</a></td>
+		<td><a href="http://eurosys2017.org/" title="date: 2017-04-23..26, notify: 2017-01-23">2016-10-14<br>Belgrade, Serbia</a></td>
+	</tr>
+	<tr>
 		<td>FAST</td>
 		<td></td>
 		<td><a href="https://www.usenix.org/conference/fast25" title="date: 2025-02-25..27, notify: ">2024-09-17<br>Santa Clara, CA</a></td>
@@ -451,7 +464,7 @@ author_profile: true
 		<td><a href="https://www.usenix.org/conference/fast17" title="date: 2017-02-27..2, notify: 2016-12-12">2016-09-27<br>Santa Clara, CA</a></td>
 	</tr>
 	<tr>
-		<td rowspan="4"><b><i>Oct</i></b></td>
+		<td rowspan="3"><b><i>Oct</i></b></td>
 		<td>SIGMETRICS<br>(fall)</td>
 		<td></td>
 		<td><a href="http://www.sigmetrics.org/sigmetrics2025" title="date: 2025-06-09..13, notify: 2024-12-10">2024-10-02(abstract)<br>2024-10-09(full)<br>Stony Brooks, NY</a></td>
@@ -489,19 +502,6 @@ author_profile: true
 		<td></td>
 		<td></td>
 		<td></td>
-	</tr>
-	<tr>
-		<td>EuroSys<br>(fall)</td>
-		<td></td>
-		<td><a href="https://2025.eurosys.org/" title="date: 2025-03-30..03, notify: 2025-01-25">2024-10-15(abstract)<br>2024-10-22(full)<br>Rotterdam, Netherland</a></td>
-		<td><a href="https://2024.eurosys.org/" title="date: 2024-04-23..26, notify: 2024-02-07">2023-10-19(full)<br>Athens, Greece</a></td>
-		<td><a href="https://2023.eurosys.org/" title="date: 2023-05-09..12, notify: 2023-01-18">2022-10-12(abstract)<br>2022-10-19(full)<br>Rome, Italy</a></td>
-		<td><a href="https://2022.eurosys.org/" title="date: 2022-04-05..08, notify: 2022-01-03">2021-10-01(abstract)<br>2021-10-09(full)<br>Rennes, France</a></td>
-		<td><a href="https://2021.eurosys.org/" title="date: 2021-04-26..29, notify: 2021-01-20">2020-10-09<br>Edinburgh, Scotland, UK</a></td>
-		<td><a href="http://eurosys2020.org/" title="date: 2020-04-27..30, notify: 2020-02-15">2019-11-04<br>Heraklion, Crete, Greece</a></td>
-		<td><a href="http://eurosys2019.org/" title="date: 2019-03-25..28, notify: 2018-12-21">2018-10-01<br>Dresden, Germany</a></td>
-		<td><a href="http://eurosys2018.org/" title="date: 2018-04-23..26, notify: 2018-01-22">2017-10-27<br>Porto, Portugal</a></td>
-		<td><a href="http://eurosys2017.org/" title="date: 2017-04-23..26, notify: 2017-01-23">2016-10-14<br>Belgrade, Serbia</a></td>
 	</tr>
 	<tr>
 		<td rowspan="3"><b><i>Nov</i></b></td>
