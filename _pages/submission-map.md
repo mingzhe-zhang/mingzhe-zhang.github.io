@@ -224,7 +224,7 @@ author_profile: true
 		<td></td>
 		<td></td>
 	</tr>
-		<tr>
+	<tr>
 		<td>ICPP</td>
 		<td><a href="https://icpp2025.sdsc.edu/home" title="date: 2025-09-08..11, notify: 2025-06-10"><nobr>2025-04-21(full)<br>San Diego, CA</a></td>
 		<td><a href="https://icpp2024.org/" title="date: 2024-08-12..15, notify: 2024-05-27"><nobr>2024-04-08(abstract)</nobr><br>2024-04-15(full)<br>Gotland, Sweden</a></td>
@@ -290,7 +290,7 @@ author_profile: true
 		<td><a href="https://www.systor.org/2017" title="date: 2017-05-22..24, notify: 2017-03-29">2017-02-28<br>Haifa, Israel</a></td>
 		<td><a href="https://www.systor.org/2016" title="date: 2016-06-06..08, notify: 2016-04-15">2016-03-11<br>Haifa, Israel</a></td>
 	</tr>
-		<tr>
+	<tr>
 		<td>APsys</td>
 		<td><a href="https://apsys2025.github.io/" title="date: 2025-04-12..13, notify: 2025-08-04">2025-05-29(abstract)<br>2025-06-05(full)<br>Seoul, South Korea</a></td>
 		<td><a href="https://ap-sys.org/" title="date: 2024-09-4..5, notify: 2024-07-01">2024-04-25(abstract)<br>2024-05-02(full)<br>Kyoto, Japan</a></td>
