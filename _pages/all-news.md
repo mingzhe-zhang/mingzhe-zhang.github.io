@@ -5,6 +5,7 @@ author_profile: true
 ---
 ## 2025
 
++ [2025-04-16] One collaborative paper "RAC-NAF: A Reconfigurable Analog Circuitry for Nonlinear Activation Function Computation in Computing-in-Memory" has been accepted by IEEE Journal of Solid State Circuits (JSSC). Congrats to all collaborators!
 + [2025-03-22] Our two papers ("FAST:An FHE Accelerator for Scalable-parallelism with Tunable-bit" and "FAST:An FHE Accelerator for Scalable-parallelism with Tunable-bit") and one collaborative paper ("XHarvest: Rethinking High-Performance and Cost-Efficient SSD Architecture with CXL-Driven Harvesting") have been accepted by ISCA 2025! Congrats to all!
 + [2025-02-15] One collaborative paper "ALLMod: Exploring Area-Efficiency of LUT-based Large Number Modular Reduction via Hybrid Workloads" has been accepted by DAC 2025! Congrats to all collaborators!
 + [2025-02-10] I will serve as the TPC member of MICRO 2025.

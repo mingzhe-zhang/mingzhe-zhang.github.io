@@ -35,12 +35,13 @@ I do research in Computer Architecture and Bigdata-oriented System, including:
 
 ## Updates
 
-+ [2025-03-22] <font color="#FF0000">Our two papers ("FAST:An FHE Accelerator for Scalable-parallelism with Tunable-bit" and "FAST:An FHE Accelerator for Scalable-parallelism with Tunable-bit") and one collaborative paper ("XHarvest: Rethinking High-Performance and Cost-Efficient SSD Architecture with CXL-Driven Harvesting") have been accepted by ISCA 2025! Congrats to all!</font>
++ [2025-04-16] One collaborative paper "RAC-NAF: A Reconfigurable Analog Circuitry for Nonlinear Activation Function Computation in Computing-in-Memory" has been accepted by IEEE Journal of Solid State Circuits (JSSC). Congrats to all collaborators!
++ [2025-03-22] <font color="#FF0000">Our two papers ("FAST:An FHE Accelerator for Scalable-parallelism with Tunable-bit" and "Neo: Towards Efficient Fully Homomorphic Encryption Acceleration using Tensor Core") and one collaborative paper ("XHarvest: Rethinking High-Performance and Cost-Efficient SSD Architecture with CXL-Driven Harvesting") have been accepted by ISCA 2025! Congrats to all!</font>
 + [2025-02-15] One collaborative paper "ALLMod: Exploring Area-Efficiency of LUT-based Large Number Modular Reduction via Hybrid Workloads" has been accepted by DAC 2025! Congrats to all collaborators!
 + [2025-02-10] I will serve as the TPC member of MICRO 2025.
 + [2025-01-28] Our collaborative paper "An Efficient Delta Compression Framework Seamlessly Integrated into Inline Deduplication" has been accepted by ACM Transactions on Storage. Congrats to all collaborators!
 + [2025-01-23] Our collaborative paper "CipherPrune: Efficient and Scalable Private Transformer Inference" has been accepted by ICLR 2025! Congrats to all collaborators!
-+ [2025-01-08] Our paper "LP-HENN: Fully Homomorphic Encryption Accelerator with High Energy Efficiency" has been accepted by Cybersecurity! Congrats to al collaborators!
+
 
 [More...](../news/all-news)
 
