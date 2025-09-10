@@ -35,17 +35,16 @@ I do research in Computer Architecture and Bigdata-oriented System, including:
 
 ## Updates
 
-+ [2025-04-16] One collaborative paper "RAC-NAF: A Reconfigurable Analog Circuitry for Nonlinear Activation Function Computation in Computing-in-Memory" has been accepted by IEEE Journal of Solid State Circuits (JSSC). Congrats to all collaborators!
-+ [2025-03-22] <font color="#FF0000">Our two papers ("FAST:An FHE Accelerator for Scalable-parallelism with Tunable-bit" and "Neo: Towards Efficient Fully Homomorphic Encryption Acceleration using Tensor Core") and one collaborative paper ("XHarvest: Rethinking High-Performance and Cost-Efficient SSD Architecture with CXL-Driven Harvesting") have been accepted by ISCA 2025! Congrats to all!</font>
-+ [2025-02-15] One collaborative paper "ALLMod: Exploring Area-Efficiency of LUT-based Large Number Modular Reduction via Hybrid Workloads" has been accepted by DAC 2025! Congrats to all collaborators!
-+ [2025-02-10] I will serve as the TPC member of MICRO 2025.
-+ [2025-01-28] Our collaborative paper "An Efficient Delta Compression Framework Seamlessly Integrated into Inline Deduplication" has been accepted by ACM Transactions on Storage. Congrats to all collaborators!
-+ [2025-01-23] Our collaborative paper "CipherPrune: Efficient and Scalable Private Transformer Inference" has been accepted by ICLR 2025! Congrats to all collaborators!
-
++ [2025-09-10] Our paper "Understanding and Boosting Fully Homomorphic Encryption Applications on GPU" has been accepted by Cybersecurity! Congrats to all collaborators!
++ [2025-09-02] Our paper "A Survey on Fully Homomorphic Encryption Compilers" has been accepted by Cybersecurity! Congrats to all collaborators!
++ [2025-08-20] Our paper "WPC: Weight Plaintext Compression for CNN Inference based on RNS-CKKS" has been accepted by ACM CCS 2025! Congrats to all collaborators!
++ [2025-07-15] Our two papers ("HAWK: Fully Homomorphic Encryption Accelerator with Fixed-Word Key Decomposition Switching" and "LEGOSim: A Unified Parallel Simulation Framework for Multi-chiplet Heterogeneous Integration") have been accepted by MICRO 2025! Congrats to all collaborators!
++ [2025-07-01] I will serve as the Publicity Co-Chair of ISCA 2026. Please consider to submit your recent works!
++ [2025-04-23] I will serve as the TPC member of ICCD 2025.
 
 [More...](../news/all-news)
 
-\[Last Update: Apr-16-2025\]
+\[Last Update: Sep-10-2025\]
 
    
 

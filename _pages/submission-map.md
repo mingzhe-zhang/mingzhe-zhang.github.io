@@ -8,7 +8,7 @@ author_profile: true
 
 [An alternative conference list with countdown. (in chinese)](https://ccfddl.github.io)
 
-<font size="4" color="grey">[Last Update: Mar-26-2025]</font>
+<font size="4" color="grey">[Last Update: Sep-10-2025]</font>
 
 <table align="center">
 	<tr>
@@ -319,7 +319,7 @@ author_profile: true
 	</tr>
 	<tr>
 		<td>IISWC</td>
-		<td></td>
+		<td><a href="https://iiswc.org/iiswc2025/index.html#/" title="date: 2025-10-12..14, notify: 2025-08-13">2025-06-30<br>Irvine, CA</a></td>
 		<td><a href="https://iiswc.org/iiswc2024/index.html#/" title="date: 2024-09-15..17, notify: 2024-08-09">2024-05-29<br>Vancouver BC, Canada</a></td>
 		<td><a href="https://iiswc.org/iiswc2023/index.html#/" title="date: 2023-10-01..03, notify: 2023-08-02">2023-06-14<br>Ghent, Belgium</a></td>
 		<td><a href="http://www.iiswc.org/iiswc2022/index.html" title="date: 2022-11-06..08, notify: 2022-09-02">2022-07-15<br>Austin, TX</a></td>
@@ -333,7 +333,7 @@ author_profile: true
 	<tr>
 		<td rowspan="3"><b><i>Jul</i></b></td>
 		<td>ASP-DAC</td>
-		<td></td>
+		<td><a href="http://www.aspdac.com/aspdac2026/" title="date: 2026-01-19..22, notify: 2025-09-05">2025-07-04(abstract)<br>2025-07-11(full)<br>Hong Kong, China</a></td>
 		<td><a href="http://www.aspdac.com/aspdac2025/" title="date: 2025-01-20..23, notify: 2024-09-09">2024-07-05(abstract)<br>2024-07-12(full)<br>Tokyo, Japan</a></td>
 		<td><a href="http://www.aspdac.com/aspdac2024/" title="date: 2024-01-22..25, notify: 2023-09-12">2023-07-23(abstract)<br>2023-07-28(full)<br>Incheon Songdo Convensia, South Korea</a></td>
 		<td><a href="http://www.aspdac.com/aspdac2023/" title="date: 2023-01-16..19, notify: 2022-09-10">2022-07-24(abstract)<br>2022-07-29(full)<br>Tokyo, Japan</a></td>
@@ -346,7 +346,7 @@ author_profile: true
 	</tr>
 	<tr>
 		<td>SoCC</td>
-		<td></td>
+		<td><a href="http://acmsocc.org/2025/" title="date: 2025-11-19..21, notify: 2025-09-26">2025-07-07(abstract)<br>2025-07-14(full)<br>Virtual</a></td>
 		<td><a href="http://acmsocc.org/2024/" title="date: 2024-11-20..22, notify: 2024-09-25">2024-07-08(abstract)<br>2024-07-15(full)<br>Redmond, WA</a></td>
 		<td><a href="http://acmsocc.org/2023/" title="date: 2023-10-30, notify: 2023-09-01">2023-06-09<br>Santa Cruz, CA</a></td>
 		<td><a href="http://acmsocc.org/2022/" title="date: 2022-11-, notify: 2022-09-22">2022-06-10(abstract)<br>2022-06-17(full)<br>San Francisco, CA</a></td>
@@ -359,8 +359,8 @@ author_profile: true
 	</tr>
 	<tr>
 		<td>HPCA</td>
-		<td></td>
-		<td><a href="https://www.hpca-conf.org/2025/" title="date: 2025-, notify: 2024-11-05">2024-07-26(abstract)<br>2024-08-02(full)<br>Las Vegas, NV</a></td>
+		<td><a href="https://www.hpca-conf.org/2026/" title="date: 2026-01-31..04, notify: 2025-11-07">2025-07-25(abstract)<br>2025-08-01(full)<br>Sydney, Austrilia</a></td>
+		<td><a href="https://www.hpca-conf.org/2025/" title="date: 2025-03-01..05, notify: 2024-11-05">2024-07-26(abstract)<br>2024-08-02(full)<br>Las Vegas, NV</a></td>
 		<td><a href="https://www.hpca-conf.org/2024/" title="date: 2024-03-02..06, notify: 2023-10-24">2023-07-28(abstract)<br>2023-08-04(full)<br>Edinburgh, UK</a></td>
 		<td><a href="https://www.hpca-conf.org/2023/" title="date: 2023-02-25..01, notify: 2022-10-18">2021-07-25(abstract)<br>2021-08-01(full)<br>Montreal, Canada</a></td>
 		<td><a href="https://www.hpca-conf.org/2022/" title="date: , notify: 2021-10-27">2021-07-23(abstract)<br>2021-07-30(full)<br>Seoul, Korea</a></td>
@@ -373,7 +373,7 @@ author_profile: true
 	<tr>
 		<td rowspan="3"><b><i>Aug</i></b></td>
 		<td>SIGMETRICS<br>(summer)</td>
-		<td></td>
+		<td><a href="http://www.sigmetrics.org/sigmetrics2026" title="date: 2026-06-08..12, notify: 2025-09-26">2025-07-22(abstract)<br>2025-07-29(full)<br>Ann Arbor, USA</a></td>
 		<td><a href="http://www.sigmetrics.org/sigmetrics2025" title="date: 2025-06-09..13, notify: 2024-09-24">2024-07-31(abstract)<br>2024-08-07(full)<br>Stony Brook, NY</a></td>
 		<td><a href="http://www.sigmetrics.org/sigmetrics2024" title="date: 2024-06-10..14, notify: ">2023-08-03(abstract)<br>2023-08-10(full)<br>Venice, Italy</a></td>
 		<td><a href="http://www.sigmetrics.org/sigmetrics2023" title="date: 2023-06-19..23, notify: 2022-10-04">2022-08-03(abstract)<br>2022-08-10(full)<br>Orlando, FL</a></td>
@@ -399,7 +399,7 @@ author_profile: true
 	</tr>		
 	<tr>
 		<td>PPoPP</td>
-		<td></td>
+		<td><a href="http://conf.researchr.org/home/ppopp-2026" title="date: 2026-01-31..04, notify: 2025-11-10">2025-09-01(full)<br>Sydney, Austrilia</a></td>
 		<td><a href="http://conf.researchr.org/home/ppopp-2025" title="date: 2025-03-01..05, notify: 2024-11-11">2024-08-16(full)<br>Las Vegas, NV</a></td>
 		<td><a href="http://conf.researchr.org/home/ppopp-2024" title="date: 2024-02-22..06, notify: 2023-11-10">2023-08-04(full)<br>Edinburgh, UK</a></td>
 		<td><a href="http://conf.researchr.org/home/ppopp-2023" title="date: 2023-02-25..01, notify: 2022-11-07">2022-08-17(full)<br>Montreal, Canada</a></td>
@@ -426,7 +426,7 @@ author_profile: true
 	</tr>
 	<tr>
 		<td>DATE</td>
-		<td></td>
+		<td><a href="https://www.date-conference.com/" title="date: 2026-04-20..22, notify: 2025-11-11">2025-09-07(abstract)<br>2025-09-14(full)<br>Verona, Italy</a></td>
 		<td><a href="https://www.date-conference.com/date-2025-call-papers" title="date: 2025-03-31..02, notify: ">2024-09-15(abstract)<br>2024-09-22(full)<br>Lyon, France</a></td>
 		<td><a href="https://www.date-conference.com/date-2024-call-papers" title="date: 2024-03-25..27, notify: ">2023-09-10(abstract)<br>2023-09-17(full)<br>Valencia, Spain</a></td>
 		<td><a href="https://www.date-conference.com/date-2023-call-papers" title="date: 2023-04-17..19, notify: ">2022-09-18(abstract)<br>2022-09-25(full)<br>Antwerp, BE</a></td>
@@ -452,7 +452,7 @@ author_profile: true
 	</tr>
 	<tr>
 		<td>FAST</td>
-		<td></td>
+		<td><a href="https://www.usenix.org/conference/fast26" title="date: 2026-02-24..26, notify: 2025-12-08">2025-09-16<br>Santa Clara, CA</a></td>
 		<td><a href="https://www.usenix.org/conference/fast25" title="date: 2025-02-25..27, notify: ">2024-09-17<br>Santa Clara, CA</a></td>
 		<td><a href="https://www.usenix.org/conference/fast24" title="date: 2024-02-27..29, notify: 2023-12-08">2023-09-21<br>Santa Clara, CA</a></td>
 		<td><a href="https://www.usenix.org/conference/fast23" title="date: 2023-02-20..23, notify: 2022-12-09">2022-09-22<br>Santa Clara, CA</a></td>
@@ -466,7 +466,7 @@ author_profile: true
 	<tr>
 		<td rowspan="3"><b><i>Oct</i></b></td>
 		<td>SIGMETRICS<br>(fall)</td>
-		<td></td>
+		<td><a href="http://www.sigmetrics.org/sigmetrics2026" title="date: 2026-06-08..12, notify: 2025-12-12">2025-10-07(abstract)<br>2025-10-14(full)<br>Ann Arbor, USA</a></td>
 		<td><a href="http://www.sigmetrics.org/sigmetrics2025" title="date: 2025-06-09..13, notify: 2024-12-10">2024-10-02(abstract)<br>2024-10-09(full)<br>Stony Brooks, NY</a></td>
 		<td><a href="http://www.sigmetrics.org/sigmetrics2024" title="date: 2024-06-10..14, notify: 2023-12-12">2023-10-04(abstract)<br>2023-10-11(full)<br>Venice, Italy</a></td>
 		<td><a href="http://www.sigmetrics.org/sigmetrics2023" title="date: 2023-06-19..23, notify: 2022-10-04">2022-10-12(abstract)<br>2022-10-19(full)<br>Orlando, FL</a></td>
@@ -479,7 +479,7 @@ author_profile: true
 	</tr>
 	<tr>
 		<td>IPDPS</td>
-		<td></td>
+		<td><a href="http://www.ipdps.org/" title="date: 2026-05-25..29, notify: 2026-02-02">2025-10-02(abstract)<br>2025-10-09(full)<br>New Orleans, USA</a></td>
 		<td><a href="http://www.ipdps.org/" title="date: 2025-06-03..07, notify: 2025-02-04">2024-10-03(abstract)<br>2024-10-10(full)<br>Milano, Italy</a></td>
 		<td><a href="http://www.ipdps.org/" title="date: 2024-05-27..31, notify: 2024-01-31">2023-09-28(abstract)<br>2023-10-05(full)<br>San Francisco, CA</a></td>
 		<td><a href="http://www.ipdps.org/" title="date: 2023-05-15..19, notify: 2023-01-31">2022-09-29(abstract)<br>2022-10-06(full)<br>St. Petersburg, FL</a></td>
@@ -506,7 +506,7 @@ author_profile: true
 	<tr>
 		<td rowspan="3"><b><i>Nov</i></b></td>
 		<td>DAC</td>
-		<td></td>
+		<td><a href="https://www.dac.com/" title="date: 2025-06-22..25, notify: 2025-02-26">2024-11-12(abstract)<br>2024-11-19(full)<br>San Francisco, CA</a></td>
 		<td><a href="https://www.dac.com/Conference/2025-Call-for-Contributions" title="date: 2025-06-22..25, notify: 2025-02-26">2024-11-12(abstract)<br>2024-11-19(full)<br>San Francisco, CA</a></td>
 		<td><a href="https://www.dac.com/Conference/2024-Call-for-Contributions" title="date: 2024-06-23..27, notify: 2024-02-26">2023-11-13(abstract)<br>2023-11-20(full)<br>San Francisco, CA</a></td>
 		<td>-</td>
@@ -519,7 +519,7 @@ author_profile: true
 	</tr>
 	<tr>
 		<td>PLDI</td>
-		<td></td>
+		<td><a href="https://conf.researchr.org/home/pldi-2026" title="date: 2026-06-15..19, notify: 2026-03-05">2025-11-13<br> Boulder, USA</a></td>
 		<td><a href="https://conf.researchr.org/home/pldi-2025" title="date: 2025-06-16..20, notify: 2025-03-06">2024-11-14<br>Seoul, South Korea</a></td>
 		<td><a href="https://conf.researchr.org/home/pldi-2024" title="date: 2024-06-24..28, notify: 2024-02-26">2023-11-16<br>Copenhagen, Denmark</a></td>
 		<td><a href="https://conf.researchr.org/home/pldi-2023" title="date: 2023-06-19..21, notify: 2023-02-24">2022-11-10<br>Orlando, FL</a></td>
