@@ -581,7 +581,7 @@ author_profile: true
 		<td><a href="http://www.ispass.org/ispass2020" title="date: 2020-04-05..07, notify: 2020-01-14">2019-10-10<br>Boston, MA</a></td>
 		<td><a href="http://www.ispass.org/ispass2019" title="date: 2019-03-24..26, notify: 2019-01-13">2018-10-12<br>Madison, WI</a></td>
 		<td><a href="http://www.ispass.org/ispass2018" title="date: 2018-04-03..05, notify: 2018-01-19">2017-10-13<br>Belfast, UK</a></td>
-		<td><a href="http://www.ispass.org/ispass2017" title="date: 2017-04-23..25, notify: 2017-01-30">2016-10-14<br>San Francisco, CA</a></td>
+		<td><a href="http://www.ispass.org/ispass2017" title="date: 2017-04-23..25, notify: 2017-01-30">2016-10-14<br>San Francisco, CA</a></td>
 	</tr>
 </table>
 
