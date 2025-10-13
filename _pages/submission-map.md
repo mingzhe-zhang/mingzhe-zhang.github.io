@@ -8,7 +8,7 @@ author_profile: true
 
 [An alternative conference list with countdown. (in chinese)](https://ccfddl.github.io)
 
-<font size="4" color="grey">[Last Update: Sep-10-2025]</font>
+<font size="4" color="grey">[Last Update: Oct-13-2025]</font>
 
 <table align="center">
 	<tr>
@@ -532,34 +532,34 @@ author_profile: true
 	</tr>
 	<tr>
 		<td>ISCA</td>
-		<td></td>
+		<td><a href="http://iscaconf.org/isca2026" title="date: 2026-06-27..01, notify: 2026-03-27">2025-11-10(abstract)<br>2025-11-17(full)<br>Raleigh, NC</a></td>
 		<td><a href="http://iscaconf.org/isca2025" title="date: 2025-06-21..25, notify: 2025-03-17">2024-11-15(abstract)<br>2024-11-22(full)<br>Tokyo, Japan</a></td>
 		<td><a href="http://iscaconf.org/isca2024" title="date: 2024-06-29..03, notify: 2024-03-19">2023-11-14(abstract)<br>2023-11-21(full)<br>Buenos Aires, Argentina</a></td>
 		<td><a href="http://iscaconf.org/isca2023" title="date: 2023-06-17..23, notify: 2023-03-09">2022-11-14(abstract)<br>2022-11-21(full)<br>Orlando, FL</a></td>
 		<td><a href="http://iscaconf.org/isca2022" title="date: 2022-06-11..15, notify: 2022-03-02">2021-11-16(abstract)<br>2021-11-23(full)<br>New York City, USA</a></td>
 		<td><a href="http://iscaconf.org/isca2021" title="date: 2021-05-22..26, notify: 2021-03-04">2020-11-24<br>Valencia, Spain</a></td>
 		<td><a href="http://iscaconf.org/isca2020" title="date: 2020-05-30..3, notify: 2020-03-04">2019-11-26<br>Valencia, Spain</a></td>
-		<td><a href="http://iscaconf.org/isca2019" title="date: 2019-06-22..26, notify: 2019-03-15">2018-12-07<br>Phoenix, AZ</a></td>
-		<td><a href="http://iscaconf.org/isca2018" title="date: 2018-06-02..06, notify: 2018-03-13">2017-11-21<br>Los Angeles, CA</a></td>
+		<td><a href="http://iscaconf.org/isca2019" title="date: 2019-06-22..26, notify: 2019-03-15">2018-12-07<br>Phoenix, AZ</a></td>
+		<td><a href="http://iscaconf.org/isca2018" title="date: 2018-06-02..06, notify: 2018-03-13">2017-11-21<br>Los Angeles, CA</a></td>
 		<td><a href="http://isca17.ece.utoronto.ca/" title="date: 2017-06-24..28, notify: 2017-03-08">2016-11-18<br>Toronto, CA</a></td>
 	</tr>
 	<tr>
 		<td rowspan="3"><b><i>DEC</i></b></td>
 		<td>OSDI</td>
-		<td></td>
+		<td><a href="https://www.usenix.org/conference/osdi26" title="date: 2026-07-13..15, notify: 2026-03-26">2025-12-04(abstract)<br>2025-12-11(full)<br>Seattle, WA</a></td>
 		<td><a href="https://www.usenix.org/conference/osdi25" title="date: 2025-07-07..09, notify: 2025-03-25">2024-12-03(abstract)<br>2024-12-10(full)<br>Boston, MA</a></td></td>
 		<td><a href="https://www.usenix.org/conference/osdi24" title="date: 2024-07-10..12, notify: 2024-03-21">2023-11-30(abstract)<br>2023-12-07(full)<br>Santa Clara, CA</a></td>
 		<td><a href="https://www.usenix.org/conference/osdi23" title="date: 2023-07-10..12, notify: 2023-03-23">2022-12-06(abstract)<br>2022-12-13(full)<br>Boston, MA</a></td>
 		<td><a href="https://www.usenix.org/conference/osdi22" title="date: 2022-07-11..13, notify: 2022-03-16">2021-12-07(abstract)<br>2021-12-14(full)<br>Carlsbad, CA</a></td>
 		<td><a href="https://www.usenix.org/conference/osdi20" title="date: 2020-11-04..06, notify: 2020-08-04">2020-05-12<br>Banff, Alberta, Canada</a></td>
 		<td align="center">-</td>
-		<td><a href="https://www.usenix.org/conference/osdi18" title="date: 2018-10-08..10, notify: 2018-07-24">2018-05-03<br>Carlsbad, CA</a></td>
+		<td><a href="https://www.usenix.org/conference/osdi18" title="date: 2018-10-08..10, notify: 2018-07-24">2018-05-03<br>Carlsbad, CA</a></td>
 		<td align="center">-</td>
-		<td><a href="https://www.usenix.org/conference/osdi16" title="date: 2016-11-02..04, notify: 2016-07-30">2016-05-10<br>Savannah, GA</a></td>
+		<td><a href="https://www.usenix.org/conference/osdi16" title="date: 2016-11-02..04, notify: 2016-07-30">2016-05-10<br>Savannah, GA</a></td>
 	</tr>
 	<tr>
 		<td>ICDCS</td>
-		<td></td>
+		<td><a href="https://icdcs2026.icdcs.org/" title="date: 2026-, notify: ">2025-12-05(abstract)<br>2025-12-12(full)<br><nobr>South Korea</nobr></a></td>
 		<td><a href="https://icdcs2025.icdcs.org/" title="date: 2025-07-20..23, notify: 2025-04-02">2024-12-04(abstract)<br>2024-12-11(full)<br><nobr>Glasgow, UK</nobr></a><br><a href="https://icdcs2024.icdcs.org/" title="date: 2024-07-, notify: 2024-04-12">2024-01-12(abstract)<br>2024-01-19(full)<br><nobr>New Jersey City, NJ</nobr></a></td>
 		<td><a href="https://icdcs2023.icdcs.org/" title="date: 2023-07-18..21, notify: 2023-04-03">2023-01-14(abstract)<br>2023-01-21(full)<br><nobr>Hong Kong, China</nobr></a></td>
 		<td><a href="https://icdcs2022.icdcs.org/" title="date: 2022-07-10..13, notify: 2022-04-04">2022-01-17(abstract)<br>2022-01-24(full)<br>Bologna, Italy</a></td>
@@ -567,12 +567,12 @@ author_profile: true
 		<td><a href="https://icdcs2020.sg/" title="date: 2020-07-08..10, notify: 2020-03-14">2020-01-06<br>Singapore</a></td>
 		<td><a href="http://theory.utdallas.edu/ICDCS2019" title="date: 2019-07-07..10, notify: 2019-03-28">2019-01-12<br>Dallas, TX</a></td>
 		<td align="center">-</td>
-		<td><a href="http://icdcs2018.ocg.at/" title="date: 2018-07-02..06, notify: 2018-03-28">2017-12-12<br>Vienna, Austria</a></td>
-		<td><a href="https://icdcs2017.gatech.edu/" title="date: 2017-06-05..08, notify: 2017-03-06">2016-12-12<br>Atlanta, GA</a></td>
+		<td><a href="http://icdcs2018.ocg.at/" title="date: 2018-07-02..06, notify: 2018-03-28">2017-12-12<br>Vienna, Austria</a></td>
+		<td><a href="https://icdcs2017.gatech.edu/" title="date: 2017-06-05..08, notify: 2017-03-06">2016-12-12<br>Atlanta, GA</a></td>
 	</tr>
 	<tr>
 		<td>ISPASS</td>
-		<td></td>
+		<td><a href="http://www.ispass.org/ispass2026" title="date: 2026-04-26..28, notify: 2026-02-23">2025-12-05(abstract)<br>2025-12-12(full)<br>Seoul, South Korea</a></td>
 		<td><a href="http://www.ispass.org/ispass2025" title="date: 2025-05-11..13, notify: 2025-03-03">2024-12-09(abstract)<br>2024-12-16(full)<br>Ghent, Belgium</a></td>
 		<td><a href="http://www.ispass.org/ispass2024" title="date: 2024-05-05..07, notify: 2024-02-29">2023-12-08(abstract)<br>2023-12-18(full)<br>Indianapolis, IN</a></td>
 		<td><a href="http://www.ispass.org/ispass2023" title="date: 2023-04-23.., notify: 2023-02-28">2022-11-29(abstract)<br>2022-12-06(full)<br>Raleigh, NC</a></td>
