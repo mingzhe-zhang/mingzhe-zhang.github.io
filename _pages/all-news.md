@@ -5,6 +5,12 @@ author_profile: true
 ---
 ## 2025
 
++ [2025-11-08] Our paper " An Efficient and Scalable Hardware Architecture for Number
+Theoretic Transform on FPGA with Design Automation" has been accepted by HPCA 2026! Congrats to all!
++ [2025-11-08] Our paper " FHEFusion: Enabling Operator Fusion in FHE Compilers for Depth-Efficient DNN Inference" has been accepted by CGO 2026! Congrats to all collaborators!
++ [2025-10-29] Our paper " TensorFHE+: Fully Homomorphic Encryption Acceleration based on Linear Algebra", which is the extension and enhanced version of TensorFHE (HPCA 2023), has been accepted by IEEE Transaction on Computers! Congrats to all collaborators!
++ [2025-10-23] Our paper " Analysis of Bit-Flip Attacks on Encrypted Neural Networks" has been accepted by ICPADS 2025! Congrats to all collaborators!
++ [2025-09-26] Our paper "Corrosion Hammer: A Self-Activated Bit-Flip Attack to the Processing-In-Memory Accelerator" has been accepted by Cybersecurity! Congrats to all collaborators!
 + [2025-09-10] Our paper "Understanding and Boosting Fully Homomorphic Encryption Applications on GPU" has been accepted by Cybersecurity! Congrats to all collaborators!
 + [2025-09-02] Our paper "A Survey on Fully Homomorphic Encryption Compilers" has been accepted by Cybersecurity! Congrats to all collaborators!
 + [2025-08-20] Our paper "WPC: Weight Plaintext Compression for CNN Inference based on RNS-CKKS" has been accepted by ACM CCS 2025! Congrats to all collaborators!
