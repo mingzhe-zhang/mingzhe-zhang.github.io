@@ -64,7 +64,7 @@ author_profile: true
 		<td><a href="http://www.hpdc.org/2022" title="date: 2022-06-27..01, notify: 2022-03-21">2022-01-20(abstract)<br>2022-01-27(full)<br>Minneapolis, MN</a></td>
 		<td><a href="http://www.hpdc.org/2021" title="date: 2021-06-21..24, notify: 2021-03-26">2020-01-17(abstract)<br>2020-01-22(full)<br>Stockholm, Sweden</a></td>
 		<td><a href="http://www.hpdc.org/2020" title="date: 2020-06-23..26, notify: 2020-03-27">2020-01-16<br>Stockholm, Sweden</a></td>
-		<td><a href="http://www.hpdc.org/2019" title="ddate: 2019-06-22..29, notify: 2019-03-25">2019-01-23<br>Phoenix, AZ</a></td>
+		<td><a href="http://www.hpdc.org/2019" title="date: 2019-06-22..29, notify: 2019-03-25">2019-01-23<br>Phoenix, AZ</a></td>
 		<td><a href="http://www.hpdc.org/2018" title="date: 2018-06-11..15, notify: 2018-03-29">2018-01-24<br>Tempe, AZ</a></td>
 		<td><a href="http://www.hpdc.org/2017" title="date: 2017-06-26..30, notify: 2017-03-29">2017-01-17<br>Washington, D.C.</a></td>
 		<td><a href="http://www.hpdc.org/2016" title="date: 2016-06-02..04, notify: 2016-03-12">2016-01-18<br>Kyoto, Japan</a></td>
@@ -103,7 +103,7 @@ author_profile: true
 		<td><a href="https://dipsa-qub.github.io/ICS2026-webpage/" title="date: 2026-07-06..09, notify: 2026-04-07">2026-02-02(abstract)<br>2026-02-09(full)<br>Belfast, UK</a></td>
 		<td><a href="https://hpcrl.github.io/ICS2025-webpage/" title="date: 2025-06-09..11, notify: 2025-03-14">2025-01-13(abstract)<br>2025-01-16(full)<br>Salt Lake City, US</a></td>
 		<td><a href="https://ics2024.github.io" title="date: 2024-06-04..07, notify: 2024-03-29">2024-01-11(abstract)<br>2024-01-18(full)<br>Kyoto, Japan</a></td>
-		<td><a href="https://nschiele.github.io/ICS2023/" title="date: 2023-06-21..23, notify: 2023-04-14">2023-01-27(abstract)<br>2022-02-03(full)<br>Orlando, FL</a></td>
+		<td><a href="https://nschiele.github.io/ICS2023/" title="date: 2023-06-21..23, notify: 2023-04-14">2023-01-27(abstract)<br>2023-02-03(full)<br>Orlando, FL</a></td>
 		<td><a href="https://ics2022.github.io" title="date: 2022-06-27..30, notify: 2022-04-14">2022-01-28(abstract)<br>2022-02-04(full)<br>Virtual</a></td>
 		<td><a href="https://ics21.github.io" title="date: 2021-06-15..17, notify: 2021-03-31">2021-01-28(abstract)<br>2021-02-04(full)<br>Virtual</a></td>
 		<td><a href="https://ics2020.bsc.es" title="date: 2020-06-29..02, notify: 2020-04-03">2020-01-24<br>Barcelona, Spain</a></td>
@@ -243,7 +243,7 @@ author_profile: true
 	<tr>
 		<td>ICPP</td>
 		<td></td>
-		<td><a href="https://icpp2025.sdsc.edu/home" title="date: 2025-09-08..11, notify: 2025-06-10"><nobr>2025-04-21(full)<br>San Diego, CA</a></td>
+		<td><a href="https://icpp2025.sdsc.edu/home" title="date: 2025-09-08..11, notify: 2025-06-10"><nobr>2025-04-21(full)</nobr><br>San Diego, CA</a></td>
 		<td><a href="https://icpp2024.org/" title="date: 2024-08-12..15, notify: 2024-05-27"><nobr>2024-04-08(abstract)</nobr><br>2024-04-15(full)<br>Gotland, Sweden</a></td>
 		<td><a href="https://icpp23.sci.utah.edu/" title="date: 2023-08-07..10, notify: 2023-06-16"><nobr>2023-04-14(abstract)</nobr><br>2023-04-22(full)<br>Salt Lake City, UT</a></td>
 		<td><a href="https://icpp22.gitlabpages.inria.fr/" title="date: 2022-08-29..01, notify: 2022-06-14"><nobr>2022-04-08(abstract)</nobr><br>2022-04-14(full)<br>Bordeaux, France</a></td>
