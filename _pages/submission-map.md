@@ -8,7 +8,7 @@ author_profile: true
 
 [An alternative conference list with countdown. (in chinese)](https://ccfddl.github.io)
 
-<font size="4" color="grey">[Last Update: Oct-13-2025]</font>
+<font size="4" color="grey">[Last Update: Nov-24-2025]</font>
 
 <table align="center">
 	<tr>
@@ -27,9 +27,9 @@ author_profile: true
 		<td>Deadline 2016</td>
 	</tr>
 	<tr>
-		<td rowspan="6"><b><i>Jan</i></b></td>
+		<td rowspan="5"><b><i>Jan</i></b></td>
 		<td>CF</td>
-		<td></td>
+		<td><a href="http://www.computingfrontiers.org/2026/" title="date: 2026-05-19..21, notify: 2026-03-19">2026-01-12(Abstract)<br>2026-01-19(full)<br>Catania, Italy</a></td>
 		<td><a href="http://www.computingfrontiers.org/2025/" title="date: 2025-05-28..30, notify: ">2025-01-<br>Cagliari, Italy</a></td>
 		<td><a href="http://www.computingfrontiers.org/2024/" title="date: 2024-05-07..09, notify: 2024-02-12">2024-01-08<br>Ischia, Italy</a></td>
 		<td><a href="http://www.computingfrontiers.org/2023/" title="date: 2023-05-09..11, notify: 2023-03-17">2023-01-27<br>Bologna, Italy</a></td>
@@ -56,22 +56,8 @@ author_profile: true
 		<td><a href="https://www.usenix.org/conference/atc16" title="date: 2016-06-22..24, notify: 2016-4-15">2016-02-01<br>Denver, CO</a></td>
 	</tr>
 	<tr>
-		<td>ICS</td>
-		<td></td>
-		<td><a href="https://hpcrl.github.io/ICS2025-webpage/" title="date: 2025-06-09..11, notify: 2025-03-14">2025-01-13(abstract)<br>2025-01-16(full)<br>Salt Lake City, US</a></td>
-		<td><a href="https://ics2024.github.io" title="date: 2024-06-04..07, notify: 2024-03-29">2024-01-11(abstract)<br>2024-01-18(full)<br>Kyoto, Japan</a></td>
-		<td><a href="https://nschiele.github.io/ICS2023/" title="date: 2023-06-21..23, notify: 2023-04-14">2023-01-27(abstract)<br>2022-02-03(full)<br>Orlando, FL</a></td>
-		<td><a href="https://ics2022.github.io" title="date: 2022-06-27..30, notify: 2022-04-14">2022-01-28(abstract)<br>2022-02-04(full)<br>Virtual</a></td>
-		<td><a href="https://ics21.github.io" title="date: 2021-06-15..17, notify: 2021-03-31">2021-01-28(abstract)<br>2021-02-04(full)<br>Virtual</a></td>
-		<td><a href="https://ics2020.bsc.es" title="date: 2020-06-29..02, notify: 2020-04-03">2020-01-24<br>Barcelona, Spain</a></td>
-		<td><a href="https://ics19.eecis.udel.edu/" title="date: 2019-06-26..28, notify: 2019-04-15">2019-02-01<br>Phoenix, AZ</a></td>
-		<td><a href="http://ics2018.ict.ac.cn" title="date: 2018-06-12..15, notify: 2018-03-25">2018-01-19<br>Beijing, China</a></td>
-		<td><a href="https://press3.mcs.anl.gov/ics2017/" title="date: 2017-06-14..16, notify: 2017-03-21">2017-01-18<br>Chicago, IL</a></td>
-		<td><a href="http://ics16.bilkent.edu.tr" title="date: 2016-06-01..03, notify: 2016-03-21">2016-01-30<br>Istanbul, Turkey</a></td>
-	</tr>
-	<tr>
 		<td>HPDC</td>
-		<td></td>
+		<td><a href="https://hpdc.sci.utah.edu/2026/" title="date: 2026-07-13..16, notify: 2026-03-31">2026-01-29(abstract)<br>2026-02-05(full)<br>Cleveland, OH</a></td>
 		<td><a href="http://hpdc.sci.utah.edu/2025/" title="date: 2025-07-20..23, notify: 2025-04-07">2025-01-16(abstract)<br>2025-01-23(full)<br>Notre Dame, IN</a></td>
 		<td><a href="http://www.hpdc.org/2024" title="date: 2024-06-03..07, notify: 2024-03-25">2024-01-18(abstract)<br>2024-01-25(full)<br>Pisa, Italy</a></td>
 		<td><a href="http://www.hpdc.org/2023" title="date: 2023-06-16..23, notify: 2023-03-29">2023-01-27<br>Orlando, FL</a></td>
@@ -85,7 +71,7 @@ author_profile: true
 	</tr>
 	<tr>
 		<td>SIGMETRICS<br>(winter)</td>
-		<td></td>
+		<td><a href="http://www.sigmetrics.org/sigmetrics2026" title="date: 2026-06-08..12, notify: 2026-03-13">2026-01-06(abstract)<br>2026-01-13(full)<br>Ann Arbor, USA</a></td>
 		<td><a href="http://www.sigmetrics.org/sigmetrics2025" title="date: 2025-06-09..13, notify: 2025-03-18"><nobr>2025-01-15(abstract)</nobr><br>2025-01-22(full)<br>Stony Brook, NY</a></td>
 		<td><a href="http://www.sigmetrics.org/sigmetrics2024" title="date: 2024-06-10..14, notify: 2024-03-26"><nobr>2024-01-24(abstract)</nobr><br>2024-01-31(full)<br>Venice, Italy</a></td>
 		<td><a href="http://www.sigmetrics.org/sigmetrics2023" title="date: 2023-06-19..23, notify: 2023-03-28"><nobr>2023-01-25(abstract)</nobr><br>2023-02-01(full)<br>Orlando, FL</a></td>
@@ -112,9 +98,23 @@ author_profile: true
 		<td><a href="http://conferences.sigcomm.org/sigcomm/2016" title="date: 2016-08-22..26, notify: 2016-04-22">2016-01-29<br>Salvador, Brazil</a></td>
 	</tr>
 	<tr>
-		<td rowspan="1"><b><i>Feb</i></b></td>
+		<td rowspan="2"><b><i>Feb</i></b></td>
+		<td>ICS</td>
+		<td><a href="https://dipsa-qub.github.io/ICS2026-webpage/" title="date: 2026-07-06..09, notify: 2026-04-07">2026-02-02(abstract)<br>2026-02-09(full)<br>Belfast, UK</a></td>
+		<td><a href="https://hpcrl.github.io/ICS2025-webpage/" title="date: 2025-06-09..11, notify: 2025-03-14">2025-01-13(abstract)<br>2025-01-16(full)<br>Salt Lake City, US</a></td>
+		<td><a href="https://ics2024.github.io" title="date: 2024-06-04..07, notify: 2024-03-29">2024-01-11(abstract)<br>2024-01-18(full)<br>Kyoto, Japan</a></td>
+		<td><a href="https://nschiele.github.io/ICS2023/" title="date: 2023-06-21..23, notify: 2023-04-14">2023-01-27(abstract)<br>2022-02-03(full)<br>Orlando, FL</a></td>
+		<td><a href="https://ics2022.github.io" title="date: 2022-06-27..30, notify: 2022-04-14">2022-01-28(abstract)<br>2022-02-04(full)<br>Virtual</a></td>
+		<td><a href="https://ics21.github.io" title="date: 2021-06-15..17, notify: 2021-03-31">2021-01-28(abstract)<br>2021-02-04(full)<br>Virtual</a></td>
+		<td><a href="https://ics2020.bsc.es" title="date: 2020-06-29..02, notify: 2020-04-03">2020-01-24<br>Barcelona, Spain</a></td>
+		<td><a href="https://ics19.eecis.udel.edu/" title="date: 2019-06-26..28, notify: 2019-04-15">2019-02-01<br>Phoenix, AZ</a></td>
+		<td><a href="http://ics2018.ict.ac.cn" title="date: 2018-06-12..15, notify: 2018-03-25">2018-01-19<br>Beijing, China</a></td>
+		<td><a href="https://press3.mcs.anl.gov/ics2017/" title="date: 2017-06-14..16, notify: 2017-03-21">2017-01-18<br>Chicago, IL</a></td>
+		<td><a href="http://ics16.bilkent.edu.tr" title="date: 2016-06-01..03, notify: 2016-03-21">2016-01-30<br>Istanbul, Turkey</a></td>
+	</tr>
+	<tr>
 		<td>Euro Par</td>
-		<td></td>
+		<td><a href="https://2025.euro-par.org" title="date: 2026-08-24..28, notify: 2026-04-30"><nobr>2026-02-27(abstract)</nobr><br>2026-03-06(full)<br>Pisa, Italy</a></td>
 		<td><a href="https://2025.euro-par.org" title="date: 2025-08-25..29, notify: 2025-04-29"><nobr>2025-02-24(abstract)</nobr><br>2025-03-09(full)<br>Dresden, Germany</a></td>
 		<td><a href="https://2024.euro-par.org" title="date: 2024-08-26..30, notify: 2024-04-29"><nobr>2024-03-05(abstract)</nobr><br>2024-03-15(full)<br>Madrid, Spain</a></td>
 		<td><a href="https://2023.euro-par.org" title="date: 2023-08-28..01, notify: 2023-04-30"><nobr>2023-02-17(abstract)</nobr><br>2023-02-24(full)<br>Limassol, Cyprus</a></td>
@@ -584,7 +584,7 @@ author_profile: true
 		<td><a href="http://isca17.ece.utoronto.ca/" title="date: 2017-06-24..28, notify: 2017-03-08">2016-11-18<br>Toronto, CA</a></td>
 	</tr>
 	<tr>
-		<td rowspan="3"><b><i>DEC</i></b></td>
+		<td rowspan="4"><b><i>DEC</i></b></td>
 		<td>OSDI</td>
 		<td></td>
 		<td><a href="https://www.usenix.org/conference/osdi26" title="date: 2026-07-13..15, notify: 2026-03-26">2025-12-04(abstract)<br>2025-12-11(full)<br>Seattle, WA</a></td>
@@ -625,6 +625,20 @@ author_profile: true
 		<td><a href="http://www.ispass.org/ispass2019" title="date: 2019-03-24..26, notify: 2019-01-13">2018-10-12<br>Madison, WI</a></td>
 		<td><a href="http://www.ispass.org/ispass2018" title="date: 2018-04-03..05, notify: 2018-01-19">2017-10-13<br>Belfast, UK</a></td>
 		<td><a href="http://www.ispass.org/ispass2017" title="date: 2017-04-23..25, notify: 2017-01-30">2016-10-14<br>San Francisco, CA</a></td>
+	</tr>
+	<tr>
+		<td>ICS</td>
+		<td></td>
+		<td><a href="https://dipsa-qub.github.io/ICS2026-webpage/" title="date: 2026-07-06..09, notify: 2026-02-24">2025-12-09(abstract)<br>2025-12-16(full)<br>Belfast, UK</a></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
 	</tr>
 </table>
 
