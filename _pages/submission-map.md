@@ -99,7 +99,7 @@ author_profile: true
 	</tr>
 	<tr>
 		<td rowspan="2"><b><i>Feb</i></b></td>
-		<td>ICS</td>
+		<td>ICS<br>(spring)</td>
 		<td><a href="https://dipsa-qub.github.io/ICS2026-webpage/" title="date: 2026-07-06..09, notify: 2026-04-07">2026-02-02(abstract)<br>2026-02-09(full)<br>Belfast, UK</a></td>
 		<td><a href="https://hpcrl.github.io/ICS2025-webpage/" title="date: 2025-06-09..11, notify: 2025-03-14">2025-01-13(abstract)<br>2025-01-16(full)<br>Salt Lake City, US</a></td>
 		<td><a href="https://ics2024.github.io" title="date: 2024-06-04..07, notify: 2024-03-29">2024-01-11(abstract)<br>2024-01-18(full)<br>Kyoto, Japan</a></td>
@@ -627,7 +627,7 @@ author_profile: true
 		<td><a href="http://www.ispass.org/ispass2017" title="date: 2017-04-23..25, notify: 2017-01-30">2016-10-14<br>San Francisco, CA</a></td>
 	</tr>
 	<tr>
-		<td>ICS</td>
+		<td>ICS<br>(winter)</td>
 		<td></td>
 		<td><a href="https://dipsa-qub.github.io/ICS2026-webpage/" title="date: 2026-07-06..09, notify: 2026-02-24">2025-12-09(abstract)<br>2025-12-16(full)<br>Belfast, UK</a></td>
 		<td></td>
