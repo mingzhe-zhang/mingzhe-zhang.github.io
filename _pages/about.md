@@ -35,17 +35,17 @@ I do research in Computer Architecture and Bigdata-oriented System, including:
 
 ## Updates
 
++ [2025-12-08] Our collaboration paper "Xerxes: Extensive Exploration of Scalable Hardware Systems with CXL-Based Simulation Framework" has been accpeted by FAST 2026! Congratulations to all collaborators! 
 + [2025-11-26] <font color="#FF0000">Our paper "Falcon: Algorithm-Hardware Co-Design for Efficient Fully Homomorphic Encryption Accelerator" has been accepted by ASPLOS 2026! This is our 10th paper on FHE acceleration in the top-tier computer architecture conference. Congratulations to all!</font>
 + [2025-11-08] Our paper "An Efficient and Scalable Hardware Architecture for Number
 Theoretic Transform on FPGA with Design Automation" has been accepted by HPCA 2026! Congrats to all!
 + [2025-11-08] Our paper " FHEFusion: Enabling Operator Fusion in FHE Compilers for Depth-Efficient DNN Inference" has been accepted by CGO 2026! Congrats to all collaborators!
 + [2025-10-29] Our paper " TensorFHE+: Fully Homomorphic Encryption Acceleration based on Linear Algebra", which is the extension and enhanced version of TensorFHE (HPCA 2023), has been accepted by IEEE Transaction on Computers! Congrats to all collaborators!
 + [2025-10-23] Our paper " Analysis of Bit-Flip Attacks on Encrypted Neural Networks" has been accepted by ICPADS 2025! Congrats to all collaborators!
-+ [2025-09-26] Our paper "Corrosion Hammer: A Self-Activated Bit-Flip Attack to the Processing-In-Memory Accelerator" has been accepted by Cybersecurity! Congrats to all collaborators!
 
 [More...](../news/all-news)
 
-\[Last Update: Nov-26-2025\]
+\[Last Update: Dec-08-2025\]
 
    
 

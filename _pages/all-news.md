@@ -5,6 +5,7 @@ author_profile: true
 ---
 ## 2025
 
++ [2025-12-08] Our collaboration paper "Xerxes: Extensive Exploration of Scalable Hardware Systems with CXL-Based Simulation Framework" has been accpeted by FAST 2026! Congratulations to all collaborators! 
 + [2025-11-08] Our paper " An Efficient and Scalable Hardware Architecture for Number
 Theoretic Transform on FPGA with Design Automation" has been accepted by HPCA 2026! Congrats to all!
 + [2025-11-08] Our paper " FHEFusion: Enabling Operator Fusion in FHE Compilers for Depth-Efficient DNN Inference" has been accepted by CGO 2026! Congrats to all collaborators!
