@@ -6,6 +6,7 @@ author_profile: true
 ## 2025
 
 + [2025-12-08] Our collaboration paper "Xerxes: Extensive Exploration of Scalable Hardware Systems with CXL-Based Simulation Framework" has been accpeted by FAST 2026! Congratulations to all collaborators! 
++ [2025-11-26] <font color="#FF0000">Our paper "Falcon: Algorithm-Hardware Co-Design for Efficient Fully Homomorphic Encryption Accelerator" has been accepted by ASPLOS 2026! This is our 10th paper on FHE acceleration in the top-tier computer architecture conference. Congratulations to all!</font>
 + [2025-11-08] Our paper " An Efficient and Scalable Hardware Architecture for Number
 Theoretic Transform on FPGA with Design Automation" has been accepted by HPCA 2026! Congrats to all!
 + [2025-11-08] Our paper " FHEFusion: Enabling Operator Fusion in FHE Compilers for Depth-Efficient DNN Inference" has been accepted by CGO 2026! Congrats to all collaborators!
@@ -19,7 +20,7 @@ Theoretic Transform on FPGA with Design Automation" has been accepted by HPCA 20
 + [2025-07-01] I will serve as the Publicity Co-Chair of ISCA 2026. Please consider to submit your recent works!
 + [2025-04-23] I will serve as the TPC member of ICCD 2025.
 + [2025-04-16] One collaborative paper "RAC-NAF: A Reconfigurable Analog Circuitry for Nonlinear Activation Function Computation in Computing-in-Memory" has been accepted by IEEE Journal of Solid State Circuits (JSSC). Congrats to all collaborators!
-+ [2025-03-22] Our two papers ("FAST:An FHE Accelerator for Scalable-parallelism with Tunable-bit" and "FAST:An FHE Accelerator for Scalable-parallelism with Tunable-bit") and one collaborative paper ("XHarvest: Rethinking High-Performance and Cost-Efficient SSD Architecture with CXL-Driven Harvesting") have been accepted by ISCA 2025! Congrats to all!
++ [2025-03-22] Our two papers ("FAST:An FHE Accelerator for Scalable-parallelism with Tunable-bit" and "Neo: Towards Efficient Fully Homomorphic Encryption Acceleration using Tensor Core ") and one collaborative paper ("XHarvest: Rethinking High-Performance and Cost-Efficient SSD Architecture with CXL-Driven Harvesting") have been accepted by ISCA 2025! Congrats to all!
 + [2025-02-15] One collaborative paper "ALLMod: Exploring Area-Efficiency of LUT-based Large Number Modular Reduction via Hybrid Workloads" has been accepted by DAC 2025! Congrats to all collaborators!
 + [2025-02-10] I will serve as the TPC member of MICRO 2025.
 + [2025-01-28] Our collaborative paper "An Efficient Delta Compression Framework Seamlessly Integrated into Inline Deduplication" has been accepted by ACM Transactions on Storage. Congrats to all collaborators!

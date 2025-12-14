@@ -6,7 +6,53 @@ author_profile: true
 <br>
 # Conference
 
+## 2026
+
+[C40] <b>[Xerxes: Extensive Exploration of Scalable Hardware Systems with CXL-Based Simulation Framework](../publications/FAST2026)</b><br>
+Yuda An, Shushu Yi, Bo Mao, Qiao Li, Mingzhe Zhang, Diyu Zhou, Ke Zhou, Nong Xiao, Guangyu Sun, Yingwei Luo, Jie Zhang.
+<i>24th USENIX Conference on File and Storage Technologies</i>. <b>FAST 2026</b>
+
+[C39] <b>[Falcon: Algorithm-Hardware Co-Design for Efficient Fully Homomorphic Encryption Accelerator](../publications/ASPLOS2026)</b><br>
+Liang Kong, Shengyu Fan, Xianglong Deng, Lei Chen, Guang Fan, Yilan Zhu, Geng Yang, Yisong Chang, Shoumeng Yan, Mingzhe Zhang.
+<i>31st International Conference on Architectural Support for Programming Languages and Operating Systems</i>. <b>ASPLOS 2026</b> 
+
+[C38] <b>[An Efficient and Scalable Hardware Architecture for Number Theoretic Transform on FPGA with Design Automation](../publications/HPCA2026)</b><br>
+Yilan Zhu, Geng Yang, Xingyu Tian, Dilshan Kumarathunga, Liang Kong, Xianglong Deng, Shengyu Fan, Guang Fan, Guiming Shi, Lei Chen, Bo Zhang, Yisong Chang, Shoumeng Yan, Zhenman Fang, Mingzhe Zhang.
+<i>32nd International Symposium on High-Performance Computer Architecture</i>.<b>HPCA 2026</b>
+
+[C37] <b>[FHEFusion: Enabling Operator Fusion in FHE Compilers for Depth-Efficient DNN Inference](../publications/CGO2026)</b><br>
+Tianxiang Sui, Jianxin Lai, Long Li, Peng Yuan, Yan Liu, Qing Zhu, Xiaojing Zhang, Linjie Xiao, Mingzhe Zhang, Jingling Xue.
+<i>24th IEEE/ACM International Symposium on Code Generation and Optimization</i>. <b>CGO 2026</b>
+
 ## 2025
+
+[C36] <b>[Analysis of Bit-Flip Attacks on Encrypted Neural Networks](../publications/ICPADS2025)</b><br>
+Zihao Yang, Yilan Zhu, Rui Hou, Dan Meng, Shengyu Fan, Mingzhe Zhang.
+<i>31st IEEE International Conference on Parallel and Distributed Systems</i>. <b>ICPADS 2025</b>
+
+[C35] <b>[WPC: Weight Plaintext Compression for CNN Inference based on RNS-CKKS](../publications/CCS2025)</b><br>
+Guiming Shi, Yuchen Wei, Shengyu Fan, Xianglong Deng, Liang Kong, Xianbin LI, Jingwei Cai, Shuwen Deng, Mingzhe Zhang, Kaisheng Ma.
+<i>32nd ACM Conference on Computer and Communications Security</i>. <b>CCS 2025</b> 
+
+[C34] <b>[LEGOSim: A Unified Parallel Simulation Framework for Multi-chiplet Heterogeneous Integration](../publications/MICRO2025-2)</b><br>
+Tiantian Lin, Cheng Qiu, Xiaohang Wang, Ling Wang, Zhulin Zheng, Yingtao Jiang, Amit Kumar Singh, Jieming Yin, Sihai Qiu, Xiaodong Li, Xin Tang, Jie Song, Mingzhe Zhang, Kui Ren.
+<i>58th IEEE/ACM International Symposium on Microarchitecture</i>. <b>MICRO 2025</b> 
+
+[C33] <b>[HAWK: Fully Homomorphic Encryption Accelerator with Fixed-Word Key Decomposition Switching](../publications/MICRO2025-1)</b><br>
+Liang Kong, Shengyu Fan, Xianglong Deng, Guang Fan, Lei Chen, Guiming Shi, Yilan Zhu, Geng Yang, Shoumeng Yan, Mingzhe Zhang.
+<i>58th IEEE/ACM International Symposium on Microarchitecture</i>. <b>MICRO 2025</b>
+
+[C32] <b>[XHarvest: Rethinking High-Performance and Cost-Efficient SSD Architecture with CXL-Driven Harvesting](../publications/ISCA2025-3)</b><br>
+Li Peng, Wenbo Wu, Shushu Yi, Xianzhang Chen, Chenxi Wang, Shengwen Liang, Zhe Wang, Nong Xiao, Qiao Li, Mingzhe Zhang, Jie Zhang.
+<i>52st ACM/IEEE Annual International Symposium on Computer Architecture</i>. <b>ISCA 2025</b>
+
+[C31] <b>[Neo: Towards Efficient Fully Homomorphic Encryption Acceleration using Tensor Core](../publications/ISCA2025-2)</b><br>
+Dian Jiao, Xianglong Deng, Zhiwei Wang, Shengyu Fan, Yi Chen, Rui Hou, Mingzhe Zhang.
+<i>52st ACM/IEEE Annual International Symposium on Computer Architecture</i>. <b>ISCA 2025</b>
+
+[C30] <b>[FAST:An FHE Accelerator for Scalable-parallelism with Tunable-bit](../publications/ISCA2025-1)</b><br>
+Shengyu Fan, Xianglong Deng, Liang Kong, Guiming Shi, Guang Fan, Rui Hou, Dan Meng, Mingzhe Zhang.
+<i>52st ACM/IEEE Annual International Symposium on Computer Architecture</i>. <b>ISCA 2025</b>
 
 [C29] <b>[ALLMod: Exploring Area-Efficiency of LUT-based Large Number Modular Reduction via Hybrid Workloads](../publications/DAC2025)</b><br>
 Fangxin Liu, Haomin Li, Zongwu Wang, Bo Zhang, Mingzhe Zhang, Shoumeng Yan, Li Jiang.
@@ -138,9 +184,34 @@ Shuai Zhang, Zhiyong Liu, Dongrui Fan, Fonglong Song, <b>Mingzhe Zhang</b>.
 # Journals & Transactions
 
 ## 2025
-[J09] <b>[LP-HENN: Fully Homomorphic Encryption Accelerator with High Energy Efficiency](../publications/Cybersecurity2025)</b><br>
-Zhuoyu Tian; Lei Chen; Shengyu Fan; Xianglong Deng; Rui Hou; Dan Meng; Mingzhe Zhang.
+
+[J15] <b>[TensorFHE+: Fully Homomorphic Encryption Acceleration based on Linear Algebra](../publications/TC2025)</b><br>
+Yintai Sun, Shengyu Fan, Zhenhua Yin, Xinkai Song, Xing Hu, Zidong Du, Qi Guo, Weizhi Xu, Rui Hou, Dan Meng, Song Bian, Mingzhe Zhang.
+<i>IEEE Transactions on Computers</i>, early access.
+
+[J14] <b>[Corrosion Hammer: A Self-Activated Bit-Flip Attack to the Processing-In-Memory Accelerator](../publications/Cybersecurity2025-4)</b><br>
+ZIHAO YANG; Mengxin Zheng; Shengyu Fan; Qian Lou; Rui Hou; Dan Meng; Mingzhe Zhang.
 <i>CyberSecurity</i>.
+
+[J13] <b>[Understanding and Boosting Fully Homomorphic Encryption Applications on GPU](../publications/Cybersecurity2025-3)</b><br>
+Shengyu fan; Xianglong Deng; Xulong Tang; Weizhi Xu; Mingzhe Zhang.
+<i>CyberSecurity</i>.
+
+[J12] <b>[A Survey on Fully Homomorphic Encryption Compilers](../publications/Cybersecurity2025-2)</b><br>
+Zhuoyu Tian; Shengyu Fan; Xianglong Deng; Rui Hou; Dan Meng; Mingzhe Zhang.
+<i>CyberSecurity</i>.
+
+[J11] <b>[RAC-NAF: A Reconfigurable Analog Circuitry for Nonlinear Activation Function Computation in Computing-in-Memory](../publications/jssc2025)</b><br>
+Chenjia Xie, Zhuang Shao, Mingzhe Zhang, Yuan Du, Li Du.
+<i>IEEE Journal of Solid-State Circuits (JSSC)</i>, Vol 60, Issue 10, pp. 3738 - 3748 (2025).
+
+[J10] <b>[An Efficient Delta Compression Framework Seamlessly Integrated into Inline Deduplication](../publications/tos2025)</b><br>
+Yucheng Zhang, Wenbin Zeng, Hong Jiang, Dan Feng, Zichen Xu, Shuibing He, Mingzhe Zhang, Dan Wu.
+<i>ACM Transactions on Storage (TOS)</i>, Vol 21, Issue 4, pp. 1-30 (2025).
+
+[J09] <b>[LP-HENN: Fully Homomorphic Encryption Accelerator with High Energy Efficiency](../publications/Cybersecurity2025-1)</b><br>
+Zhuoyu Tian; Lei Chen; Shengyu Fan; Xianglong Deng; Rui Hou; Dan Meng; Mingzhe Zhang.
+<i>CyberSecurity</i>, Vol 8, Artical No 98 (2025).
 
 ## 2024
 [J08] <b>[Skyway: Accelerate Graph Applications with a Dual-Path Architecture and Fine-Grained Data Management](../publications/JCST2023)</b><br>
