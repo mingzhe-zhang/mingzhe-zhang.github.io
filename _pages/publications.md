@@ -7,6 +7,7 @@ author_profile: true
 # Conference
 
 ## 2026
+
 [C41] <b>[Libra: Pattern-Scheduling Co-Optimization for Cross-Scheme FHE Code Generation over GPGPU](../publications/Security2026)</b><br>
 Song Bian, Yintai Sun, Zian Zhao, Haowen Pan, Mingzhe Zhang, Zhenyu Guan.
 <i>The 35th USENIX Security Symposium</i>. <b>Security 2026</b>.
@@ -187,6 +188,10 @@ Shuai Zhang, Zhiyong Liu, Dongrui Fan, Fonglong Song, <b>Mingzhe Zhang</b>.
 # Journals & Transactions
 
 ## 2025
+
+[J16] <b>[Binary Subscript Representation and Efficient Pipelined Number Theoretic Transform](../publications/TCAD2025)</b><br>
+Bo Zhang, Mingzhe Zhang, Shoumeng Yan.
+<i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>
 
 [J15] <b>[TensorFHE+: Fully Homomorphic Encryption Acceleration based on Linear Algebra](../publications/TC2025)</b><br>
 Yintai Sun, Shengyu Fan, Zhenhua Yin, Xinkai Song, Xing Hu, Zidong Du, Qi Guo, Weizhi Xu, Rui Hou, Dan Meng, Song Bian, Mingzhe Zhang.
