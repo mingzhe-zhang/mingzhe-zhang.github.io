@@ -5,6 +5,8 @@ author_profile: true
 ---
 ## 2025
 
+[2025-12-20] Our collaboration paper "Libra: Pattern-Scheduling Co-Optimization for Cross-Scheme FHE Code Generation over GPGPU" has been accepted by USENIX Security 2026! Congratulations to all collaborators!
+[2025-12-18] Our paper "Binary Subscript Representation and Efficient Pipelined Number Theoretic Transform" has been accepted by the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems! Congratulations to all!
 + [2025-12-08] Our collaboration paper "Xerxes: Extensive Exploration of Scalable Hardware Systems with CXL-Based Simulation Framework" has been accpeted by FAST 2026! Congratulations to all collaborators! 
 + [2025-11-26] <font color="#FF0000">Our paper "Falcon: Algorithm-Hardware Co-Design for Efficient Fully Homomorphic Encryption Accelerator" has been accepted by ASPLOS 2026! This is our 10th paper on FHE acceleration in the top-tier computer architecture conference. Congratulations to all!</font>
 + [2025-11-08] Our paper " An Efficient and Scalable Hardware Architecture for Number
