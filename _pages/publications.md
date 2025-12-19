@@ -7,6 +7,9 @@ author_profile: true
 # Conference
 
 ## 2026
+[C41] <b>[Libra: Pattern-Scheduling Co-Optimization for Cross-Scheme FHE Code Generation over GPGPU](../publications/Security2026)</b><br>
+Song Bian, Yintai Sun, Zian Zhao, Haowen Pan, Mingzhe Zhang, Zhenyu Guan.
+<i>The 35th USENIX Security Symposium</i>. <b>Security 2026</b>.
 
 [C40] <b>[Xerxes: Extensive Exploration of Scalable Hardware Systems with CXL-Based Simulation Framework](../publications/FAST2026)</b><br>
 Yuda An, Shushu Yi, Bo Mao, Qiao Li, Mingzhe Zhang, Diyu Zhou, Ke Zhou, Nong Xiao, Guangyu Sun, Yingwei Luo, Jie Zhang.
