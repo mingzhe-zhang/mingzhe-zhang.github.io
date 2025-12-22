@@ -18,12 +18,13 @@ Theoretical Transform on FPGA with Design Automation" has been accepted by HPCA 
 + [2025-09-10] Our paper "Understanding and Boosting Fully Homomorphic Encryption Applications on GPU" has been accepted by Cybersecurity! Congrats to all collaborators!
 + [2025-09-02] Our paper "A Survey on Fully Homomorphic Encryption Compilers" has been accepted by Cybersecurity! Congrats to all collaborators!
 + [2025-08-20] Our paper "WPC: Weight Plaintext Compression for CNN Inference based on RNS-CKKS" has been accepted by ACM CCS 2025! Congrats to all collaborators!
++ [2025-07-15] Our paper "On Optimizing Intra- and Inter-chiplet Interconnection Networks in Multi-chiplet Systems for Accelerating FHE Encrypted Neural Network Applications" has been accepted by CASES 2025! Congratulations to all collaborators!
 + [2025-07-15] Our two papers ("HAWK: Fully Homomorphic Encryption Accelerator with Fixed-Word Key Decomposition Switching" and "LEGOSim: A Unified Parallel Simulation Framework for Multi-chiplet Heterogeneous Integration") have been accepted by MICRO 2025! Congrats to all collaborators!
 + [2025-07-01] I will serve as the Publicity Co-Chair of ISCA 2026. Please consider submitting your recent works!
 + [2025-04-23] I will serve as a TPC member of ICCD 2025.
-+ [2025-04-16] One collaborative paper, "RAC-NAF: A Reconfigurable Analog Circuitry for Nonlinear Activation Function Computation in Computing-in-Memory" has been accepted by IEEE Journal of Solid State Circuits (JSSC). Congrats to all collaborators!
++ [2025-04-16] One collaborative paper, "RAC-NAF: A Reconfigurable Analog Circuitry for Nonlinear Activation Function Computation in Computing-in-Memory," has been accepted by the IEEE Journal of Solid State Circuits (JSSC). Congrats to all collaborators!
 + [2025-03-22] Our two papers ("FAST: An FHE Accelerator for Scalable-parallelism with Tunable-bit" and "Neo: Towards Efficient Fully Homomorphic Encryption Acceleration using Tensor Core ") and one collaborative paper ("XHarvest: Rethinking High-Performance and Cost-Efficient SSD Architecture with CXL-Driven Harvesting") have been accepted by ISCA 2025! Congrats to all!
-+ [2025-02-15] One collaborative paper, "ALLMod: Exploring Area-Efficiency of LUT-based Large Number Modular Reduction via Hybrid Workloads" has been accepted by DAC 2025! Congrats to all collaborators!
++ [2025-02-15] One collaborative paper, "ALLMod: Exploring Area-Efficiency of LUT-based Large Number Modular Reduction via Hybrid Workload,s" has been accepted by DAC 2025! Congrats to all collaborators!
 + [2025-02-10] I will serve as a TPC member of MICRO 2025.
 + [2025-01-28] Our collaborative paper "An Efficient Delta Compression Framework Seamlessly Integrated into Inline Deduplication" has been accepted by ACM Transactions on Storage. Congrats to all collaborators!
 + [2025-01-23] Our collaborative paper "CipherPrune: Efficient and Scalable Private Transformer Inference" has been accepted by ICLR 2025! Congrats to all collaborators!
@@ -36,9 +37,9 @@ Theoretical Transform on FPGA with Design Automation" has been accepted by HPCA 
 + [2024-07-18] Our paper "Trinity: A General Purpose FHE Accelerator" has been accepted by MICRO 2024! Congrats to all collaborators!
 + [2024-05-24] <font color="#FF0000">I will leave IIE, CAS, and join Computing System Lab at Ant Research as the director.</font>
 + [2024-05-06] I will serve as a TPC member of ICCD 2024.
-+ [2024-04-08] One collaborative paper, "Flagger: Cooperative Acceleration for Large-Scale Cross-Silo Federated Learning Aggregation" has been accepted by ISCA 2024! Congrats to all collaborators!
++ [2024-04-08] One collaborative paper, "Flagger: Cooperative Acceleration for Large-Scale Cross-Silo Federated Learning Aggregation," has been accepted by ISCA 2024! Congrats to all collaborators!
 + [2024-02-27] I will serve as the TPC member of NVMSA 2024.
-+ [2024-02-14] One collaborative paper, "Alchemist: A Unified Accelerator Architecture for Cross-Scheme Fully Homomorphic Encryption" has been accepted by DAC 2024! Congrats to all collaborators!
++ [2024-02-14] One collaborative paper, "Alchemist: A Unified Accelerator Architecture for Cross-Scheme Fully Homomorphic Encryption," has been accepted by DAC 2024! Congrats to all collaborators!
 
 ## 2023
 
