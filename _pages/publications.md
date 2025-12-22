@@ -8,47 +8,51 @@ author_profile: true
 
 ## 2026
 
-[C42] <b>[Libra: Pattern-Scheduling Co-Optimization for Cross-Scheme FHE Code Generation over GPGPU](../publications/Security2026)</b><br>
+[C43] <b>[Libra: Pattern-Scheduling Co-Optimization for Cross-Scheme FHE Code Generation over GPGPU](../publications/Security2026)</b><br>
 Song Bian, Yintai Sun, Zian Zhao, Haowen Pan, Mingzhe Zhang, Zhenyu Guan.
 <i>The 35th USENIX Security Symposium</i>. <b>Security 2026</b>.
 
-[C41] <b>[Xerxes: Extensive Exploration of Scalable Hardware Systems with CXL-Based Simulation Framework](../publications/FAST2026)</b><br>
+[C42] <b>[Xerxes: Extensive Exploration of Scalable Hardware Systems with CXL-Based Simulation Framework](../publications/FAST2026)</b><br>
 Yuda An, Shushu Yi, Bo Mao, Qiao Li, Mingzhe Zhang, Diyu Zhou, Ke Zhou, Nong Xiao, Guangyu Sun, Yingwei Luo, Jie Zhang.
 <i>24th USENIX Conference on File and Storage Technologies</i>. <b>FAST 2026</b>
 
-[C40] <b>[Falcon: Algorithm-Hardware Co-Design for Efficient Fully Homomorphic Encryption Accelerator](../publications/ASPLOS2026)</b><br>
+[C41] <b>[Falcon: Algorithm-Hardware Co-Design for Efficient Fully Homomorphic Encryption Accelerator](../publications/ASPLOS2026)</b><br>
 Liang Kong, Shengyu Fan, Xianglong Deng, Lei Chen, Guang Fan, Yilan Zhu, Geng Yang, Yisong Chang, Shoumeng Yan, Mingzhe Zhang.
 <i>31st International Conference on Architectural Support for Programming Languages and Operating Systems</i>. <b>ASPLOS 2026</b> 
 
-[C39] <b>[An Efficient and Scalable Hardware Architecture for Number Theoretic Transform on FPGA with Design Automation](../publications/HPCA2026)</b><br>
+[C40] <b>[An Efficient and Scalable Hardware Architecture for Number Theoretic Transform on FPGA with Design Automation](../publications/HPCA2026)</b><br>
 Yilan Zhu, Geng Yang, Xingyu Tian, Dilshan Kumarathunga, Liang Kong, Xianglong Deng, Shengyu Fan, Guang Fan, Guiming Shi, Lei Chen, Bo Zhang, Yisong Chang, Shoumeng Yan, Zhenman Fang, Mingzhe Zhang.
 <i>32nd International Symposium on High-Performance Computer Architecture</i>.<b>HPCA 2026</b>
 
-[C38] <b>[FHEFusion: Enabling Operator Fusion in FHE Compilers for Depth-Efficient DNN Inference](../publications/CGO2026)</b><br>
+[C39] <b>[FHEFusion: Enabling Operator Fusion in FHE Compilers for Depth-Efficient DNN Inference](../publications/CGO2026)</b><br>
 Tianxiang Sui, Jianxin Lai, Long Li, Peng Yuan, Yan Liu, Qing Zhu, Xiaojing Zhang, Linjie Xiao, Mingzhe Zhang, Jingling Xue.
 <i>24th IEEE/ACM International Symposium on Code Generation and Optimization</i>. <b>CGO 2026</b>
 
 ## 2025
 
-[C37] <b>[Analysis of Bit-Flip Attacks on Encrypted Neural Networks](../publications/ICPADS2025)</b><br>
+[C38] <b>[Analysis of Bit-Flip Attacks on Encrypted Neural Networks](../publications/ICPADS2025)</b><br>
 Zihao Yang, Yilan Zhu, Rui Hou, Dan Meng, Shengyu Fan, Mingzhe Zhang.
 <i>31st IEEE International Conference on Parallel and Distributed Systems</i>. <b>ICPADS 2025</b>
 
-[C36] <b>[WPC: Weight Plaintext Compression for CNN Inference based on RNS-CKKS](../publications/CCS2025)</b><br>
+[C37] <b>[WPC: Weight Plaintext Compression for CNN Inference based on RNS-CKKS](../publications/CCS2025)</b><br>
 Guiming Shi, Yuchen Wei, Shengyu Fan, Xianglong Deng, Liang Kong, Xianbin LI, Jingwei Cai, Shuwen Deng, Mingzhe Zhang, Kaisheng Ma.
 <i>32nd ACM Conference on Computer and Communications Security</i>. <b>CCS 2025</b>
 
-[C35] <b>[On Optimizing Intra- and Inter-chiplet Interconnection Networks in Multi-chiplet Systems for Accelerating FHE Encrypted Neural Network Applications](../publications/CASES2025)</b><br>
+[C36] <b>[On Optimizing Intra- and Inter-chiplet Interconnection Networks in Multi-chiplet Systems for Accelerating FHE Encrypted Neural Network Applications](../publications/CASES2025)</b><br>
 Zewei Lai, Jinhui Ye, Xiaohang Wang, Zheang Fu, Amit Kumar Singh, Yingtao Jiang, Kui Ren, Mei Yang, Sihai Qiu, Xiaodong Li, Xin Tang, Jie Song, Mingzhe Zhang.
 <i>the 14th International Conference on Compilers, Architectures, and Synthesis for Embedded Systems</i>. <b>CASES 2025</b>
 
-[C34] <b>[LEGOSim: A Unified Parallel Simulation Framework for Multi-chiplet Heterogeneous Integration](../publications/MICRO2025-2)</b><br>
+[C35] <b>[LEGOSim: A Unified Parallel Simulation Framework for Multi-chiplet Heterogeneous Integration](../publications/MICRO2025-2)</b><br>
 Tiantian Lin, Cheng Qiu, Xiaohang Wang, Ling Wang, Zhulin Zheng, Yingtao Jiang, Amit Kumar Singh, Jieming Yin, Sihai Qiu, Xiaodong Li, Xin Tang, Jie Song, Mingzhe Zhang, Kui Ren.
 <i>58th IEEE/ACM International Symposium on Microarchitecture</i>. <b>MICRO 2025</b> 
 
-[C33] <b>[HAWK: Fully Homomorphic Encryption Accelerator with Fixed-Word Key Decomposition Switching](../publications/MICRO2025-1)</b><br>
+[C34] <b>[HAWK: Fully Homomorphic Encryption Accelerator with Fixed-Word Key Decomposition Switching](../publications/MICRO2025-1)</b><br>
 Liang Kong, Shengyu Fan, Xianglong Deng, Guang Fan, Lei Chen, Guiming Shi, Yilan Zhu, Geng Yang, Shoumeng Yan, Mingzhe Zhang.
 <i>58th IEEE/ACM International Symposium on Microarchitecture</i>. <b>MICRO 2025</b>
+
+[C33] <b>[The Bleak Future of Fully Homomorphic Encryption: from a Storage I/O Perspective](../publications/APPT2025)</b><br>
+Lei Chen, Erci Xu, Yiming Sun, Shengyu Fan, Xianglong Deng, Guiming Shi, Guang Fan, Liang Kong, Yilan Zhu, Shoumeng Yan, Mingzhe Zhang.
+<i>16th International Symposium on Advanced Parallel Processing Technologies</i>. <b>APPT 2025</b>
 
 [C32] <b>[XHarvest: Rethinking High-Performance and Cost-Efficient SSD Architecture with CXL-Driven Harvesting](../publications/ISCA2025-3)</b><br>
 Li Peng, Wenbo Wu, Shushu Yi, Xianzhang Chen, Chenxi Wang, Shengwen Liang, Zhe Wang, Nong Xiao, Qiao Li, Mingzhe Zhang, Jie Zhang.
