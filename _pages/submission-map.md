@@ -8,7 +8,7 @@ author_profile: true
 
 [An alternative conference list with countdown. (in chinese)](https://ccfddl.github.io)
 
-<font size="4" color="grey">[Last Update: Nov-25-2025]</font>
+<font size="4" color="grey">[Last Update: Jan-20-2026]</font>
 
 <table align="center">
 	<tr>
@@ -85,7 +85,7 @@ author_profile: true
 	</tr>
 	<tr>
 		<td>SIGCOMM</td>
-		<td></td>
+		<td><a href="http://conferences.sigcomm.org/sigcomm/2026/" title="date: 2026-08-17..21, notify: ">2026-01-30(abstract)<br>2026-02-06(full)<br>Denver, US</a></td>
 		<td><a href="http://conferences.sigcomm.org/sigcomm/2025/" title="date: 2025-09-08..11, notify: 2025-04-29">2025-01-24(abstract)<br>2025-01-31(full)<br>Coimbra, Portugal</a></td>
 		<td><a href="http://conferences.sigcomm.org/sigcomm/2024/" title="date: 2024-08-04..08, notify: 2024-05-07">2024-01-26(abstract)<br>2024-02-02(full)<br>Sydney, Australia</a></td>
 		<td><a href="http://conferences.sigcomm.org/sigcomm/2023/" title="date: 2023-09-10..14, notify: 2023-05-20">2023-02-08(abstract)<br>2023-02-15(full)<br>New York City, US</a></td>
@@ -127,9 +127,9 @@ author_profile: true
 		<td><a href="https://europar2016.inria.fr/" title="date: 2016-08-22..26, notify: 2016-04-24">2016-02-06<br>Grenoble, France</a></td>
 	</tr>
 	<tr>
-		<td rowspan="2"><b><i>Mar</i></b></td>
+		<td rowspan="3"><b><i>Mar</i></b></td>
 		<td>ISLPED</td>
-		<td></td>
+		<td><a href="http://www.islped.org/2026/" title="date: 2026-08-05..07, notify: 2026-05-18">2026-03-02(abstract)<br>2026-03-09(full)<br>Chicago, US</a></td>
 		<td><a href="http://www.islped.org/2025/" title="date: 2025-08-04..06, notify: 2025-05-19">2025-03-03(abstract)<br>2025-03-10(full)<br>Univ. of Iceland, Iceland</a></td>
 		<td><a href="http://www.islped.org/2024/" title="date: 2024-08-05..07, notify: 2024-05-20">2024-03-04(abstract)<br>2024-03-11(full)<br>Newport Beach, CA</a></td>
 		<td><a href="http://www.islped.org/2023/" title="date: 2023-08-07..08, notify: 2023-05-22">2023-03-06(abstract)<br>2023-03-13(full)<br>Vienna, Austria</a></td>
@@ -156,9 +156,23 @@ author_profile: true
 		<td>-</td>
 	</tr>
 	<tr>
-		<td rowspan="8"><b><i>Apr</i></b></td>
+		<td>SOSP</td>
+		<td><a href="https://sigops.org/s/conferences/sosp/2026/" title="date: 2026-09-29..02, notify: 2026-07-03"><nobr>2026-03-26(abstract)</nobr><br>2026-04-01(full)<br>Prague, Czechia</a></td>
+		<td><a href="https://sigops.org/s/conferences/sosp/2025/index.html" title="date: 2025-10-13..16, notify: 2025-07-15"><nobr>2025-04-10(abstract)</nobr><br>2025-04-17(full)<br>Seoul, Republic of Korea</a></td>
+		<td><a href="https://sigops.org/s/conferences/sosp/2024/index.html" title="date: 2024-11-04..06, notify: 2024-08-05"><nobr>2024-04-12(abstract)</nobr><br>2024-04-19(full)<br>Austin, TX</a></td>
+		<td><a href="https://sosp2023.mpi-sws.org/" title="date: 2023-10-23..26, notify: 2023-07-16"><nobr>2023-04-10(abstract)</nobr><br>2023-04-17(full)<br>Koblenz, Germany</a></td>
+		<td>-</td>
+		<td><a href="https://sosp2021.mpi-sws.org/" title="date: 2021-10-25..28, notify: 2021-08-09"><nobr>2021-04-30(abstract)</nobr><br>2021-05-07(full)<br>Koblenz, Germany</a></td>
+		<td align="center">-</td>
+		<td><a href="https://www.sigops.org/sosp/sosp19/" title="date: 2019-10-07..09, notify: 2019-08-30">2019-04-24<br>Ontario, Canada</a></td>
+		<td align="center">-</td>
+		<td><a href="https://www.sigops.org/sosp/sosp17/" title="date: 2017-10-29..31, notify: 2017-08-07">2017-04-21<br>Shanghai, China</a></td>
+		<td align="center">-</td>
+	</tr>
+	<tr>
+		<td rowspan="7"><b><i>Apr</i></b></td>
 		<td>SC</td>
-		<td></td>
+		<td><a href="https://sc26.supercomputing.org" title="date: 2026-11-15..20, notify: 2026-07-01"><nobr>2026-04-01(abstract)</nobr><br>2026-04-08(full)<br>Chicago, IL</a></td>
 		<td><a href="https://sc25.supercomputing.org" title="date: 2025-11-16..21, notify: 2025-06-27"><nobr>2025-04-07(abstract)</nobr><br>2025-04-14(full)<br>St. Louis, MO</a></td>
 		<td><a href="https://sc24.supercomputing.org" title="date: 2024-11-17..22, notify: 2024-06-14"><nobr>2024-03-26(abstract)</nobr><br>2024-04-02(full)<br>ATLANTA, GA</a></td>
 		<td><a href="https://sc23.supercomputing.org" title="date: 2023-11-12..17, notify: 2023-06-16"><nobr>2023-03-30(abstract)</nobr><br>2023-04-06(full)<br>Denver, CO</a></td>
@@ -183,20 +197,6 @@ author_profile: true
 		<td><a href="http://www.microarch.org/micro51/" title="date: 2018-10-20..24, notify: 2018-07-18">2018-04-06<br>Fukuoka City,<br>Japan</a></td>
 		<td><a href="http://www.microarch.org/micro50/" title="date: 2017-10-14..18, notify: 2017-07-05">2017-04-04<br>Boston, MA</a></td>
 		<td><a href="http://www.microarch.org/micro49/" title="date: 2016-10-15..19, notify: 2016-06-25">2016-04-10<br>Taipei, Taiwan</a></td>
-	</tr>
-	<tr>
-		<td>SOSP</td>
-		<td></td>
-		<td><a href="https://sigops.org/s/conferences/sosp/2025/index.html" title="date: 2025-10-13..16, notify: 2025-07-15"><nobr>2025-04-10(abstract)</nobr><br>2025-04-17(full)<br>Seoul, Republic of Korea</a></td>
-		<td><a href="https://sigops.org/s/conferences/sosp/2024/index.html" title="date: 2024-11-04..06, notify: 2024-08-05"><nobr>2024-04-12(abstract)</nobr><br>2024-04-19(full)<br>Austin, TX</a></td>
-		<td><a href="https://sosp2023.mpi-sws.org/" title="date: 2023-10-23..26, notify: 2023-07-16"><nobr>2023-04-10(abstract)</nobr><br>2023-04-17(full)<br>Koblenz, Germany</a></td>
-		<td>-</td>
-		<td><a href="https://sosp2021.mpi-sws.org/" title="date: 2021-10-25..28, notify: 2021-08-09"><nobr>2021-04-30(abstract)</nobr><br>2021-05-07(full)<br>Koblenz, Germany</a></td>
-		<td align="center">-</td>
-		<td><a href="https://www.sigops.org/sosp/sosp19/" title="date: 2019-10-07..09, notify: 2019-08-30">2019-04-24<br>Ontario, Canada</a></td>
-		<td align="center">-</td>
-		<td><a href="https://www.sigops.org/sosp/sosp17/" title="date: 2017-10-29..31, notify: 2017-08-07">2017-04-21<br>Shanghai, China</a></td>
-		<td align="center">-</td>
 	</tr>
 	<tr>
 		<td>PACT</td>
