@@ -4,9 +4,22 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
+
 # Conference
 
 ## 2026
+
+[C43] <b>[A Bitwidth-Flexible Modular Multiplier with Shift-Free Accumulation for Efficient NTT Acceleration in FHE](../publications/ISCAS2026)</b>
+Zihao Yang, Dian Jiao, Shengyu Fan, Xianglong Deng, Rui Hou, Mingzhe Zhang.
+<i>2026 IEEE International Symposium on Circuits and Systems</i>. <b>ISCAS 2026</b>
+
+[C42] <b>[A Framework for Developing and Optimizing Fully Homomorphic Encryption Programs on GPUs](../publications/ASPLOS2026-2)</b><br>
+Zhuoran Ji, Jianyu Zhao, Guang Fan, Mingzhe Zhang, Shoumeng Yan, Xueyu Wu, Lei Ju.
+<i>31st International Conference on Architectural Support for Programming Languages and Operating Systems</i>. <b>ASPLOS 2026</b>
+
+[C41] <b>[Libra: Pattern-Scheduling Co-Optimization for Cross-Scheme FHE Code Generation over GPGPU](../publications/Security2026)</b><br>
+Song Bian, Yintai Sun, Zian Zhao, Haowen Pan, Mingzhe Zhang, Zhenyu Guan.
+<i>USENIX Security '26</i>. <b>Security 2026</b>
 
 [C40] <b>[Xerxes: Extensive Exploration of Scalable Hardware Systems with CXL-Based Simulation Framework](../publications/FAST2026)</b><br>
 Yuda An, Shushu Yi, Bo Mao, Qiao Li, Mingzhe Zhang, Diyu Zhou, Ke Zhou, Nong Xiao, Guangyu Sun, Yingwei Luo, Jie Zhang.
@@ -183,23 +196,33 @@ Shuai Zhang, Zhiyong Liu, Dongrui Fan, Fonglong Song, <b>Mingzhe Zhang</b>.
 
 # Journals & Transactions
 
+## 2026
+
+[J17] <b>[Binary Subscript Representation and Efficient Pipelined Number Theoretic Transform](../publications/TCAD2026)</b><br>
+Bo Zhang, Mingzhe Zhang, Shoumeng Yan.
+<i>Exploration of Karatsuba Algorithm for Efficient Barrett Modular Multiplication</i>.
+
 ## 2025
 
-[J15] <b>[TensorFHE+: Fully Homomorphic Encryption Acceleration based on Linear Algebra](../publications/TC2025)</b><br>
+[J16] <b>[TensorFHE+: Fully Homomorphic Encryption Acceleration based on Linear Algebra](../publications/TC2025)</b><br>
 Yintai Sun, Shengyu Fan, Zhenhua Yin, Xinkai Song, Xing Hu, Zidong Du, Qi Guo, Weizhi Xu, Rui Hou, Dan Meng, Song Bian, Mingzhe Zhang.
 <i>IEEE Transactions on Computers</i>, early access.
 
-[J14] <b>[Corrosion Hammer: A Self-Activated Bit-Flip Attack to the Processing-In-Memory Accelerator](../publications/Cybersecurity2025-4)</b><br>
+[J15] <b>[Corrosion Hammer: A Self-Activated Bit-Flip Attack to the Processing-In-Memory Accelerator](../publications/Cybersecurity2025-4)</b><br>
 ZIHAO YANG; Mengxin Zheng; Shengyu Fan; Qian Lou; Rui Hou; Dan Meng; Mingzhe Zhang.
 <i>CyberSecurity</i>.
 
-[J13] <b>[Understanding and Boosting Fully Homomorphic Encryption Applications on GPU](../publications/Cybersecurity2025-3)</b><br>
+[J14] <b>[Understanding and Boosting Fully Homomorphic Encryption Applications on GPU](../publications/Cybersecurity2025-3)</b><br>
 Shengyu fan; Xianglong Deng; Xulong Tang; Weizhi Xu; Mingzhe Zhang.
 <i>CyberSecurity</i>.
 
-[J12] <b>[A Survey on Fully Homomorphic Encryption Compilers](../publications/Cybersecurity2025-2)</b><br>
+[J13] <b>[A Survey on Fully Homomorphic Encryption Compilers](../publications/Cybersecurity2025-2)</b><br>
 Zhuoyu Tian; Shengyu Fan; Xianglong Deng; Rui Hou; Dan Meng; Mingzhe Zhang.
 <i>CyberSecurity</i>.
+
+[J12] <b>[Exploration of Karatsuba Algorithm for Efficient Barrett Modular Multiplication](../publications/tcad2025)</b><br>
+Bo Zhang, Mingzhe Zhang, Shoumeng Yan.
+<i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>.
 
 [J11] <b>[RAC-NAF: A Reconfigurable Analog Circuitry for Nonlinear Activation Function Computation in Computing-in-Memory](../publications/jssc2025)</b><br>
 Chenjia Xie, Zhuang Shao, Mingzhe Zhang, Yuan Du, Li Du.

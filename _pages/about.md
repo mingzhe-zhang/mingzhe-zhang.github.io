@@ -35,13 +35,13 @@ I do research in Computer Architecture and Bigdata-oriented System, including:
 
 ## Updates
 
++ [2026-01-20] Our paper "A Bitwidth-Flexible Modular Multiplier with Shift-Free Accumulation for Efficient NTT Acceleration in FHE" has been accepted by ISCAS 2026! Congrats to all!
++ [2026-01-17] Our collaboration paper "A Framework for Developing and Optimizing Fully Homomorphic Encryption Programs on GPUs" has been accepted by ASPLOS 2026! Congratulations to all collaborators!
++ [2025-12-20] One collaboration paper "Libra: Pattern-Scheduling Co-Optimization for Cross-Scheme FHE Code Generation over GPGPU" has been accepted by USENIX Security 2026! Congratulations to all collaborators!
++ [2025-12-18] Our paper "Binary Subscript Representation and Efficient Pipelined Number Theoretic Transform" has been accpeted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD). Congrats to all!
 + [2025-12-08] Our collaboration paper "Xerxes: Extensive Exploration of Scalable Hardware Systems with CXL-Based Simulation Framework" has been accpeted by FAST 2026! Congratulations to all collaborators! 
 + [2025-11-26] <font color="#FF0000">Our paper "Falcon: Algorithm-Hardware Co-Design for Efficient Fully Homomorphic Encryption Accelerator" has been accepted by ASPLOS 2026! This is our 10th paper on FHE acceleration in the top-tier computer architecture conference. Congratulations to all!</font>
-+ [2025-11-08] Our paper "An Efficient and Scalable Hardware Architecture for Number
-Theoretic Transform on FPGA with Design Automation" has been accepted by HPCA 2026! Congrats to all!
-+ [2025-11-08] Our paper " FHEFusion: Enabling Operator Fusion in FHE Compilers for Depth-Efficient DNN Inference" has been accepted by CGO 2026! Congrats to all collaborators!
-+ [2025-10-29] Our paper " TensorFHE+: Fully Homomorphic Encryption Acceleration based on Linear Algebra", which is the extension and enhanced version of TensorFHE (HPCA 2023), has been accepted by IEEE Transaction on Computers! Congrats to all collaborators!
-+ [2025-10-23] Our paper " Analysis of Bit-Flip Attacks on Encrypted Neural Networks" has been accepted by ICPADS 2025! Congrats to all collaborators!
+
 
 [More...](../news/all-news)
 

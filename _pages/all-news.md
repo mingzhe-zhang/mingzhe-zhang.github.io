@@ -3,8 +3,15 @@ title: "News and Updates"
 permalink: /news/all-news
 author_profile: true
 ---
+## 2026
+
++ [2026-01-20] Our paper "A Bitwidth-Flexible Modular Multiplier with Shift-Free Accumulation for Efficient NTT Acceleration in FHE" has been accepted by ISCAS 2026! Congrats to all!
++ [2026-01-17] Our collaboration paper "A Framework for Developing and Optimizing Fully Homomorphic Encryption Programs on GPUs" has been accepted by ASPLOS 2026! Congratulations to all collaborators!
+
 ## 2025
 
++ [2025-12-20] One collaboration paper "Libra: Pattern-Scheduling Co-Optimization for Cross-Scheme FHE Code Generation over GPGPU" has been accepted by USENIX Security 2026! Congratulations to all collaborators!
++ [2025-12-18] Our paper "Binary Subscript Representation and Efficient Pipelined Number Theoretic Transform" has been accpeted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD). Congrats to all!
 + [2025-12-08] Our collaboration paper "Xerxes: Extensive Exploration of Scalable Hardware Systems with CXL-Based Simulation Framework" has been accpeted by FAST 2026! Congratulations to all collaborators! 
 + [2025-11-26] <font color="#FF0000">Our paper "Falcon: Algorithm-Hardware Co-Design for Efficient Fully Homomorphic Encryption Accelerator" has been accepted by ASPLOS 2026! This is our 10th paper on FHE acceleration in the top-tier computer architecture conference. Congratulations to all!</font>
 + [2025-11-08] Our paper " An Efficient and Scalable Hardware Architecture for Number
@@ -17,6 +24,7 @@ Theoretic Transform on FPGA with Design Automation" has been accepted by HPCA 20
 + [2025-09-02] Our paper "A Survey on Fully Homomorphic Encryption Compilers" has been accepted by Cybersecurity! Congrats to all collaborators!
 + [2025-08-20] Our paper "WPC: Weight Plaintext Compression for CNN Inference based on RNS-CKKS" has been accepted by ACM CCS 2025! Congrats to all collaborators!
 + [2025-07-15] Our two papers ("HAWK: Fully Homomorphic Encryption Accelerator with Fixed-Word Key Decomposition Switching" and "LEGOSim: A Unified Parallel Simulation Framework for Multi-chiplet Heterogeneous Integration") have been accepted by MICRO 2025! Congrats to all collaborators!
++ [2025-07-13] Our paper "Exploration of Karatsuba Algorithm for Efficient Barrett Modular Multiplication" has been accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD). Congrats to all!
 + [2025-07-01] I will serve as the Publicity Co-Chair of ISCA 2026. Please consider to submit your recent works!
 + [2025-04-23] I will serve as the TPC member of ICCD 2025.
 + [2025-04-16] One collaborative paper "RAC-NAF: A Reconfigurable Analog Circuitry for Nonlinear Activation Function Computation in Computing-in-Memory" has been accepted by IEEE Journal of Solid State Circuits (JSSC). Congrats to all collaborators!
