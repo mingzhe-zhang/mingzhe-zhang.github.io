@@ -10,20 +10,28 @@ author_profile: true
 
 ## 2025
 
+<<<<<<< HEAD
 + [2025-12-20] One collaboration paper "Libra: Pattern-Scheduling Co-Optimization for Cross-Scheme FHE Code Generation over GPGPU" has been accepted by USENIX Security 2026! Congratulations to all collaborators!
 + [2025-12-18] Our paper "Binary Subscript Representation and Efficient Pipelined Number Theoretic Transform" has been accpeted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD). Congrats to all!
 + [2025-12-08] Our collaboration paper "Xerxes: Extensive Exploration of Scalable Hardware Systems with CXL-Based Simulation Framework" has been accpeted by FAST 2026! Congratulations to all collaborators! 
+=======
++ [2025-12-20] Our collaboration paper "Libra: Pattern-Scheduling Co-Optimization for Cross-Scheme FHE Code Generation over GPGPU" has been accepted by USENIX Security 2026! Congratulations to all collaborators!
++ [2025-12-18] Our paper "Binary Subscript Representation and Efficient Pipelined Number Theoretic Transform" has been accepted by the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems! Congratulations to all!
++ [2025-12-08] Our collaboration paper "Xerxes: Extensive Exploration of Scalable Hardware Systems with CXL-Based Simulation Framework" has been accepted by FAST 2026! Congratulations to all collaborators! 
+>>>>>>> 42820b61b21fc9a321f9f306d6eb13c2930c2240
 + [2025-11-26] <font color="#FF0000">Our paper "Falcon: Algorithm-Hardware Co-Design for Efficient Fully Homomorphic Encryption Accelerator" has been accepted by ASPLOS 2026! This is our 10th paper on FHE acceleration in the top-tier computer architecture conference. Congratulations to all!</font>
 + [2025-11-08] Our paper " An Efficient and Scalable Hardware Architecture for Number
-Theoretic Transform on FPGA with Design Automation" has been accepted by HPCA 2026! Congrats to all!
+Theoretical Transform on FPGA with Design Automation" has been accepted by HPCA 2026! Congrats to all!
 + [2025-11-08] Our paper " FHEFusion: Enabling Operator Fusion in FHE Compilers for Depth-Efficient DNN Inference" has been accepted by CGO 2026! Congrats to all collaborators!
-+ [2025-10-29] Our paper " TensorFHE+: Fully Homomorphic Encryption Acceleration based on Linear Algebra", which is the extension and enhanced version of TensorFHE (HPCA 2023), has been accepted by IEEE Transaction on Computers! Congrats to all collaborators!
++ [2025-10-29] Our paper " TensorFHE+: Fully Homomorphic Encryption Acceleration based on Linear Algebra", which is the extension and enhanced version of TensorFHE (HPCA 2023), has been accepted by IEEE Transactions on Computers! Congrats to all collaborators!
 + [2025-10-23] Our paper " Analysis of Bit-Flip Attacks on Encrypted Neural Networks" has been accepted by ICPADS 2025! Congrats to all collaborators!
 + [2025-09-26] Our paper "Corrosion Hammer: A Self-Activated Bit-Flip Attack to the Processing-In-Memory Accelerator" has been accepted by Cybersecurity! Congrats to all collaborators!
 + [2025-09-10] Our paper "Understanding and Boosting Fully Homomorphic Encryption Applications on GPU" has been accepted by Cybersecurity! Congrats to all collaborators!
 + [2025-09-02] Our paper "A Survey on Fully Homomorphic Encryption Compilers" has been accepted by Cybersecurity! Congrats to all collaborators!
 + [2025-08-20] Our paper "WPC: Weight Plaintext Compression for CNN Inference based on RNS-CKKS" has been accepted by ACM CCS 2025! Congrats to all collaborators!
++ [2025-07-15] Our paper "On Optimizing Intra- and Inter-chiplet Interconnection Networks in Multi-chiplet Systems for Accelerating FHE Encrypted Neural Network Applications" has been accepted by CASES 2025! Congratulations to all collaborators!
 + [2025-07-15] Our two papers ("HAWK: Fully Homomorphic Encryption Accelerator with Fixed-Word Key Decomposition Switching" and "LEGOSim: A Unified Parallel Simulation Framework for Multi-chiplet Heterogeneous Integration") have been accepted by MICRO 2025! Congrats to all collaborators!
+<<<<<<< HEAD
 + [2025-07-13] Our paper "Exploration of Karatsuba Algorithm for Efficient Barrett Modular Multiplication" has been accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD). Congrats to all!
 + [2025-07-01] I will serve as the Publicity Co-Chair of ISCA 2026. Please consider to submit your recent works!
 + [2025-04-23] I will serve as the TPC member of ICCD 2025.
@@ -31,6 +39,15 @@ Theoretic Transform on FPGA with Design Automation" has been accepted by HPCA 20
 + [2025-03-22] Our two papers ("FAST:An FHE Accelerator for Scalable-parallelism with Tunable-bit" and "Neo: Towards Efficient Fully Homomorphic Encryption Acceleration using Tensor Core ") and one collaborative paper ("XHarvest: Rethinking High-Performance and Cost-Efficient SSD Architecture with CXL-Driven Harvesting") have been accepted by ISCA 2025! Congrats to all!
 + [2025-02-15] One collaborative paper "ALLMod: Exploring Area-Efficiency of LUT-based Large Number Modular Reduction via Hybrid Workloads" has been accepted by DAC 2025! Congrats to all collaborators!
 + [2025-02-10] I will serve as the TPC member of MICRO 2025.
+=======
++ [2025-07-01] I will serve as the Publicity Co-Chair of ISCA 2026. Please consider submitting your recent works!
++ [2025-05-15] Our paper "The Bleak Future of Fully Homomorphic Encryption: from a Storage I/O Perspective" has been accepted by APPT 2025! Congrats to all collaborators!
++ [2025-04-23] I will serve as a TPC member of ICCD 2025.
++ [2025-04-16] One collaborative paper, "RAC-NAF: A Reconfigurable Analog Circuitry for Nonlinear Activation Function Computation in Computing-in-Memory," has been accepted by the IEEE Journal of Solid State Circuits (JSSC). Congrats to all collaborators!
++ [2025-03-22] Our two papers ("FAST: An FHE Accelerator for Scalable-parallelism with Tunable-bit" and "Neo: Towards Efficient Fully Homomorphic Encryption Acceleration using Tensor Core ") and one collaborative paper ("XHarvest: Rethinking High-Performance and Cost-Efficient SSD Architecture with CXL-Driven Harvesting") have been accepted by ISCA 2025! Congrats to all!
++ [2025-02-15] One collaborative paper, "ALLMod: Exploring Area-Efficiency of LUT-based Large Number Modular Reduction via Hybrid Workload,s" has been accepted by DAC 2025! Congrats to all collaborators!
++ [2025-02-10] I will serve as a TPC member of MICRO 2025.
+>>>>>>> 42820b61b21fc9a321f9f306d6eb13c2930c2240
 + [2025-01-28] Our collaborative paper "An Efficient Delta Compression Framework Seamlessly Integrated into Inline Deduplication" has been accepted by ACM Transactions on Storage. Congrats to all collaborators!
 + [2025-01-23] Our collaborative paper "CipherPrune: Efficient and Scalable Private Transformer Inference" has been accepted by ICLR 2025! Congrats to all collaborators!
 + [2025-01-08] Our paper "LP-HENN: Fully Homomorphic Encryption Accelerator with High Energy Efficiency" has been accepted by Cybersecurity! Congrats to all collaborators!
@@ -38,13 +55,13 @@ Theoretic Transform on FPGA with Design Automation" has been accepted by HPCA 20
 ## 2024
 
 + [2024-11-03] Our paper "WarpDrive: GPU-Based Fully Homomorphic Encryption Acceleration Leveraging Tensor and CUDA Cores" has been accepted by HPCA 2025! Congrats to all collaborators!
-+ [2024-09-25] I will serve as the TPC member of ISCA 2025.
++ [2024-09-25] I will serve as a TPC member of ISCA 2025.
 + [2024-07-18] Our paper "Trinity: A General Purpose FHE Accelerator" has been accepted by MICRO 2024! Congrats to all collaborators!
-+ [2024-05-24] <font color="#FF0000">I will leave IIE, CAS and join Computing System Lab at Ant Research as the director.</font>
-+ [2024-05-06] I will serve as the TPC member of ICCD 2024.
-+ [2024-04-08] One collaborative paper "Flagger: Cooperative Acceleration for Large-Scale Cross-Silo Federated Learning Aggregation" has been accepted by ISCA 2024! Congrats to all collaborators!
++ [2024-05-24] <font color="#FF0000">I will leave IIE, CAS, and join Computing System Lab at Ant Research as the director.</font>
++ [2024-05-06] I will serve as a TPC member of ICCD 2024.
++ [2024-04-08] One collaborative paper, "Flagger: Cooperative Acceleration for Large-Scale Cross-Silo Federated Learning Aggregation," has been accepted by ISCA 2024! Congrats to all collaborators!
 + [2024-02-27] I will serve as the TPC member of NVMSA 2024.
-+ [2024-02-14] One collaborative paper "Alchemist: A Unified Accelerator Architecture for Cross-Scheme Fully Homomorphic Encryption" has been accepted by DAC 2024! Congrats to all collaborators!
++ [2024-02-14] One collaborative paper, "Alchemist: A Unified Accelerator Architecture for Cross-Scheme Fully Homomorphic Encryption," has been accepted by DAC 2024! Congrats to all collaborators!
 
 ## 2023
 
@@ -53,7 +70,7 @@ Theoretic Transform on FPGA with Design Automation" has been accepted by HPCA 20
 + [2023-10-25] I will serve as the ERC member of ISCA 2024.
 + [2023-07-28] I will serve as the TPC member of HPCA 2024.
 + [2023-06-21] I will serve as the TPC member of ICCD 2023.
-+ [2023-05-04] I will serve as the TPC member of 24th Chinasys.
++ [2023-05-04] I will serve as the TPC member of the 24th Chinasys.
 + [2023-02-27] Our collaborative paper "Skyway: Accelerate Graph Applications with a Dual-Path Architecture and Fine-Grained Data Management" has been accepted by Journal of Computer Science and Technology (JCST). Congrats to all collaborators!
 + [2023-02-14] I will serve as the TPC member of NVMSA 2023.
 
@@ -62,8 +79,8 @@ Theoretic Transform on FPGA with Design Automation" has been accepted by HPCA 20
 + [2022-11-16] Welcome Dian Jiao (upcoming M.Sc student, UG from Peking University) to join our team as the Research Intern!
 + [2022-11-07] Welcome Yintai Sun (PG student from Shandong Normal University) to join our team as the Research Intern!
 + [2022-10-18] Our paper "[TensorFHE: Achieving Practical Computation on Encrypted Data Using GPGPU](../publications/HPCA2023-1)" and "[Poseidon: Practical Homomorphic Encryption Accelerator](../publications/HPCA2023-2)" have been accepted by HPCA 2023. Congrats to all!
-+ [2022-09-01] Welcome Xianglong Deng (B.E. from UESTC, former UG research intern) to join our team as the Ph.D. student!
-+ [2022-09-01] Welcome Zhuoyu Tian and Zihao Yang (both are B.E. from Tsinghua University) to join our team as the M.Sc. students!
++ [2022-09-01] Welcome Xianglong Deng (B.E. from UESTC, former UG research intern) to join our team as a Ph.D. student!
++ [2022-09-01] Welcome Zhuoyu Tian and Zihao Yang (both are B.E. from Tsinghua University) to join our team as M.Sc. students!
 + [2022-08-23] Our collaborative paper "[Enhancing GPU Performance via Neighboring Directory Table Based Inter-TLB Sharing](../publications/ICCD2022)" has been accepted by ICCD 2022. Congrats to all!
 + [2022-05-06] I will serve as the ERC member of HPCA 2023.
 + [2022-04-10] I will serve as the Program Committee member of ICCD 2022.
