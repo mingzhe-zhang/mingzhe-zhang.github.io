@@ -10,15 +10,9 @@ author_profile: true
 
 ## 2025
 
-<<<<<<< HEAD
-+ [2025-12-20] One collaboration paper "Libra: Pattern-Scheduling Co-Optimization for Cross-Scheme FHE Code Generation over GPGPU" has been accepted by USENIX Security 2026! Congratulations to all collaborators!
-+ [2025-12-18] Our paper "Binary Subscript Representation and Efficient Pipelined Number Theoretic Transform" has been accpeted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD). Congrats to all!
-+ [2025-12-08] Our collaboration paper "Xerxes: Extensive Exploration of Scalable Hardware Systems with CXL-Based Simulation Framework" has been accpeted by FAST 2026! Congratulations to all collaborators! 
-=======
 + [2025-12-20] Our collaboration paper "Libra: Pattern-Scheduling Co-Optimization for Cross-Scheme FHE Code Generation over GPGPU" has been accepted by USENIX Security 2026! Congratulations to all collaborators!
 + [2025-12-18] Our paper "Binary Subscript Representation and Efficient Pipelined Number Theoretic Transform" has been accepted by the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems! Congratulations to all!
 + [2025-12-08] Our collaboration paper "Xerxes: Extensive Exploration of Scalable Hardware Systems with CXL-Based Simulation Framework" has been accepted by FAST 2026! Congratulations to all collaborators! 
->>>>>>> 42820b61b21fc9a321f9f306d6eb13c2930c2240
 + [2025-11-26] <font color="#FF0000">Our paper "Falcon: Algorithm-Hardware Co-Design for Efficient Fully Homomorphic Encryption Accelerator" has been accepted by ASPLOS 2026! This is our 10th paper on FHE acceleration in the top-tier computer architecture conference. Congratulations to all!</font>
 + [2025-11-08] Our paper " An Efficient and Scalable Hardware Architecture for Number
 Theoretical Transform on FPGA with Design Automation" has been accepted by HPCA 2026! Congrats to all!
@@ -31,7 +25,6 @@ Theoretical Transform on FPGA with Design Automation" has been accepted by HPCA 
 + [2025-08-20] Our paper "WPC: Weight Plaintext Compression for CNN Inference based on RNS-CKKS" has been accepted by ACM CCS 2025! Congrats to all collaborators!
 + [2025-07-15] Our paper "On Optimizing Intra- and Inter-chiplet Interconnection Networks in Multi-chiplet Systems for Accelerating FHE Encrypted Neural Network Applications" has been accepted by CASES 2025! Congratulations to all collaborators!
 + [2025-07-15] Our two papers ("HAWK: Fully Homomorphic Encryption Accelerator with Fixed-Word Key Decomposition Switching" and "LEGOSim: A Unified Parallel Simulation Framework for Multi-chiplet Heterogeneous Integration") have been accepted by MICRO 2025! Congrats to all collaborators!
-<<<<<<< HEAD
 + [2025-07-13] Our paper "Exploration of Karatsuba Algorithm for Efficient Barrett Modular Multiplication" has been accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD). Congrats to all!
 + [2025-07-01] I will serve as the Publicity Co-Chair of ISCA 2026. Please consider to submit your recent works!
 + [2025-04-23] I will serve as the TPC member of ICCD 2025.
@@ -39,15 +32,6 @@ Theoretical Transform on FPGA with Design Automation" has been accepted by HPCA 
 + [2025-03-22] Our two papers ("FAST:An FHE Accelerator for Scalable-parallelism with Tunable-bit" and "Neo: Towards Efficient Fully Homomorphic Encryption Acceleration using Tensor Core ") and one collaborative paper ("XHarvest: Rethinking High-Performance and Cost-Efficient SSD Architecture with CXL-Driven Harvesting") have been accepted by ISCA 2025! Congrats to all!
 + [2025-02-15] One collaborative paper "ALLMod: Exploring Area-Efficiency of LUT-based Large Number Modular Reduction via Hybrid Workloads" has been accepted by DAC 2025! Congrats to all collaborators!
 + [2025-02-10] I will serve as the TPC member of MICRO 2025.
-=======
-+ [2025-07-01] I will serve as the Publicity Co-Chair of ISCA 2026. Please consider submitting your recent works!
-+ [2025-05-15] Our paper "The Bleak Future of Fully Homomorphic Encryption: from a Storage I/O Perspective" has been accepted by APPT 2025! Congrats to all collaborators!
-+ [2025-04-23] I will serve as a TPC member of ICCD 2025.
-+ [2025-04-16] One collaborative paper, "RAC-NAF: A Reconfigurable Analog Circuitry for Nonlinear Activation Function Computation in Computing-in-Memory," has been accepted by the IEEE Journal of Solid State Circuits (JSSC). Congrats to all collaborators!
-+ [2025-03-22] Our two papers ("FAST: An FHE Accelerator for Scalable-parallelism with Tunable-bit" and "Neo: Towards Efficient Fully Homomorphic Encryption Acceleration using Tensor Core ") and one collaborative paper ("XHarvest: Rethinking High-Performance and Cost-Efficient SSD Architecture with CXL-Driven Harvesting") have been accepted by ISCA 2025! Congrats to all!
-+ [2025-02-15] One collaborative paper, "ALLMod: Exploring Area-Efficiency of LUT-based Large Number Modular Reduction via Hybrid Workload,s" has been accepted by DAC 2025! Congrats to all collaborators!
-+ [2025-02-10] I will serve as a TPC member of MICRO 2025.
->>>>>>> 42820b61b21fc9a321f9f306d6eb13c2930c2240
 + [2025-01-28] Our collaborative paper "An Efficient Delta Compression Framework Seamlessly Integrated into Inline Deduplication" has been accepted by ACM Transactions on Storage. Congrats to all collaborators!
 + [2025-01-23] Our collaborative paper "CipherPrune: Efficient and Scalable Private Transformer Inference" has been accepted by ICLR 2025! Congrats to all collaborators!
 + [2025-01-08] Our paper "LP-HENN: Fully Homomorphic Encryption Accelerator with High Energy Efficiency" has been accepted by Cybersecurity! Congrats to all collaborators!

@@ -9,27 +9,19 @@ author_profile: true
 
 ## 2026
 
-<<<<<<< HEAD
-[C43] <b>[A Bitwidth-Flexible Modular Multiplier with Shift-Free Accumulation for Efficient NTT Acceleration in FHE](../publications/ISCAS2026)</b>
+[C44] <b>[A Bitwidth-Flexible Modular Multiplier with Shift-Free Accumulation for Efficient NTT Acceleration in FHE](../publications/ISCAS2026)</b>
 Zihao Yang, Dian Jiao, Shengyu Fan, Xianglong Deng, Rui Hou, Mingzhe Zhang.
 <i>2026 IEEE International Symposium on Circuits and Systems</i>. <b>ISCAS 2026</b>
 
-[C42] <b>[A Framework for Developing and Optimizing Fully Homomorphic Encryption Programs on GPUs](../publications/ASPLOS2026-2)</b><br>
+[C43] <b>[A Framework for Developing and Optimizing Fully Homomorphic Encryption Programs on GPUs](../publications/ASPLOS2026-2)</b><br>
 Zhuoran Ji, Jianyu Zhao, Guang Fan, Mingzhe Zhang, Shoumeng Yan, Xueyu Wu, Lei Ju.
 <i>31st International Conference on Architectural Support for Programming Languages and Operating Systems</i>. <b>ASPLOS 2026</b>
 
-[C41] <b>[Libra: Pattern-Scheduling Co-Optimization for Cross-Scheme FHE Code Generation over GPGPU](../publications/Security2026)</b><br>
+[C42] <b>[Libra: Pattern-Scheduling Co-Optimization for Cross-Scheme FHE Code Generation over GPGPU](../publications/Security2026)</b><br>
 Song Bian, Yintai Sun, Zian Zhao, Haowen Pan, Mingzhe Zhang, Zhenyu Guan.
 <i>USENIX Security '26</i>. <b>Security 2026</b>
 
-[C40] <b>[Xerxes: Extensive Exploration of Scalable Hardware Systems with CXL-Based Simulation Framework](../publications/FAST2026)</b><br>
-=======
-[C43] <b>[Libra: Pattern-Scheduling Co-Optimization for Cross-Scheme FHE Code Generation over GPGPU](../publications/Security2026)</b><br>
-Song Bian, Yintai Sun, Zian Zhao, Haowen Pan, Mingzhe Zhang, Zhenyu Guan.
-<i>The 35th USENIX Security Symposium</i>. <b>Security 2026</b>.
-
-[C42] <b>[Xerxes: Extensive Exploration of Scalable Hardware Systems with CXL-Based Simulation Framework](../publications/FAST2026)</b><br>
->>>>>>> 42820b61b21fc9a321f9f306d6eb13c2930c2240
+[C41] <b>[Xerxes: Extensive Exploration of Scalable Hardware Systems with CXL-Based Simulation Framework](../publications/FAST2026)</b><br>
 Yuda An, Shushu Yi, Bo Mao, Qiao Li, Mingzhe Zhang, Diyu Zhou, Ke Zhou, Nong Xiao, Guangyu Sun, Yingwei Luo, Jie Zhang.
 <i>24th USENIX Conference on File and Storage Technologies</i>. <b>FAST 2026</b>
 
@@ -220,15 +212,8 @@ Bo Zhang, Mingzhe Zhang, Shoumeng Yan.
 
 ## 2025
 
-<<<<<<< HEAD
-[J16] <b>[TensorFHE+: Fully Homomorphic Encryption Acceleration based on Linear Algebra](../publications/TC2025)</b><br>
-=======
-[J16] <b>[Binary Subscript Representation and Efficient Pipelined Number Theoretic Transform](../publications/TCAD2025)</b><br>
-Bo Zhang, Mingzhe Zhang, Shoumeng Yan.
-<i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>
 
-[J15] <b>[TensorFHE+: Fully Homomorphic Encryption Acceleration based on Linear Algebra](../publications/TC2025)</b><br>
->>>>>>> 42820b61b21fc9a321f9f306d6eb13c2930c2240
+[J16] <b>[TensorFHE+: Fully Homomorphic Encryption Acceleration based on Linear Algebra](../publications/TC2025)</b><br>
 Yintai Sun, Shengyu Fan, Zhenhua Yin, Xinkai Song, Xing Hu, Zidong Du, Qi Guo, Weizhi Xu, Rui Hou, Dan Meng, Song Bian, Mingzhe Zhang.
 <i>IEEE Transactions on Computers</i>, early access.
 
