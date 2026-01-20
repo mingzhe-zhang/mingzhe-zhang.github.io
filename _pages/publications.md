@@ -9,19 +9,19 @@ author_profile: true
 
 ## 2026
 
-[C44] <b>[A Bitwidth-Flexible Modular Multiplier with Shift-Free Accumulation for Efficient NTT Acceleration in FHE](../publications/ISCAS2026)</b>
+[C45] <b>[A Bitwidth-Flexible Modular Multiplier with Shift-Free Accumulation for Efficient NTT Acceleration in FHE](../publications/ISCAS2026)</b>
 Zihao Yang, Dian Jiao, Shengyu Fan, Xianglong Deng, Rui Hou, Mingzhe Zhang.
 <i>2026 IEEE International Symposium on Circuits and Systems</i>. <b>ISCAS 2026</b>
 
-[C43] <b>[A Framework for Developing and Optimizing Fully Homomorphic Encryption Programs on GPUs](../publications/ASPLOS2026-2)</b><br>
+[C44] <b>[A Framework for Developing and Optimizing Fully Homomorphic Encryption Programs on GPUs](../publications/ASPLOS2026-2)</b><br>
 Zhuoran Ji, Jianyu Zhao, Guang Fan, Mingzhe Zhang, Shoumeng Yan, Xueyu Wu, Lei Ju.
 <i>31st International Conference on Architectural Support for Programming Languages and Operating Systems</i>. <b>ASPLOS 2026</b>
 
-[C42] <b>[Libra: Pattern-Scheduling Co-Optimization for Cross-Scheme FHE Code Generation over GPGPU](../publications/Security2026)</b><br>
+[C43] <b>[Libra: Pattern-Scheduling Co-Optimization for Cross-Scheme FHE Code Generation over GPGPU](../publications/Security2026)</b><br>
 Song Bian, Yintai Sun, Zian Zhao, Haowen Pan, Mingzhe Zhang, Zhenyu Guan.
 <i>USENIX Security '26</i>. <b>Security 2026</b>
 
-[C41] <b>[Xerxes: Extensive Exploration of Scalable Hardware Systems with CXL-Based Simulation Framework](../publications/FAST2026)</b><br>
+[C42] <b>[Xerxes: Extensive Exploration of Scalable Hardware Systems with CXL-Based Simulation Framework](../publications/FAST2026)</b><br>
 Yuda An, Shushu Yi, Bo Mao, Qiao Li, Mingzhe Zhang, Diyu Zhou, Ke Zhou, Nong Xiao, Guangyu Sun, Yingwei Luo, Jie Zhang.
 <i>24th USENIX Conference on File and Storage Technologies</i>. <b>FAST 2026</b>
 
