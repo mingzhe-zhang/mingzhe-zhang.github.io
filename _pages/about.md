@@ -13,6 +13,8 @@ Dr. Mingzhe Zhang currently serves as the Deputy Director of Computing System La
 
 <font color="#FF0000">[Anouncement]</font> 
 
+May-31, 2024
+
 After a long journey of 16 years in the Chinese Academy of Sciences (CAS), I will start the next stage of my career. My next stop will be the director of the Computing System Laboratory at Ant Research. 
 
 I would like to appreciate the education I have received from the three institutes (ISCAS, ICT, and IIE) of the CAS over the past 16 years. In CAS, I have grown from a student to a researcher, and from a young man to a responsible man. I will take the concept of "scientific research for the country, innovation benefits the people" as a lifelong creed, and always regard this place as another home. I want to thank all the teachers, classmates, friends and students for their trust, encouragement and support over the past 16 years. Your help has made me who I am today.
