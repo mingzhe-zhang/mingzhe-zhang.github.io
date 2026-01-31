@@ -208,7 +208,7 @@ Shuai Zhang, Zhiyong Liu, Dongrui Fan, Fonglong Song, <b>Mingzhe Zhang</b>.
 
 [J17] <b>[Binary Subscript Representation and Efficient Pipelined Number Theoretic Transform](../publications/TCAD2026)</b><br>
 Bo Zhang, Mingzhe Zhang, Shoumeng Yan.
-<i>Exploration of Karatsuba Algorithm for Efficient Barrett Modular Multiplication</i>.
+<i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>.
 
 ## 2025
 
