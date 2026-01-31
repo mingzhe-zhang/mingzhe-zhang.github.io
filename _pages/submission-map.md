@@ -8,7 +8,7 @@ author_profile: true
 
 [An alternative conference list with countdown. (in chinese)](https://ccfddl.github.io)
 
-<font size="4" color="grey">[Last Update: Jan-20-2026]</font>
+<font size="4" color="grey">[Last Update: Jan-31-2026]</font>
 
 <table align="center">
 	<tr>
@@ -127,7 +127,7 @@ author_profile: true
 		<td><a href="https://europar2016.inria.fr/" title="date: 2016-08-22..26, notify: 2016-04-24">2016-02-06<br>Grenoble, France</a></td>
 	</tr>
 	<tr>
-		<td rowspan="3"><b><i>Mar</i></b></td>
+		<td rowspan="4"><b><i>Mar</i></b></td>
 		<td>ISLPED</td>
 		<td><a href="http://www.islped.org/2026/" title="date: 2026-08-05..07, notify: 2026-05-18">2026-03-02(abstract)<br>2026-03-09(full)<br>Chicago, US</a></td>
 		<td><a href="http://www.islped.org/2025/" title="date: 2025-08-04..06, notify: 2025-05-19">2025-03-03(abstract)<br>2025-03-10(full)<br>Univ. of Iceland, Iceland</a></td>
@@ -170,7 +170,21 @@ author_profile: true
 		<td align="center">-</td>
 	</tr>
 	<tr>
-		<td rowspan="7"><b><i>Apr</i></b></td>
+		<td>MICRO</td>
+		<td><a href="http://www.microarch.org/micro59/" title="date: 2026-10-31..04, notify: 2026-07-07 "><nobr>2026-03-31(abstract)</nobr><br>2026-04-07(full)<br>Athens, Greece</a></td>
+		<td><a href="http://www.microarch.org/micro58/" title="date: 2025-10-18..22, notify: 2025-07-14 "><nobr>2025-04-04(abstract)</nobr><br>2025-04-11(full)<br>Seoul, Korea</a></td>
+		<td><a href="http://www.microarch.org/micro57/" title="date: 2024-11-02..06, notify: 2024-07-19 "><nobr>2024-04-11(abstract)</nobr><br>2024-04-18(full)<br>Austin, TX</a></td>
+		<td><a href="http://www.microarch.org/micro56/" title="date: 2023-10-, notify: 2023-07-24 "><nobr>2023-04-21(abstract)</nobr><br>2023-04-28(full)<br>Toronto, Canada</a></td>
+		<td><a href="http://www.microarch.org/micro55/" title="date: 2022-10-, notify: 2022-07-18 "><nobr>2022-04-14(abstract)</nobr><br>2022-04-21(full)<br>Chicago, IL</a></td>
+		<td><a href="http://www.microarch.org/micro54/" title="date: 2021-10-16..20, notify: 2021-07-14 "><nobr>2021-04-09(abstract)</nobr><br>2021-04-16(full)<br>Athens, Greek</a></td>
+		<td><a href="http://www.microarch.org/micro53/" title="date: 2020-10-17..21, notify: 2020-07-01"><font color="#FF0000">2020-04-17<br>(Extended for 2 weeks due to the COVID-19 pandemic) <br>Athens, Greek</font></a></td>
+		<td><a href="http://www.microarch.org/micro52/" title="date: 2019-10-12..16, notify: 2019-07-27">2019-04-05<br>Columbus, Ohio</a></td>
+		<td><a href="http://www.microarch.org/micro51/" title="date: 2018-10-20..24, notify: 2018-07-18">2018-04-06<br>Fukuoka City,<br>Japan</a></td>
+		<td><a href="http://www.microarch.org/micro50/" title="date: 2017-10-14..18, notify: 2017-07-05">2017-04-04<br>Boston, MA</a></td>
+		<td><a href="http://www.microarch.org/micro49/" title="date: 2016-10-15..19, notify: 2016-06-25">2016-04-10<br>Taipei, Taiwan</a></td>
+	</tr>
+	<tr>
+		<td rowspan="6"><b><i>Apr</i></b></td>
 		<td>SC</td>
 		<td><a href="https://sc26.supercomputing.org" title="date: 2026-11-15..20, notify: 2026-07-01"><nobr>2026-04-01(abstract)</nobr><br>2026-04-08(full)<br>Chicago, IL</a></td>
 		<td><a href="https://sc25.supercomputing.org" title="date: 2025-11-16..21, notify: 2025-06-27"><nobr>2025-04-07(abstract)</nobr><br>2025-04-14(full)<br>St. Louis, MO</a></td>
@@ -183,20 +197,6 @@ author_profile: true
 		<td><a href="https://sc18.supercomputing.org" title="date: 2018-11-11..16, notify: 2018-06-15">2018-03-28<br>Dallas, TX</a></td>
 		<td><a href="http://sc17.supercomputing.org" title="date: 2017-11-12..17, notify: 2017-06-15">2017-04-03<br>Denver, CO</a></td>
 		<td><a href="http://sc16.supercomputing.org" title="date: 2016-11-13..18, notify: 2016-06-15">2016-04-03<br>Salt Lake City, UT</a></td>
-	</tr>
-	<tr>
-		<td>MICRO</td>
-		<td></td>
-		<td><a href="http://www.microarch.org/micro58/" title="date: 2025-10-18..22, notify: 2025-07-14 "><nobr>2025-04-04(abstract)</nobr><br>2025-04-11(full)<br>Seoul, Korea</a></td>
-		<td><a href="http://www.microarch.org/micro57/" title="date: 2024-11-02..06, notify: 2024-07-19 "><nobr>2024-04-11(abstract)</nobr><br>2024-04-18(full)<br>Austin, TX</a></td>
-		<td><a href="http://www.microarch.org/micro56/" title="date: 2023-10-, notify: 2023-07-24 "><nobr>2023-04-21(abstract)</nobr><br>2023-04-28(full)<br>Toronto, Canada</a></td>
-		<td><a href="http://www.microarch.org/micro55/" title="date: 2022-10-, notify: 2022-07-18 "><nobr>2022-04-14(abstract)</nobr><br>2022-04-21(full)<br>Chicago, IL</a></td>
-		<td><a href="http://www.microarch.org/micro54/" title="date: 2021-10-16..20, notify: 2021-07-14 "><nobr>2021-04-09(abstract)</nobr><br>2021-04-16(full)<br>Athens, Greek</a></td>
-		<td><a href="http://www.microarch.org/micro53/" title="date: 2020-10-17..21, notify: 2020-07-01"><font color="#FF0000">2020-04-17<br>(Extended for 2 weeks due to the COVID-19 pandemic) <br>Athens, Greek</font></a></td>
-		<td><a href="http://www.microarch.org/micro52/" title="date: 2019-10-12..16, notify: 2019-07-27">2019-04-05<br>Columbus, Ohio</a></td>
-		<td><a href="http://www.microarch.org/micro51/" title="date: 2018-10-20..24, notify: 2018-07-18">2018-04-06<br>Fukuoka City,<br>Japan</a></td>
-		<td><a href="http://www.microarch.org/micro50/" title="date: 2017-10-14..18, notify: 2017-07-05">2017-04-04<br>Boston, MA</a></td>
-		<td><a href="http://www.microarch.org/micro49/" title="date: 2016-10-15..19, notify: 2016-06-25">2016-04-10<br>Taipei, Taiwan</a></td>
 	</tr>
 	<tr>
 		<td>PACT</td>
