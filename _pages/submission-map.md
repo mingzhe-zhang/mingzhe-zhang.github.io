@@ -112,7 +112,7 @@ author_profile: true
 		<td><a href="http://conferences.sigcomm.org/sigcomm/2016" title="date: 2016-08-22..26, notify: 2016-04-22">2016-01-29<br>Salvador, Brazil</a></td>
 	</tr>
 	<tr>
-		<td rowspan="2"><b><i>Feb</i></b></td>
+		<td rowspan="3"><b><i>Feb</i></b></td>
 		<td>ICS<br>(spring)</td>
 		<td><a href="https://dipsa-qub.github.io/ICS2026-webpage/" title="date: 2026-07-06..09, notify: 2026-04-07">2026-02-02(abstract)<br>2026-02-09(full)<br>Belfast, UK</a></td>
 		<td><a href="https://hpcrl.github.io/ICS2025-webpage/" title="date: 2025-06-09..11, notify: 2025-03-14">2025-01-13(abstract)<br>2025-01-16(full)<br>Salt Lake City, US</a></td>
@@ -125,6 +125,10 @@ author_profile: true
 		<td><a href="http://ics2018.ict.ac.cn" title="date: 2018-06-12..15, notify: 2018-03-25">2018-01-19<br>Beijing, China</a></td>
 		<td><a href="https://press3.mcs.anl.gov/ics2017/" title="date: 2017-06-14..16, notify: 2017-03-21">2017-01-18<br>Chicago, IL</a></td>
 		<td><a href="http://ics16.bilkent.edu.tr" title="date: 2016-06-01..03, notify: 2016-03-21">2016-01-30<br>Istanbul, Turkey</a></td>
+	</tr>
+	<tr>
+		<td>SoCC</td>
+		<td><a href="https://acmsocc.org/2026/" title="date: 2026-11-18..20 notify: 2026-04-29"><nobr>2026-02-06(abstract)</nobr><br>2026-02-13<br>Singapore</a></td>
 	</tr>
 	<tr>
 		<td>Euro Par</td>
@@ -385,7 +389,7 @@ author_profile: true
 	</tr>
 	<tr>
 		<td>SoCC</td>
-		<td></td>
+		<td><a href="http://acmsocc.org/2026/" title="date: 2026-11-18..20, notify: 2026-09-26">2026-07-07(abstract)<br>2026-07-14(full)<br>Singapore</a></td>
 		<td><a href="http://acmsocc.org/2025/" title="date: 2025-11-19..21, notify: 2025-09-26">2025-07-07(abstract)<br>2025-07-14(full)<br>Virtual</a></td>
 		<td><a href="http://acmsocc.org/2024/" title="date: 2024-11-20..22, notify: 2024-09-25">2024-07-08(abstract)<br>2024-07-15(full)<br>Redmond, WA</a></td>
 		<td><a href="http://acmsocc.org/2023/" title="date: 2023-10-30, notify: 2023-09-01">2023-06-09<br>Santa Cruz, CA</a></td>
