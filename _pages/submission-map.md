@@ -27,7 +27,7 @@ author_profile: true
 		<td>Deadline 2016</td>
 	</tr>
 	<tr>
-		<td rowspan="5"><b><i>Jan</i></b></td>
+		<td rowspan="6"><b><i>Jan</i></b></td>
 		<td>CF</td>
 		<td><a href="http://www.computingfrontiers.org/2026/" title="date: 2026-05-19..21, notify: 2026-03-19">2026-01-12(Abstract)<br>2026-01-19(full)<br>Catania, Italy</a></td>
 		<td><a href="http://www.computingfrontiers.org/2025/" title="date: 2025-05-28..30, notify: ">2025-01-<br>Cagliari, Italy</a></td>
@@ -54,6 +54,20 @@ author_profile: true
 		<td><a href="https://www.usenix.org/conference/atc18" title="date: 2018-07-11..13, notify: 2018-04-18">2018-02-06<br>Boston, MA</a></td>
 		<td><a href="https://www.usenix.org/conference/atc17" title="date: 2017-07-12..14, notify: 2017-04-24">2017-02-07<br>Santa Clara, CA</a></td>
 		<td><a href="https://www.usenix.org/conference/atc16" title="date: 2016-06-22..24, notify: 2016-4-15">2016-02-01<br>Denver, CO</a></td>
+	</tr>
+	<tr>
+		<td>ICDCS</td>
+		<td><a href="https://icdcs2026.icdcs.org/" title="date: 2026-06-22..25, notify: 2026-">2026-01-21<br><nobr>Seoul, South Korea</nobr></a></td>
+		<td></td>
+		<td><a href="https://icdcs2025.icdcs.org/" title="date: 2025-07-20..23, notify: 2025-04-02">2024-12-04(abstract)<br>2024-12-11(full)<br><nobr>Glasgow, UK</nobr></a><br><a href="https://icdcs2024.icdcs.org/" title="date: 2024-07-, notify: 2024-04-12">2024-01-12(abstract)<br>2024-01-19(full)<br><nobr>New Jersey City, NJ</nobr></a></td>
+		<td><a href="https://icdcs2023.icdcs.org/" title="date: 2023-07-18..21, notify: 2023-04-03">2023-01-14(abstract)<br>2023-01-21(full)<br><nobr>Hong Kong, China</nobr></a></td>
+		<td><a href="https://icdcs2022.icdcs.org/" title="date: 2022-07-10..13, notify: 2022-04-04">2022-01-17(abstract)<br>2022-01-24(full)<br>Bologna, Italy</a></td>
+		<td><a href="https://icdcs2021.us/" title="date: 2021-07-07..10, notify: 2021-03-07"><nobr>2021-01-06(abstract)</nobr><br>2021-01-13(full)<br>Washington DC</a></td>
+		<td><a href="https://icdcs2020.sg/" title="date: 2020-07-08..10, notify: 2020-03-14">2020-01-06<br>Singapore</a></td>
+		<td><a href="http://theory.utdallas.edu/ICDCS2019" title="date: 2019-07-07..10, notify: 2019-03-28">2019-01-12<br>Dallas, TX</a></td>
+		<td align="center">-</td>
+		<td><a href="http://icdcs2018.ocg.at/" title="date: 2018-07-02..06, notify: 2018-03-28">2017-12-12<br>Vienna, Austria</a></td>
+		<td><a href="https://icdcs2017.gatech.edu/" title="date: 2017-06-05..08, notify: 2017-03-06">2016-12-12<br>Atlanta, GA</a></td>
 	</tr>
 	<tr>
 		<td>HPDC</td>
@@ -242,7 +256,7 @@ author_profile: true
 	</tr>
 	<tr>
 		<td>ICPP</td>
-		<td></td>
+		<td><a href="https://icpp2026.github.io" title="date: 2026-09-28..01, notify: 2026-06-30"><nobr>2026-04-24(abstract)</nobr><br><nobr>2026-05-01(full)</nobr><br>Singapore</a></td>
 		<td><a href="https://icpp2025.sdsc.edu/home" title="date: 2025-09-08..11, notify: 2025-06-10"><nobr>2025-04-21(full)</nobr><br>San Diego, CA</a></td>
 		<td><a href="https://icpp2024.org/" title="date: 2024-08-12..15, notify: 2024-05-27"><nobr>2024-04-08(abstract)</nobr><br>2024-04-15(full)<br>Gotland, Sweden</a></td>
 		<td><a href="https://icpp23.sci.utah.edu/" title="date: 2023-08-07..10, notify: 2023-06-16"><nobr>2023-04-14(abstract)</nobr><br>2023-04-22(full)<br>Salt Lake City, UT</a></td>
@@ -269,7 +283,7 @@ author_profile: true
 		<td><a href="https://clustercomp.org/2016/" title="date: 2016-09-12..15, notify: 2016-07-01">2016-05-14<br>Taipei, Taiwan</a></td>
 	</tr>
 	<tr>
-		<td rowspan="4"><b><i>May</i></b></td>
+		<td rowspan="5"><b><i>May</i></b></td>
 		<td>ICCD</td>
 		<td></td>
 		<td><a href="https://iccd-conf.com/Home.html" title="date: 2025-11-10..12, notify: 2025-08-01">2025-05-04(abstract)<br>2025-05-11(full)<br>Dallas, TX</a></td>
@@ -298,8 +312,36 @@ author_profile: true
 		<td>-</td>
 	</tr>
 	<tr>
+		<td>APsys</td>
+		<td><a href="https://apsys26.github.io/" title="date: 2026-09-17..18, notify: 2026-07-29">2026-05-13(abstract)<br>2026-05-20(full)<br>Bangkok, Thailand</a></td>
+		<td><a href="https://apsys2025.github.io/" title="date: 2025-10-12..13, notify: 2025-08-04">2025-05-29(abstract)<br>2025-06-05(full)<br>Seoul, South Korea</a></td>
+		<td><a href="https://ap-sys.org/" title="date: 2024-09-4..5, notify: 2024-07-01">2024-04-25(abstract)<br>2024-05-02(full)<br>Kyoto, Japan</a></td>
+		<td><a href="https://ap-sys.org/" title="date: 2023-08-24, notify: 2023-06-23">2023-04-28(abstract)<br>2023-05-05(full)<br>Seoul, South Korea</a></td>
+		<td><a href="https://ap-sys.org/" title="date: , notify: 2022-06-17">2022-04-29(abstract)<br>2022-05-06(full)<br>Online</a></td>
+		<td><a href="https://ap-sys.org/apsys2021" title="date: 2021-08-24..25, notify: 2021-07-01">2021-05-20<br>Online</a></td>
+		<td><a href="https://ap-sys.org/apsys2020" title="date: 2020-08-24..25, notify: 2020-06-19">2020-05-25<br>Tsukuba, Japan</a></td>
+		<td><a href="https://ap-sys.org/apsys2019" title="date: 2019-08-19..20, notify: 2019-06-14">2019-05-08<br>Hangzhou, China</a></td>
+		<td><a href="https://ap-sys.org/apsys2018" title="date: 2018-08-27..28, notify:">2018-05-31<br>Jeju Island,<br>South Korea</a></td>
+		<td><a href="https://ap-sys.org/apsys2017" title="date: 2017-09-02..03, notify: 2017-07-12">2017-06-09<br>Bombay, India</a></td>
+		<td><a href="https://ap-sys.org/apsys2016" title="date: 2016-08-04..05, notify: 2016-06-23">2016-05-20<br>Hong Kong, China</a></td>
+	</tr>
+	<tr>
+		<td>IISWC</td>
+		<td><a href="https://iiswc.org/iiswc2026/" title="date: 2026-09-27..29, notify: 2026-07-27">2026-05-14(abstract)<br>2026-05-21<br>Boulder, USA</a></td>
+		<td><a href="https://iiswc.org/iiswc2025/index.html#/" title="date: 2025-10-12..14, notify: 2025-08-13">2025-06-30<br>Irvine, CA</a></td>
+		<td><a href="https://iiswc.org/iiswc2024/index.html#/" title="date: 2024-09-15..17, notify: 2024-08-09">2024-05-29<br>Vancouver BC, Canada</a></td>
+		<td><a href="https://iiswc.org/iiswc2023/index.html#/" title="date: 2023-10-01..03, notify: 2023-08-02">2023-06-14<br>Ghent, Belgium</a></td>
+		<td><a href="http://www.iiswc.org/iiswc2022/index.html" title="date: 2022-11-06..08, notify: 2022-09-02">2022-07-15<br>Austin, TX</a></td>
+		<td><a href="http://www.iiswc.org/iiswc2021/index.html" title="date: 2021-11-07..09, notify: 2021-09-03">2021-07-09<br>Virtual</a></td>
+		<td><a href="http://www.iiswc.org/iiswc2020/index.html" title="date: 2020-10-27..29, notify: 2020-08-24">2020-07-10<br>Beijing, China</a></td>
+		<td><a href="http://www.iiswc.org/iiswc2019/index.html" title="date: 2019-11-03..05, notify: 2019-08-15">2019-05-31<br>Orlando, FL</a></td>
+		<td><a href="http://www.iiswc.org/iiswc2018" title="date: 2018-09-30..02, notify: 2018-07-27">2018-05-18<br>Raleigh, NC</a></td>
+		<td><a href="http://www.iiswc.org/iiswc2017/index.html" title="date: 2017-10-01..03, notify: 2017-08-01">2017-06-02<br>Seattle, WA</a></td>
+		<td><a href="http://www.iiswc.org/iiswc2016/index.html" title="date: 2016-09-25..27, notify: 2016-07-12">2016-05-13<br>Rhode Island, USA</a></td>
+	</tr>
+	<tr>
 		<td>SYSTOR</td>
-		<td></td>
+		<td><a href="https://www.systor.org/2026/" title="date: 2026-09-08..09, notify: 2026-07-13">2026-05-21<br>Virtual</a></td>
 		<td><a href="https://www.systor.org/2025/" title="date: 2025-09-08..09, notify: 2025-07-10">2025-05-20<br>Virtual</a></td>
 		<td><a href="https://www.systor.org/2024/" title="date: 2024-09-23..24, notify: 2024-08-07">2024-06-19<br>Virtual</a></td>
 		<td><a href="https://www.systor.org/2023/" title="date: 2023-06-05..07, notify: 2023-04-13">2023-03-02<br>Haifa, Israel</a></td>
@@ -312,21 +354,7 @@ author_profile: true
 		<td><a href="https://www.systor.org/2016" title="date: 2016-06-06..08, notify: 2016-04-15">2016-03-11<br>Haifa, Israel</a></td>
 	</tr>
 	<tr>
-		<td>APsys</td>
-		<td></td>
-		<td><a href="https://apsys2025.github.io/" title="date: 2025-04-12..13, notify: 2025-08-04">2025-05-29(abstract)<br>2025-06-05(full)<br>Seoul, South Korea</a></td>
-		<td><a href="https://ap-sys.org/" title="date: 2024-09-4..5, notify: 2024-07-01">2024-04-25(abstract)<br>2024-05-02(full)<br>Kyoto, Japan</a></td>
-		<td><a href="https://ap-sys.org/" title="date: 2023-08-24, notify: 2023-06-23">2023-04-28(abstract)<br>2023-05-05(full)<br>Seoul, South Korea</a></td>
-		<td><a href="https://ap-sys.org/" title="date: , notify: 2022-06-17">2022-04-29(abstract)<br>2022-05-06(full)<br>Online</a></td>
-		<td><a href="https://ap-sys.org/apsys2021" title="date: 2021-08-24..25, notify: 2021-07-01">2021-05-20<br>Online</a></td>
-		<td><a href="https://ap-sys.org/apsys2020" title="date: 2020-08-24..25, notify: 2020-06-19">2020-05-25<br>Tsukuba, Japan</a></td>
-		<td><a href="https://ap-sys.org/apsys2019" title="date: 2019-08-19..20, notify: 2019-06-14">2019-05-08<br>Hangzhou, China</a></td>
-		<td><a href="https://ap-sys.org/apsys2018" title="date: 2018-08-27..28, notify:">2018-05-31<br>Jeju Island,<br>South Korea</a></td>
-		<td><a href="https://ap-sys.org/apsys2017" title="date: 2017-09-02..03, notify: 2017-07-12">2017-06-09<br>Bombay, India</a></td>
-		<td><a href="https://ap-sys.org/apsys2016" title="date: 2016-08-04..05, notify: 2016-06-23">2016-05-20<br>Hong Kong, China</a></td>
-	</tr>
-	<tr>
-		<td rowspan="2"><b><i>Jun</i></b></td>
+		<td rowspan="1"><b><i>Jun</i></b></td>
 		<td>HiPEAC</td>
 		<td></td>
 		<td><a href="https://www.hipeac.net/2026/krakow/#/" title="date: 2026-01-26..28, notify: 2025-11-15">2025-06-01<br>Kraków, Poland</a></td>
@@ -341,23 +369,9 @@ author_profile: true
 		<td><a href="https://www.hipeac.net/2017/stockholm/" title="date: 2016-01-23..25, notify: 2016-11-15">2016-06-01<br>Stockholm,Sweden</a></td>
 	</tr>
 	<tr>
-		<td>IISWC</td>
-		<td></td>
-		<td><a href="https://iiswc.org/iiswc2025/index.html#/" title="date: 2025-10-12..14, notify: 2025-08-13">2025-06-30<br>Irvine, CA</a></td>
-		<td><a href="https://iiswc.org/iiswc2024/index.html#/" title="date: 2024-09-15..17, notify: 2024-08-09">2024-05-29<br>Vancouver BC, Canada</a></td>
-		<td><a href="https://iiswc.org/iiswc2023/index.html#/" title="date: 2023-10-01..03, notify: 2023-08-02">2023-06-14<br>Ghent, Belgium</a></td>
-		<td><a href="http://www.iiswc.org/iiswc2022/index.html" title="date: 2022-11-06..08, notify: 2022-09-02">2022-07-15<br>Austin, TX</a></td>
-		<td><a href="http://www.iiswc.org/iiswc2021/index.html" title="date: 2021-11-07..09, notify: 2021-09-03">2021-07-09<br>Virtual</a></td>
-		<td><a href="http://www.iiswc.org/iiswc2020/index.html" title="date: 2020-10-27..29, notify: 2020-08-24">2020-07-10<br>Beijing, China</a></td>
-		<td><a href="http://www.iiswc.org/iiswc2019/index.html" title="date: 2019-11-03..05, notify: 2019-08-15">2019-05-31<br>Orlando, FL</a></td>
-		<td><a href="http://www.iiswc.org/iiswc2018" title="date: 2018-09-30..02, notify: 2018-07-27">2018-05-18<br>Raleigh, NC</a></td>
-		<td><a href="http://www.iiswc.org/iiswc2017/index.html" title="date: 2017-10-01..03, notify: 2017-08-01">2017-06-02<br>Seattle, WA</a></td>
-		<td><a href="http://www.iiswc.org/iiswc2016/index.html" title="date: 2016-09-25..27, notify: 2016-07-12">2016-05-13<br>Rhode Island, USA</a></td>
-	</tr>
-	<tr>
 		<td rowspan="3"><b><i>Jul</i></b></td>
 		<td>ASP-DAC</td>
-		<td></td>
+		<td><a href="http://www.aspdac.com/aspdac2027/" title="date: 2027-01-25..28, notify: 2026-09-04">2026-07-03(abstract)<br>2026-07-10(full)<br>Tokyo, Japan</a></td>
 		<td><a href="http://www.aspdac.com/aspdac2026/" title="date: 2026-01-19..22, notify: 2025-09-05">2025-07-04(abstract)<br>2025-07-11(full)<br>Hong Kong, China</a></td>
 		<td><a href="http://www.aspdac.com/aspdac2025/" title="date: 2025-01-20..23, notify: 2024-09-09">2024-07-05(abstract)<br>2024-07-12(full)<br>Tokyo, Japan</a></td>
 		<td><a href="http://www.aspdac.com/aspdac2024/" title="date: 2024-01-22..25, notify: 2023-09-12">2023-07-23(abstract)<br>2023-07-28(full)<br>Incheon Songdo Convensia, South Korea</a></td>
@@ -584,7 +598,7 @@ author_profile: true
 		<td><a href="http://isca17.ece.utoronto.ca/" title="date: 2017-06-24..28, notify: 2017-03-08">2016-11-18<br>Toronto, CA</a></td>
 	</tr>
 	<tr>
-		<td rowspan="4"><b><i>DEC</i></b></td>
+		<td rowspan="3"><b><i>DEC</i></b></td>
 		<td>OSDI</td>
 		<td></td>
 		<td><a href="https://www.usenix.org/conference/osdi26" title="date: 2026-07-13..15, notify: 2026-03-26">2025-12-04(abstract)<br>2025-12-11(full)<br>Seattle, WA</a></td>
@@ -597,20 +611,6 @@ author_profile: true
 		<td><a href="https://www.usenix.org/conference/osdi18" title="date: 2018-10-08..10, notify: 2018-07-24">2018-05-03<br>Carlsbad, CA</a></td>
 		<td align="center">-</td>
 		<td><a href="https://www.usenix.org/conference/osdi16" title="date: 2016-11-02..04, notify: 2016-07-30">2016-05-10<br>Savannah, GA</a></td>
-	</tr>
-	<tr>
-		<td>ICDCS</td>
-		<td></td>
-		<td><a href="https://icdcs2026.icdcs.org/" title="date: 2026-, notify: ">2025-12-05(abstract)<br>2025-12-12(full)<br><nobr>South Korea</nobr></a></td>
-		<td><a href="https://icdcs2025.icdcs.org/" title="date: 2025-07-20..23, notify: 2025-04-02">2024-12-04(abstract)<br>2024-12-11(full)<br><nobr>Glasgow, UK</nobr></a><br><a href="https://icdcs2024.icdcs.org/" title="date: 2024-07-, notify: 2024-04-12">2024-01-12(abstract)<br>2024-01-19(full)<br><nobr>New Jersey City, NJ</nobr></a></td>
-		<td><a href="https://icdcs2023.icdcs.org/" title="date: 2023-07-18..21, notify: 2023-04-03">2023-01-14(abstract)<br>2023-01-21(full)<br><nobr>Hong Kong, China</nobr></a></td>
-		<td><a href="https://icdcs2022.icdcs.org/" title="date: 2022-07-10..13, notify: 2022-04-04">2022-01-17(abstract)<br>2022-01-24(full)<br>Bologna, Italy</a></td>
-		<td><a href="https://icdcs2021.us/" title="date: 2021-07-07..10, notify: 2021-03-07"><nobr>2021-01-06(abstract)</nobr><br>2021-01-13(full)<br>Washington DC</a></td>
-		<td><a href="https://icdcs2020.sg/" title="date: 2020-07-08..10, notify: 2020-03-14">2020-01-06<br>Singapore</a></td>
-		<td><a href="http://theory.utdallas.edu/ICDCS2019" title="date: 2019-07-07..10, notify: 2019-03-28">2019-01-12<br>Dallas, TX</a></td>
-		<td align="center">-</td>
-		<td><a href="http://icdcs2018.ocg.at/" title="date: 2018-07-02..06, notify: 2018-03-28">2017-12-12<br>Vienna, Austria</a></td>
-		<td><a href="https://icdcs2017.gatech.edu/" title="date: 2017-06-05..08, notify: 2017-03-06">2016-12-12<br>Atlanta, GA</a></td>
 	</tr>
 	<tr>
 		<td>ISPASS</td>
