@@ -37,17 +37,17 @@ I do research in Computer Architecture and Bigdata-oriented System, including:
 
 ## Updates
 
++ [2026-02-24] Two collaboration paper have been accepted by DAC 2026! Congratulations to all collaborators!
++ [2026-02-18] I will serve as the PC Committee Member of CASES 2026.
 + [2026-01-20] Our paper "A Bitwidth-Flexible Modular Multiplier with Shift-Free Accumulation for Efficient NTT Acceleration in FHE" has been accepted by ISCAS 2026! Congrats to all!
 + [2026-01-17] Our collaboration paper "A Framework for Developing and Optimizing Fully Homomorphic Encryption Programs on GPUs" has been accepted by ASPLOS 2026! Congratulations to all collaborators!
 + [2025-12-20] One collaboration paper "Libra: Pattern-Scheduling Co-Optimization for Cross-Scheme FHE Code Generation over GPGPU" has been accepted by USENIX Security 2026! Congratulations to all collaborators!
 + [2025-12-18] Our paper "Binary Subscript Representation and Efficient Pipelined Number Theoretic Transform" has been accpeted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD). Congrats to all!
-+ [2025-12-08] Our collaboration paper "Xerxes: Extensive Exploration of Scalable Hardware Systems with CXL-Based Simulation Framework" has been accpeted by FAST 2026! Congratulations to all collaborators! 
-+ [2025-11-26] <font color="#FF0000">Our paper "Falcon: Algorithm-Hardware Co-Design for Efficient Fully Homomorphic Encryption Accelerator" has been accepted by ASPLOS 2026! This is our 10th paper on FHE acceleration in the top-tier computer architecture conference. Congratulations to all!</font>
 
 
 [More...](../news/all-news)
 
-\[Last Update: Jan-20-2026\]
+\[Last Update: Feb-24-2026\]
 
    
 
