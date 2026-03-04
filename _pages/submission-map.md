@@ -114,7 +114,7 @@ author_profile: true
 	</tr>
 	<tr>
 		<td>SoCC</td>
-		<td><a href="https://acmsocc.org/2026/" title="date: 2026-11-18..20 notify: 2026-04-29"><nobr>2026-02-06(abstract)</nobr><br>2026-02-13<br>Singapore</a></td>
+		<td><a href="https://acmsocc.org/2026/" title="date: 2026-11-18..20 notify: 2026-04-29"><nobr>2026-02-06(abstract)</nobr><br>2026-02-13(full)<br>Singapore</a></td>
 		<td></td>
 		<td></td>
 		<td></td>
