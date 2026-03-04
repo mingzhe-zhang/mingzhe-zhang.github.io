@@ -50,7 +50,7 @@ author_profile: true
 		<td><a href="https://icdcs2022.icdcs.org/" title="date: 2022-07-10..13, notify: 2022-04-04">2022-01-17(abstract)<br>2022-01-24(full)<br>Bologna, Italy</a></td>
 		<td><a href="https://icdcs2021.us/" title="date: 2021-07-07..10, notify: 2021-03-07"><nobr>2021-01-06(abstract)</nobr><br>2021-01-13(full)<br>Washington DC</a></td>
 		<td><a href="https://icdcs2020.sg/" title="date: 2020-07-08..10, notify: 2020-03-14">2020-01-06<br>Singapore</a></td>
-		<td><a href="http://theory.utdallas.edu/ICDCS2019" title="date: 2019-07-07..10, notify: 2019-03-28">2019-01-12<br>Dallas, TX</a></td>
+		<td><a href="http://theory.utdallas.edu/ICDCS2019" title="date: 2019-07-07..10, notify: 2019-03-28">2019-01-12<br>Dallas, TX</a></td>
 		<td align="center">-</td>
 		<td><a href="http://icdcs2018.ocg.at/" title="date: 2018-07-02..06, notify: 2018-03-28">2017-12-12<br>Vienna, Austria</a></td>
 		<td><a href="https://icdcs2017.gatech.edu/" title="date: 2017-06-05..08, notify: 2017-03-06">2016-12-12<br>Atlanta, GA</a></td>
