@@ -8,7 +8,7 @@ author_profile: true
 
 [An alternative conference list with countdown. (in chinese)](https://ccfddl.github.io)
 
-<font size="4" color="grey">[Last Update: Mar-03-2026]</font>
+<font size="4" color="grey">[Last Update: Mar-04-2026]</font>
 
 <table align="center">
 	<tr>
@@ -27,7 +27,7 @@ author_profile: true
 		<td>Deadline 2016</td>
 	</tr>
 	<tr>
-		<td rowspan="6"><b><i>Jan</i></b></td>
+		<td rowspan="5"><b><i>Jan</i></b></td>
 		<td>CF</td>
 		<td><a href="http://www.computingfrontiers.org/2026/" title="date: 2026-05-19..21, notify: 2026-03-19">2026-01-12(Abstract)<br>2026-01-19(full)<br>Catania, Italy</a></td>
 		<td><a href="http://www.computingfrontiers.org/2025/" title="date: 2025-05-28..30, notify: ">2025-01-<br>Cagliari, Italy</a></td>
@@ -40,20 +40,6 @@ author_profile: true
 		<td><a href="http://www.computingfrontiers.org/2018/" title="date: 2018-05-08..10, notify: 2018-03-07">2018-01-21<br>Ischia, Italy</a></td>
 		<td><a href="http://www.computingfrontiers.org/2017/" title="date: 2017-05-15..17, notify: 2017-03-14">2017-01-20<br>Siena, Italy</a></td>
 		<td><a href="http://www.computingfrontiers.org/2016/" title="date: 2016-05-16..18, notify: 2016-03-11">2016-01-15<br>Como, Italy</a></td>
-	</tr>
-	<tr>
-		<td>ATC</td>
-		<td></td>
-		<td><a href="https://www.usenix.org/conference/atc25" title="date: 2025-07-07..09, notify: 2025-04-25"><nobr>2025-01-07(abstract)</nobr><br>2025-01-14(full)<br>Boston, MA</a></td>
-		<td><a href="https://www.usenix.org/conference/atc24" title="date: 2024-07-10..12, notify: 2024-04-30"><nobr>2024-01-09(abstract)</nobr><br>2024-01-16(full)<br>Santa Clara, CA</a></td>
-		<td><a href="https://www.usenix.org/conference/atc23" title="date: 2023-07-10..12, notify: 2023-04-28"><nobr>2023-01-05(abstract)</nobr><br>2023-01-12(full)<br>Boston, MA</a></td>
-		<td><a href="https://www.usenix.org/conference/atc22" title="date: 2022-07-11..13, notify: 2022-04-29"><nobr>2022-01-06(abstract)</nobr><br>2022-01-13(full)<br> CARLSBAD, CA</a></td>
-		<td><a href="https://www.usenix.org/conference/atc21" title="date: 2021-07-14..16, notify: 2021-04-26">2021-01-12<br> SANTA CLARA, CA</a></td>
-		<td><a href="https://www.usenix.org/conference/atc20" title="date: 2020-07-15..17, notify: 2020-04-24">2020-01-15<br> Boston, MA</a></td>
-		<td><a href="https://www.usenix.org/conference/atc19" title="date: 2019-07-10..12, notify: 2019-04-16">2019-01-10<br> Renton, WA</a></td>
-		<td><a href="https://www.usenix.org/conference/atc18" title="date: 2018-07-11..13, notify: 2018-04-18">2018-02-06<br>Boston, MA</a></td>
-		<td><a href="https://www.usenix.org/conference/atc17" title="date: 2017-07-12..14, notify: 2017-04-24">2017-02-07<br>Santa Clara, CA</a></td>
-		<td><a href="https://www.usenix.org/conference/atc16" title="date: 2016-06-22..24, notify: 2016-4-15">2016-02-01<br>Denver, CO</a></td>
 	</tr>
 	<tr>
 		<td>ICDCS</td>
@@ -129,6 +115,16 @@ author_profile: true
 	<tr>
 		<td>SoCC</td>
 		<td><a href="https://acmsocc.org/2026/" title="date: 2026-11-18..20 notify: 2026-04-29"><nobr>2026-02-06(abstract)</nobr><br>2026-02-13<br>Singapore</a></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>Euro Par</td>
@@ -145,7 +141,7 @@ author_profile: true
 		<td><a href="https://europar2016.inria.fr/" title="date: 2016-08-22..26, notify: 2016-04-24">2016-02-06<br>Grenoble, France</a></td>
 	</tr>
 	<tr>
-		<td rowspan="3"><b><i>Mar</i></b></td>
+		<td rowspan="4"><b><i>Mar</i></b></td>
 		<td>ISLPED</td>
 		<td><a href="http://www.islped.org/2026/" title="date: 2026-08-05..07, notify: 2026-05-18">2026-03-02(abstract)<br>2026-03-09(full)<br>Chicago, US</a></td>
 		<td><a href="http://www.islped.org/2025/" title="date: 2025-08-04..06, notify: 2025-05-19">2025-03-03(abstract)<br>2025-03-10(full)<br>Univ. of Iceland, Iceland</a></td>
@@ -158,6 +154,10 @@ author_profile: true
 		<td><a href="http://www.islped.org/2018/" title="date: 2018-07-23..25, notify: 2018-05-07">2018-03-12<br>Belleve, WA</a></td>
 		<td><a href="http://www.islped.org/2017/" title="date: 2017-07-24..26, notify: 2017-05-03">2017-03-13<br>Taipei, Taiwan</a></td>
 		<td><a href="http://www.islped.org/2016/" title="date: 2016-08-08..10, notify: 2016-04-30">2016-03-06<br>San Francisco, CA</a></td>
+	</tr>
+	<tr>
+		<td>FAST<br>(Spring)</td>
+		<td><a href="https://www.usenix.org/conference/fast27" title="date: 2027-02-23..25, notify: 2026-06-04">2026-03-17<br>Renton, WA</a></td>
 	</tr>
 	<tr>
 		<td>SOSP</td>
@@ -358,7 +358,7 @@ author_profile: true
 		<td><a href="https://www.systor.org/2016" title="date: 2016-06-06..08, notify: 2016-04-15">2016-03-11<br>Haifa, Israel</a></td>
 	</tr>
 	<tr>
-		<td rowspan="1"><b><i>Jun</i></b></td>
+		<td rowspan="2"><b><i>Jun</i></b></td>
 		<td>HiPEAC</td>
 		<td></td>
 		<td><a href="https://www.hipeac.net/2026/krakow/#/" title="date: 2026-01-26..28, notify: 2025-11-15">2025-06-01<br>Kraków, Poland</a></td>
@@ -371,6 +371,20 @@ author_profile: true
 		<td><a href="https://www.hipeac.net/2019/valencia/" title="date: 2019-01-21..23, notify: 2018-11-15">2018-06-01<br>Valencia,Spain</a></td>
 		<td><a href="https://www.hipeac.net/2018/manchester/" title="date: 2018-01-22..24, notify: 2017-11-15">2017-06-01<br>Manchester,UK</a></td>
 		<td><a href="https://www.hipeac.net/2017/stockholm/" title="date: 2016-01-23..25, notify: 2016-11-15">2016-06-01<br>Stockholm,Sweden</a></td>
+	</tr>
+	<tr>
+		<td>ATC</td>
+		<td><a href="https://sigops.org/s/conferences/atc/2026/index.html" title="date: 2026-11-15..18, notify: 2026-09-18"><nobr>2026-06-10<br>Shatin, Hong Kong</a></td>
+		<td><a href="https://www.usenix.org/conference/atc25" title="date: 2025-07-07..09, notify: 2025-04-25"><nobr>2025-01-07(abstract)</nobr><br>2025-01-14(full)<br>Boston, MA</a></td>
+		<td><a href="https://www.usenix.org/conference/atc24" title="date: 2024-07-10..12, notify: 2024-04-30"><nobr>2024-01-09(abstract)</nobr><br>2024-01-16(full)<br>Santa Clara, CA</a></td>
+		<td><a href="https://www.usenix.org/conference/atc23" title="date: 2023-07-10..12, notify: 2023-04-28"><nobr>2023-01-05(abstract)</nobr><br>2023-01-12(full)<br>Boston, MA</a></td>
+		<td><a href="https://www.usenix.org/conference/atc22" title="date: 2022-07-11..13, notify: 2022-04-29"><nobr>2022-01-06(abstract)</nobr><br>2022-01-13(full)<br> CARLSBAD, CA</a></td>
+		<td><a href="https://www.usenix.org/conference/atc21" title="date: 2021-07-14..16, notify: 2021-04-26">2021-01-12<br> SANTA CLARA, CA</a></td>
+		<td><a href="https://www.usenix.org/conference/atc20" title="date: 2020-07-15..17, notify: 2020-04-24">2020-01-15<br> Boston, MA</a></td>
+		<td><a href="https://www.usenix.org/conference/atc19" title="date: 2019-07-10..12, notify: 2019-04-16">2019-01-10<br> Renton, WA</a></td>
+		<td><a href="https://www.usenix.org/conference/atc18" title="date: 2018-07-11..13, notify: 2018-04-18">2018-02-06<br>Boston, MA</a></td>
+		<td><a href="https://www.usenix.org/conference/atc17" title="date: 2017-07-12..14, notify: 2017-04-24">2017-02-07<br>Santa Clara, CA</a></td>
+		<td><a href="https://www.usenix.org/conference/atc16" title="date: 2016-06-22..24, notify: 2016-4-15">2016-02-01<br>Denver, CO</a></td>
 	</tr>
 	<tr>
 		<td rowspan="3"><b><i>Jul</i></b></td>
@@ -502,8 +516,8 @@ author_profile: true
 		<td><a href="http://eurosys2017.org/" title="date: 2017-04-23..26, notify: 2017-01-23">2016-10-14<br>Belgrade, Serbia</a></td>
 	</tr>
 	<tr>
-		<td>FAST</td>
-		<td></td>
+		<td>FAST<br>(fall)</td>
+		<td><a href="https://www.usenix.org/conference/fast27" title="date: 2027-02-23..25, notify: 2026-12-08">2026-09-15<br>Renton, WA</a></td>
 		<td><a href="https://www.usenix.org/conference/fast26" title="date: 2026-02-24..26, notify: 2025-12-08">2025-09-16<br>Santa Clara, CA</a></td>
 		<td><a href="https://www.usenix.org/conference/fast25" title="date: 2025-02-25..27, notify: ">2024-09-17<br>Santa Clara, CA</a></td>
 		<td><a href="https://www.usenix.org/conference/fast24" title="date: 2024-02-27..29, notify: 2023-12-08">2023-09-21<br>Santa Clara, CA</a></td>
