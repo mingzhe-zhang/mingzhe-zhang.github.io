@@ -156,8 +156,18 @@ author_profile: true
 		<td><a href="http://www.islped.org/2016/" title="date: 2016-08-08..10, notify: 2016-04-30">2016-03-06<br>San Francisco, CA</a></td>
 	</tr>
 	<tr>
-		<td>FAST<br>(Spring)</td>
+		<td>FAST<br>(spring)</td>
 		<td><a href="https://www.usenix.org/conference/fast27" title="date: 2027-02-23..25, notify: 2026-06-04">2026-03-17<br>Renton, WA</a></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>SOSP</td>
@@ -374,7 +384,7 @@ author_profile: true
 	</tr>
 	<tr>
 		<td>ATC</td>
-		<td><a href="https://sigops.org/s/conferences/atc/2026/index.html" title="date: 2026-11-15..18, notify: 2026-09-18"><nobr>2026-06-10<br>Shatin, Hong Kong</a></td>
+		<td><a href="https://sigops.org/s/conferences/atc/2026/index.html" title="date: 2026-11-15..18, notify: 2026-09-18">2026-06-10<br>Shatin, Hong Kong</a></td>
 		<td><a href="https://www.usenix.org/conference/atc25" title="date: 2025-07-07..09, notify: 2025-04-25"><nobr>2025-01-07(abstract)</nobr><br>2025-01-14(full)<br>Boston, MA</a></td>
 		<td><a href="https://www.usenix.org/conference/atc24" title="date: 2024-07-10..12, notify: 2024-04-30"><nobr>2024-01-09(abstract)</nobr><br>2024-01-16(full)<br>Santa Clara, CA</a></td>
 		<td><a href="https://www.usenix.org/conference/atc23" title="date: 2023-07-10..12, notify: 2023-04-28"><nobr>2023-01-05(abstract)</nobr><br>2023-01-12(full)<br>Boston, MA</a></td>
