@@ -9,6 +9,14 @@ author_profile: true
 
 ## 2026
 
+[C48] <b>[MNEMOS: A GPU-based TFHE Acceleration Framework with Memory Access Optimization](../publications/ISCA2026-2)</b>
+Junyi Zhang, Xianglong Deng, Yi Chen, Guang Fan, Lei Chen, Dian Jiao, Shengyu Fan, Zhiwei Wang, Mingzhe Zhang.
+<i>2026 International Symposium on Computer Architecture</i>. <b>ISCA 2026</b>
+
+[C47] <b>[Hierarchical Exploitation of Memory Efficiency for GPU-Based FHE Acceleration](../publications/ISCA2026-1)</b>
+Guang Fan, Yi Chen, Lei Chen, Liang Kong, Chao Niu, Dian Jiao, Yilan Zhu, Geng Yang, Shengyu Fan, Xianglong Deng, Fangyu Zheng, Jian Weng, Yisong Chang, Meng Li, Shoumeng Yan, Mingzhe Zhang.
+<i>2026 International Symposium on Computer Architecture</i>. <b>ISCA 2026</b>
+
 [C46] <b>[A Bitwidth-Flexible Modular Multiplier with Shift-Free Accumulation for Efficient NTT Acceleration in FHE](../publications/ISCAS2026)</b>
 Zihao Yang, Dian Jiao, Shengyu Fan, Xianglong Deng, Rui Hou, Mingzhe Zhang.
 <i>2026 IEEE International Symposium on Circuits and Systems</i>. <b>ISCAS 2026</b>
