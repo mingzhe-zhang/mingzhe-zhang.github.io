@@ -8,7 +8,7 @@ author_profile: true
 
 [An alternative conference list with countdown. (in chinese)](https://ccfddl.github.io)
 
-<font size="4" color="grey">[Last Update: Mar-04-2026]</font>
+<font size="4" color="grey">[Last Update: Apr-10-2026]</font>
 
 <table align="center">
 	<tr>
@@ -269,6 +269,20 @@ author_profile: true
 		<td><a href="http://pact2016.eew.technion.ac.il/" title="date: 2016-09-11..15, notify: 2016-06-28">2016-03-18<br>Haifa, Israel</a></td>
 	</tr>
 	<tr>
+		<td>CLUSTER</td>
+		<td><a href="https://clustercomp.org/2026/" title="date: 2026-09-22..25, notify: 2026-07-05">2026-04-23(abstract)<br>2026-04-30(full)<br>Alexandria, VA</a></td>
+		<td><a href="https://clustercomp.org/2025/" title="date: 2025-09-02..05, notify: 2025-07-04">2025-04-25(full)<br>Edinburgh, UK</a></td>
+		<td><a href="https://clustercomp.org/2024/" title="date: 2024-09-24..27, notify: 2024-07-05">2024-04-25(full)<br>Kobe, Japan</a></td>
+		<td><a href="https://clustercomp.org/2023/" title="date: 2023-10-31..03, notify: 2023-07-05">2023-05-11(full)<br>Santa Fe, NM</a></td>
+		<td><a href="https://clustercomp.org/2022/" title="date: 2022-09-06..09, notify: 2022-07-04">2022-05-13(full)<br>Heidelberg, Germany</a></td>
+		<td><a href="https://clustercomp.org/2021/" title="date: 2021-09-07..10, notify: 2021-07-05">2021-05-10(abstract)<br>2021-05-17(full)<br>Portland, OR</a></td>
+		<td><a href="https://clustercomp.org/2020/" title="date: 2020-11-14..17, notify: 2020-07-06">2020-05-10<br>Kobe, Japan</a></td>
+		<td><a href="https://clustercomp.org/2019/" title="date: 2019-09-24..27, notify: 2019-07-15">2019-05-17<br>Albuquerque, NM</a></td>
+		<td><a href="https://clustercomp.org/2018/" title="date: 2018-09-10..13, notify: 2018-07-07">2018-05-08<br>Belfast, UK</a></td>
+		<td><a href="https://clustercomp.org/2017/" title="date: 2017-09-05..08, notify: 2017-06-30">2017-05-15<br>Hawaii, US</a></td>
+		<td><a href="https://clustercomp.org/2016/" title="date: 2016-09-12..15, notify: 2016-07-01">2016-05-14<br>Taipei, Taiwan</a></td>
+	</tr>
+	<tr>
 		<td>ICPP</td>
 		<td><a href="https://icpp2026.github.io" title="date: 2026-09-28..01, notify: 2026-06-30"><nobr>2026-04-24(abstract)</nobr><br><nobr>2026-05-01(full)</nobr><br>Singapore</a></td>
 		<td><a href="https://icpp2025.sdsc.edu/home" title="date: 2025-09-08..11, notify: 2025-06-10"><nobr>2025-04-21(full)</nobr><br>San Diego, CA</a></td>
@@ -283,37 +297,9 @@ author_profile: true
 		<td><a href="http://icpp2016.cs.wcupa.edu" title="date: 2016-08-16..19, notify: 2016-05-06">2016-02-26<br>Philadelphia, PA</a></td>
 	</tr>
 	<tr>
-		<td>CLUSTER</td>
-		<td></td>
-		<td><a href="https://clustercomp.org/2025/" title="date: 2025-09-02..05, notify: 2025-07-04">2025-04-25(full)<br>Edinburgh, UK</a></td>
-		<td><a href="https://clustercomp.org/2024/" title="date: 2024-09-24..27, notify: 2024-07-05">2024-04-25(full)<br>Kobe, Japan</a></td>
-		<td><a href="https://clustercomp.org/2023/" title="date: 2023-10-31..03, notify: 2023-07-05">2023-05-11(full)<br>Santa Fe, NM</a></td>
-		<td><a href="https://clustercomp.org/2022/" title="date: 2022-09-06..09, notify: 2022-07-04">2022-05-13(full)<br>Heidelberg, Germany</a></td>
-		<td><a href="https://clustercomp.org/2021/" title="date: 2021-09-07..10, notify: 2021-07-05">2021-05-10(abstract)<br>2021-05-17(full)<br>Portland, OR</a></td>
-		<td><a href="https://clustercomp.org/2020/" title="date: 2020-11-14..17, notify: 2020-07-06">2020-05-10<br>Kobe, Japan</a></td>
-		<td><a href="https://clustercomp.org/2019/" title="date: 2019-09-24..27, notify: 2019-07-15">2019-05-17<br>Albuquerque, NM</a></td>
-		<td><a href="https://clustercomp.org/2018/" title="date: 2018-09-10..13, notify: 2018-07-07">2018-05-08<br>Belfast, UK</a></td>
-		<td><a href="https://clustercomp.org/2017/" title="date: 2017-09-05..08, notify: 2017-06-30">2017-05-15<br>Hawaii, US</a></td>
-		<td><a href="https://clustercomp.org/2016/" title="date: 2016-09-12..15, notify: 2016-07-01">2016-05-14<br>Taipei, Taiwan</a></td>
-	</tr>
-	<tr>
 		<td rowspan="5"><b><i>May</i></b></td>
-		<td>ICCD</td>
-		<td></td>
-		<td><a href="https://iccd-conf.com/Home.html" title="date: 2025-11-10..12, notify: 2025-08-01">2025-05-04(abstract)<br>2025-05-11(full)<br>Dallas, TX</a></td>
-		<td><a href="https://iccd-conf.com/Home.html" title="date: 2024-11-, notify: 2024-08-01">2024-05-05(abstract)<br>2024-05-12(full)<br>Milan, Italy</a></td>
-		<td><a href="https://iccd-conf.com/Home.html" title="date: 2023-11-06..08, notify: 2023-08-25">2023-06-09(abstract)<br>2023-06-16(full)<br>Washington DC, US</a></td>
-		<td><a href="https://www.iccd-conf.com/Home.html" title="date: 2022-10-23..26, notify: 2022-08-21">2022-06-04(abstract)<br>2022-06-11(full)<br>Lake Tahoe, US</a></td>
-		<td><a href="https://www.iccd-conf.com/2021/Home.html" title="date: 2021-10-24..27, notify: 2021-08-20">2021-05-28(abstract)<br>2021-06-04(full)<br>Virtual Conference</a></td>
-		<td><a href="https://www.iccd-conf.com/2020/Home.html" title="date: 2020-10-18..21, notify: 2020-08-17">2020-06-05<br>Hartford, CT</a></td>
-		<td><a href="https://www.iccd-conf.com/2019/Home.html" title="date: 2019-11-17..20, notify: 2019-09-09">2019-06-28<br>Abu Dhabi, UAE</a></td>
-		<td><a href="https://www.iccd-conf.com/2018/Home.html" title="date: 2018-10-07..10, notify: 2018-08-06">2018-05-25<br>Orlando, FL</a></td>
-		<td><a href="https://www.iccd-conf.com/2017/Home.html" title="date: 2017-11-05..08, notify: 2017-08-31">2017-06-23<br>Boston, MA</a></td>
-		<td><a href="https://www.iccd-conf.com/2016/Home.html" title="date: 2016-10-03..05, notify: 2016-07-29">2016-05-20<br>Phoenix, AZ</a></td>
-	</tr>
-	<tr>
 		<td>Eurosys<br>(spring)</td>
-		<td></td>
+		<td><a href="https://2027.eurosys.org/" title="date: 2027-04-19..24, notify: 2026-08-21">2026-05-07(abstract)<br>2026-05-14(full)<br>Rabat, Morocco</a></td>
 		<td><a href="https://2026.eurosys.org/" title="date: 2026-04-13..16, notify: 2025-08-22">2025-05-08(abstract)<br>2025-05-15(full)<br>Edinburgh, UK</a></td>
 		<td><a href="https://2025.eurosys.org/" title="date: 2025-03-30..03, notify: 2024-08-21">2024-05-14(abstract)<br>2024-05-21(full)<br>Rotterdam, Netherland</a></td>
 		<td><a href="https://2024.eurosys.org/" title="date: 2024-04-23..26, notify: 2023-09-12">2023-05-24(full)<br>Athens, Greece</a></td>
@@ -354,6 +340,20 @@ author_profile: true
 		<td><a href="http://www.iiswc.org/iiswc2016/index.html" title="date: 2016-09-25..27, notify: 2016-07-12">2016-05-13<br>Rhode Island, USA</a></td>
 	</tr>
 	<tr>
+		<td>ICCD</td>
+		<td><a href="https://iccd-conf.com/2026/Home.html" title="date: 2026-11-16..18, notify: 2026-08-20">2026-05-15(abstract)<br>2026-05-22(full)<br>Hong Kong, China</a></td>
+		<td><a href="https://iccd-conf.com/Home.html" title="date: 2025-11-10..12, notify: 2025-08-01">2025-05-04(abstract)<br>2025-05-11(full)<br>Dallas, TX</a></td>
+		<td><a href="https://iccd-conf.com/Home.html" title="date: 2024-11-, notify: 2024-08-01">2024-05-05(abstract)<br>2024-05-12(full)<br>Milan, Italy</a></td>
+		<td><a href="https://iccd-conf.com/Home.html" title="date: 2023-11-06..08, notify: 2023-08-25">2023-06-09(abstract)<br>2023-06-16(full)<br>Washington DC, US</a></td>
+		<td><a href="https://www.iccd-conf.com/Home.html" title="date: 2022-10-23..26, notify: 2022-08-21">2022-06-04(abstract)<br>2022-06-11(full)<br>Lake Tahoe, US</a></td>
+		<td><a href="https://www.iccd-conf.com/2021/Home.html" title="date: 2021-10-24..27, notify: 2021-08-20">2021-05-28(abstract)<br>2021-06-04(full)<br>Virtual Conference</a></td>
+		<td><a href="https://www.iccd-conf.com/2020/Home.html" title="date: 2020-10-18..21, notify: 2020-08-17">2020-06-05<br>Hartford, CT</a></td>
+		<td><a href="https://www.iccd-conf.com/2019/Home.html" title="date: 2019-11-17..20, notify: 2019-09-09">2019-06-28<br>Abu Dhabi, UAE</a></td>
+		<td><a href="https://www.iccd-conf.com/2018/Home.html" title="date: 2018-10-07..10, notify: 2018-08-06">2018-05-25<br>Orlando, FL</a></td>
+		<td><a href="https://www.iccd-conf.com/2017/Home.html" title="date: 2017-11-05..08, notify: 2017-08-31">2017-06-23<br>Boston, MA</a></td>
+		<td><a href="https://www.iccd-conf.com/2016/Home.html" title="date: 2016-10-03..05, notify: 2016-07-29">2016-05-20<br>Phoenix, AZ</a></td>
+	</tr>
+	<tr>
 		<td>SYSTOR</td>
 		<td><a href="https://www.systor.org/2026/" title="date: 2026-09-08..09, notify: 2026-07-13">2026-05-21<br>Virtual</a></td>
 		<td><a href="https://www.systor.org/2025/" title="date: 2025-09-08..09, notify: 2025-07-10">2025-05-20<br>Virtual</a></td>
@@ -370,7 +370,7 @@ author_profile: true
 	<tr>
 		<td rowspan="2"><b><i>Jun</i></b></td>
 		<td>HiPEAC</td>
-		<td></td>
+		<td><a href="https://www.hipeac.net/2027/glasgow/#/" title="date: 2027-01-18..20, notify: 2026-11-15">2026-06-01<br>Glasgow, UK</a></td>
 		<td><a href="https://www.hipeac.net/2026/krakow/#/" title="date: 2026-01-26..28, notify: 2025-11-15">2025-06-01<br>Kraków, Poland</a></td>
 		<td><a href="https://www.hipeac.net/2025/barcelona/#/" title="date: 2025-01-, notify: 2024-11-15">2024-06-01<br>Barcelona, Spain</a></td>
 		<td><a href="https://www.hipeac.net/2024/munich/#/" title="date: 2024-01-17..19, notify: 2023-11-15">2023-06-01<br>Munich, Germany</a></td>
@@ -513,7 +513,7 @@ author_profile: true
 	</tr>
 	<tr>
 		<td>EuroSys<br>(fall)</td>
-		<td></td>
+		<td><a href="https://2027.eurosys.org/" title="date: 2027-04-19..24, notify: 2027-01-29">2026-09-17(abstract)<br>2026-09-24(full)<br>Rabat, Morocco</a></td>
 		<td><a href="https://2026.eurosys.org/" title="date: 2026-04-13..16, notify: 2026-01-30">2025-09-18(abstract)<br>2025-09-25(full)<br>Edinburgh, UK</a></td>
 		<td><a href="https://2025.eurosys.org/" title="date: 2025-03-30..03, notify: 2025-01-25">2024-10-15(abstract)<br>2024-10-22(full)<br>Rotterdam, Netherland</a></td>
 		<td><a href="https://2024.eurosys.org/" title="date: 2024-04-23..26, notify: 2024-02-07">2023-10-19(full)<br>Athens, Greece</a></td>
