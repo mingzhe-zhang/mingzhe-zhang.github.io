@@ -8,7 +8,7 @@ author_profile: true
 
 [An alternative conference list with countdown. (in chinese)](https://ccfddl.github.io)
 
-<font size="4" color="grey">[Last Update: Apr-10-2026]</font>
+<font size="4" color="grey">[Last Update: Jun-11-2026]</font>
 
 <table align="center">
 	<tr>
@@ -427,7 +427,7 @@ author_profile: true
 	</tr>
 	<tr>
 		<td>HPCA</td>
-		<td></td>
+		<td><a href="https://www.hpca-conf.org/2027/" title="date: 2027-01-30..03, notify: 2026-11-06">2026-07-24(abstract)<br>2026-07-31(full)<br>Salt Lake City, US</a></td>
 		<td><a href="https://www.hpca-conf.org/2026/" title="date: 2026-01-31..04, notify: 2025-11-07">2025-07-25(abstract)<br>2025-08-01(full)<br>Sydney, Austrilia</a></td>
 		<td><a href="https://www.hpca-conf.org/2025/" title="date: 2025-03-01..05, notify: 2024-11-05">2024-07-26(abstract)<br>2024-08-02(full)<br>Las Vegas, NV</a></td>
 		<td><a href="https://www.hpca-conf.org/2024/" title="date: 2024-03-02..06, notify: 2023-10-24">2023-07-28(abstract)<br>2023-08-04(full)<br>Edinburgh, UK</a></td>
@@ -442,7 +442,7 @@ author_profile: true
 	<tr>
 		<td rowspan="2"><b><i>Aug</i></b></td>
 		<td>SIGMETRICS<br>(summer)</td>
-		<td></td>
+		<td><a href="http://www.sigmetrics.org/sigmetrics2027" title="date: 2027-06-07..11, notify: 2026-09-09">2026-07-03(abstract)<br>2026-07-10(full)<br>Atlanta, USA</a></td>
 		<td><a href="http://www.sigmetrics.org/sigmetrics2026" title="date: 2026-06-08..12, notify: 2025-09-26">2025-07-22(abstract)<br>2025-07-29(full)<br>Ann Arbor, USA</a></td>
 		<td><a href="http://www.sigmetrics.org/sigmetrics2025" title="date: 2025-06-09..13, notify: 2024-09-24">2024-07-31(abstract)<br>2024-08-07(full)<br>Stony Brook, NY</a></td>
 		<td><a href="http://www.sigmetrics.org/sigmetrics2024" title="date: 2024-06-10..14, notify: ">2023-08-03(abstract)<br>2023-08-10(full)<br>Venice, Italy</a></td>
@@ -456,7 +456,7 @@ author_profile: true
 	</tr>		
 	<tr>
 		<td>PPoPP</td>
-		<td></td>
+		<td><a href="http://conf.researchr.org/home/ppopp-2027" title="date: 2027-01-30..03, notify: 2026-10-26">2026-08-03(full)<br>Salt Lake City, US</a></td>
 		<td><a href="http://conf.researchr.org/home/ppopp-2026" title="date: 2026-01-31..04, notify: 2025-11-10">2025-09-01(full)<br>Sydney, Austrilia</a></td>
 		<td><a href="http://conf.researchr.org/home/ppopp-2025" title="date: 2025-03-01..05, notify: 2024-11-11">2024-08-16(full)<br>Las Vegas, NV</a></td>
 		<td><a href="http://conf.researchr.org/home/ppopp-2024" title="date: 2024-02-22..06, notify: 2023-11-10">2023-08-04(full)<br>Edinburgh, UK</a></td>
@@ -499,7 +499,7 @@ author_profile: true
 	</tr>
 	<tr>
 		<td>DATE</td>
-		<td></td>
+		<td><a href="https://www.date-conference.com/" title="date: 2027-03-22..24, notify: 2026-">2026-09-13(abstract)<br>2026-09-20(full)<br>Dresden, Germany</a></td>
 		<td><a href="https://www.date-conference.com/" title="date: 2026-04-20..22, notify: 2025-11-11">2025-09-07(abstract)<br>2025-09-14(full)<br>Verona, Italy</a></td>
 		<td><a href="https://www.date-conference.com/date-2025-call-papers" title="date: 2025-03-31..02, notify: ">2024-09-15(abstract)<br>2024-09-22(full)<br>Lyon, France</a></td>
 		<td><a href="https://www.date-conference.com/date-2024-call-papers" title="date: 2024-03-25..27, notify: ">2023-09-10(abstract)<br>2023-09-17(full)<br>Valencia, Spain</a></td>
@@ -542,7 +542,7 @@ author_profile: true
 	<tr>
 		<td rowspan="3"><b><i>Oct</i></b></td>
 		<td>SIGMETRICS<br>(fall)</td>
-		<td></td>
+		<td><a href="http://www.sigmetrics.org/sigmetrics2027" title="date: 2027-06-07..11, notify: 2026-12-09">2026-10-02(abstract)<br>2026-10-09(full)<br>Atlanta, USA</a></td>
 		<td><a href="http://www.sigmetrics.org/sigmetrics2026" title="date: 2026-06-08..12, notify: 2025-12-12">2025-10-07(abstract)<br>2025-10-14(full)<br>Ann Arbor, USA</a></td>
 		<td><a href="http://www.sigmetrics.org/sigmetrics2025" title="date: 2025-06-09..13, notify: 2024-12-10">2024-10-02(abstract)<br>2024-10-09(full)<br>Stony Brooks, NY</a></td>
 		<td><a href="http://www.sigmetrics.org/sigmetrics2024" title="date: 2024-06-10..14, notify: 2023-12-12">2023-10-04(abstract)<br>2023-10-11(full)<br>Venice, Italy</a></td>

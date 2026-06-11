@@ -5,6 +5,9 @@ author_profile: true
 ---
 ## 2026
 
++ [2026-05-29] Our paper "OmniCifro: A Heterogeneous Acceleration System with PIM for Encrypted Computation" has been accepted by IEEE TCAD! Congratulations to all!
++ [2026-05-29] I will serve as the PC Committee Member of ICCD 2026.
++ [2026-05-09] I will serve as the PC Committee Member of HPCA 2027.
 + [2026-03-28] Our two papers "Hierarchical Exploitation of Memory Efficiency for GPU-Based FHE Acceleration" and "MNEMOS: A GPU-based TFHE Acceleration Framework with Memory Access Optimization" have been accepted by ISCA 2026! Congratulations to all!
 + [2026-03-21] I will serve as the PC Committee Member of MICRO 2026.
 + [2026-02-24] Two collaboration paper have been accepted by DAC 2026! Congratulations to all collaborators!

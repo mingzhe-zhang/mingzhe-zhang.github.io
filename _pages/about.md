@@ -37,18 +37,15 @@ I do research in Computer Architecture and Bigdata-oriented System, including:
 
 ## Updates
 
++ [2026-05-29] Our paper "OmniCifro: A Heterogeneous Acceleration System with PIM for Encrypted Computation" has been accepted by IEEE TCAD! Congratulations to all!
++ [2026-05-29] I will serve as the PC Committee Member of ICCD 2026.
++ [2026-05-09] I will serve as the PC Committee Member of HPCA 2027.
 + [2026-03-28] Our two papers "Hierarchical Exploitation of Memory Efficiency for GPU-Based FHE Acceleration" and "MNEMOS: A GPU-based TFHE Acceleration Framework with Memory Access Optimization" have been accepted by ISCA 2026! Congratulations to all!
 + [2026-03-21] I will serve as the PC Committee Member of MICRO 2026.
-+ [2026-02-24] Two collaboration paper have been accepted by DAC 2026! Congratulations to all collaborators!
-+ [2026-02-18] I will serve as the PC Committee Member of CASES 2026.
-+ [2026-01-20] Our paper "A Bitwidth-Flexible Modular Multiplier with Shift-Free Accumulation for Efficient NTT Acceleration in FHE" has been accepted by ISCAS 2026! Congrats to all!
-+ [2026-01-17] Our collaboration paper "A Framework for Developing and Optimizing Fully Homomorphic Encryption Programs on GPUs" has been accepted by ASPLOS 2026! Congratulations to all collaborators!
-+ [2025-12-20] One collaboration paper "Libra: Pattern-Scheduling Co-Optimization for Cross-Scheme FHE Code Generation over GPGPU" has been accepted by USENIX Security 2026! Congratulations to all collaborators!
-
 
 [More...](../news/all-news)
 
-\[Last Update: Mar-28-2026\]
+\[Last Update: Jun-11-2026\]
 
    
 
