@@ -37,6 +37,7 @@ I do research in Computer Architecture and Bigdata-oriented System, including:
 
 ## Updates
 
++ [2026-06-23] Our paper "CACO: Chiplet-based FHE Acceleration with Inter-Chiplet Communication Optimizations" has been accepted by IEEE TCAD! Congratulations to all! 
 + [2026-05-29] Our paper "OmniCifro: A Heterogeneous Acceleration System with PIM for Encrypted Computation" has been accepted by IEEE TCAD! Congratulations to all!
 + [2026-05-29] I will serve as the PC Committee Member of ICCD 2026.
 + [2026-05-09] I will serve as the PC Committee Member of HPCA 2027.
@@ -45,7 +46,7 @@ I do research in Computer Architecture and Bigdata-oriented System, including:
 
 [More...](../news/all-news)
 
-\[Last Update: Jun-11-2026\]
+\[Last Update: Jul-02-2026\]
 
    
 
