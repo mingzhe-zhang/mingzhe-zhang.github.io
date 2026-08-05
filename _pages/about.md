@@ -37,16 +37,16 @@ I do research in Computer Architecture and Bigdata-oriented System, including:
 
 ## Updates
 
++ [2026-08-04] Our paper "HPAO: Polynomial-Level Optimization for RNS–CKKS Programs" has been accepted by CGO 2027! Congratulations to all!
++ [2026-07-31] Our paper "ArborDorp: An Area Efficient CKKS Accelerator" has been accepted by IEEE TCAD! Congratulations to all!
++ [2026-07-18] Our paper "ROSETTA: Efficient and Accurate Privacy-Preserving LLM Decoding via Hybrid CKKS/TFHE Evaluation" has been accepted by ACM CCS 2026!
++ [2026-07-08] Our papers "LUTHE: Breaking the Memory Wall of High-Precision Encrypted LLM Nonlinearities via GPU–CSD Co-Design" and "Helios: Melting Kernel Boundaries for GPU-Accelerated HE via Graph Rewriting and Microarchitecture-Aware Mapping" have been accepted by MICRO 2026! Congratulations to all!
 + [2026-06-23] Our paper "CACO: Chiplet-based FHE Acceleration with Inter-Chiplet Communication Optimizations" has been accepted by IEEE TCAD! Congratulations to all! 
 + [2026-05-29] Our paper "OmniCifro: A Heterogeneous Acceleration System with PIM for Encrypted Computation" has been accepted by IEEE TCAD! Congratulations to all!
-+ [2026-05-29] I will serve as the PC Committee Member of ICCD 2026.
-+ [2026-05-09] I will serve as the PC Committee Member of HPCA 2027.
-+ [2026-03-28] Our two papers "Hierarchical Exploitation of Memory Efficiency for GPU-Based FHE Acceleration" and "MNEMOS: A GPU-based TFHE Acceleration Framework with Memory Access Optimization" have been accepted by ISCA 2026! Congratulations to all!
-+ [2026-03-21] I will serve as the PC Committee Member of MICRO 2026.
 
 [More...](../news/all-news)
 
-\[Last Update: Jul-02-2026\]
+\[Last Update: Aug-05-2026\]
 
    
 
