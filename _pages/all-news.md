@@ -5,6 +5,7 @@ author_profile: true
 ---
 ## 2026
 
++ [2026-09-01] Our paper "Investigation of Karatsuba Algorithm for Large-Bitwidth Modular Multiplication" has been accepted by ASP-DAC 2027! Congratulations to all!
 + [2026-08-04] Our paper "HPAO: Polynomial-Level Optimization for RNS–CKKS Programs" has been accepted by CGO 2027! Congratulations to all!
 + [2026-07-31] Our paper "ArborDorp: An Area Efficient CKKS Accelerator" has been accepted by IEEE TCAD! Congratulations to all!
 + [2026-07-18] Our paper "ROSETTA: Efficient and Accurate Privacy-Preserving LLM Decoding via Hybrid CKKS/TFHE Evaluation" has been accepted by ACM CCS 2026!
