@@ -30,7 +30,7 @@ author_profile: true
 	<tr>
 		<td rowspan="4"><b><i>Jan</i></b></td>
 		<td>SIGMETRICS<br>(winter)</td>
-		<td><a href="https://www.sigmetrics.org/sigmetrics2027/pages/cfp.html" title="date: 2027-06-07..11, notify: 2027-03-10">2027-01-04(abstract)<br>2027-01-11(full)<br>Atlanta, GA</a></td>
+		<td><a href="https://www.sigmetrics.org/sigmetrics2027/pages/cfp.html" title="date: 2027-06-07..11, notify: 2027-03-10"><nobr>2027-01-04(abstract)</nobr><br>2027-01-11(full)<br>Atlanta, GA</a></td>
 		<td><a href="http://www.sigmetrics.org/sigmetrics2026" title="date: 2026-06-08..12, notify: 2026-03-13">2026-01-06(abstract)<br>2026-01-13(full)<br>Ann Arbor, USA</a></td>
 		<td><a href="http://www.sigmetrics.org/sigmetrics2025" title="date: 2025-06-09..13, notify: 2025-03-18"><nobr>2025-01-15(abstract)</nobr><br>2025-01-22(full)<br>Stony Brook, NY</a></td>
 		<td><a href="http://www.sigmetrics.org/sigmetrics2024" title="date: 2024-06-10..14, notify: 2024-03-26"><nobr>2024-01-24(abstract)</nobr><br>2024-01-31(full)<br>Venice, Italy</a></td>
