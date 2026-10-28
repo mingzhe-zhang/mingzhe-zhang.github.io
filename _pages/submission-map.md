@@ -8,7 +8,7 @@ author_profile: true
 
 [An alternative conference list with countdown. (in chinese)](https://ccfddl.github.io)
 
-<font size="4" color="grey">[Last Update: Oct-13-2026]</font>
+<font size="4" color="grey">[Last Update: Oct-28-2026]</font>
 
 <table align="center">
 	<tr>
@@ -28,9 +28,9 @@ author_profile: true
 		<td>Deadline 2016</td>
 	</tr>
 	<tr>
-		<td rowspan="5"><b><i>Jan</i></b></td>
+		<td rowspan="4"><b><i>Jan</i></b></td>
 		<td>SIGMETRICS<br>(winter)</td>
-		<td></td>
+		<td><a href="https://www.sigmetrics.org/sigmetrics2027/pages/cfp.html" title="date: 2027-06-07..11, notify: 2027-03-10">2027-01-04(abstract)<br>2027-01-11(full)<br>Atlanta, GA</a></td>
 		<td><a href="http://www.sigmetrics.org/sigmetrics2026" title="date: 2026-06-08..12, notify: 2026-03-13">2026-01-06(abstract)<br>2026-01-13(full)<br>Ann Arbor, USA</a></td>
 		<td><a href="http://www.sigmetrics.org/sigmetrics2025" title="date: 2025-06-09..13, notify: 2025-03-18"><nobr>2025-01-15(abstract)</nobr><br>2025-01-22(full)<br>Stony Brook, NY</a></td>
 		<td><a href="http://www.sigmetrics.org/sigmetrics2024" title="date: 2024-06-10..14, notify: 2024-03-26"><nobr>2024-01-24(abstract)</nobr><br>2024-01-31(full)<br>Venice, Italy</a></td>
@@ -45,7 +45,7 @@ author_profile: true
 	</tr>
 	<tr>
 		<td>CF</td>
-		<td></td>
+		<td><a href="https://www.computingfrontiers.org/2027/" title="date: 2027-05-25..27, notify: 2027-03-15">2027-01-18(abstract)<br>2027-01-25(full)<br>Trento, Italy</a></td>
 		<td><a href="http://www.computingfrontiers.org/2026/" title="date: 2026-05-19..21, notify: 2026-03-19">2026-01-12(Abstract)<br>2026-01-19(full)<br>Catania, Italy</a></td>
 		<td><a href="http://www.computingfrontiers.org/2025/" title="date: 2025-05-28..30, notify: ">2025-01-<br>Cagliari, Italy</a></td>
 		<td><a href="http://www.computingfrontiers.org/2024/" title="date: 2024-05-07..09, notify: 2024-02-12">2024-01-08<br>Ischia, Italy</a></td>
@@ -89,8 +89,9 @@ author_profile: true
 		<td><a href="http://www.hpdc.org/2016" title="date: 2016-06-02..04, notify: 2016-03-12">2016-01-18<br>Kyoto, Japan</a></td>
 	</tr>
 	<tr>
+		<td rowspan="4"><b><i>Feb</i></b></td>
 		<td>SIGCOMM</td>
-		<td></td>
+		<td><a href="https://conferences.sigcomm.org/sigcomm/2027/" title="date: 2027-08-08..12, notify: ">2027-02-02(full)<br>Bangkok, Thailand</a></td>
 		<td><a href="http://conferences.sigcomm.org/sigcomm/2026/" title="date: 2026-08-17..21, notify: ">2026-01-30(abstract)<br>2026-02-06(full)<br>Denver, US</a></td>
 		<td><a href="http://conferences.sigcomm.org/sigcomm/2025/" title="date: 2025-09-08..11, notify: 2025-04-29">2025-01-24(abstract)<br>2025-01-31(full)<br>Coimbra, Portugal</a></td>
 		<td><a href="http://conferences.sigcomm.org/sigcomm/2024/" title="date: 2024-08-04..08, notify: 2024-05-07">2024-01-26(abstract)<br>2024-02-02(full)<br>Sydney, Australia</a></td>
@@ -104,7 +105,6 @@ author_profile: true
 		<td><a href="http://conferences.sigcomm.org/sigcomm/2016" title="date: 2016-08-22..26, notify: 2016-04-22">2016-01-29<br>Salvador, Brazil</a></td>
 	</tr>
 	<tr>
-		<td rowspan="3"><b><i>Feb</i></b></td>
 		<td>ICS<br>(spring)</td>
 		<td></td>
 		<td><a href="https://dipsa-qub.github.io/ICS2026-webpage/" title="date: 2026-07-06..09, notify: 2026-04-07">2026-02-02(abstract)<br>2026-02-09(full)<br>Belfast, UK</a></td>
