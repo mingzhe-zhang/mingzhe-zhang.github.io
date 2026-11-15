@@ -11,6 +11,7 @@ redirect_from:
 ## Short Bio
 Dr. Mingzhe Zhang currently serves as the Deputy Director of Computing System Lab, Ant Research. Before joining Ant Group, Dr. Mingzhe Zhang was an Associate Professor at the Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS) from April 2021 to May 2024, and an Assistant Professor at the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS) from July 2018 to April 2021. Mingzhe graduated from ICT, CAS with a Ph.D. degree in 2018, Inner Mongolia University with M.S. degree in 2013, and Nanjing University of Posts and Telecommunications with a B.E. in 2008. From 2015 to 2017, he was at the University of Chicago as a visiting scholar, under the supervision of [Prof. Frederic T. Chong](http://people.cs.uchicago.edu/~ftchong/). 
 
+<!--
 <font color="#FF0000">[Anouncement]</font> 
 
 May-31, 2024
@@ -20,6 +21,7 @@ After a long journey of 16 years in the Chinese Academy of Sciences (CAS), I wil
 I would like to appreciate the education I have received from the three institutes (ISCAS, ICT, and IIE) of the CAS over the past 16 years. In CAS, I have grown from a student to a researcher, and from a young man to a responsible man. I will take the concept of "scientific research for the country, innovation benefits the people" as a lifelong creed, and always regard this place as another home. I want to thank all the teachers, classmates, friends and students for their trust, encouragement and support over the past 16 years. Your help has made me who I am today.
 
 I also want to thank the Ant Research for their trust and invitation, allowing us to work together to promote the development of homomorphic encryption technology in the coming years, contributing our small power to a better world.
+-->
 
 Click [here](../pages/cv) to see the up-to-date version of my CV.
 
