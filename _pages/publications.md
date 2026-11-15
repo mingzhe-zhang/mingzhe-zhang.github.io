@@ -3,7 +3,11 @@ title: "Publications ([Google Scholar](https://scholar.google.com/citations?user
 permalink: /publications/
 author_profile: true
 ---
-<br>
+<nav aria-label="Publication categories">
+  <a href="#conference">Conference</a> ·
+  <a href="#journals--transactions">Journal</a> ·
+  <a href="#arxiv-paper">Arxiv Paper</a>
+</nav>
 
 # Conference
 
@@ -260,6 +264,10 @@ Shuai Zhang, Zhiyong Liu, Dongrui Fan, Fonglong Song, <b>Mingzhe Zhang</b>.
 
 ## 2026
 
+[J22] <b>[A Cross-Layer Simulation Framework for Protocol Efficiency and Architecture Exploration in Scalable CXL Fabrics](../publications/TOCS2026)</b><br>
+Yuda An, Shushu Yi, Bo Mao, Qiao Li, Mingzhe Zhang, Diyu Zhou, Ke Zhou, Nong Xiao, Guangyu Sun, Yingwei Luo, Jie Zhang.
+<i>ACM Transactions on Computer Systems (TOCS)</i>.
+
 [J21] <b>[Taiyi: An Accelerator Architecture Optimized for Advanced KeySwitch in FHE](../publications/TC2026)</b><br>
 Shengyu Fan, Xianglong Deng, Liang Kong, Guang Fan, Zhicheng Hu, Liang Chang, Dan Meng, Rui Hou, Mingzhe Zhang.
 <i>IEEE Transactions on Computers</i>.
@@ -351,3 +359,21 @@ Hang Lu, Mingzhe Zhang, Yinhe Han, Huawei Li, Li Xiaowei.
 [J01] <b>[FreeRider: Non-local adaptive network-on-chip routing with packet-carried propagation of congestion information](../publications/TPDS2015)</b><br>
 Shaoli Liu, Tianshi Chen, Ling Li, Xi Li, <b>Mingzhe Zhang</b>, Chao Wang, Haibo Meng, Xuehai Zhou, Yunji Chen.
 <i>IEEE Transactions on Parallel and Distributed Systems (TPDS)</i>, Vol. 26, Issue 8, pp. 2272-2285.
+
+
+# Arxiv Paper
+
+[i3] <b>[Towards Efficient Privacy-Preserving Machine Learning: A Systematic Review from Protocol, Model, and System Perspectives](../publications/arxiv-2507-14519)</b><br>
+Zeng, Wenxuan, Xu, Tianshi, Chen, Yi, Zhou, Yifan, Zhang, Mingzhe, Tan, Jin, Hong, Cheng, Li, Meng.
+<i>arXiv:2507.14519</i>, 2025.
+
+
+[i2] <b>[A Novel Extensible Simulation Framework for CXL-Enabled Systems](../publications/arxiv-2411-08312)</b><br>
+An, Yuda, Yi, Shushu, Mao, Bo, Li, Qiao, Zhang, Mingzhe, Zhou, Ke, Xiao, Nong, Sun, Guangyu, Wang, Xiaolin, Luo, Yingwei, Zhang, Jie.
+<i>arXiv:2411.08312</i>, 2024.
+
+
+[i1] <b>[RISC-NN: Use RISC, NOT CISC as Neural Network Hardware Infrastructure](../publications/arxiv-2103-12393)</b><br>
+Xiang, Taoran, Zhang, Lunkai, An, Shuqian, Ye, Xiaochun, Zhang, Mingzhe, Liu, Yanhuan, Yan, Mingyu, Wang, Da, Zhang, Hao, Li, Wenming, Sun, Ninghui, Fan, Dongrui.
+<i>arXiv:2103.12393</i>, 2021.
+
