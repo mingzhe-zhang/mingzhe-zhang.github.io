@@ -10,3 +10,6 @@ citation: '<b>Self-Correction Trace Model: A Full-System Simulator for Optical N
 ## Abstract
 The improvement of the emerging technology involves the nanophotonic into the on-chip interconnection, which provides a large communication capability for the future large-scale CMP processor. As an important way to the architecture research, full-system simulation has been adopted by many researchers. Since the optical devices are fundamentally different from the conventional electronic elements, new methodology and tools are needed to simulate an Optical Network-on-Chip (ONOC) with real workload. In this paper, we introduce a high precise full-system ONOC simulation system. To build this system, we propose a self-correction trace model for accurate simulation in a reasonable period of time. Finally, to test our simulation system, we present a simple case-study to compare our system running real application with a baseline NOC simulator. The result shows that our simulation system achieves a high precision, while not substantially extend the total simulation time.
 
+## Paper links
+
+- [Official paper / download](https://doi.org/10.1109/ipdpsw.2012.26)

@@ -7,7 +7,49 @@ author_profile: true
 
 # Conference
 
+## 2027
+
+[C58] <b>[HELM: A Scalable Multi-GPU System for Homomorphic LLM Inference](../publications/HPCA2027-1)</b><br>
+Lei Chen, Yiming Sun, Erci Xu, Yi Chen, Shengyu Fan, Xianglong Deng, Guang Fan, Liang Kong, Yilan Zhu, Geng Yang, Fu Xiao, Shoumeng Yan, Yisong Chang, Mingzhe Zhang.
+<i>33rd IEEE International Symposium on High-Performance Computer Architecture</i>. <b>HPCA 2027</b>
+
+[C57] <b>[FCS: Frontier-based Commit-time Synchronization Method for Modular Simulators](../publications/HPCA2027-2)</b><br>
+Tiantian Lin, Tengjun Long, Mingzhe Zhang, Yingtao Jiang, Xiaohang Wang, Chao Zhang, Amit Kumar Singh, Jieming Yin, Kui Ren.
+<i>33rd IEEE International Symposium on High-Performance Computer Architecture</i>. <b>HPCA 2027</b>
+
+[C56] <b>[FORGE: FAFFT-Optimized Ring Arithmetic for GPU Execution of HQC and BIKE](../publications/HPCA2027-3)</b><br>
+Yijing Ning, Jiankuo Dong, Tian Zhou, Fangyu Zheng, Guang Fan, Mingzhe Zhang, Jingqiang Lin.
+<i>33rd IEEE International Symposium on High-Performance Computer Architecture</i>. <b>HPCA 2027</b>
+
+[C55] <b>[Accelerating Fully Homomorphic Encryption for Large Language Model Inference on Multi-GPU Systems](../publications/PPoPP2027)</b><br>
+Jianyu Zhao, Zhiyuan Zhang, Guang Fan, Mingzhe Zhang, Shoumeng Yan, Lei Ju, Zhuoran Ji.
+<i>ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming</i>. <b>PPoPP 2027</b>
+
+[C54] <b>[Investigation of Karatsuba Algorithm for Large-Bitwidth Modular Multiplication](../publications/ASP-DAC2027)</b><br>
+Bo Zhang, Xiaoyi Ye, Mingyu Gao, Mingzhe Zhang, Shoumeng Yan.
+<i>Asia and South Pacific Design Automation Conference</i>. <b>ASP-DAC 2027</b>
+
+[C53] <b>[HPAO: Polynomial-Level Optimization for RNS–CKKS Programs](../publications/CGO2027)</b><br>
+Tianxiang Sui, Qing Zhu, JianXin Lai, Mingzhe Zhang, Yan Liu, Long Li, Peng Yuan, Linjie Xiao, Xiaojing Zhang, Shoumeng Yan, Jingling Xue.
+<i>IEEE/ACM International Symposium on Code Generation and Optimization</i>. <b>CGO 2027</b>
+
 ## 2026
+
+[C52] <b>[ROSETTA: Efficient and Accurate Privacy-Preserving LLM Decoding via Hybrid CKKS/TFHE Evaluation](../publications/CCS2026)</b><br>
+Jiangrui Yu, Baosheng Zhang, Liang Kong, Lin Ding, Yi Chen, Ye Yu, Mingzhe Zhang, Meng Li.
+<i>ACM SIGSAC Conference on Computer and Communications Security</i>. <b>CCS 2026</b>
+
+[C51] <b>[Helios: Melting Kernel Boundaries for GPU-Accelerated HE via Graph Rewriting and Microarchitecture-Aware Mapping](../publications/MICRO2026-2)</b><br>
+Yi Chen, Ziyu Tang, Chao Yang, Guang Fan, Mingzhe Zhang, Meng Li.
+<i>59th IEEE/ACM International Symposium on Microarchitecture</i>. <b>MICRO 2026</b>
+
+[C50] <b>[LUTHE: Breaking the Memory Wall of High-Precision Encrypted LLM Nonlinearities via GPU–CSD Co-Design](../publications/MICRO2026-1)</b><br>
+Xiurui Pan, Guoci Chen, Guangyu Sun, Mingzhe Zhang, Jie Zhang.
+<i>59th IEEE/ACM International Symposium on Microarchitecture</i>. <b>MICRO 2026</b>
+
+[C49] <b>[Chimera: A Unified FHE Accelerator with Enhanced Compatibility for TFHE](../publications/DAC2026)</b><br>
+Tenghui Hua, Huawei Li, Jianan Mu, Jing Ye, Liang Kong, Mingzhe Zhang.
+<i>63rd ACM/IEEE Design Automation Conference</i>. <b>DAC 2026</b>
 
 [C48] <b>[MNEMOS: A GPU-based TFHE Acceleration Framework with Memory Access Optimization](../publications/ISCA2026-2)</b>
 Junyi Zhang, Xianglong Deng, Yi Chen, Guang Fan, Lei Chen, Dian Jiao, Shengyu Fan, Zhiwei Wang, Mingzhe Zhang.
@@ -156,7 +198,7 @@ Ning Lin, Hang Lu, Jingliang Gao, <b>Mingzhe Zhang</b>, Xiaowei Li.
 <b>Mingzhe Zhang</b>, Lunkai Zhang, Frederic T. Chong, Zhiyong Liu.
 <i>37th IEEE International Conference on Computer Design</i>. <b>ICCD 2019</b>.
 
-[C13] <b>[FindeR: Accelerating FM-Index-based Exact Pattern Matching in Genomic Sequences through ReRAM technology](../_publications/PACT2019)</b><br>
+[C13] <b>[FindeR: Accelerating FM-Index-based Exact Pattern Matching in Genomic Sequences through ReRAM technology](../publications/PACT2019)</b><br>
 Farzaneh Zokaee, <b>Mingzhe Zhang</b>, Lei Jiang.
 <i>28th International Conference on Parallel Architectures and Compilation</i>. <b>PACT 2019</b>.
 
@@ -201,7 +243,7 @@ Xiaochun Ye, Dongrui Fan, Ninghui Sun, Shibin Tang, <b>Mingzhe Zhang</b>, Hao Zh
 Lunkai Zhang, <b>Mingzhe Zhang</b>, Lingjun Fan, Da Wang, Paolo Ienne.
 <i>2013 IEEE 8th International Conference on Networking, Architecture and Storage</i>. <b>NAS 2013</b>.
 
-[C03] <b>[Energy-Performance Modeling and Optimization of Parallel Computing in On-Chip Networks](../_publications/ISPA2013-shuai)</b><br>
+[C03] <b>[Energy-Performance Modeling and Optimization of Parallel Computing in On-Chip Networks](../publications/ISPA2013-shuai)</b><br>
 Shuai Zhang, Zhiyong Liu, Dongrui Fan, Fonglong Song, <b>Mingzhe Zhang</b>.
 <i>2013 12th IEEE International Symposium on Parallel and Distributed Processing with Applications</i>. <b>ISPA 2013</b>.
 
@@ -217,6 +259,22 @@ Shuai Zhang, Zhiyong Liu, Dongrui Fan, Fonglong Song, <b>Mingzhe Zhang</b>.
 # Journals & Transactions
 
 ## 2026
+
+[J21] <b>[Taiyi: An Accelerator Architecture Optimized for Advanced KeySwitch in FHE](../publications/TC2026)</b><br>
+Shengyu Fan, Xianglong Deng, Liang Kong, Guang Fan, Zhicheng Hu, Liang Chang, Dan Meng, Rui Hou, Mingzhe Zhang.
+<i>IEEE Transactions on Computers</i>.
+
+[J20] <b>[ArborDorp: An Area Efficient CKKS Accelerator](../publications/TCAD2026-4)</b><br>
+Xianglong Deng, Shengyu Fan, Zhicheng Hu, Zhuoyu Tian, Aisen Xie, Liang Chang, Meng Li, Rui Hou, Dan Meng, Mingzhe Zhang.
+<i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>.
+
+[J19] <b>[CACO: Chiplet-based FHE Acceleration with Inter-Chiplet Communication Optimizations](../publications/TCAD2026-3)</b><br>
+Xianglong Deng, Shengyu Fan, Liang Kong, Yilan Zhu, Geng Yang, Lei Chen, Guang Fan, Yi Chen, Yisong Chang, Jian Weng, Shoumeng Yan, Mingzhe Zhang.
+<i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>.
+
+[J18] <b>[OmniCifro: A Heterogeneous Acceleration System with PIM for Encrypted Computation](../publications/TCAD2026-2)</b><br>
+Shengyu Fan, Xianglong Deng, Liang Kong, Guang Fan, Lei Chen, Yilan Zhu, Geng Yang, Yisong Chang, Shoumeng Yan, Mingzhe Zhang.
+<i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>.
 
 [J17] <b>[Binary Subscript Representation and Efficient Pipelined Number Theoretic Transform](../publications/TCAD2026)</b><br>
 Bo Zhang, Mingzhe Zhang, Shoumeng Yan.

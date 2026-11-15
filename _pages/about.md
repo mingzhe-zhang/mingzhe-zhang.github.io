@@ -49,7 +49,7 @@ I do research in Computer Architecture and Bigdata-oriented System, including:
 
 [More...](../news/all-news)
 
-\[Last Update: Nov-10-2026\]
+\[Last Update: Nov-15-2026\]
 
    
 
