@@ -39,6 +39,7 @@ I do research in Computer Architecture and Bigdata-oriented System, including:
 
 ## Updates
 
++ [2026-11-16] I will serve as the PC Committee member of ISCA 2027.
 + [2026-11-03] Our three paper "HELM: A Scalable Multi-GPU System for Homomorphic LLM Inference", "FCS: Frontier-based Commit-time Synchronization Method for Modular Simulators", and "FORGE: FAFFT-Optimized Ring Arithmetic for GPU Execution of HQC and BIKE" have been accepted by HPCA 2027! Congratulations to all!
 + [2026-10-28] Our paper "Accelerating Fully Homomorphic Encryption for Large Language Model Inference on Multi-GPU Systems" has been accepted by PPoPP 2027! Congratulations to all collaborators!
 + [2026-10-19] One collaboration paper "A Cross-Layer Simulation Framework for Protocol Efficiency and Architecture Exploration in Scalable CXL Fabrics" has been accepted by ACM Transactions on Computer Systems (TOCS)! Congratulations to all collaborators!
