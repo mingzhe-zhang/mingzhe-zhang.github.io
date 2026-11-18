@@ -39,6 +39,7 @@ I do research in Computer Architecture and Bigdata-oriented System, including:
 
 ## Updates
 
+<!--
 + [2026-11-16] I will serve as the PC Committee member of ISCA 2027.
 + [2026-11-03] Our three paper "HELM: A Scalable Multi-GPU System for Homomorphic LLM Inference", "FCS: Frontier-based Commit-time Synchronization Method for Modular Simulators", and "FORGE: FAFFT-Optimized Ring Arithmetic for GPU Execution of HQC and BIKE" have been accepted by HPCA 2027! Congratulations to all!
 + [2026-10-28] Our paper "Accelerating Fully Homomorphic Encryption for Large Language Model Inference on Multi-GPU Systems" has been accepted by PPoPP 2027! Congratulations to all collaborators!
@@ -50,6 +51,12 @@ I do research in Computer Architecture and Bigdata-oriented System, including:
 + [2026-07-18] Our paper "ROSETTA: Efficient and Accurate Privacy-Preserving LLM Decoding via Hybrid CKKS/TFHE Evaluation" has been accepted by ACM CCS 2026! Congratulations to all!
 + [2026-07-08] Our papers "LUTHE: Breaking the Memory Wall of High-Precision Encrypted LLM Nonlinearities via GPU–CSD Co-Design" and "Helios: Melting Kernel Boundaries for GPU-Accelerated HE via Graph Rewriting and Microarchitecture-Aware Mapping" have been accepted by MICRO 2026! Congratulations to all!
 + [2026-06-23] Our paper "CACO: Chiplet-based FHE Acceleration with Inter-Chiplet Communication Optimizations" has been accepted by IEEE TCAD! Congratulations to all! 
+-->
+
+{% assign all_news = site.pages | where: "path", "_pages/all-news.md" | first %}
+<div class="updates-scroll" role="region" aria-label="News and updates" tabindex="0" style="height: 400px; overflow-y: scroll; border: 1px solid #ddd; border-radius: 4px; padding: 0 1em; margin-bottom: 1em;">
+{{ all_news.content | markdownify }}
+</div>
 
 [More...](../news/all-news)
 
