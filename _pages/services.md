@@ -6,6 +6,8 @@ author_profile: true
 
 ## Conference Organization Committee
 - Publicity / Social Media Co-Chair, International Symposium on Computer Architecture (ISCA), 2026
+- Session Chair, International Symposium on Computer Architecture (ISCA), 2025 — Session 3C: Storage
+- Session Chair, IEEE/ACM International Symposium on Microarchitecture (MICRO), 2025 — Session 9A: Security and Privacy - Cryptography, Speculation and Computational Storage
 - Session Chair, IFIP International Conference on Network and Parallel Computing (NPC), 2020
 - Session Chair, International Conference on Networking, Architecture, and Storage (NAS), 2019
 - Session Chair, IEEE Non-Volatile Memory Systems and Applications Symposium (NVMSA), 2019

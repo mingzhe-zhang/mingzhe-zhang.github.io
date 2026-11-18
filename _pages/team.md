@@ -13,18 +13,17 @@ Interested in joining us? Click [here](../pages/recruiting) for more information
 
 + Junyi Zhang (M.Sc. student, B.E. from Fudan University, since Sep 2024)
 <br><font size="3" color="grey"><b>Publications:</b> [<a href="../publications/ISCA2026-2">ISCA 2026</a>] </font><br>
-+ Dian Jiao (M.Sc. student, B.E. from Peking University, since Sep 2023.)
-<br><font size="3" color="grey"><b>Publications:</b> [<a href="../publications/ISCA2025-2">ISCA 2025</a>] </font><br>
 + Yintai Sun (Ph.D. student. Previous Research Intern from Shandong Normal University, from Nov 2022 to Jun 2023.)
 <br><font size="3" color="grey"><b>Publications:</b> [<a href="../publications/Security2026">Security 2026</a>] [<a href="../publications/TC2025">IEEE TC</a>]</font><br>
 + Xianglong Deng (Ph.D student, B.E. from University of Electronic Science and Technology of China. Co-advised with Prof. Rui Hou, since Sep 2022. Former UG Research Intern from Oct 2021 to May 2022.)
-<br><font size="3" color="grey"><b>Publications:</b> [<a href="../publications/MICRO2024">MICRO 2024</a>] </font><br>
-+ Shengyu Fan (Ph.D student, B.E and M.Sc. from Shandong Normal University, co-advised with Prof. Rui Hou, since Sep 2023. Previous research intern from Jul 2021 to August 2023.) 
-<br><font size="3" color="grey"><b>Publications:</b> [<a href="../publications/HPCA2023-1">HPCA 2023-1</a>] [<a href="../publications/HPCA2023-2">HPCA2023-2</a>] [<a href="../publications/ISCA2025-1">ISCA 2025</a>] [<a href="../publications/Cybersecurity2025-3">CyberSecurity</a>] [<a href="../publications/TCAD2026-1">IEEE TCAD</a>]</font><br>
-
+<br><font size="3" color="grey"><b>Publications:</b> [<a href="../publications/MICRO2024">MICRO 2024</a>] [<a href="../publications/TCAD2026-3">IEEE TCAD</a>] [<a href="../publications/TCAD2026-4">IEEE TCAD</a>]</font><br>
 
 ## Alumni
 
++ Shengyu Fan (Ph.D, Institute of Information Engineering, Chinese Academy of Sciences, from Sep 2023 to Jun 2026. Previous research intern from Jul 2021 to August 2023. First Employee: Assistant Professor, Shandong University) 
+<br><font size="3" color="grey"><b>Publications:</b> [<a href="../publications/HPCA2023-1">HPCA 2023-1</a>] [<a href="../publications/HPCA2023-2">HPCA2023-2</a>] [<a href="../publications/ISCA2025-1">ISCA 2025</a>] [<a href="../publications/Cybersecurity2025-3">CyberSecurity</a>] [<a href="../publications/TCAD2026-2">IEEE TCAD</a>] [<a href="../publications/TC2026">IEEE TC</a>]</font><br>
++ Dian Jiao (M.Sc., Institute of Information Engineering, Chinese Academy of Sciences, from Sep 2023 to Jun 2026. First Employee: Tecent)
+<br><font size="3" color="grey"><b>Publications:</b> [<a href="../publications/ISCA2025-2">ISCA 2025</a>] </font><br>
 + Zihao Yang (M.Sc., Institute of Information Engineering, Chinese Academy of Sciences, from Sep 2022 to Dec 2025.)
 <br><font size="3" color="grey"><b>Publications:</b> [<a href="../publications/CF2025">CF2025</a>] [<a href="../publications/Cybersecurity2025-4">CyberSecurity</a>] [<a href="../publications/ICPADS2025">ICPADS2025</a>] [<a href="../publications/ISCAS2026">ISCAS2026</a>] </font><br>
 + Zhuoyu Tian (M.Sc., Institute of Information Engineering, Chinese Academy of Sciences, from Sep 2022 to Jun 2025.)
