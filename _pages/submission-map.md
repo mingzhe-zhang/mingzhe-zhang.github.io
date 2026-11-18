@@ -8,7 +8,7 @@ author_profile: true
 
 [An alternative conference list with countdown. (in chinese)](https://ccfddl.github.io)
 
-<font size="4" color="grey">[Last Update: Nov-15-2026]</font>
+<font size="4" color="grey">[Last Update: Nov-18-2026]</font>
 
 <table align="center">
 	<tr>
@@ -28,7 +28,7 @@ author_profile: true
 		<td>Deadline 2016</td>
 	</tr>
 	<tr>
-		<td rowspan="4"><b><i>Jan</i></b></td>
+		<td rowspan="5"><b><i>Jan</i></b></td>
 		<td>SIGMETRICS<br>(winter)</td>
 		<td><a href="https://www.sigmetrics.org/sigmetrics2027/pages/cfp.html" title="date: 2027-06-07..10, notify: 2027-03-10"><nobr>2027-01-04(abstract)</nobr><br>2027-01-11(full)<br>Atlanta, GA</a></td>
 		<td><a href="http://www.sigmetrics.org/sigmetrics2026" title="date: 2026-06-08..12, notify: 2026-03-13">2026-01-06(abstract)<br>2026-01-13(full)<br>Ann Arbor, USA</a></td>
@@ -42,6 +42,36 @@ author_profile: true
 		<td><a href="http://www.sigmetrics.org/sigmetrics2018" title="date: 2018-06-18..22, notify: 2018-04-27">2018-02-19<br>Irvine, CA</a></td>
 		<td align="center">-</td>
 		<td><a href="http://www.sigmetrics.org/sigmetrics2017" title="date: 2016-06-05..09, notify:">2016-10-18<br>Urbana-Champaign, IL</a></td>
+	</tr>
+	<tr>
+		<td>ICDCS</td>
+		<td><a href="https://icdcs2027.icdcs.org/calls/call-for-research-papers/" title="date: 2027-07-05..08, notify: 2027-04-18">2027-01-06(abstract)<br>2027-01-13(full)<br>Melbourne, Australia</a></td>
+		<td><a href="https://icdcs2026.icdcs.org/" title="date: 2026-06-22..25, notify: 2026-">2026-01-21<br><nobr>Seoul, South Korea</nobr></a></td>
+		<td></td>
+		<td><a href="https://icdcs2025.icdcs.org/" title="date: 2025-07-20..23, notify: 2025-04-02">2024-12-04(abstract)<br>2024-12-11(full)<br><nobr>Glasgow, UK</nobr></a><br><a href="https://icdcs2024.icdcs.org/" title="date: 2024-07-, notify: 2024-04-12">2024-01-12(abstract)<br>2024-01-19(full)<br><nobr>New Jersey City, NJ</nobr></a></td>
+		<td><a href="https://icdcs2023.icdcs.org/" title="date: 2023-07-18..21, notify: 2023-04-03">2023-01-14(abstract)<br>2023-01-21(full)<br><nobr>Hong Kong, China</nobr></a></td>
+		<td><a href="https://icdcs2022.icdcs.org/" title="date: 2022-07-10..13, notify: 2022-04-04">2022-01-17(abstract)<br>2022-01-24(full)<br>Bologna, Italy</a></td>
+		<td><a href="https://icdcs2021.us/" title="date: 2021-07-07..10, notify: 2021-03-07"><nobr>2021-01-06(abstract)</nobr><br>2021-01-13(full)<br>Washington DC</a></td>
+		<td><a href="https://icdcs2020.sg/" title="date: 2020-07-08..10, notify: 2020-03-14">2020-01-06<br>Singapore</a></td>
+		<td><a href="http://theory.utdallas.edu/ICDCS2019" title="date: 2019-07-07..10, notify: 2019-03-28">2019-01-12<br>Dallas, TX</a></td>
+		<td align="center">-</td>
+		<td><a href="http://icdcs2018.ocg.at/" title="date: 2018-07-02..06, notify: 2018-03-28">2017-12-12<br>Vienna, Austria</a></td>
+		<td><a href="https://icdcs2017.gatech.edu/" title="date: 2017-06-05..08, notify: 2017-03-06">2016-12-12<br>Atlanta, GA</a></td>
+	</tr>
+	<tr>
+		<td>HPDC</td>
+		<td><a href="https://hpdc.sci.utah.edu/2027/" title="date: 2027-06-07..10, notify: 2027-03-30">2027-01-11(abstract)<br>2027-01-18(full)<br>Atlanta, GA</a></td>
+		<td><a href="https://hpdc.sci.utah.edu/2026/" title="date: 2026-07-13..16, notify: 2026-03-31">2026-01-29(abstract)<br>2026-02-05(full)<br>Cleveland, OH</a></td>
+		<td><a href="http://hpdc.sci.utah.edu/2025/" title="date: 2025-07-20..23, notify: 2025-04-07">2025-01-16(abstract)<br>2025-01-23(full)<br>Notre Dame, IN</a></td>
+		<td><a href="http://www.hpdc.org/2024" title="date: 2024-06-03..07, notify: 2024-03-25">2024-01-18(abstract)<br>2024-01-25(full)<br>Pisa, Italy</a></td>
+		<td><a href="http://www.hpdc.org/2023" title="date: 2023-06-16..23, notify: 2023-03-29">2023-01-27<br>Orlando, FL</a></td>
+		<td><a href="http://www.hpdc.org/2022" title="date: 2022-06-27..01, notify: 2022-03-21">2022-01-20(abstract)<br>2022-01-27(full)<br>Minneapolis, MN</a></td>
+		<td><a href="http://www.hpdc.org/2021" title="date: 2021-06-21..24, notify: 2021-03-26">2020-01-17(abstract)<br>2020-01-22(full)<br>Stockholm, Sweden</a></td>
+		<td><a href="http://www.hpdc.org/2020" title="date: 2020-06-23..26, notify: 2020-03-27">2020-01-16<br>Stockholm, Sweden</a></td>
+		<td><a href="http://www.hpdc.org/2019" title="date: 2019-06-22..29, notify: 2019-03-25">2019-01-23<br>Phoenix, AZ</a></td>
+		<td><a href="http://www.hpdc.org/2018" title="date: 2018-06-11..15, notify: 2018-03-29">2018-01-24<br>Tempe, AZ</a></td>
+		<td><a href="http://www.hpdc.org/2017" title="date: 2017-06-26..30, notify: 2017-03-29">2017-01-17<br>Washington, D.C.</a></td>
+		<td><a href="http://www.hpdc.org/2016" title="date: 2016-06-02..04, notify: 2016-03-12">2016-01-18<br>Kyoto, Japan</a></td>
 	</tr>
 	<tr>
 		<td>CF</td>
@@ -59,34 +89,19 @@ author_profile: true
 		<td><a href="http://www.computingfrontiers.org/2016/" title="date: 2016-05-16..18, notify: 2016-03-11">2016-01-15<br>Como, Italy</a></td>
 	</tr>
 	<tr>
-		<td>ICDCS</td>
-		<td></td>
-		<td><a href="https://icdcs2026.icdcs.org/" title="date: 2026-06-22..25, notify: 2026-">2026-01-21<br><nobr>Seoul, South Korea</nobr></a></td>
-		<td></td>
-		<td><a href="https://icdcs2025.icdcs.org/" title="date: 2025-07-20..23, notify: 2025-04-02">2024-12-04(abstract)<br>2024-12-11(full)<br><nobr>Glasgow, UK</nobr></a><br><a href="https://icdcs2024.icdcs.org/" title="date: 2024-07-, notify: 2024-04-12">2024-01-12(abstract)<br>2024-01-19(full)<br><nobr>New Jersey City, NJ</nobr></a></td>
-		<td><a href="https://icdcs2023.icdcs.org/" title="date: 2023-07-18..21, notify: 2023-04-03">2023-01-14(abstract)<br>2023-01-21(full)<br><nobr>Hong Kong, China</nobr></a></td>
-		<td><a href="https://icdcs2022.icdcs.org/" title="date: 2022-07-10..13, notify: 2022-04-04">2022-01-17(abstract)<br>2022-01-24(full)<br>Bologna, Italy</a></td>
-		<td><a href="https://icdcs2021.us/" title="date: 2021-07-07..10, notify: 2021-03-07"><nobr>2021-01-06(abstract)</nobr><br>2021-01-13(full)<br>Washington DC</a></td>
-		<td><a href="https://icdcs2020.sg/" title="date: 2020-07-08..10, notify: 2020-03-14">2020-01-06<br>Singapore</a></td>
-		<td><a href="http://theory.utdallas.edu/ICDCS2019" title="date: 2019-07-07..10, notify: 2019-03-28">2019-01-12<br>Dallas, TX</a></td>
-		<td align="center">-</td>
-		<td><a href="http://icdcs2018.ocg.at/" title="date: 2018-07-02..06, notify: 2018-03-28">2017-12-12<br>Vienna, Austria</a></td>
-		<td><a href="https://icdcs2017.gatech.edu/" title="date: 2017-06-05..08, notify: 2017-03-06">2016-12-12<br>Atlanta, GA</a></td>
-	</tr>
-	<tr>
-		<td>HPDC</td>
-		<td></td>
-		<td><a href="https://hpdc.sci.utah.edu/2026/" title="date: 2026-07-13..16, notify: 2026-03-31">2026-01-29(abstract)<br>2026-02-05(full)<br>Cleveland, OH</a></td>
-		<td><a href="http://hpdc.sci.utah.edu/2025/" title="date: 2025-07-20..23, notify: 2025-04-07">2025-01-16(abstract)<br>2025-01-23(full)<br>Notre Dame, IN</a></td>
-		<td><a href="http://www.hpdc.org/2024" title="date: 2024-06-03..07, notify: 2024-03-25">2024-01-18(abstract)<br>2024-01-25(full)<br>Pisa, Italy</a></td>
-		<td><a href="http://www.hpdc.org/2023" title="date: 2023-06-16..23, notify: 2023-03-29">2023-01-27<br>Orlando, FL</a></td>
-		<td><a href="http://www.hpdc.org/2022" title="date: 2022-06-27..01, notify: 2022-03-21">2022-01-20(abstract)<br>2022-01-27(full)<br>Minneapolis, MN</a></td>
-		<td><a href="http://www.hpdc.org/2021" title="date: 2021-06-21..24, notify: 2021-03-26">2020-01-17(abstract)<br>2020-01-22(full)<br>Stockholm, Sweden</a></td>
-		<td><a href="http://www.hpdc.org/2020" title="date: 2020-06-23..26, notify: 2020-03-27">2020-01-16<br>Stockholm, Sweden</a></td>
-		<td><a href="http://www.hpdc.org/2019" title="date: 2019-06-22..29, notify: 2019-03-25">2019-01-23<br>Phoenix, AZ</a></td>
-		<td><a href="http://www.hpdc.org/2018" title="date: 2018-06-11..15, notify: 2018-03-29">2018-01-24<br>Tempe, AZ</a></td>
-		<td><a href="http://www.hpdc.org/2017" title="date: 2017-06-26..30, notify: 2017-03-29">2017-01-17<br>Washington, D.C.</a></td>
-		<td><a href="http://www.hpdc.org/2016" title="date: 2016-06-02..04, notify: 2016-03-12">2016-01-18<br>Kyoto, Japan</a></td>
+		<td>ATC</td>
+		<td><a href="https://atc.sigops.org/2027/" title="date: 2027-06-28..07-01, notify: 2027-04-27">2027-01-19(full)<br>Rennes, France</a></td>
+		<td><a href="https://sigops.org/s/conferences/atc/2026/index.html" title="date: 2026-11-15..18, notify: 2026-09-18">2026-06-10<br>Shatin, Hong Kong</a></td>
+		<td><a href="https://www.usenix.org/conference/atc25" title="date: 2025-07-07..09, notify: 2025-04-25"><nobr>2025-01-07(abstract)</nobr><br>2025-01-14(full)<br>Boston, MA</a></td>
+		<td><a href="https://www.usenix.org/conference/atc24" title="date: 2024-07-10..12, notify: 2024-04-30"><nobr>2024-01-09(abstract)</nobr><br>2024-01-16(full)<br>Santa Clara, CA</a></td>
+		<td><a href="https://www.usenix.org/conference/atc23" title="date: 2023-07-10..12, notify: 2023-04-28"><nobr>2023-01-05(abstract)</nobr><br>2023-01-12(full)<br>Boston, MA</a></td>
+		<td><a href="https://www.usenix.org/conference/atc22" title="date: 2022-07-11..13, notify: 2022-04-29"><nobr>2022-01-06(abstract)</nobr><br>2022-01-13(full)<br> CARLSBAD, CA</a></td>
+		<td><a href="https://www.usenix.org/conference/atc21" title="date: 2021-07-14..16, notify: 2021-04-26">2021-01-12<br> SANTA CLARA, CA</a></td>
+		<td><a href="https://www.usenix.org/conference/atc20" title="date: 2020-07-15..17, notify: 2020-04-24">2020-01-15<br> Boston, MA</a></td>
+		<td><a href="https://www.usenix.org/conference/atc19" title="date: 2019-07-10..12, notify: 2019-04-16">2019-01-10<br> Renton, WA</a></td>
+		<td><a href="https://www.usenix.org/conference/atc18" title="date: 2018-07-11..13, notify: 2018-04-18">2018-02-06<br>Boston, MA</a></td>
+		<td><a href="https://www.usenix.org/conference/atc17" title="date: 2017-07-12..14, notify: 2017-04-24">2017-02-07<br>Santa Clara, CA</a></td>
+		<td><a href="https://www.usenix.org/conference/atc16" title="date: 2016-06-22..24, notify: 2016-4-15">2016-02-01<br>Denver, CO</a></td>
 	</tr>
 	<tr>
 		<td rowspan="4"><b><i>Feb</i></b></td>
@@ -393,7 +408,7 @@ author_profile: true
 		<td><a href="https://www.systor.org/2016" title="date: 2016-06-06..08, notify: 2016-04-15">2016-03-11<br>Haifa, Israel</a></td>
 	</tr>
 	<tr>
-		<td rowspan="2"><b><i>Jun</i></b></td>
+		<td rowspan="1"><b><i>Jun</i></b></td>
 		<td>HiPEAC</td>
 		<td></td>
 		<td><a href="https://www.hipeac.net/2027/glasgow/#/" title="date: 2027-01-18..20, notify: 2026-11-15">2026-06-01<br>Glasgow, UK</a></td>
@@ -407,21 +422,6 @@ author_profile: true
 		<td><a href="https://www.hipeac.net/2019/valencia/" title="date: 2019-01-21..23, notify: 2018-11-15">2018-06-01<br>Valencia,Spain</a></td>
 		<td><a href="https://www.hipeac.net/2018/manchester/" title="date: 2018-01-22..24, notify: 2017-11-15">2017-06-01<br>Manchester,UK</a></td>
 		<td><a href="https://www.hipeac.net/2017/stockholm/" title="date: 2016-01-23..25, notify: 2016-11-15">2016-06-01<br>Stockholm,Sweden</a></td>
-	</tr>
-	<tr>
-		<td>ATC</td>
-		<td></td>
-		<td><a href="https://sigops.org/s/conferences/atc/2026/index.html" title="date: 2026-11-15..18, notify: 2026-09-18">2026-06-10<br>Shatin, Hong Kong</a></td>
-		<td><a href="https://www.usenix.org/conference/atc25" title="date: 2025-07-07..09, notify: 2025-04-25"><nobr>2025-01-07(abstract)</nobr><br>2025-01-14(full)<br>Boston, MA</a></td>
-		<td><a href="https://www.usenix.org/conference/atc24" title="date: 2024-07-10..12, notify: 2024-04-30"><nobr>2024-01-09(abstract)</nobr><br>2024-01-16(full)<br>Santa Clara, CA</a></td>
-		<td><a href="https://www.usenix.org/conference/atc23" title="date: 2023-07-10..12, notify: 2023-04-28"><nobr>2023-01-05(abstract)</nobr><br>2023-01-12(full)<br>Boston, MA</a></td>
-		<td><a href="https://www.usenix.org/conference/atc22" title="date: 2022-07-11..13, notify: 2022-04-29"><nobr>2022-01-06(abstract)</nobr><br>2022-01-13(full)<br> CARLSBAD, CA</a></td>
-		<td><a href="https://www.usenix.org/conference/atc21" title="date: 2021-07-14..16, notify: 2021-04-26">2021-01-12<br> SANTA CLARA, CA</a></td>
-		<td><a href="https://www.usenix.org/conference/atc20" title="date: 2020-07-15..17, notify: 2020-04-24">2020-01-15<br> Boston, MA</a></td>
-		<td><a href="https://www.usenix.org/conference/atc19" title="date: 2019-07-10..12, notify: 2019-04-16">2019-01-10<br> Renton, WA</a></td>
-		<td><a href="https://www.usenix.org/conference/atc18" title="date: 2018-07-11..13, notify: 2018-04-18">2018-02-06<br>Boston, MA</a></td>
-		<td><a href="https://www.usenix.org/conference/atc17" title="date: 2017-07-12..14, notify: 2017-04-24">2017-02-07<br>Santa Clara, CA</a></td>
-		<td><a href="https://www.usenix.org/conference/atc16" title="date: 2016-06-22..24, notify: 2016-4-15">2016-02-01<br>Denver, CO</a></td>
 	</tr>
 	<tr>
 		<td rowspan="4"><b><i>Jul</i></b></td>
