@@ -20,17 +20,17 @@ Interested in joining us? Click [here](../pages/recruiting) for more information
 
 ## Alumni
 
-+ Shengyu Fan (Ph.D, Institute of Information Engineering, Chinese Academy of Sciences, from Sep 2023 to Jun 2026. Previous research intern from Jul 2021 to August 2023. **First Employee: Assistant Professor, Shandong University**) 
++ Shengyu Fan (Ph.D, Institute of Information Engineering, Chinese Academy of Sciences, from Sep 2023 to Jun 2026. B.E. and M.Sc from Shandong Normal University. Previous research intern from Jul 2021 to August 2023. **First Employee: Assistant Professor, Shandong University**) 
 <br><font size="3" color="grey"><b>Publications:</b> [<a href="../publications/HPCA2023-1">HPCA 2023-1</a>] [<a href="../publications/HPCA2023-2">HPCA2023-2</a>] [<a href="../publications/ISCA2025-1">ISCA 2025</a>] [<a href="../publications/Cybersecurity2025-3">CyberSecurity</a>] [<a href="../publications/TCAD2026-2">IEEE TCAD</a>] [<a href="../publications/TC2026">IEEE TC</a>]</font><br>
-+ Dian Jiao (M.Sc., Institute of Information Engineering, Chinese Academy of Sciences, from Sep 2023 to Jun 2026. **First Employee: Software Engineer, Tecent Group**)
++ Dian Jiao (M.Sc., Institute of Information Engineering, Chinese Academy of Sciences, from Sep 2023 to Jun 2026. B.E. from Peking University. **First Employee: Software Engineer, Tecent Group**)
 <br><font size="3" color="grey"><b>Publications:</b> [<a href="../publications/ISCA2025-2">ISCA 2025</a>] </font><br>
-+ Zihao Yang (M.Sc., Institute of Information Engineering, Chinese Academy of Sciences, from Sep 2022 to Dec 2025. **First Employee: China Merchants Securities Co., Ltd.**)
++ Zihao Yang (M.Sc., Institute of Information Engineering, Chinese Academy of Sciences, from Sep 2022 to Dec 2025. B.E. from Tsinghua University. **First Employee: China Merchants Securities Co., Ltd.**)
 <br><font size="3" color="grey"><b>Publications:</b> [<a href="../publications/CF2025">CF2025</a>] [<a href="../publications/Cybersecurity2025-4">CyberSecurity</a>] [<a href="../publications/ICPADS2025">ICPADS2025</a>] [<a href="../publications/ISCAS2026">ISCAS2026</a>] </font><br>
-+ Zhuoyu Tian (M.Sc., Institute of Information Engineering, Chinese Academy of Sciences, from Sep 2022 to Jun 2025. **First Employee: Software Engineer, Kuaishou Technology.**)
++ Zhuoyu Tian (M.Sc., Institute of Information Engineering, Chinese Academy of Sciences, from Sep 2022 to Jun 2025. B.E. from Tsinghua University. **First Employee: Software Engineer, Kuaishou Technology.**)
 <br><font size="3" color="grey"><b>Publications:</b> [<a href="../publications/Cybersecurity2025-1">CyberSecurity</a>] [<a href="../publications/Cybersecurity2025-2">CyberSecurity</a>] </font><br>
-+ Yu Deng (M.Sc., Institute of Information Engineering, Chinese Academy of Sciences, from Sep 2021 to Jun 2024. **First Employee: Software Engineer, Alibaba Group**)
-+ Guangtao Zhu (B.E. from Beijing Institute of Technology, Research Assistant, Jul 2022 to Dec 2023. **Current: M.Sc student of University of New South Wales**)
-+ Mo Zou (Ph.D student of ICT, CAS. Co-advised with Prof. Zhimin Tang from Nov 2019 to Apr 2021. **First Employee: Assistant Professor of ICT, CAS**) 
++ Yu Deng (M.Sc., Institute of Information Engineering, Chinese Academy of Sciences, from Sep 2021 to Jun 2024. B.E. from Beijing University of Posts and Telecommunications. **First Employee: Software Engineer, Alibaba Group**)
++ Guangtao Zhu (B.E. from Beijing Institute of Technology, Research Assistant, Jul 2022 to Dec 2023. B.E. from Beijing Institute of Technology. **Current: M.Sc student of University of New South Wales**)
++ Mo Zou (Ph.D, ICT, CAS. Co-advised with Prof. Zhimin Tang from Nov 2019 to Apr 2021. B.E. from Shandong University. **First Employee: Assistant Professor of ICT, CAS**) 
 <br><font size="3" color="grey"><b>Publications:</b> [<a href="../publications/CAL2022">CAL</a>] [<a href="../publications/JCST2023">JCST</a>]</font><br>
 + Long Tan (Ph.D student of ICT, CAS. Co-advised with Prof. Dongrui Fan from Sep 2020 to Apr 2021.)
 + Ziqi Wang (M.Sc. student of ICT, CAS. Co-advised with Prof. Hao Zhang from Mar 2020 to Apr 2021.)
