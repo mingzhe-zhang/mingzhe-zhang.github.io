@@ -29,7 +29,7 @@ Interested in joining us? Click [here](../pages/recruiting) for more information
 + Zhuoyu Tian (M.Sc., Institute of Information Engineering, Chinese Academy of Sciences, from Sep 2022 to Jun 2025. B.E. from Tsinghua University. **First Employee: Software Engineer, Kuaishou Technology.**)
 <br><font size="3" color="grey"><b>Publications:</b> [<a href="../publications/Cybersecurity2025-1">CyberSecurity</a>] [<a href="../publications/Cybersecurity2025-2">CyberSecurity</a>] </font><br>
 + Yu Deng (M.Sc., Institute of Information Engineering, Chinese Academy of Sciences, from Sep 2021 to Jun 2024. B.E. from Beijing University of Posts and Telecommunications. **First Employee: Software Engineer, Alibaba Group**)
-+ Guangtao Zhu (B.E. from Beijing Institute of Technology, Research Assistant, Jul 2022 to Dec 2023. B.E. from Beijing Institute of Technology. **Current: M.Sc student of University of New South Wales**)
++ Guangtao Zhu (Research Assistant, Jul 2022 to Dec 2023. B.E. from Beijing Institute of Technology. **Current: M.Sc student of University of New South Wales**)
 + Mo Zou (Ph.D, ICT, CAS. Co-advised with Prof. Zhimin Tang from Nov 2019 to Apr 2021. B.E. from Shandong University. **First Employee: Assistant Professor of ICT, CAS**) 
 <br><font size="3" color="grey"><b>Publications:</b> [<a href="../publications/CAL2022">CAL</a>] [<a href="../publications/JCST2023">JCST</a>]</font><br>
 + Long Tan (Ph.D student of ICT, CAS. Co-advised with Prof. Dongrui Fan from Sep 2020 to Apr 2021.)
