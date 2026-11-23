@@ -4,8 +4,14 @@ permalink: /fhe-system/
 author_profile: true
 ---
 
+<div id="top"></div>
+
 <style>
 .fhe-nav { padding: 1em 1.2em; background: #f5f8fb; border-left: 3px solid #376b91; }
+.fhe-nav ul { margin: .5em 0 0; padding-left: 1.3em; }
+.fhe-nav li { margin: .3em 0; }
+.fhe-nav li ul { font-size: .95em; }
+.fhe-back { margin: 1.5em 0; font-size: .85em; }
 .fhe-figure { margin: 1.5em 0; }
 .fhe-art { position: relative; overflow: hidden; width: 100%; }
 .fhe-art img { position: absolute; display: block; width: 100%; max-width: none; height: auto; left: 0; }
@@ -15,9 +21,21 @@ author_profile: true
 
 Full-stack research on FHE acceleration · Algorithms, compilation, architecture, and systems
 
-<div class="fhe-nav">
-<a href="#introduction">Introduction</a> · <a href="#research-map">Research Overview</a> · <a href="#compiler">Algorithms and Compilation</a> · <a href="#gpu">GPU Acceleration</a> · <a href="#hardware">Architecture and Circuits</a> · <a href="#systems">Applications and Systems</a> · <a href="#outlook">Future Directions</a>
-</div>
+<nav class="fhe-nav" aria-label="Page contents">
+<strong>On this page</strong>
+<ul>
+  <li><a href="#introduction">Introduction</a></li>
+  <li><a href="#research-map">Research Overview and Cross-Layer Collaboration</a>
+    <ul>
+      <li><a href="#compiler">1. Algorithms and Compilation</a></li>
+      <li><a href="#gpu">2. GPU Acceleration</a></li>
+      <li><a href="#hardware">3. Dedicated Architecture and Circuits</a></li>
+      <li><a href="#systems">4. Applications and Heterogeneous Systems</a></li>
+    </ul>
+  </li>
+  <li><a href="#outlook">Future Directions</a></li>
+</ul>
+</nav>
 
 <h2 id="introduction">Introduction</h2>
 
@@ -26,6 +44,8 @@ Fully Homomorphic Encryption (FHE) allows servers to compute directly on encrypt
 This capability comes with substantial computation and data movement. A single model operation can expand into polynomial arithmetic, data rearrangement, key switching, and bootstrapping. Encoded model weights can also grow dramatically. Faster individual operators therefore do not necessarily make the entire application faster.
 
 Our research asks: **How can improvements across the stack translate into end-to-end gains in deployable systems?** We study commercial GPUs, dedicated accelerators, and heterogeneous systems, considering execution efficiency, memory capacity, communication, energy, and development cost together. The long-term research plan described on this website spans 2024–2029, building on earlier GPU and dedicated-architecture work.
+
+<p class="fhe-back"><a href="#top">Back to the top</a></p>
 
 <h2 id="research-map">Research Overview and Cross-Layer Collaboration</h2>
 
@@ -45,6 +65,8 @@ We organize the research into four connected areas, guided by three goals: **imp
 
 Four terms help explain the work below. **CKKS** supports approximate numerical computation. The **Number Theoretic Transform (NTT)** is a key kernel for polynomial multiplication. **KeySwitch** uses evaluation keys and intermediate polynomials to switch ciphertexts between keys. **Bootstrapping** restores the capacity for further encrypted computation, but is itself expensive.
 
+<p class="fhe-back"><a href="#top">Back to the top</a></p>
+
 <h2 id="compiler">1. Algorithms and Compilation: Reducing Computation</h2>
 
 ### Research Approach
@@ -61,6 +83,8 @@ The cost of an encrypted program depends on both its operations and their repres
 - [FHEFusion · CGO 2026]({{ '/publications/CGO2026' | relative_url }}): Preserves neural-network semantics alongside FHE-specific operations in its intermediate representation. Algebraic rules and a cost model expose fusion opportunities that reduce multiplicative depth.
 - [HPAO · CGO 2027]({{ '/publications/CGO2027' | relative_url }}): Expresses cross-primitive optimizations at the polynomial level, enabling systematic application of techniques such as ModUp and ModDown hoisting and lazy modular reduction. The listed conference year is 2027.
 - [A Survey on FHE Compilers · Cybersecurity 2025]({{ '/publications/Cybersecurity2025-2' | relative_url }}): Reviews parameter selection, ciphertext management, and program optimization, providing an entry point to the FHE compilation toolchain.
+
+<p class="fhe-back"><a href="#top">Back to the top</a></p>
 
 <h2 id="gpu">2. GPU Acceleration: Using Commercial Hardware Effectively</h2>
 
@@ -80,6 +104,8 @@ GPU parallelism alone does not guarantee high FHE performance. Dependencies in t
 - [Neo · ISCA 2025]({{ '/publications/ISCA2025-2' | relative_url }}): Extends matrix-unit acceleration to basis conversion and inner products through joint algorithm and data-layout optimization.
 - [Helios · MICRO 2026]({{ '/publications/MICRO2026-2' | relative_url }}): Optimizes recurring hot modules using graph rewriting to enlarge fusion regions, followed by microarchitecture-aware mapping to reduce device-memory traffic.
 - [GPU FHE Programming and Optimization Framework · ASPLOS 2026]({{ '/publications/ASPLOS2026-2' | relative_url }}): Connects encrypted-program development and optimization with GPU execution through a unified framework.
+
+<p class="fhe-back"><a href="#top">Back to the top</a></p>
 
 <h2 id="hardware">3. Dedicated Architecture and Circuits: Adapting Hardware to FHE</h2>
 
@@ -103,6 +129,8 @@ Dedicated hardware offers control over compute units and on-chip dataflow, with 
 - [AutoNest · HPCA 2026]({{ '/publications/HPCA2026' | relative_url }}): Co-optimizes FPGA NTT algorithms and dataflow, with support for automated accelerator generation.
 - [CACO · TCAD 2026]({{ '/publications/TCAD2026-3' | relative_url }}): Exploits higher-level parallelism and optimized mappings to reduce inter-chiplet communication.
 
+<p class="fhe-back"><a href="#top">Back to the top</a></p>
+
 <h2 id="systems">4. Applications and Heterogeneous Systems: Capacity and End-to-End Latency</h2>
 
 ### Research Approach
@@ -123,6 +151,8 @@ Complex applications combine multiple bottlenecks. Encrypted LLMs require effici
 
 Prefill processes the input sequence, whereas decoding generates output tokens one at a time. Their parallelism, caching needs, and critical paths differ. HELM's system optimizations and ROSETTA's decoding optimizations should therefore be interpreted within their respective experimental settings; their speedups cannot simply be multiplied.
 
+<p class="fhe-back"><a href="#top">Back to the top</a></p>
+
 <h2 id="outlook">Future Directions: Validating Full-Stack Gains in Complete Applications</h2>
 
 Our next steps focus on building complex encrypted applications, improving single-device efficiency, and bringing tiered storage, I/O optimization, and heterogeneous scheduling into multi-device systems. Priorities include support for domestic computing platforms and toolchains, controlling the latency of GPU-memory spills, and choosing operator placement and dataflow to overlap communication with computation.
@@ -132,5 +162,7 @@ We assess progress through practical questions: Can the system accommodate large
 <div class="fhe-note" markdown="1">
 This page draws on the November 22, 2026 presentation, “Full-Stack Collaboration and System Enablement: Explorations and Practice in Homomorphic Encryption Acceleration,” and this website's publication pages. The selected results have dedicated pages on this site and do not reproduce the presentation's full bibliography. See the linked papers for experimental parameters, baselines, and scope.
 </div>
+
+<p class="fhe-back"><a href="#top">Back to the top</a></p>
 
 [Back to Research]({{ '/research/' | relative_url }}) · [Full Publication List]({{ '/publications/' | relative_url }})
