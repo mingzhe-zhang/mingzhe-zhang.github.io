@@ -22,7 +22,6 @@ author_profile: true
 Full-stack research on FHE acceleration · Algorithms, compilation, architecture, and systems
 
 <nav class="fhe-nav" aria-label="Page contents">
-<strong>On this page</strong>
 <ul>
   <li><a href="#introduction">Introduction</a></li>
   <li><a href="#research-map">Research Overview and Cross-Layer Collaboration</a>
