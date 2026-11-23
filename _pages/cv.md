@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]](../files/mingzhe-cv.pdf)
+- [English Curriculum Vitae (PDF)]({{ base_path }}/files/mingzhe-cv.pdf)
+- [中文学术简历（PDF）]({{ base_path }}/files/mingzhe-cv-zh.pdf)
 
 <!--
 Other web sites or CV:
