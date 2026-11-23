@@ -1,0 +1,136 @@
+---
+title: "Fully Homomorphic Encryption Acceleration: A Full-Stack Perspective"
+permalink: /fhe-system/
+author_profile: true
+---
+
+<style>
+.fhe-nav { padding: 1em 1.2em; background: #f5f8fb; border-left: 3px solid #376b91; }
+.fhe-figure { margin: 1.5em 0; }
+.fhe-art { position: relative; overflow: hidden; width: 100%; }
+.fhe-art img { position: absolute; display: block; width: 100%; max-width: none; height: auto; left: 0; }
+.fhe-figure figcaption { margin-top: .6em; font-size: .8em; color: #526170; line-height: 1.6; }
+.fhe-note { padding: .9em 1.1em; background: #f5f8fb; font-size: .9em; }
+</style>
+
+Full-stack research on FHE acceleration · Algorithms, compilation, architecture, and systems
+
+<div class="fhe-nav">
+<a href="#introduction">Introduction</a> · <a href="#research-map">Research Overview</a> · <a href="#compiler">Algorithms and Compilation</a> · <a href="#gpu">GPU Acceleration</a> · <a href="#hardware">Architecture and Circuits</a> · <a href="#systems">Applications and Systems</a> · <a href="#outlook">Future Directions</a>
+</div>
+
+<h2 id="introduction">Introduction</h2>
+
+Fully Homomorphic Encryption (FHE) allows servers to compute directly on encrypted data. Users encrypt inputs locally, the cloud performs computation without decryption, and users decrypt the results. A cloud model can therefore run inference on encrypted inputs without learning their plaintext values.
+
+This capability comes with substantial computation and data movement. A single model operation can expand into polynomial arithmetic, data rearrangement, key switching, and bootstrapping. Encoded model weights can also grow dramatically. Faster individual operators therefore do not necessarily make the entire application faster.
+
+Our research asks: **How can improvements across the stack translate into end-to-end gains in deployable systems?** We study commercial GPUs, dedicated accelerators, and heterogeneous systems, considering execution efficiency, memory capacity, communication, energy, and development cost together. The long-term research plan described on this website spans 2024–2029, building on earlier GPU and dedicated-architecture work.
+
+<h2 id="research-map">Research Overview and Cross-Layer Collaboration</h2>
+
+We organize the research into four connected areas, guided by three goals: **improve device utilization, reduce computation, and reduce storage and data transfers**. These goals overlap: operator fusion, for example, can eliminate both arithmetic and intermediate writes to device memory.
+
+<figure class="fhe-figure">
+<div class="fhe-art" style="aspect-ratio: 1248 / 300;"><img src="{{ '/images/fhe-system/research-atlas.png' | relative_url }}" style="top: 0; margin-top: -0.0%;" alt="Full-stack research: applications define requirements, algorithms and compilers optimize programs, and GPUs, dedicated architectures, and circuits provide efficient execution." /></div>
+<figcaption>Figure 1 · Four connected research areas and their shared optimization goals. The illustration organizes research concepts rather than depicting a physical chip layout.</figcaption>
+</figure>
+
+| Research area | Core question | Contribution to the stack |
+| :--- | :--- | :--- |
+| Algorithms and compilation | Which operations can be avoided, and when is bootstrapping needed? | Encrypted programs with lower depth and less redundancy |
+| GPU acceleration | How can existing parallel execution units be used effectively? | Efficient kernels and program-level execution mappings |
+| Dedicated architecture and circuits | How should hardware adapt to bit widths, operators, and encryption schemes? | Reusable and reconfigurable compute and storage resources |
+| Applications and heterogeneous systems | Where should models, keys, and tasks reside? | Multi-device execution and end-to-end validation |
+
+Four terms help explain the work below. **CKKS** supports approximate numerical computation. The **Number Theoretic Transform (NTT)** is a key kernel for polynomial multiplication. **KeySwitch** uses evaluation keys and intermediate polynomials to switch ciphertexts between keys. **Bootstrapping** restores the capacity for further encrypted computation, but is itself expensive.
+
+<h2 id="compiler">1. Algorithms and Compilation: Reducing Computation</h2>
+
+### Research Approach
+
+The cost of an encrypted program depends on both its operations and their representation. Successive multiplications consume the available multiplicative depth. Poor bootstrapping decisions, isolated optimization of cryptographic primitives, and restrictive operator boundaries can add overhead. We expose cross-operator optimization opportunities and jointly plan depth, data reuse, and execution order while preserving application semantics and accuracy requirements.
+
+<figure class="fhe-figure">
+<div class="fhe-art" style="aspect-ratio: 1248 / 243;"><img src="{{ '/images/fhe-system/research-atlas.png' | relative_url }}" style="top: 0; margin-top: -24.759615384615387%;" alt="Algorithms and compilation: depth planning and operator fusion produce optimized encrypted programs." loading="lazy" /></div>
+<figcaption>Figure 2 · Program-level optimization reduces redundant operations and unnecessary consumption of multiplicative depth.</figcaption>
+</figure>
+
+### Representative Results
+
+- [FHEFusion · CGO 2026]({{ '/publications/CGO2026' | relative_url }}): Preserves neural-network semantics alongside FHE-specific operations in its intermediate representation. Algebraic rules and a cost model expose fusion opportunities that reduce multiplicative depth.
+- [HPAO · CGO 2027]({{ '/publications/CGO2027' | relative_url }}): Expresses cross-primitive optimizations at the polynomial level, enabling systematic application of techniques such as ModUp and ModDown hoisting and lazy modular reduction. The listed conference year is 2027.
+- [A Survey on FHE Compilers · Cybersecurity 2025]({{ '/publications/Cybersecurity2025-2' | relative_url }}): Reviews parameter selection, ciphertext management, and program optimization, providing an entry point to the FHE compilation toolchain.
+
+<h2 id="gpu">2. GPU Acceleration: Using Commercial Hardware Effectively</h2>
+
+### Research Approach
+
+GPU parallelism alone does not guarantee high FHE performance. Dependencies in transform kernels cause pipeline stalls, intermediate results repeatedly travel through device memory, and native algorithms may not match matrix execution units. We combine algorithm transformations, data-layout optimization, and kernel fusion to use CUDA Cores and Tensor Cores effectively, then evaluate the gains in complete applications.
+
+<figure class="fhe-figure">
+<div class="fhe-art" style="aspect-ratio: 1248 / 238;"><img src="{{ '/images/fhe-system/research-atlas.png' | relative_url }}" style="top: 0; margin-top: -45.2724358974359%;" alt="GPU acceleration: hardware-aware mapping of NTT, basis conversion, and inner products to CUDA Cores and Tensor Cores." loading="lazy" /></div>
+<figcaption>Figure 3 · Mapping cryptographic computation to suitable execution units while reducing traffic across kernel boundaries. The arithmetic symbols on the left are conceptual, rather than a shared exact formula for NTT, basis conversion, and inner products.</figcaption>
+</figure>
+
+### Representative Results
+
+- [TensorFHE · HPCA 2023]({{ '/publications/HPCA2023-1' | relative_url }}): Reformulates NTT as matrix computation and batches independent operations to improve parallel GPU execution.
+- [WarpDrive · HPCA 2025]({{ '/publications/HPCA2025' | relative_url }}): Combines computation decomposition, fine-grained memory access, and CUDA Core/Tensor Core cooperation to improve compute and memory utilization.
+- [Neo · ISCA 2025]({{ '/publications/ISCA2025-2' | relative_url }}): Extends matrix-unit acceleration to basis conversion and inner products through joint algorithm and data-layout optimization.
+- [Helios · MICRO 2026]({{ '/publications/MICRO2026-2' | relative_url }}): Optimizes recurring hot modules using graph rewriting to enlarge fusion regions, followed by microarchitecture-aware mapping to reduce device-memory traffic.
+- [GPU FHE Programming and Optimization Framework · ASPLOS 2026]({{ '/publications/ASPLOS2026-2' | relative_url }}): Connects encrypted-program development and optimization with GPU execution through a unified framework.
+
+<h2 id="hardware">3. Dedicated Architecture and Circuits: Adapting Hardware to FHE</h2>
+
+### Research Approach
+
+Dedicated hardware offers control over compute units and on-chip dataflow, with trade-offs among performance, area, energy, and generality. We study arithmetic bit widths, shared operator structure, key decomposition, and on-chip capacity. The aim is to adapt parallelism to demand, reuse hardware across operators or encryption schemes, and reduce expensive modular arithmetic and inter-chip transfers.
+
+<figure class="fhe-figure">
+<div class="fhe-art" style="aspect-ratio: 1248 / 193;"><img src="{{ '/images/fhe-system/research-atlas.png' | relative_url }}" style="top: 0; margin-top: -65.22435897435898%;" alt="Dedicated architecture and circuits: tunable bit widths, shared compute resources, and reconfigurable accelerators adapt hardware to cryptographic computation." loading="lazy" /></div>
+<figcaption>Figure 4 · Bit-width adaptation, resource sharing, and reconfigurable computation balance performance, area, and compatibility.</figcaption>
+</figure>
+
+### Representative Results
+
+- [Trinity · MICRO 2024]({{ '/publications/MICRO2024' | relative_url }}): Uses reconfigurable compute resources to support different FHE schemes, combining broader applicability with efficient acceleration.
+- [FAST · ISCA 2025]({{ '/publications/ISCA2025-1' | relative_url }}): Matches compute units to varying bit-width requirements, exposing scalable arithmetic parallelism.
+- [HAWK · MICRO 2025]({{ '/publications/MICRO2025-1' | relative_url }}): Aligns key decomposition with fixed hardware word lengths to reduce extra arithmetic and evaluation-key storage.
+- [Falcon · ASPLOS 2026]({{ '/publications/ASPLOS2026' | relative_url }}): Co-designs bootstrapping algorithms and hardware to organize computation, fuse operations, and reuse results under on-chip capacity and communication constraints.
+- [ALLMod · DAC 2025]({{ '/publications/DAC2025' | relative_url }}): Improves the area efficiency of lookup-table-based large-integer modular reduction through hybrid workloads.
+- [ArborDorp · TCAD 2026]({{ '/publications/TCAD2026-4' | relative_url }}): Extracts common arithmetic across kernels to share compute units and improve area efficiency.
+- [AutoNest · HPCA 2026]({{ '/publications/HPCA2026' | relative_url }}): Co-optimizes FPGA NTT algorithms and dataflow, with support for automated accelerator generation.
+- [CACO · TCAD 2026]({{ '/publications/TCAD2026-3' | relative_url }}): Exploits higher-level parallelism and optimized mappings to reduce inter-chiplet communication.
+
+<h2 id="systems">4. Applications and Heterogeneous Systems: Capacity and End-to-End Latency</h2>
+
+### Research Approach
+
+Complex applications combine multiple bottlenecks. Encrypted LLMs require efficient linear computation and costly nonlinear operations, while encoded weights and evaluation keys may exceed GPU memory. We consider data representation, generation, placement, and communication scheduling together: compress repeated structure, generate plaintexts on demand, move key-intensive computation closer to storage, and balance load against communication across GPUs.
+
+<figure class="fhe-figure">
+<div class="fhe-art" style="aspect-ratio: 1248 / 245;"><img src="{{ '/images/fhe-system/research-atlas.png' | relative_url }}" style="top: 0; margin-top: -81.57051282051282%;" alt="Applications and heterogeneous systems: encrypted LLM inference supported by multiple GPUs and computational storage." loading="lazy" /></div>
+<figcaption>Figure 5 · Application requirements guide device roles. Multi-GPU execution and computational storage are complementary research directions; the illustration does not imply that every result uses the same deployment.</figcaption>
+</figure>
+
+### Representative Results
+
+- [WPC · CCS 2025]({{ '/publications/CCS2025' | relative_url }}): Uses periodic slot arrangements to compress encoded weights and reduce weight-plaintext storage for encrypted CNN inference. The compressed objects are encoded plaintext weights, rather than encrypted user inputs.
+- [ROSETTA · CCS 2026]({{ '/publications/CCS2026' | relative_url }}): Targets autoregressive LLM decoding, selecting nonlinear implementations using complementary CKKS and TFHE capabilities to balance accuracy and latency.
+- [LUTHE · MICRO 2026]({{ '/publications/MICRO2026-1' | relative_url }}): When evaluation keys exceed GPU memory, moves key-intensive primitives to a Computational Storage Drive (CSD) and pipelines them with compute-intensive primitives on the GPU.
+- [HELM · HPCA 2027]({{ '/publications/HPCA2027-1' | relative_url }}): Combines on-demand plaintext generation, program-level optimization, and multi-GPU partitioning for homomorphic LLM inference. The paper page reports a 48.8-second time to first token for Llama3-8B with 128 input tokens on eight H20 GPUs, alongside a 96-fold storage reduction. These results apply to the reported model, input length, and hardware configuration. The listed conference year is 2027.
+
+Prefill processes the input sequence, whereas decoding generates output tokens one at a time. Their parallelism, caching needs, and critical paths differ. HELM's system optimizations and ROSETTA's decoding optimizations should therefore be interpreted within their respective experimental settings; their speedups cannot simply be multiplied.
+
+<h2 id="outlook">Future Directions: Validating Full-Stack Gains in Complete Applications</h2>
+
+Our next steps focus on building complex encrypted applications, improving single-device efficiency, and bringing tiered storage, I/O optimization, and heterogeneous scheduling into multi-device systems. Priorities include support for domestic computing platforms and toolchains, controlling the latency of GPU-memory spills, and choosing operator placement and dataflow to overlap communication with computation.
+
+We assess progress through practical questions: Can the system accommodate larger models, reduce user waiting time, and run reliably at an affordable cost? Can developers reuse existing cryptographic libraries, compilers, and devices to build applications? Research across the stack ultimately needs to improve these end-to-end outcomes.
+
+<div class="fhe-note" markdown="1">
+This page draws on the November 22, 2026 presentation, “Full-Stack Collaboration and System Enablement: Explorations and Practice in Homomorphic Encryption Acceleration,” and this website's publication pages. The selected results have dedicated pages on this site and do not reproduce the presentation's full bibliography. See the linked papers for experimental parameters, baselines, and scope.
+</div>
+
+[Back to Research]({{ '/research/' | relative_url }}) · [Full Publication List]({{ '/publications/' | relative_url }})
