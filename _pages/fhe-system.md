@@ -88,7 +88,7 @@ The cost of an encrypted program depends on both its operations and their repres
 
 ### Additional Work Highlighted in the Presentation
 
-The presentation also highlights [ANT-ACE (CGO 2025)](https://ant-research.github.io/ace-compiler/), a compiler framework for automating neural-network inference, and [ReSBM (ASPLOS 2025)](https://ant-research.github.io/ace-compiler/), which plans region-based scaling and minimal-level bootstrapping through a min-cut formulation. These works connect program construction with depth and refresh management. Both links lead to the official ANT-ACE website, which provides project information and publications.
+The presentation also highlights [ANT-ACE (CGO 2025)](https://dl.acm.org/doi/10.1145/3696443.3708924), a compiler framework for automating neural-network inference, and [ReSBM (ASPLOS 2025)](https://dl.acm.org/doi/10.1145/3669940.3707276), which plans region-based scaling and minimal-level bootstrapping through a min-cut formulation. These works connect program construction with depth and refresh management. **Mingzhe Zhang is not a listed author of either paper; both are research contributions from his team.** The paper titles link to the ACM Digital Library. Project information and software are available on the [ANT-ACE website](https://ant-research.github.io/ace-compiler/).
 
 <p class="fhe-back"><a href="#top">Back to the top</a></p>
 
@@ -120,7 +120,7 @@ GPU parallelism alone does not guarantee high FHE performance. Dependencies in t
 
 - [FORGE · HPCA 2027]({{ '/publications/HPCA2027-3' | relative_url }}): Uses GPU-oriented FAFFT ring arithmetic and end-to-end execution optimization for HQC and BIKE. These are post-quantum key-encapsulation mechanisms, rather than FHE schemes; this work provides related expertise in GPU cryptographic execution. The listed conference year is 2027.
 
-The presentation additionally lists **GIF-FHE (IEEE TPDS)**, an implementation and evaluation of GPU-accelerated FHE using integer and floating-point computation. A dedicated publication page is not currently available on this website.
+The presentation additionally lists [GIF-FHE (IEEE TPDS 2025)](https://ieeexplore.ieee.org/document/11016794), an implementation and evaluation of GPU-accelerated FHE using integer and floating-point computation. **Mingzhe Zhang is not a listed author of this paper; it is a research contribution from his team.** A dedicated publication page is not currently available on this website.
 
 <p class="fhe-back"><a href="#top">Back to the top</a></p>
 
