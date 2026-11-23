@@ -81,14 +81,14 @@ The cost of an encrypted program depends on both its operations and their repres
 ### Representative Results
 
 - [FHEFusion · CGO 2026]({{ '/publications/CGO2026' | relative_url }}): Preserves neural-network semantics alongside FHE-specific operations in its intermediate representation. Algebraic rules and a cost model expose fusion opportunities that reduce multiplicative depth.
-- [HPAO · CGO 2027]({{ '/publications/CGO2027' | relative_url }}): Expresses cross-primitive optimizations at the polynomial level, enabling systematic application of techniques such as ModUp and ModDown hoisting and lazy modular reduction. The listed conference year is 2027.
+- [HPAO · CGO 2027]({{ '/publications/CGO2027' | relative_url }}): Expresses cross-primitive optimizations at the polynomial level, enabling systematic application of techniques such as ModUp and ModDown hoisting and lazy modular reduction.
 - [A Survey on FHE Compilers · Cybersecurity 2025]({{ '/publications/Cybersecurity2025-2' | relative_url }}): Reviews parameter selection, ciphertext management, and program optimization, providing an entry point to the FHE compilation toolchain.
 
 - [Libra · USENIX Security 2026]({{ '/publications/Security2026' | relative_url }}): Combines a cross-scheme representation with pattern-aware, hardware-aware scheduling to generate efficient GPU code for computations spanning multiple FHE schemes.
 
-### Additional Work Highlighted in the Presentation
+### Team Contributions to the Compiler Ecosystem
 
-The presentation also highlights [ANT-ACE (CGO 2025)](https://dl.acm.org/doi/10.1145/3696443.3708924), a compiler framework for automating neural-network inference, and [ReSBM (ASPLOS 2025)](https://dl.acm.org/doi/10.1145/3669940.3707276), which plans region-based scaling and minimal-level bootstrapping through a min-cut formulation. These works connect program construction with depth and refresh management. **Mingzhe Zhang is not a listed author of either paper; both are research contributions from his team.** The paper titles link to the ACM Digital Library. Project information and software are available on the [ANT-ACE website](https://ant-research.github.io/ace-compiler/).
+[ANT-ACE (CGO 2025)](https://dl.acm.org/doi/10.1145/3696443.3708924), a compiler framework for automating neural-network inference, and [ReSBM (ASPLOS 2025)](https://dl.acm.org/doi/10.1145/3669940.3707276), which plans region-based scaling and minimal-level bootstrapping through a min-cut formulation. These works connect program construction with depth and refresh management. **Mingzhe Zhang is not a listed author of either paper; both are research contributions from his team.** Project information and software are available on the [ANT-ACE website](https://ant-research.github.io/ace-compiler/).
 
 <p class="fhe-back"><a href="#top">Back to the top</a></p>
 
@@ -118,9 +118,11 @@ GPU parallelism alone does not guarantee high FHE performance. Dependencies in t
 
 ### Related GPU Cryptography
 
-- [FORGE · HPCA 2027]({{ '/publications/HPCA2027-3' | relative_url }}): Uses GPU-oriented FAFFT ring arithmetic and end-to-end execution optimization for HQC and BIKE. These are post-quantum key-encapsulation mechanisms, rather than FHE schemes; this work provides related expertise in GPU cryptographic execution. The listed conference year is 2027.
+- [FORGE · HPCA 2027]({{ '/publications/HPCA2027-3' | relative_url }}): Uses GPU-oriented FAFFT ring arithmetic and end-to-end execution optimization for HQC and BIKE. These are post-quantum key-encapsulation mechanisms, rather than FHE schemes; this work provides related expertise in GPU cryptographic execution.
 
-The presentation additionally lists [GIF-FHE (IEEE TPDS 2025)](https://ieeexplore.ieee.org/document/11016794), an implementation and evaluation of GPU-accelerated FHE using integer and floating-point computation. **Mingzhe Zhang is not a listed author of this paper; it is a research contribution from his team.** A dedicated publication page is not currently available on this website.
+### Further Team Contributions
+
+[GIF-FHE (IEEE TPDS 2025)](https://ieeexplore.ieee.org/document/11016794) implements and evaluates GPU-accelerated FHE using both integer and floating-point computing resources. **Mingzhe Zhang is not a listed author of this paper; it is a research contribution from his team.**
 
 <p class="fhe-back"><a href="#top">Back to the top</a></p>
 
@@ -154,9 +156,9 @@ Dedicated hardware offers control over compute units and on-chip dataflow, with 
 - [Chimera · DAC 2026]({{ '/publications/DAC2026' | relative_url }}): Improves TFHE compatibility in a unified accelerator through dual-mode FFT/NTT computation, bootstrapping-key organization, and hardware-oriented KeySwitch support.
 - [LP-HENN · Cybersecurity 2025]({{ '/publications/Cybersecurity2025-1' | relative_url }}): Combines a RISC-V vector coprocessor with ReRAM crossbars for low-power, energy-efficient FHE execution.
 - [Bitwidth-Flexible Modular Multiplier · ISCAS 2026]({{ '/publications/ISCAS2026' | relative_url }}): Uses shift-free accumulation and parallel modular-reduction subcomputations to improve the arithmetic building blocks of NTT.
-- [Karatsuba-Based Barrett Modular Multiplication · IEEE TCAD 2025]({{ '/publications/tcad2025' | relative_url }}): Studies Karatsuba evaluation and interpolation to improve modular-multiplication efficiency. The two similar TCAD titles in the presentation are represented here by the single corresponding paper currently listed on this website, rather than counted separately.
+- [Karatsuba-Based Barrett Modular Multiplication · IEEE TCAD 2025]({{ '/publications/tcad2025' | relative_url }}): Studies Karatsuba evaluation and interpolation to improve modular-multiplication efficiency.
 - [Binary Subscript Representation and Pipelined NTT · IEEE TCAD 2026]({{ '/publications/TCAD2026' | relative_url }}): Studies number representation and pipelined NTT as arithmetic foundations for efficient transform hardware.
-- [Large-Bitwidth Modular Multiplication · ASP-DAC 2027]({{ '/publications/ASP-DAC2027' | relative_url }}): A related cryptographic-arithmetic study of pipelined Karatsuba multiplication. Its scope extends beyond FHE; the listed conference year is 2027.
+- [Large-Bitwidth Modular Multiplication · ASP-DAC 2027]({{ '/publications/ASP-DAC2027' | relative_url }}): A related cryptographic-arithmetic study of pipelined Karatsuba multiplication. Its scope extends beyond FHE.
 - [FHE Chiplet Interconnection Optimization · CASES 2025]({{ '/publications/CASES2025' | relative_url }}): Jointly explores parameter selection, task mapping, and intra-/inter-chiplet network topology under cost and power constraints.
 
 <p class="fhe-back"><a href="#top">Back to the top</a></p>
@@ -177,26 +179,26 @@ Complex applications combine multiple bottlenecks. Encrypted LLMs require effici
 - [WPC · CCS 2025]({{ '/publications/CCS2025' | relative_url }}): Uses periodic slot arrangements to compress encoded weights and reduce weight-plaintext storage for encrypted CNN inference. The compressed objects are encoded plaintext weights, rather than encrypted user inputs.
 - [ROSETTA · CCS 2026]({{ '/publications/CCS2026' | relative_url }}): Targets autoregressive LLM decoding, selecting nonlinear implementations using complementary CKKS and TFHE capabilities to balance accuracy and latency.
 - [LUTHE · MICRO 2026]({{ '/publications/MICRO2026-1' | relative_url }}): When evaluation keys exceed GPU memory, moves key-intensive primitives to a Computational Storage Drive (CSD) and pipelines them with compute-intensive primitives on the GPU.
-- [HELM · HPCA 2027]({{ '/publications/HPCA2027-1' | relative_url }}): Combines on-demand plaintext generation, program-level optimization, and multi-GPU partitioning for homomorphic LLM inference. The paper page reports a 48.8-second time to first token for Llama3-8B with 128 input tokens on eight H20 GPUs, alongside a 96-fold storage reduction. These results apply to the reported model, input length, and hardware configuration. The listed conference year is 2027.
+- [HELM · HPCA 2027]({{ '/publications/HPCA2027-1' | relative_url }}): Combines on-demand plaintext generation, program-level optimization, and multi-GPU partitioning for homomorphic LLM inference. The paper page reports a 48.8-second time to first token for Llama3-8B with 128 input tokens on eight H20 GPUs, alongside a 96-fold storage reduction. These results apply to the reported model, input length, and hardware configuration.
 
 Prefill processes the input sequence, whereas decoding generates output tokens one at a time. Their parallelism, caching needs, and critical paths differ. HELM's system optimizations and ROSETTA's decoding optimizations should therefore be interpreted within their respective experimental settings; their speedups cannot simply be multiplied.
 
 ### Further Application and System Results
 
 - [CipherPrune · ICLR 2025]({{ '/publications/ICLR2025' | relative_url }}): Reduces private Transformer inference work through encrypted token pruning and polynomial-degree reduction, combined with protocol-aware network optimization. This is application/protocol optimization for private inference, rather than a standalone FHE hardware accelerator.
-- [HOLMES · PPoPP 2027]({{ '/publications/PPoPP2027' | relative_url }}): The paper “Accelerating Fully Homomorphic Encryption for Large Language Model Inference on Multi-GPU Systems” partitions complete LLM operations, co-models computation, memory, and communication, and pipelines execution to reduce imbalance. The listed conference year is 2027.
+- [HOLMES · PPoPP 2027]({{ '/publications/PPoPP2027' | relative_url }}): The paper “Accelerating Fully Homomorphic Encryption for Large Language Model Inference on Multi-GPU Systems” partitions complete LLM operations, co-models computation, memory, and communication, and pipelines execution to reduce imbalance.
 - [OmniCifro · IEEE TCAD 2026]({{ '/publications/TCAD2026-2' | relative_url }}): Combines a dedicated Homomorphic Processing Unit with processing-in-memory modules, mapping compute-intensive and memory-bound primitives to different resources.
 - [Flagger · ISCA 2024]({{ '/publications/ISCA2024' | relative_url }}): Cooperatively uses a DPU and computational storage for large-scale cross-silo federated-learning aggregation protected by homomorphic encryption. This is an HE-enabled application system with a distinct workload from FHE LLM inference.
 - [FHE from a Storage I/O Perspective · APPT 2025]({{ '/publications/APPT2025' | relative_url }}): Analyzes how storage traffic can undermine accelerator performance, motivating capacity-aware execution and system-level I/O optimization.
 
 ### Supporting Storage, Interconnect, and Simulation Research
 
-These results, also represented in the presentation's system and tool categories, support the exploration of scalable heterogeneous systems. They are general infrastructure research, rather than direct measurements of FHE acceleration.
+Scalable heterogeneous systems require tools for exploring device organization, interconnect behavior, and synchronization. The following infrastructure research provides methods for evaluating these design choices; its results describe storage and simulation systems rather than FHE application speedups.
 
 - [XHarvest · ISCA 2025]({{ '/publications/ISCA2025-3' | relative_url }}): Explores CXL-driven SSD architecture for high performance and cost efficiency, contributing storage-system design expertise.
 - [LEGOSim · MICRO 2025]({{ '/publications/MICRO2025-2' | relative_url }}): Integrates heterogeneous chiplet simulators with adaptive synchronization and inter-chiplet network modeling for architectural design-space exploration.
 - [Xerxes · FAST 2026]({{ '/publications/FAST2026' | relative_url }}): Models CXL-connected heterogeneous systems and interconnect behavior to explore scalable topologies and device interactions.
-- [FCS · HPCA 2027]({{ '/publications/HPCA2027-2' | relative_url }}): Uses frontier-based commit-time synchronization to improve modular parallel simulation. This supports efficient system evaluation; the listed conference year is 2027.
+- [FCS · HPCA 2027]({{ '/publications/HPCA2027-2' | relative_url }}): Uses frontier-based commit-time synchronization to improve modular parallel simulation. This supports efficient system evaluation.
 
 <p class="fhe-back"><a href="#top">Back to the top</a></p>
 
@@ -207,7 +209,7 @@ Our next steps focus on building complex encrypted applications, improving singl
 We assess progress through practical questions: Can the system accommodate larger models, reduce user waiting time, and run reliably at an affordable cost? Can developers reuse existing cryptographic libraries, compilers, and devices to build applications? Research across the stack ultimately needs to improve these end-to-end outcomes.
 
 <div class="fhe-note" markdown="1">
-This page draws on the November 22, 2026 presentation, “Full-Stack Collaboration and System Enablement: Explorations and Practice in Homomorphic Encryption Acceleration,” and this website's publication pages. The selected results have dedicated pages on this site and do not reproduce the presentation's full bibliography. See the linked papers for experimental parameters, baselines, and scope.
+Performance results depend on the encryption parameters, application, hardware, and comparison baseline. See the linked papers for experimental settings and the scope of each result. Team contributions without Mingzhe Zhang as a listed author are identified explicitly above.
 </div>
 
 <p class="fhe-back"><a href="#top">Back to the top</a></p>
