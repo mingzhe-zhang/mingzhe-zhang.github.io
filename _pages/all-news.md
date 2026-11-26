@@ -5,6 +5,7 @@ author_profile: true
 ---
 ## 2026
 
++ [2026-11-26] <font color="#FF0000">Our paper "Saving More Levels via Refining CtS and Restructuring Sparsely-Packed CKKS Bootstrapping" has been accepted by PKC 2027! It is our first attempt to bring system-level demands and architectural insights into cryptographic algorithm design — taking another step toward making fully homomorphic encryption (FHE) practical.</font>>
 + [2026-11-16] I will serve as the PC Committee member of ISCA 2027.
 + [2026-11-03] Our three paper "HELM: A Scalable Multi-GPU System for Homomorphic LLM Inference", "FCS: Frontier-based Commit-time Synchronization Method for Modular Simulators", and "FORGE: FAFFT-Optimized Ring Arithmetic for GPU Execution of HQC and BIKE" have been accepted by HPCA 2027! Congratulations to all!
 + [2026-10-28] Our paper "Accelerating Fully Homomorphic Encryption for Large Language Model Inference on Multi-GPU Systems" has been accepted by PPoPP 2027! Congratulations to all collaborators!
