@@ -13,7 +13,7 @@ author_profile: true
 
 ## 2027
 
-[C59] <b>Saving More Levels via Refining CtS and Restructuring Sparsely-Packed CKKS Bootstrapping</b><br>
+[C59] <b>[Saving More Levels via Refining CtS and Restructuring Sparsely-Packed CKKS Bootstrapping](../publications/PKC2027)</b><br>
 Pengfei Zeng, Lianglin Yan, Guang Fan, Yuan Zhao, Yi Chen, Liang Kong, Han Wang, <b>Mingzhe Zhang</b>, Mingsheng Wang.
 <i>International Conference on Practice and Theory of Public-Key Cryptography</i>. <b>PKC 2027</b>
 
